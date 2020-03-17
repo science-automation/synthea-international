@@ -1,0 +1,8 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+14,20014,Gaiļezers,,,,,,,,,yes,,56.9652262,24.2410987
+15,20015,Jēkabpils Reģionālā slimnīca,,,,,,65237816,,,yes,,56.496602,25.841563100000002
+21,20021,Liepājas Reģionālā Slimnīca,Slimnīcas iela,,,,,,,,yes,,56.5541824,21.0982055
+23,20023,Ludzas slimnīca,,,,,,,,,yes,,56.543121,27.714591
+24,20024,Ludzas slimnīca,,,,,,,,,yes,,56.5424689,27.713548600000003
+26,20026,Ogres rajona slimnīca,,,,,,,,,yes,,56.8195375,24.6196125
+37,20037,Saulkrastu slimnīca,Ainažu iela,,,,,,,,yes,,57.273906000000004,24.4165137

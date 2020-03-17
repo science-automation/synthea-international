@@ -1,0 +1,34 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Elite,Sangla,,,,,+372 7409930,,,,,58.370081000000006,26.684317999999998
+1,10001,Elva haigla,Supelranna,,,,,,,,,,58.2300372,26.4091948
+2,10002,Hiiumaa Haigla,Rahu,,,,,,,,yes,,58.999592500000006,22.7548126
+3,10003,Ida-Tallinna Keskhaigla,Ravi,,,,,,,,yes,,59.428032200000004,24.755287699999997
+4,10004,Jämejala Psühhiaatriakliinik,,,,,,,,,,,58.38891339999999,25.582894500000002
+5,10005,Järve haigla,Energia,,,,,,,,no,,59.395247999999995,24.714181
+6,10006,Jõgeva Haigla,Piiri,,,,,,,,,,58.747149,26.382623
+7,10007,Kallavere Haigla,Haigla,,,,,,,,,,59.476096999999996,25.019741
+8,10008,Kesklinna Lastepolikliinik,Ravi,,,,,,,,,,59.428858999999996,24.756892999999998
+9,10009,Kiviõli polikliinik,Keskpuiestee,,,,,,,,,,59.355389,26.980722999999998
+10,10010,Kose Haigla,Ravila mnt,,,,,,,,,,59.1857728,25.1856905
+11,10011,LTK nakkuskliinik,Paldiski mnt,,,,,,,,,,59.4302497,24.6950825
+12,10012,Lääne-Tallinna Keskhaigla,,,,,,,,,,,59.432685899999996,24.6912499
+13,10013,Lõuna-Eesti Haigla,,,,,,,,,,,57.808766399999996,26.9978984
+14,10014,Narva Haigla,Haigla,,,,,,,,,,59.3626423,28.19309
+15,10015,Pelgulinna Haigla,,,,,,,,,,,59.436476,24.7113685
+16,10016,Poliklinnik,Nooruse,,,,,,,,,,59.361836,27.411685
+17,10017,Pärnu Haigla,Ristiku,,,,,,,,,,58.3873926,24.544633800000003
+18,10018,Pärnu Haigla Õendus-ja hoolduskeskus,Ravi,,,,,,,,no,,58.37264920000001,24.534033800000003
+19,10019,Põhja-Eesti Regionaalhaigla,,,,,,,,,,,59.3971642,24.6975188
+20,10020,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee,,,,,+372 617 1300,,,yes,,59.399837,24.702112
+21,10021,Põhja-Eesti Regionaalhaigla psühhiaatriakliinik,,,,,,,,,,,59.43289229999999,24.69131
+22,10022,Rakvere Haigla,Lõuna põik,,,,,,,,,,59.336518000000005,26.376666600000004
+23,10023,Rakvere haigla,Lõuna põik,,,,,,,,,,59.335003,26.3760099
+24,10024,Rakvere haigla,Lõuna põik,,,,,,,,,,59.3352603,26.377470000000002
+25,10025,Rakvere haigla,Lõuna põik,,,,,,,,,,59.3354194,26.376403200000002
+26,10026,Rapla Haigla,Alu tee,,,,,,,,yes,,59.0074186,24.7928732
+27,10027,Tallinna Lastehaigla,Tervise,,,,,,,,yes,,59.39865989999999,24.7055012
+28,10028,Tapa Haigla,,,,,,,,,,,59.2696363,25.9630216
+29,10029,Tartu Ülikooli Kliinikum,Ludvig Puusepa,,,,,,,,yes,,58.370266799999996,26.697912
+30,10030,Viljandi haigla,Pärna tee,,,,,,,,,,58.3831279,25.5763861
+31,10031,Viljandi haigla,,,,,,,,,,,58.38154960000001,25.575515300000003
+32,10032,Wismari haigla,Wismari,,,,,,,,no,,59.432196999999995,24.732725

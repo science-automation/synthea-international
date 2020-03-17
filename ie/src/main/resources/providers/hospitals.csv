@@ -1,0 +1,142 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Abbeyleix District Hospital,,,,,,,,,,,52.9125186,-7.3437598
+1,10001,Aut Even Hospital,Freshford Road,,,,,+353 56 777 5275,,,no,,52.67593570000001,-7.2719856
+2,10002,Baggot Street Community Hospital,Baggot Street Upper,,,,,,,,no,,53.3340261,-6.2434451
+3,10003,Ballina District Hospital,,,,,,,,,,,54.1155684,-9.1658476
+4,10004,Ballinamore Community Nursing Unit & Primary Care Centre,,,,,,,,,,,54.050621299999996,-7.8032363
+5,10005,Bandon Community Hospital,,,,,,+353 23 884 1403,,,,,51.7446378,-8.7253211
+6,10006,Bantry General Hospital,,,,,,,,,,,51.6770362,-9.4492159
+7,10007,Barretstown Gang Camp,,,,,,,,,no,,53.1538336,-6.599860499999999
+8,10008,Beaumont Hospital,,,,,,,,,yes,,53.3923659,-6.222199
+9,10009,Birr Community Hospital and Nursing Home,,,,,,,,,,,53.09712710000001,-7.900343799999999
+10,10010,Blackrock Clinic,,,,,,,,,,,53.3049726,-6.1879273
+11,10011,Bloomfield Health Services & Quaker House,Stocking Lane,,,,,+353-1-4950021,,,no,,53.2729512,-6.3062087
+12,10012,Bon Secours Hospital,Glasnevin Hill,,,,,,,,no,,53.3764215,-6.2678802000000005
+13,10013,Bon Secours Hospital,,,,,,,,,,,52.26918,-9.7128287
+14,10014,Bon Secours Hospital,College Road,,,,,+353 21 454 2807,,,,,51.8909605,-8.4984717
+15,10015,Bon Secours Hospital Galway,,,,,,,,,,,53.276746700000004,-9.020157199999998
+16,10016,Cappagh National Orthopaedic Hospital,,,,,,,,,no,,53.392376600000006,-6.324913099999999
+17,10017,Cavan General Hospital,Golf Links Road,,,,,+353-49-4376000,,,yes,,54.000921,-7.3746693
+18,10018,Central Mental Hospital,Dundrum Road,,,,,,,,no,,53.2994618,-6.2438793
+19,10019,Central Remedial Clinic,,,,,,+353-1-8542200,,,no,,53.37013960000001,-6.2016274000000005
+20,10020,Cherry Orchard Hospital,,,,,,,,,,,53.343633700000005,-6.3723067
+21,10021,Clonakilty Community Hospital,,,,,,,,,,,51.6315015,-8.8770657
+22,10022,Clonmethan Health Centre,,,,,,,,,,,53.518519,-6.3169378
+23,10023,Clonskeagh Hospital,Clonskeagh Road,,,,,,,,,,53.316796999999994,-6.2393273
+24,10024,Cloonamahon Learning Disability Services,,,,,,,,,,,54.155937699999996,-8.4880176
+25,10025,Cluain Lir Care Centre,Longford Road,,,,,,,,,,53.5366752,-7.3527681
+26,10026,Connolly Hospital,Navan Road,,,,,+353-1-6465000,,,yes,,53.3867253,-6.368948400000001
+27,10027,Coombe Women & Infants University Hospital,Cork Street,,,,,+353 1 408 5200,,,maternity,,53.335530299999995,-6.289229
+28,10028,Cork University Hospital,Bishopstown Road,,,,,,,,yes,,51.8854888,-8.5075272
+29,10029,Donegal District Hospital,,,,,,,,,,,54.656099899999994,-8.098243700000001
+30,10030,Dublin Dental University Hospital,Lincoln Place,,,,,+353-1-6127391,,,dental only,,53.342005099999994,-6.2522252
+31,10031,Ely Hospital,,,,,,,,,,,52.344851899999995,-6.454755400000001
+32,10032,Ennis Hospital,,,,,,,,,,,52.850607200000006,-8.9846649
+33,10033,Fairview Community Unit (Mater Hospital),,,,,,,,,,,53.368445400000006,-6.2437129
+34,10034,Falcarragh Medical Centre,,,,,,,,,no,,55.136973700000006,-8.1004214
+35,10035,Fermoy Community Hospital,,,,,,,,,,,52.137176600000004,-8.258215700000001
+36,10036,Galway Clinic,,,,,,,,,,,53.283150799999994,-8.974275800000001
+37,10037,Gheel Autism Services,,,,,,,,,,,53.368158799999996,-6.242249500000001
+38,10038,Gorey District Hospital,,,,,,,,,,,52.674159100000004,-6.300593
+39,10039,Hermitage Medical Clinic,,,,,,,,,,,53.359073200000005,-6.4095432
+40,10040,Highfield Healthcare,Swords Road,,,,,,,,,,53.378442500000006,-6.247354799999999
+41,10041,Hospital Grounds New Ross,Hospital Road,,,,,,,,no,,52.38886289999999,-6.9409868
+42,10042,Incorporated Orthopaedic Hospital of Ireland,Blackheath Park,,,,,+353-1-8332521,,,no,,53.3666636,-6.2025272000000005
+43,10043,Irish Wheelchair Association and Respite Centre,,,,,,,,,,,53.3685328,-6.2007395999999995
+44,10044,Kanturk Community Hospital,,,,,,,,,,,52.1753847,-8.916550599999999
+45,10045,Kenmare Public Hospital,,,,,,,,,,,51.8894033,-9.5825884
+46,10046,Kilcreene Hospital,,,,,,,,,no,,52.6514167,-7.2764397
+47,10047,Killarney Community Hospital,,,,,,,,,,,52.0653143,-9.5168748
+48,10048,Kilrock House,Kilrock Road,,,,,,,,no,,53.385785999999996,-6.0602629
+49,10049,Kinsale Community Hospital,,,,,,+353 21 4772 202,,,no,,51.7123349,-8.5276754
+50,10050,Leopardstown Park Hospital,,,,,,,,,no,,53.269656000000005,-6.2032602
+51,10051,Lucena Clinic & St Peter's School,Orwell Road,,,,,+353-1-4923596,,,no,,53.3102029,-6.2735209
+52,10052,Macroom Community Hospital,,,,,,,,,,,51.9074717,-8.9681484
+53,10053,Mallow General Hospital,,,,,,,,,,,52.1512763,-8.661873199999999
+54,10054,Mater Misericordiae University Hospital,North Circular Road,,,,,,,,yes,,53.358484600000004,-6.266900499999999
+55,10055,Mater Private Cork,City Gate,,,,,,,,,,51.8863704,-8.4064969
+56,10056,Mater Private Hospital,Dorset Street Upper,,,,,,,,no,,53.357009700000006,-6.265121499999999
+57,10057,Mater Private Hospital,Eccles Street,,,,,,,,no,,53.3585759,-6.2649245
+58,10058,Mayo University Hospital,John Moore Road,,,,,+353-94-9021733,,,yes,,53.8495789,-9.301894599999999
+59,10059,Mercy University Hospital,,,,,,,,,,,51.8980916,-8.4825851
+60,10060,Merlin Park Hospital,,,,,,,,,,,53.276135100000005,-9.003131
+61,10061,Mid-Western Regional Orthopaedic Hospital,,,,,,,,,,,52.52573710000001,-8.7126936
+62,10062,Midland Regional Hospital Mullingar,Longford Road,,,,,,,,yes,,53.5343723,-7.350852799999999
+63,10063,Midland Regional Hospital Portlaoise,,,,,,,,,,,53.03681949999999,-7.2764169999999995
+64,10064,Midland Regional Hospital Tullamore,,,,,,,,,,,53.284292,-7.491434700000001
+65,10065,Midleton Community Hospital,,,,,,,,,,,51.917882,-8.1737102
+66,10066,Milford Care Centre,,,,,,,,,,,52.669051399999994,-8.5736179
+67,10067,Monaghan General Hospital,High Street,,,,,,,,,,54.249087800000005,-6.9727318
+68,10068,Mount Carmel Community Hospital,Braemor Park,,,,,,,,no,,53.3036823,-6.2668347
+69,10069,Naas General Hospital,,,,,,,,,,,53.213020400000005,-6.662495900000001
+70,10070,National Rehabilitation Hospital,Rochestown Avenue,,,,,,,,,,53.2768721,-6.1528699
+71,10071,Nenagh General Hospital,Thurles Road,,,,,+353 67 31491,,,,,52.857687899999995,-8.188917
+72,10072,Newcastle Hospital,,,,,,,,,,,53.080085100000005,-6.1014167
+73,10073,Our Lady of Lourdes Hospital,,,,,,,,,yes,,53.722798100000006,-6.3527366999999995
+74,10074,Our Lady's Children's Hospital Crumlin,Cooley Road,,,,,,,,yes,,53.3271596,-6.319242299999999
+75,10075,Our Lady's Children's Hospital Crumlin,,,,,,+353 1 409 6100,,,,,53.3246568,-6.3221557
+76,10076,Our Lady’s Hospital,,,,,,,,,,,53.6511184,-6.7000687
+77,10077,Phoenix Care Centre,North Circular Road,,,,,+353-76-6958700,,,no,,53.3578101,-6.2855998
+78,10078,Portiuncula Hospital,,,,,,+353-90-964-8200,,,yes,,53.325815000000006,-8.2353485
+79,10079,Roscommon Hospital,,,,,,,,,,,53.62570110000001,-8.1768621
+80,10080,Rotunda Hospital,Parnell Square West,,,,,+353 1 8171700,,,no,,53.3519933,-6.2629718
+81,10081,Royal Hospital Donnybrook,Bloomfield Avenue,,,,,,,,no,,53.3253155,-6.2465583
+82,10082,Royal Victoria Eye and Ear Hospital,Adelaide Road,,,,,+353-1-6644600,,,"Eye, Ear, Nose, Throat, Head and Neck",,53.33329570000001,-6.2566483
+83,10083,Sacred Heart Hospital,,,,,,,,,,,52.8419589,-6.924663499999999
+84,10084,Saint Brigid's hospital,,,,,,,,,no,,53.329559200000006,-8.2081459
+85,10085,Saint Camillus Hospital,Shelbourne Road,,,,,+353 61 326677,,,,,52.66949350000001,-8.640283
+86,10086,Saint Canice's Psychiatric Hospital,,,,,,,,,no,,52.650133499999995,-7.2322847999999995
+87,10087,Saint Finbarr's Hospital,Douglas Road,,,,,+353 21 496 6555,,,,,51.885108200000005,-8.4612195
+88,10088,Saint Fintan's Hospital,,,,,,,,,,,53.036553000000005,-7.287385799999999
+89,10089,Saint Ita's Community Hospital,,,,,,,,,,,52.454415399999995,-9.0540508
+90,10090,Saint Ita's Psychiatric Hospital,,,,,,,,,,,53.484550600000006,-6.1123216
+91,10091,Saint John of God Hospital,,,,,,,,,,,53.285975,-6.1935955
+92,10092,Saint John's Community Hospital and Community Service,Munster Hill,,,,,,,,,,52.49673489999999,-6.570804400000001
+93,10093,Saint Joseph's Hospital,,,,,,,,,,,53.387591799999996,-6.434107900000001
+94,10094,Saint Loman's Hospital,,,,,,,,,,,53.53012460000001,-7.3242592
+95,10095,Saint Mary's Health Campus,Bakers Road,,,,,,,,no,,51.9038302,-8.496963699999998
+96,10096,Saint Mary's Hospital,Phoenix Park,,,,,,,,no,,53.349534,-6.3341347
+97,10097,Saint Patrick’s University Hospital,Steeven's Lane,,,,,,,,no,,53.344998600000004,-6.2927843
+98,10098,Saint Vincent's Hospital,,,,,,,,,,,52.99822420000001,-6.997635300000001
+99,10099,Saint Vincent's Hospital,,,,,,,,,,,53.367241,-6.2428094000000005
+100,10100,Sarsfield's Court,,,,,,,,,no,,51.9552622,-8.409841199999999
+101,10101,South Infirmary-Victoria University Hospital,Old Blackrock Road,,,,,+353 21 4926100,,,"Ear, Nose and Throat;Sexual Assault Treatment Unit only",,51.893319899999995,-8.4656549
+102,10102,South Tipperary General Hospital,,,,,,,,,,,52.3558965,-7.7111173
+103,10103,St Joseph's Community Hospital,,,,,,,,,yes,,51.6525431,-9.900415400000002
+104,10104,St Joseph's Hospital,,,,,,,,,,,53.3826704,-6.1816762999999995
+105,10105,St Joseph's Hospital,Springfield,,,,,+353-58-20900,,,,,52.0867197,-7.6386083
+106,10106,St Luke's Hospital,,,,,,,,,no,,53.3112764,-6.2694644
+107,10107,St Mary's Hospital,,,,,,,,,,,53.612393299999994,-7.0683505
+108,10108,St Peter's,,,,,,,,,no,,53.6769561,-7.298432400000001
+109,10109,St Vincent's Hospital,Coosan Point Road,,,,,,,,,,53.4274586,-7.9409713
+110,10110,St Vincent's University Hospital,Merrion Road,,,,,+353-1-2214000,,,yes,,53.3181377,-6.2142474000000005
+111,10111,St. Columba's Hospital,,,,,,,,,no,,52.530269200000006,-7.132682099999999
+112,10112,St. Columcille's Hospital,Bray Road,,,,,+353-1-2825800,,,no,,53.2436132,-6.132764900000001
+113,10113,St. Edmundsbury Hospital,,,,,,,,,,,53.36317710000001,-6.4369582
+114,10114,St. Felim's Hospital,,,,,,,,,no,,54.0054098,-7.3600629
+115,10115,St. Finan's Hospital,,,,,,,,,,,52.0677747,-9.5131632
+116,10116,St. Francis Private Hospital,,,,,,+353-44-9385300,,,no,,53.514872,-7.335766400000001
+117,10117,St. James's Hospital,James's Street,,,,,+353-1-4103000,,,yes,,53.3384095,-6.2994208
+118,10118,St. John's Hospital Limerick,New Road,,,,,,,,,,52.6635791,-8.617538
+119,10119,St. Joseph's Hospital,,,,,,,,,no,,52.657516599999994,-8.6111731
+120,10120,St. Loman's Hospital,Lucan Road,,,,,+353-1-6207400,,,no,,53.357228500000005,-6.4065645
+121,10121,St. Luke's General Hospital,Freshford Road,,,,,,,,yes,,52.66638489999999,-7.265063900000001
+122,10122,St. Mary's Hospital,,,,,,,,,no,,53.5359152,-7.3492272
+123,10123,St. Michael's Hospital,Georges Street Lower,,,,,+353 1 280 6901,,,yes,,53.294525199999995,-6.1387525
+124,10124,St. Patrick's Hospital,,,,,,,,,,,52.251086799999996,-7.10345
+125,10125,St. Stephen's Psychiatric Hospital,,,,,,,,,,,51.9526218,-8.4013896
+126,10126,St. Vincent's Private Hospital,,,,,,,,,no,,53.314943299999996,-6.2096944
+127,10127,Summerhill Community Mental Health Centre,,,,,,,,,,,52.3345099,-6.468496099999999
+128,10128,Tallaght University Hospital,Belgard Square North,,,,,+353-1-4142000,,,yes,,53.289259400000006,-6.3761377999999995
+129,10129,Tara Winthrop Clinic,,,,,,,,,,,53.444515599999995,-6.2271122000000005
+130,10130,Temple Street Childrens University Hospital,,,,,,,,,,,53.357180299999996,-6.2605579
+131,10131,The Lee Clinic,,,,,,,,,,,51.8973532,-8.5256904
+132,10132,The Meath Primary Care Centre (Former Meath Hospital),Heytesbury Street,,,,,,,,no,,53.33559720000001,-6.2689203000000004
+133,10133,The National Maternity Hospital,Holles Street,,,,,,,,no,,53.3407047,-6.245651799999999
+134,10134,University Hospital Galway,,,,,,,,,,,53.2785311,-9.0696201
+135,10135,University Hospital Kerry,,,,,,,,,yes,,52.264054200000004,-9.6883661
+136,10136,University Hospital Limerick,,,,,,+353-61-301111,,,,,52.636349200000005,-8.653407199999998
+137,10137,University Hospital Waterford,,,,,,,,,yes,,52.2476166,-7.0836076
+138,10138,"University Maternity Hospital, Limerick",Ennis Road,,,,,+353-61-32745,,,no,,52.6669817,-8.6329502
+139,10139,Wexford General Hospital,,,,,,+353 53 9142233,,,yes,,52.341674,-6.4821267
+140,10140,Youghal Community Hospital,,,,,,,,,,,51.957794899999996,-7.860411599999999

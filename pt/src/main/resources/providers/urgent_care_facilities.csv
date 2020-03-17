@@ -1,0 +1,70 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+3,20003,Casa de Saúde S. Mateus Hospital,,,,,,,,,yes,,40.6568619,-7.905244000000001
+6,20006,Casa de Saúde do Montepio Rainha Dona Leonor,Rua Montepio Rainha Dona Leonor,,,,,,,,yes,,39.4065049,-9.134644999999999
+8,20008,"Centro Hospitalar Barreiro-Montijo, EPE",,,,,,,,,yes,,38.6563814,-9.0593613
+11,20011,"Centro Hospitalar Universitário da Cova da Beira, EPE",,,,,,,,,yes,,40.2657612,-7.493502
+14,20014,"Centro Hospitalar de Setúbal, EPE",,,,,,,,,yes,,38.5285461,-8.8810689
+17,20017,Centro Hospitalar e Universitário do Algarve-Hospital de Faro,,,,,,,,,yes,,37.0257025,-7.9302567999999996
+28,20028,Centro de Atendimento Permanente Cinfães (Hospital),,,,,,,,,yes,,41.074446,-8.0910552
+168,20168,Cruz Vermelha,Rua da Cruz Vermelha,,,,,253 351 444,,,yes,,41.718267299999994,-8.3112948
+171,20171,Cruz Vermelha Portuguesa,Avenida 31 de Janeiro,,,,,+351 253 208870,,,yes,,41.5484885,-8.4152241
+173,20173,Cruz Vermelha Portuguesa - Delegação Marinhas,Avenida São Sebastião,,,,,+351 253 964 720,,,yes,,41.5569857,-8.783055699999998
+175,20175,Cruz Vermelha Portuguesa - Delegação do Gerês,,,,,,,,,yes,,41.7215613,-8.1662765
+180,20180,Entrada Principal Ágora,,,,,,,,,yes,,41.567542700000004,-8.3995399
+181,20181,Espírito Santo,,,,,,,,,yes,,38.57069310000001,-7.9022262
+216,20216,HPP Hospital de Cascais Doutor José de Almeida,Avenida Brigadeiro Victor Novais Gonçalves,,,,,,,,yes,,38.7282727,-9.4175607
+217,20217,Hospitais Senhor do Bonfim,,,,,,,,,yes,,41.3875224,-8.7144325
+220,20220,Hospital Amato Lusitano,,,,,,,,,yes,,39.82341829999999,-7.498641800000001
+222,20222,Hospital Beatriz Ângelo,Avenida Carlos Teixeira,,,,,,,,yes,,38.8206633,-9.1743424
+223,20223,Hospital Bernardino Lopes de Oliveira,,,,,,,,,yes,,39.5502927,-8.9728878
+225,20225,Hospital CUF Viseu,Rua Belo Horizonte,,,,,,,,yes,,40.644153100000004,-7.911925
+227,20227,Hospital Cuf Descobertas,,,,,,,,,yes,,38.7587821,-9.099804800000001
+229,20229,Hospital Distrital da Figueira da Foz,,,,,,,,,yes,,40.131106700000004,-8.8623405
+230,20230,Hospital Distrital de Abrantes,,,,,,,,,yes,,39.455828600000004,-8.199556
+231,20231,Hospital Distrital de Bragança,Avenida Abade de Baçal,,,,,+351 273 310 800,,,yes,,41.804143700000004,-6.768733900000001
+232,20232,Hospital Distrital de Pombal,,,,,,,,,yes,,39.916806,-8.625616
+233,20233,Hospital Distrital de São João da Madeira,,,,,,,,,yes,,40.8939709,-8.4946345
+234,20234,Hospital Distrital do Montijo,Rua Machado Santos,,,,,,,,yes,,38.707928100000004,-8.9705603
+235,20235,Hospital Dom Luís I,,,,,,,,,yes,,41.165724100000006,-7.7929509999999995
+240,20240,Hospital Fernando Fonseca - Amadora/Sintra,,,,,,,,,yes,,38.7428458,-9.2494992
+241,20241,"Hospital Garcia de Orta, EPE",,,,,,,,,yes,,38.6721507,-9.175399699999998
+242,20242,Hospital Geral de Santo António,Largo do Prof. Abel Salazar,,,,,,,,yes,,41.14642620000001,-8.6178884
+243,20243,Hospital Infante Dom Pedro,,,,,,,,,yes,,40.6357527,-8.6547205
+245,20245,Hospital José Joaquim Fernandes,Rua Doutor António Fernando Covas Lima,,,,,,,,yes,,38.0142979,-7.8713918000000005
+253,20253,"Hospital Nossa Senhora da Graça - Tomar (Centro Hospitalar Médio Tejo, EPE)",,,,,,,,,yes,,39.6111434,-8.394525699999999
+258,20258,Hospital Padre Américo,Lugar do Tapadinho Guilhufe,,,,,+351 255 714000,,,yes,,41.1953206,-8.3109755
+259,20259,Hospital Particular de Almada,Rua Manuel Febrero,,,,,,,,yes,,38.6737158,-9.1541646
+262,20262,Hospital Particular do Algarve - Gambelas,,,,,,,,,yes,,37.045202,-7.968818
+263,20263,Hospital Pediátrico de Coimbra,,,,,,,,,yes,,40.2248542,-8.411836599999999
+265,20265,Hospital Privado Braga,Rua da Igreja,,,,,(+351) 253 680 200,,,yes,,41.5248064,-8.414119099999999
+267,20267,Hospital Privado da Boa Nova,Rua da Aldeia Nova,,,,,,,,yes,,41.222283700000006,-8.7097362
+269,20269,Hospital Privado de Alfena,Rua das Passarias,,,,,+351 229 688 700,,,yes,,41.228216700000004,-8.5402289
+271,20271,Hospital Privado de Guimarães,Alameda dos Desportos,,,,,,,,yes,,41.429647100000004,-8.3220063
+277,20277,Hospital Rainha Santa Isabel,,,,,,,,,yes,,39.4677326,-8.537223
+280,20280,Hospital Santa Maria,Avenida Professor Egas Moniz,,,,,,,,yes,,38.7500117,-9.1645625
+282,20282,Hospital São Francisco Xavier,Estrada Forte do Alto Duque,,,,,,,,yes,,38.7066015,-9.2185595
+287,20287,Hospital Valentim Ribeiro,,,,,,253969480,,,yes,,41.5366613,-8.7813168
+288,20288,Hospital Valongo,Rua da Misericórdia,,,,,,,,yes,,41.1872348,-8.4993182
+293,20293,Hospital da Cruz Vermelha Portuguesa,Rua Duarte Galvão,,,,,+351 217 714 000,,,yes,,38.7456459,-9.175655099999998
+294,20294,Hospital da Fundação Nossa Senhora da Guia,,,,,,,,,yes,,39.9241736,-8.3563902
+296,20296,Hospital da Luz Aveiro,Rua do Brasil,,,,,+351 234400700,,,yes,,40.6374547,-8.636829800000001
+302,20302,Hospital da Ordem da Lapa,Largo da Lapa,,,,,+351 225 502 828,,,yes,,41.1573528,-8.6127755
+308,20308,Hospital de Braga,Ambulatório (consultas externas),,,,,+351 253 027000,,,yes,,41.5668621,-8.401133999999999
+313,20313,Hospital de Fafe,,,,,,,,,yes,,41.4500031,-8.1695736
+319,20319,Hospital de Oliveira de Azeméis,,,,,,,,,yes,,40.8414337,-8.4713764
+326,20326,Hospital de Santa Luzia,,,,,,,,,yes,,41.696324700000005,-8.8317159
+328,20328,Hospital de Santa Maria Maior,,,,,,,,,yes,,41.533074400000004,-8.6164029
+329,20329,Hospital de Santo André,,,,,,,,,yes,,39.7431706,-8.792802499999999
+331,20331,Hospital de Santo Espírito da Ilha Terceira,,,,,,,,,yes,,38.6675696,-27.2211206
+333,20333,Hospital de São José,Rua José António Serrano,,,,,,,,yes,,38.7198864,-9.1388146
+334,20334,Hospital de São João,,,,,,,,,yes,,41.179893799999995,-8.6034531
+335,20335,Hospital de São Martinho,,,,,,,,,yes,,41.1820626,-8.4828141
+336,20336,Hospital de São Paulo - Serpa,,,,,,,,,yes,,37.9443159,-7.5958545
+337,20337,Hospital de São Sebastião,Rua Doutor Cândido Pinho,,,,,+351 256 379 700,,,yes,,40.9311264,-8.54839
+338,20338,Hospital de São Teotónio,Avenida Rei Dom Duarte,,,,,,,,yes,,40.6501994,-7.9094341
+340,20340,Hospital de Vila do Conde,Avenida Doutor Artur Cunha Araújo,,,,,,,,yes,,41.354969399999995,-8.7449981
+343,20343,"Hospital do Litoral Alentejano, EPE",,,,,,,,,yes,,38.0419739,-8.7322481
+344,20344,Hospital do Médio Ave,,,,,,,,,yes,,41.341952,-8.479706199999999
+382,20382,Trofa Saúde Hospital Vila Real,Rua Baden-Powell,,,,,+351 259 247000,,,yes,,41.2965716,-7.7362732
+384,20384,USF de Gualtar,,,,,,,,,yes,,41.568531,-8.3869981
+386,20386,Unidade Hospitalar de Chaves (Centro Hospitalar de Trás-os-Montes e Alto Douro),Avenida Doutor Francisco de Sá Carneiro,,,,,+351 276 300 900,,,yes,,41.7430211,-7.4770942

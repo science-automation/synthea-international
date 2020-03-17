@@ -1,0 +1,809 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,"""KUTNOWSKI SZPITAL SAMORZĄDOWY"" SPÓŁKA Z O.O.",,,,,,,,,yes,,52.239295299999995,19.371924
+1,10001,"""Teresa"" Uzdrowiskowy Szpital Kardiologiczny",Plac Zdrojowy,,,,,,,,,,50.728534,16.3453272
+2,10002,10 Wojskowy Szpital Kliniczny z Polikliniką,Powstańców Warszawy,,,,,,,,,,53.1420664,18.011077
+3,10003,105 Szpital Wojskowy,Żelazna,,,,,,,,,,51.6123209,15.3327485
+4,10004,105 Szpital Wojskowy z Przychodnią SPZOZ,Bolesława Domańskiego,,,,,,,,yes,,51.6415875,15.1481984
+5,10005,107 Szpital Wojskowy,,,,,,+48 67 258 24 42; +48 261 47 28 80,,,,,53.2838447,16.4616404
+6,10006,108 Szpital Wojskowy,Tadeusza Kościuszki,,,,,+48876219803,,,yes,,53.8199983,22.363112100000002
+7,10007,109 Szpital Wojskowy z przychodnią,,,,,,,,,,,53.4430984,14.542629999999999
+8,10008,115 Szpital Wojskowy,Boczna,,,,,+48 58 690 42 60,,,,,54.612089299999994,18.7986812
+9,10009,116 Szpital Wojskowy z Przychodnią,,,,,,,,,,,50.66053170000001,17.8966954
+10,10010,21 Wojskowy Szpital Uzdrowisko-Rehabilitacyjny,Generała Feliksa Rzewuskiego,,,,,,,,,,50.4542961,20.7208577
+11,10011,22 Wojskowy Szpital Uzrowiskowo-Rehabilitacyjny,Wojska Polskiego,,,,,,,,no,,52.878570700000004,18.8042155
+12,10012,23. Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny,Jadwigi,,,,,,,,no,,50.3422994,16.8904087
+13,10013,5 Wojskowy Szpital Kliniczny w Krakowie,Wrocławska,,,,,,,,yes,,50.0751372,19.9339294
+14,10014,6 Szpital Wojskowy z Przychodnią,Szpitalna,,,,,261 518 530,,,,,51.5544396,21.856129100000004
+15,10015,7 Szpital Marynarki Wojennej,,,,,,+48 58 552 63 18,,,,,54.391905,18.5650018
+16,10016,Angelius,,,,,,,,,,,50.2166537,18.984034299999998
+17,10017,Apteka,Książęca,,,,,,,,,,50.056987899999996,19.0966361
+18,10018,Arion ZOZ,,,,,,,,,,,50.3605341,22.742756600000003
+19,10019,Arion ZOZ,Doktora Stanisława Pojaska,,,,,,,,yes,,50.5300021,22.7126673
+20,10020,Beskidzkie Centrum Medyczne,Młodzieżowa,,,,,+48 33 82 63 400,,,,,49.7852242,19.0311845
+21,10021,Beskidzkie Centrum Onkologii im. Jana Pawła II,,,,,,+48 33 498 4001,,,,,49.8237033,19.056670699999998
+22,10022,Białostockie Centrum Onkologii im. Marii Skłodowskiej - Curie,,,,,,,,,,,53.135441799999995,23.1677438
+23,10023,Bieszczadzkie Wodne Ochotnicze Pogotowie Ratunkowe,,,,,,,,,yes,,49.382042,22.448331399999997
+24,10024,Brzeskie Centrum Medyczne,Nysańska,,,,,,,,,,50.8523726,17.475681899999998
+25,10025,Budynek Szpitalny,Ogrodowa,,,,,,,,,,53.0078034,17.729908399999996
+26,10026,Bydgoskie Centrum Diabetologii i Endokrynologii,,,,,,,,,,,53.1056571,18.0592279
+27,10027,Były Szpital w Górze,Ludwika Hirszfelda,,,,,,,,,,51.6653014,16.5402075
+28,10028,CDT Medicus - Szpital,Leśna,,,,,,,,,,51.3833304,16.2033617
+29,10029,CenterMed Sp. z o.o.,Feliksa Bocheńskiego,,,,,,,,,,50.2661648,18.9899633
+30,10030,Centralny Szpital Kliniczny MON,Szaserów,,,,,,,,,,52.251816600000005,21.0936436
+31,10031,Centralny Szpital Kliniczny MSWiA,Wołoska,,,,,,,,,,52.199416799999995,20.997354
+32,10032,"Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",Władysława Reymonta,,,,,+48 77 454 54 01,,,,,50.6668027,17.9276177
+33,10033,"Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",,,,,,,,,,,50.6672094,17.928732399999998
+34,10034,Centrum Leczenia Chorób Płuc - oddział dziecięcy,,,,,,,,,,,51.8357575,19.4829462
+35,10035,Centrum Leczenia Oparzeń,,,,,,,,,,,50.3051211,19.0285062
+36,10036,Centrum Medyczne BCM,,,,,,,,,no,,52.3882716,20.1885503
+37,10037,Centrum Medyczne Grupa Zdrowie - Zakład Opiekuńczo Leczniczy dla osób z zaburzeniami psychicznymi,,,,,,+48 22 749 10 70,,,,,52.818898499999996,20.0425421
+38,10038,Centrum Medyczne Karpacz,,,,,,+48 883 358 135,,,,,50.781350399999994,15.740747500000001
+39,10039,Centrum Medyczne Promed,,,,,,,,,,,51.6594022,19.3531108
+40,10040,Centrum Medyczne Szpital św. Rodziny,Stanisława Wigury,,,,,+48 42 2549681,,,,,51.756258700000004,19.4635888
+41,10041,Centrum Medyczne w Łańcucie,,,,,,,,,yes,,50.0672027,22.2329009
+42,10042,Centrum Onkologii,,,,,,,,,,,50.302741499999996,18.6615338
+43,10043,Centrum Onkologii,Wilhelma Konrada Roentgena,,,,,,,,,,52.1472241,21.0354016
+44,10044,Centrum Onkologii,,,,,,,,,,,53.14576089999999,18.1124637
+45,10045,Centrum Onkologii Instytut imienia Marii Skłodowskiej,Garncarska,,,,,,,,,,50.061753499999995,19.927359600000003
+46,10046,Centrum Opieki Medycznej,,,,,,,,,,,50.0136554,22.6933452
+47,10047,Centrum Pediatrii im. Jana Pawła II,,,,,,,,,,,50.27373970000001,19.1968861
+48,10048,Centrum Psychiatrii,,,,,,,,,,,50.2717742,19.0839802
+49,10049,Centrum Pulmonologii i Torakochirurgii w Bystrej,,,,,,,,,,,49.765558500000004,19.0674264
+50,10050,Centrum Pulmonologii i alergologii,Franciszkańska,,,,,,,,,,50.8295664,15.529705300000002
+51,10051,Centrum Rehabilitacji REHAMED-CENTER,Tajęcina,,,,,,,,,,50.1258066,22.0066891
+52,10052,Centrum Terapii Nerwic,Zamkowa,,,,,+48 77 466 84 18; +48 77 466 84 63,,,,,50.4416554,17.7718881
+53,10053,Centrum Zdrowia Dziecka,,,,,,,,,,,52.206945899999994,21.1880582
+54,10054,Centrum Zdrowia Tuchów,Szpitalna,,,,,,,,,,49.8925689,21.0605353
+55,10055,Certus,Grunwaldzka,,,,,+48 61 860 42 00,,,,,52.392763,16.8594452
+56,10056,Chorzowskie Centrum Pediatrii i Onkologii im. dr Edwarda Hankego,Władysława Truchana,,,,,,,,,,50.297283,18.948662300000002
+57,10057,Dolnośląski Szpital Specjalistyczny im. T. Marciniaka,Generała Augusta Emila Fieldorfa,,,,,+48713064419,,,yes,,51.142277500000006,16.905964800000003
+58,10058,Dolnośląskie Centrum Onkologii,,,,,,,,,,,51.094657299999994,17.0162879
+59,10059,Dolnośląskie Centrum Rehabilitacji Sp. z o.o. w Kamiennej Górze,,,,,,,,,,,50.7789146,16.0674418
+60,10060,Dolnośląskie Centrum Zdrowia Psychicznego,,,,,,,,,,,51.129630299999995,17.027807199999998
+61,10061,Dom Pomocy Społecznej,,,,,,,,,,,52.7498767,19.233952399999996
+62,10062,Dom Pomocy Społecznej,,,,,,,,,,,51.7068489,19.4344586
+63,10063,Domowy Szpital,Spółdzielcza,,,,,,,,,,52.0341791,23.1104192
+64,10064,Dziecięcy Szpital Uzdrowiskowy „Mieszko”,Wojska Polskiego,,,,,,,,no,,50.804922,16.254984099999998
+65,10065,Esculap,,,,,,,,,,,49.8073872,18.973164899999997
+66,10066,EuroMediCare,,,,,,,,,no,,51.142189200000004,16.9560493
+67,10067,Euromedic,Tadeusza Kościuszki,,,,,,,,,,50.2452523,19.0119544
+68,10068,Filia Domu Pomocy Społecznej Nr 1,,,,,,,,,,,51.5345777,19.9992428
+69,10069,Filia Wielkopolskiego Centrum Onkologii,Kaszubska,,,,,,,,,,51.7692528,18.1018641
+70,10070,Fundacja Hospicjum dla Dzieci,Lwowska,,,,,17 853 48 18,,,,,50.03771210000001,22.0633016
+71,10071,GAMETA,Rudzka,,,,,+48 42 645 77 77,,,,,51.6737683,19.478558
+72,10072,Galen Ortopedia,Jerzego,,,,,,,,,,50.092554799999995,19.090483600000002
+73,10073,Galena,,,,,,,,,,,49.810325799999994,19.055989899999997
+74,10074,Geo Medical,Wita Stwosza,,,,,,,,,,50.245737299999995,19.013372699999998
+75,10075,Ginekologiczno-Położniczy Szpital Kliniczny,Polna,,,,,+48 61 841 92 24,,,,,52.410090999999994,16.896300699999998
+76,10076,Gliwickie Centrum Medyczne Sp. z o.o.,Tadeusza Kościuszki,,,,,324613201,,,,,50.2944524,18.652980600000003
+77,10077,Gminna Przychodnia SZOZ,Bydgoska,,,,,,,,,,53.1772024,18.2998435
+78,10078,Gminny Ośrodek Zdrowia,Powstańców Śląskich,,,,,,,,,,50.883164799999996,18.6872297
+79,10079,Gminny Zakład Opieki Zdrowotnej,Jana,,,,,,,,,,50.05744979999999,19.0965943
+80,10080,Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II,Medyków,,,,,+48 32 2071800,,,,,50.223850899999995,18.949552
+81,10081,Głogowski Szpital Powiatowy,Tadeusza Kościuszki,,,,,,,,,,51.6548096,16.074964
+82,10082,Hospicjum,Szpitalna,,,,,,,,,,50.355242600000004,20.0355248
+83,10083,Hospicjum Cordis,Oswobodzenia,,,,,,,,,,50.2472868,19.0883464
+84,10084,Hospicjum Elbląskie,,,,,,,,,,,54.1716241,19.4276207
+85,10085,Hospicjum Palium,Osiedle Rusa,,,,,,,,,,52.391360299999995,16.987119500000002
+86,10086,Hospicjum Stacjonarne VITA-SPES,,,,,,,,,,,50.3990414,21.538944100000002
+87,10087,Hospicjum im. Jana Pawła II,Południowa,,,,,,,,no,,52.2271422,18.282373
+88,10088,Hospicjum w Tczewie,,,,,,,,,,,54.090683299999995,18.796901100000003
+89,10089,Hospicjum Świętego Łazarza,,,,,,+48 12 641 4655,,,,,50.08477429999999,20.032356399999998
+90,10090,"I Klinika Psychiatrii, Psychoterapii i Wczesnej Interwencji SPSK 1",Głuska,,,,,,,,,,51.2071833,22.5883899
+91,10091,I Szpital Miejski im. dr. Emanuela Sonnenberga,Pieniny,,,,,+48 42 6793067,,,,,51.782115399999995,19.5245703
+92,10092,I Szpital Wojskowy,Aleje Racławickie,,,,,,,,,,51.250909,22.5338662
+93,10093,II Szpital Miejski im. dr Ludwika Rydygiera,,,,,,,,,,,51.777074400000004,19.467702499999998
+94,10094,III Szpital Miejski im. dr. Karola Jonschera,Milionowa,,,,,+48 42 6761774,,,,,51.7524264,19.4849983
+95,10095,IV Wojskowy Szpital Kliniczny,,,,,,,,,,,51.0753867,17.0237598
+96,10096,Instytut Centrum Zdrowia Matki Polki,,,,,,,,,,,51.7078777,19.481395000000003
+97,10097,Instytut Centrum Zdrowia Matki Polki,,,,,,+48 42 2711000,,,,,51.7075013,19.4766984
+98,10098,Instytut Centrum Zdrowia Matki Polki,Rzgowska,,,,,,,,,,51.706180700000004,19.4797244
+99,10099,Instytut Gruźlicy i Chorób Płuc,,,,,,,,,,,52.2353167,20.967048499999997
+100,10100,Instytut Gruźlicy i Chorób Płuc - Oddział Terenowy im. Jana i Ireny Rudników,,,,,,,,,,,49.60685170000001,19.966932800000002
+101,10101,Instytut Kardiologii,,,,,,,,,,,52.218841999999995,21.175844100000003
+102,10102,Instytut Matki i Dziecka,Marcina Kasprzaka,,,,,+48 22 327 73 05,,,,,52.227345899999996,20.9689427
+103,10103,Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera,Świętej Teresy od Dzieciątka Jezus,,,,,+48 42 631 45 02,,,,,51.801787,19.436214
+104,10104,Instytut Onkologii,Wawelska,,,,,,,,,,52.2159434,20.983346100000002
+105,10105,Instytut Psychiatrii i Neurologii,,,,,,,,,,,52.1721674,21.0654691
+106,10106,Instytut Reumatologii i Kardiologii,,,,,,,,,,,52.1920274,20.995275
+107,10107,Jaworskie Centrum Medyczne,,,,,,,,,,,51.047466899999996,16.198878099999998
+108,10108,Jolly Med,Popielówek 1,,,,,75 789 13 30,,,,,50.9749107,15.5236438
+109,10109,Katedra i Klinika Psychiatrii Pomorskiego Uniwersytetu Medycznego,,,,,,,,,,,53.4544829,14.5323967
+110,10110,Katowickie Centrum Onkologii (dawn. Szpital im. Stanisława Leszczyńskiego),Raciborska,,,,,32 251-52-53,,,,,50.2547333,19.0049573
+111,10111,Katowickie Centrum Onkologii Zespół nr 2,,,,,,,,,no,,50.286568200000005,19.011917899999997
+112,10112,Klinika,,,,,,,,,,,53.726624699999995,17.6275143
+113,10113,Klinika Chorób Zakaźnych Wojewódzkiego Szpitala Zespolonego,Radiowa,,,,,+48 41 363 71 37,,,,,50.8752139,20.6377718
+114,10114,Klinika Dermatologii i Wenerologii Uniwersytetu Medycznego w Łodzi,Plac generała Józefa Hallera,,,,,,,,,,51.7683776,19.4333373
+115,10115,"Klinika Dermatologii, Wenerologii i Dermatologii Dziecięcej",Radziwiłłowska,,,,,,,,,,51.249703499999995,22.558396
+116,10116,Klinika Ort-Medica Centeum Medyczne,Brzozowa,,,,,,,,,,51.6274169,17.8049814
+117,10117,Klinika Pro Bono,,,,,,,,,,,52.3772308,16.8805224
+118,10118,Klinika św. Łukasza,Bystrzańska,,,,,,,,no,,49.7825107,19.0667834
+119,10119,Kolejowy Szpital Uzdrowiskowy,Zdrojowa,,,,,,,,,,52.8772621,18.7895421
+120,10120,Kolejowy Szpital Uzdrowiskowy,Gabriela Narutowicza,,,,,,,,no,,52.880236,18.6898415
+121,10121,Krakowska Poradnia Opieki Paliatywnej,Wielicka,,,,,,,,,,50.010132299999995,20.0059805
+122,10122,Krakowski Szpital Reumatologii i Rehabilitacji,Aleja Marszałka Ferdynanda Focha,,,,,,,,,,50.057505600000006,19.9134477
+123,10123,Krakowskie Centrum Rehabilitacji,,,,,,,,,,,50.063559600000005,19.8658621
+124,10124,Krom-Med,Siewierska,,,,,,,,,,50.489252799999996,19.4908009
+125,10125,Kujawsko-Pomorskie Centrum Pulmonologii w Bydgoszczy,Seminaryjna,,,,,,,,no,,53.1220007,17.9838251
+126,10126,LUX MED,Puławska,,,,,+48 22 4312059,,,,,52.1384034,21.0185935
+127,10127,Latawiec,,,,,,,,,,,50.8328388,16.465514300000002
+128,10128,Leszczyńskie Centrum Medyczne Ventriculus,Słowiańska,,,,,65 520 65 80,,,,,51.842494099999996,16.5691177
+129,10129,Leśny,,,,,,,,,,,51.3074876,16.8922688
+130,10130,Liftmed,Cegielniana,,,,,+48324408899,,,,,50.099934000000005,18.543024499999998
+131,10131,Lotnicze Pogotowie Ratunkowe,,,,,,,,,,,49.5750066,22.2034415
+132,10132,Lotnicze Pogotowie Ratunkowe Ostrów Wielkopolski,Michałków,,,,,,,,,,51.701996799999996,17.839825199999996
+133,10133,Lux Med,Władysława Szernera,,,,,,,,,,52.280722499999996,21.0117169
+134,10134,Lądowisko Żyrardów,Jana Skrowaczewskiego,,,,,,,,landing_site,,52.0693953,20.4297681
+135,10135,Mazowiecki Oddział Wojewódzki NFZ - Delegatura w Radomiu,,,,,,,,,,,51.4321972,21.1640157
+136,10136,Mazowiecki Szpital Bródnowski,Ludwika Kondratowicza,,,,,22 326 55 00,,,yes,,52.2914836,21.046985100000004
+137,10137,Mazowiecki Szpital Onkologiczny,Kościelna,,,,,,,,,,52.4400895,20.9623141
+138,10138,Mazowiecki Szpital Specjalistyczny,Juliana Aleksandrowicza,,,,,,,,,,51.4393477,21.1576187
+139,10139,Mazowiecki Szpital Wojewódzki Drewnica,,,,,,,,,,,52.297273,21.1144242
+140,10140,Mazowiecki Szpital Wojewódzki w Siedlcach,,,,,,,,,,,52.1746086,22.291748100000003
+141,10141,Mazowieckie Centrum Epileptologii i Nefrologii Dziecięcej,Barska,,,,,,,,no,,52.219458,20.977722699999998
+142,10142,Mazowieckie Centrum Leczenia Chorób Płuc i Gruźlicy,Reymonta,,,,,,,,,,52.1100528,21.298413399999998
+143,10143,Mazowieckie Centrum Neuropsychiatrii,3 Maja,,,,,,,,no,,52.1280695,21.237661199999998
+144,10144,Mazowieckie Centrum Neuropsychiatrii i Rehabilitacji Dzieci i Młodzieży w Zagórzu - Oddział w Garwolinie,,,,,,,,,,,51.8863869,21.624722600000002
+145,10145,Mazowieckie Centrum Rehabilitacji STOCER,,,,,,22 711 90 00,,,,,52.0796994,21.1136106
+146,10146,Małpolskie Centrum Rehabilitacji Dzieci w Radziszowie,Podlesie,,,,,+12 275 17 51 w.160,,,,,49.9079739,19.8344921
+147,10147,MedPolonia,Obornicka,,,,,+48 61 66 43 313; +48 514 971 722,,,,,52.448231400000004,16.907744100000002
+148,10148,Medeor Plus,,,,,,,,,,,51.7879771,19.447107100000004
+149,10149,Miejski Samodzielny Publiczny Zakład Opieki Zdrowotnej Nr 1,Ignacego Prądzyńskiego,,,,,,,,,,52.3428662,21.238553500000002
+150,10150,Miejski Szpital Zespolony,,,,,,,,,,,50.813681,19.132930399999996
+151,10151,Miejski Szpital Zespolony im. dr Władysława Biegańskiego,Adama Mickiewicza,,,,,,,,,,50.801660399999996,19.1142928
+152,10152,Miejski Szpital w Pionkach,Niepodległości,,,,,,,,yes,,51.475322,21.4447717
+153,10153,Milickie Centrum Medyczne,,,,,,,,,ambulance_station,,51.5167157,17.2587172
+154,10154,Międzyleski Szpital Specjalistyczny,Bursztynowa,,,,,022 815-67-39,,,,,52.2028399,21.1826029
+155,10155,Międzynarodowe Centrum Słuchu,,,,,,,,,,,52.098357299999996,20.8205484
+156,10156,NOVOMED,,,,,,,,,,,50.8465754,19.9849326
+157,10157,"NZOZ ""Zdrowie""",Klonowa,,,,,,,,,,52.75474129999999,18.104732100000003
+158,10158,NZOZ Analco,Aleja Armii Krajowej,,,,,,,,,,51.2178079,22.7150565
+159,10159,NZOZ KORMED Sp. z o.o.,,,,,,,,,,,51.0595445,16.183387
+160,10160,NZOZ Konwaliowa,Jana Kowalczyka,,,,,+48 22 3532266,,,,,52.304235999999996,20.9897828
+161,10161,NZOZ Medyk Ośrodek Zdrowia,Lipowa,,,,,,,,,,50.01627379999999,19.1015099
+162,10162,NZOZ Moja Poradnia - przychodnia,Cicha,,,,,,,,no,,50.392421399999996,18.954586199999998
+163,10163,NZOZ Salus Ośrodek Zdrowia,Grunwaldzka,,,,,,,,,,53.262725100000004,20.897831600000004
+164,10164,NZOZ Szpital Miejski w Rudzie Śląskiej,Wincentego Lipa,,,,,,,,,,50.315287700000006,18.887528600000003
+165,10165,NZOZ Szpital Powiatowy,Piastowska,,,,,,,,,,50.6838,16.6095285
+166,10166,NZOZ Szpital na Siemiradzkiego im. R. Czerwiakowskiego,,,,,,,,,,,50.069745000000005,19.9324386
+167,10167,NZOZ Szpital na Siemiradzkiego — Ośrodek Medycyny Matczyno-Płodowej,Kremerowska,,,,,,,,,,50.0679679,19.929607
+168,10168,Namysłowskie Centrum Zdrowia SA,,,,,,+48 77 40 40 200,,,,,51.0840607,17.7106492
+169,10169,Nasza Przychodnia s.c. NZOZ. Przychodnia,Torowa,,,,,,,,,,53.3017772,23.2879297
+170,10170,Neurologia - Oddział 20,,,,,,,,,,,52.1442628,15.403020800000002
+171,10171,Niepubliczny Ośrodek Zdrowia,,,,,,,,,,,50.4243261,23.5871534
+172,10172,Niepubliczny Zakład Opieki Zdrowotnej,,,,,,,,,,,49.9142527,22.132342
+173,10173,Niepubliczny Zakład Opieki Zdrowotnej,Adama Mickiewicza,,,,,,,,,,49.7184505,18.8147904
+174,10174,"Niepubliczny Zakład Opieki Zdrowotnej ""BHMed"" sp. z o. o.",,,,,,,,,,,50.829925,16.5108825
+175,10175,"Niepubliczny Zakład Opieki Zdrowotnej ""Nowy Szpital""",,,,,,,,,,,52.6084622,14.6419166
+176,10176,"Niepubliczny Zakład Opieki Zdrowotnej ""ZDROWIE""",Stanisława Staszica,,,,,,,,,,51.2277701,20.86543
+177,10177,Niepubliczny Zakład Opieki Zdrowotnej - Szpital Specjalistyczny im. Prof. E. Michałowskiego,Strzelecka,,,,,32 602-70-00,,,,,50.2530152,19.005832
+178,10178,Niepubliczny Zakład Opieki Zdrowotnej CARE,Stanisława Dubois,,,,,,,,,,51.857963700000006,19.421224600000002
+179,10179,Niepubliczny Zakład Opieki Zdrowotnej Mak-Med sp. z o.o.,Biegańskiego,,,,,,,,,,52.692323800000004,22.0491605
+180,10180,Niepubliczny Zakład Opieki Zdrowotnej PANACEUM,Solidarności,,,,,,,,,,50.2406591,18.833447500000002
+181,10181,Niepubliczny Zakład Opieki Zdrowotnej WIELMED w Łagowie,Słupska,,,,,,,,,,50.777234899999996,21.0860829
+182,10182,Nowa siedziba Szpitala Uniwersyteckiego,Macieja Jakubowskiego,,,,,,,,,,50.0089588,19.9952407
+183,10183,Nowodworskie Centrum Medyczne,,,,,,,,,,,52.4186148,20.7252072
+184,10184,Nowy Szpital,,,,,,,,,,,53.4135904,18.4652544
+185,10185,Nowy Szpital,,,,,,,,,,,51.566694899999995,15.551983300000002
+186,10186,Nowy Szpital Olkusz,1000-lecia,,,,,,,,,,50.2695531,19.5674073
+187,10187,ODDZIAŁ MEDYCYNY PALIATYWNEJ SZPITALA OGÓLNEGO im. dr Edmunda Wojtyły w Bielsku-Białej,Emilii Plater,,,,,,,,no,,49.8205913,19.0239195
+188,10188,Oddział Dzienny Psychiatryczny Ogólny Świętokrzyskiego Centrum Psychiatrii,Janusza Kusocińskiego,,,,,+48 41 366 97 71,,,,,50.8540784,20.5983963
+189,10189,"Oddział Pulmonologii, Diagnostyki i Leczenia Raka Płuca",Wieniecka,,,,,,,,,,52.6592899,19.0320254
+190,10190,Oddział Ratunkowy,Korczyńska,,,,,+48134364110,,,yes,,49.7012565,21.783438699999998
+191,10191,Oddział Rehabilitacji Neurologicznej Szpitala MSWiA,Juliana Ursyna Niemcewicza,,,,,,,,,,52.245290999999995,21.2300705
+192,10192,Oddział Wewnętrzny,Mossego,,,,,,,,,,52.2281867,16.368498000000002
+193,10193,Oddział Zakaźny,,,,,,,,,,,53.6932488,19.9755567
+194,10194,Oddział neurologiczny,Marka Sobieskiego,,,,,,,,yes,,50.98296679999999,23.164620199999998
+195,10195,Oddziały dziecięce Wojewódzkiego Zespołu Reumatologicznego,,,,,,,,,,,54.4473946,18.5407802
+196,10196,Okręgowy Szpital Kolejowy,Panewnicka,,,,,+48 32 6053500,,,,,50.227037599999996,18.9592083
+197,10197,Okulistyka s.c.,Stanisława Wyspiańskiego,,,,,,,,no,,50.4415484,23.4138327
+198,10198,Opolskie Centrum Onkologii,,,,,,,,,,,50.6723787,17.9369398
+199,10199,"Osrodek zdrowia, przychodnia lekarska",Plac Ratuszowy,,,,,,,,no,,50.150201700000004,18.839702399999997
+200,10200,Ośrodek Diagnostyczno-Leczniczy,,,,,,,,,,,51.1350706,23.482839399999996
+201,10201,Ośrodek Kardiologii Inwazyjnej IKARDIA,,,,,,,,,,,51.2845881,22.2077706
+202,10202,Ośrodek Leczenia Specjalistycznego,Nowowiejska,,,,,,,,,,52.219931700000004,21.0082314
+203,10203,Ośrodek Pediatryczny im. dr J. Korczaka - Wojewódzki Szpital Specjalistyczny im. M.Kopernika w Łodzi,,,,,,,,,,,51.7582325,19.484119500000002
+204,10204,Ośrodek Pediatryczny im. dr. Janusza Korczaka,Aleja Marszałka Józefa Piłsudskiego,,,,,,,,yes,,51.761194200000006,19.4840198
+205,10205,Ośrodek Psychiatryczny,Dolna,,,,,,,,,,52.2004304,21.0257103
+206,10206,Ośrodek Rehabilitacji im. Prof. Dr Wiktora Degi,Stanisława Konarskiego,,,,,,,,no,,51.1463865,15.0067908
+207,10207,Ośrodek Rehabilitacyjno-Reumatologiczny,,,,,,,,,,,49.937225899999994,18.9792152
+208,10208,Ośrodek Zdrowia,Mossego,,,,,,,,,,52.2279694,16.369657500000002
+209,10209,Ośrodek Zdrowia,,,,,,,,,no,,49.9963735,21.8741571
+210,10210,Ośrodek Zdrowia,Ludowa,,,,,,,,no,,49.3970575,20.9543762
+211,10211,Ośrodek Zdrowia,Augustowska,,,,,,,,,,53.6846098,23.0957768
+212,10212,Ośrodek Zdrowia,,,,,,,,,,,52.7614387,21.5903152
+213,10213,Ośrodek Zdrowia,Główna,,,,,,,,,,49.9690734,20.946911399999998
+214,10214,Ośrodek Zdrowia,,,,,,,,,,,49.970507899999994,20.990695300000002
+215,10215,Ośrodek Zdrowia,Garwolińska,,,,,+48 25 685 90 29,,,,,51.948938500000004,21.7687628
+216,10216,Ośrodek Zdrowia,Józefa Piłsudskiego,,,,,,,,no,,50.6628807,21.839854000000003
+217,10217,Ośrodek Zdrowia,,,,,,,,,no,,50.15953820000001,22.239242
+218,10218,Ośrodek Zdrowia,Radzyńska,,,,,,,,,,53.5174671,19.0812354
+219,10219,"Ośrodek Zdrowia ""Domestica""",Szkolna,,,,,,,,,,51.2590559,18.3236492
+220,10220,Ośrodek Zdrowia w Bukowej,,,,,,,,,,,50.8637729,20.202921
+221,10221,Ośrodek Zdrowia w Krzyżanowicach,Wyzwolenia,,,,,+4832 419 40 22,,,,,49.9821412,18.2692767
+222,10222,Ośrodek Zdrowia w Przysietnicy,,,,,,,,,,,49.719116899999996,22.046601199999998
+223,10223,Ośrodek Zdrowia w Rutce-Tartak,Leśna,,,,,,,,,,54.32149129999999,22.970995499999997
+224,10224,Ośrodek Zdrowia w Tuczępach,,,,,,,,,,,50.5162447,20.9922258
+225,10225,Ośrodek zdrowia,,,,,,,,,,,50.0138249,22.229991199999997
+226,10226,Ośrodek zdrowia,,,,,,,,,no,,49.5624136,20.6314663
+227,10227,Pabian-Med,Jana Kilińskiego,,,,,,,,no,,51.6603221,19.3548004
+228,10228,Pabianickie Centrum Psychiatryczne,Wiejska,,,,,,,,,,51.6503986,19.3302534
+229,10229,Pałuckie Centrum Zdrowia SZPITAL,Szpitalna,,,,,,,,yes,,52.8471996,17.7179887
+230,10230,Piekarskie Centrum Medyczne,Szpitalna,,,,,,,,yes,,50.3745234,18.952416600000003
+231,10231,Pleszewskie Centrum Medyczne,,,,,,+48627420900,,,yes,,51.8986911,17.764351899999998
+232,10232,Podhalański Szpital Specjalistyczny im. Jana Pawła II w Nowym Targu,,,,,,,,,,,49.4875435,20.030616100000003
+233,10233,Pogotowie,,,,,,,,,,,52.6201304,21.0213049
+234,10234,Pogotowie Ratunkowe,,,,,,,,,,,50.0343853,21.9970674
+235,10235,Pogotowie Ratunkowe,,,,,,,,,,,51.3404151,16.6405346
+236,10236,Pogotowie Ratunkowe w Łomży,Wąska,,,,,,,,,,53.173083,22.081521
+237,10237,Pogotowie Ratunkowe w Łomży,Szosa Zambrowska,,,,,,,,,,53.173261200000006,22.0814395
+238,10238,Pogotowie ratunkowe,,,,,,,,,,,49.9712971,18.935651
+239,10239,"Poliklinika MSW, Zespół Lecznictwa Psychiatrycznego",,,,,,,,,,,53.79560229999999,20.4831587
+240,10240,Poliklinika MSWiA,,,,,,+48 81 5285595,,,,,51.249728600000005,22.5548295
+241,10241,Polmedic - Centrum Medyczne,,,,,,,,,,,51.38128029999999,21.1621522
+242,10242,Pomorskie Centrum Chorób Zakaźnych i Gruźlicy,,,,,,,,,,,54.36291070000001,18.615339199999998
+243,10243,Pomorskie Centrum Rehabilitacji - Szpital w Dzierżążnie,Szpitalna,,,,,,,,no,,54.3297463,18.2610104
+244,10244,"Poradnia ""Salus""",Tadeusza Kościuszki,,,,,,,,,,51.0477615,16.1959494
+245,10245,Poradnia rehabilitacyjna,,,,,,,,,,,51.5287901,20.0230104
+246,10246,Powiatowe Centrum Matki i Dziecka,Franklina Roosevelta,,,,,,,,,,51.4008518,19.690939899999996
+247,10247,Powiatowe Centrum Zdrowia,Aleja Armii Krajowej,,,,,,,,yes,,54.031570900000006,19.0222245
+248,10248,Powiatowe Centrum Zdrowia,Gustawa Morcinka,,,,,,,,,,51.111921,15.5863659
+249,10249,Powiatowe Centrum Zdrowia S.A.,,,,,,,,,,,50.9664533,18.2163277
+250,10250,Powiatowy Szpital Pomocy Maltańskiej,Niepodległości,,,,,,,,,,53.8293093,20.6952972
+251,10251,Powiatowy Szpital w Aleksnadrowie Kujawskim,Juliusza Słowackiego,,,,,,,,yes,,52.874213100000006,18.6968919
+252,10252,Powiatowy Szpital w Iławie,,,,,,,,,,,53.5852161,19.5646436
+253,10253,Powiatowy Zespół Opieki Zdrowotnej w Ostródzie S.A.,,,,,,,,,yes,,53.6931711,19.9744278
+254,10254,Powiatowy Zespół Szpitali im. Józefa Dietla,,,,,,,,,,,51.2091144,17.3901236
+255,10255,Powiatowy Zespół Zakładów Opieki Zdrowotnej,,,,,,,,,,,50.324926,19.1313763
+256,10256,Powiatowy Zespół Zakładów Opieki Zdrowotnej w Będzinie - Szpital w Czeladzi,Szpitalna,,,,,,,,,,50.3269768,19.0760773
+257,10257,Prosektorium,,,,,,,,,,,50.3538186,20.0366755
+258,10258,Prywatna Klinika ADO MED 2,Stefana Batorego,,,,,+48 32 247-00-29,,,,,50.2735559,18.9393923
+259,10259,Prywatna Klinika Chirurgii i Medycyny Estetycznej,,,,,,,,,,,51.1355439,23.4691694
+260,10260,Prywatny Szpital Położniczo Ginekologiczny,Łubinowa,,,,,+48 32 2025521,,,,,50.205850500000004,18.989826899999997
+261,10261,Przychodnia,,,,,,,,,,,53.3830561,19.9264158
+262,10262,Przychodnia,Kardynała Stefana Wyszyńskiego,,,,,,,,,,53.9473922,17.704153899999998
+263,10263,Przychodnia,Tadeusza Kościuszki,,,,,,,,,,53.696774,19.963531600000003
+264,10264,"Przychodnia ""Centrum""",Koźmińska,,,,,,,,no,,51.7106244,18.619400600000002
+265,10265,"Przychodnia ""Medyk""",Popioły,,,,,,,,no,,51.7045636,18.6211807
+266,10266,Przychodnia Lekarska,Gimnazjalna,,,,,,,,,,51.5783718,17.659726100000004
+267,10267,Przychodnia NFZ,,,,,,,,,,,52.6335118,21.852631
+268,10268,Przychodnia NZOZ PRIMUS,Szkolna,,,,,,,,,,50.499235999999996,19.1944151
+269,10269,Przychodnia Pod Klasztorem,Plac Mariacki,,,,,,,,no,,50.26976079999999,22.4064781
+270,10270,Przychodnia Przyszpitalna,Prezydenta Stefana Artwińskiego,,,,,,,,,,50.8711846,20.603243799999998
+271,10271,Przychodnia Rejonowa,,,,,,,,,,,53.4865369,22.7344213
+272,10272,Przychodnia Rejonowa,Mieczysława Niedziałkowskiego,,,,,,,,yes,,50.4900575,19.428456100000002
+273,10273,Przychodnia Rejonowa Nr 1,Ludwika Waryńskiego,,,,,,,,,,54.09964179999999,22.938013
+274,10274,Przychodnia Rejonowa nr 1,Konstantego Ildefonsa Gałczyńskiego,,,,,,,,yes,,50.4934977,19.438080499999998
+275,10275,Przychodnia Rejonowa nr 4 ZLA,Borowa,,,,,326714131,,,yes,,50.510475799999995,19.4030924
+276,10276,Przychodnia Rejonowa nr 7,,,,,,,,,,,50.8527842,20.6184991
+277,10277,Przychodnia Rejonowo-Specjalistyczna nr 5,Marszałka Józefa Piłsudskiego,,,,,,,,,,50.4911993,19.4476747
+278,10278,Przychodnia Zdrowia,Szkolna,,,,,,,,,,50.6977531,22.9812793
+279,10279,Przychodnia lekarska,,,,,,,,,,,50.5629244,18.8819378
+280,10280,Przychodnia rejonowa,Stanisława Staszica,,,,,48 617 12 95,,,yes,,51.2271051,20.868591000000002
+281,10281,Przychodnia specjalistyczna,Powstańców Śląskich,,,,,326723445,,,yes,,50.4851136,19.424907
+282,10282,Przychodnia w Jeziorsku,,,,,,,,,no,,51.7941248,18.647756899999997
+283,10283,Pszczyńskie Centrum Okulistyczne,,,,,,,,,no,,49.9696987,18.944094800000002
+284,10284,Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego,,,,,,,,,,,51.4008774,21.1448902
+285,10285,Radomski Szpital Specjalistyczny im. dr. Tytusa Chałubińskiego,,,,,,+48 48 361 51 00,,,,,51.3980734,21.1481098
+286,10286,Radomskie Centrum Onkologii im. Bohaterów Radomskiego Czerwca '76,,,,,,,,,,,51.4128033,21.112230899999997
+287,10287,Regionalne Centrum Krwiodawstwa i Krwiolecznictwa,Franciszkańska,,,,,,,,,,51.782388299999994,19.4611172
+288,10288,Regionalne Centrum Onkologii - Zakład Teleradioterapii,Łęgska,,,,,,,,,,52.6578606,19.0747086
+289,10289,Regionalne Centrum Zdrowia,,,,,,,,,,,51.402188,16.1965219
+290,10290,Regionalny Szpital w Kołobrzegu,Podporucznika Edmunda Łopuskiego,,,,,+48 943530200,,,yes,,54.1738361,15.5660185
+291,10291,Regionalny szpital specjalistyczny im. doktora Władysława Biegańskiego,Doktora Ludwika Rydygiera,,,,,,,,,,53.4538157,18.7838686
+292,10292,SOR,,,,,,,,,,,52.046530100000005,23.1106975
+293,10293,SP SP ZOZ Oddział Psychiatryczny,,,,,,,,,,,54.472972399999996,17.0252592
+294,10294,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska,,,,,+48 14 615 3 400,,,yes,,49.9668561,20.4215027
+295,10295,"SP ZOZ ""Szpital Powiatowy"" w Bochni im Bł. Marty Wieckiej",Krakowska,,,,,+48 14 615 3 400,,,yes,,49.9668561,20.4215027
+296,10296,SP ZOZ Miejski Szpital Zespolony im. dr Tytusa Chałubińskiego,Królowej Bony,,,,,,,,,,50.8078149,19.095030800000004
+297,10297,SP ZOZ Szpital im. Andrzeja Wolańczyka,Hoża,,,,,,,,,,51.1164812,15.9104055
+298,10298,SP ZOZ Wojewódzka Stacja Pogotowia Ratunkowego w Łapach,Cmentarna,,,,,85 715 23 69,,,ambulance_station,,52.9864466,22.8874341
+299,10299,SP ZOZ w Wolsztynie,,,,,,,,,,,52.1173855,16.1179053
+300,10300,SPZOZ Państwowy Szpital dla Nerwowo i Psychicznie Chorych,,,,,,,,,,,50.1047425,18.5469764
+301,10301,SPZOZ Szpital Specjalistyczny,,,,,,,,,yes,,51.420449,21.9724068
+302,10302,SPZOZ Szpital im. dr. Z. Patryna,,,,,,+48 43 84-06-700,,,,,51.214275799999996,18.5649571
+303,10303,"SPZOZ w Kępnie, Oddział Leczniczo-Rehabilitacyjny",,,,,,,,,,,51.245429200000004,17.9716837
+304,10304,SPZZOZ Wyszków,Komisji Edukacji Narodowej,,,,,,,,,,52.5858871,21.4421565
+305,10305,SZPITAL SPECJALISTA Sp. z o.o.,29 Listopada,,,,,,,,,,52.2349356,19.3503165
+306,10306,SZPZOZ im. Dzieci Warszawy,,,,,,,,,,,52.339183500000004,20.8466111
+307,10307,Samodzielne Publiczne Sanatorium Rehabilitacyjne im. Janusza Korczaka,Sanatoryjna,,,,,,,,,,50.5496739,23.198207500000002
+308,10308,Samodzielnego Publicznego Zakładu Opieki Zdrowotnej Nr 1 w Bełżycach,Lubelska,,,,,,,,,,51.177107799999995,22.2930923
+309,10309,Samodzielny Gminny Ośrodek Zdrowia,Nadstawie,,,,,,,,,,50.4521589,21.0603546
+310,10310,Samodzielny Ośrodek Rehabilitacyjno-Oświatowy dla Dzieci Niepełnosprawnych,,,,,,,,,,,50.2839681,18.9709738
+311,10311,Samodzielny Publiczny Centralny Szpital Kliniczny,Stefana Banacha,,,,,,,,,,52.2102165,20.9833578
+312,10312,Samodzielny Publiczny Centralny Szpital Kliniczny im. prof. Kornela Gibińskiego,Medyków,,,,,+ 48 32 7894000,,,,,50.223880799999996,18.952676
+313,10313,Samodzielny Publiczny Gminny Ośrodek Zdrowia,Szkolna,,,,,,,,,,54.248694400000005,23.186328699999997
+314,10314,Samodzielny Publiczny Kliniczny Szpital Okulistyczny,Józefa Sierakowskiego,,,,,22 511 62 00,,,,,52.251282399999994,21.029882999999998
+315,10315,Samodzielny Publiczny Psychiatryczny Zakład Opiekuńczo-Leczniczy w Celejowie,,,,,,+48 81 881 02 11,,,,,51.3299041,22.069515600000003
+316,10316,Samodzielny Publiczny Specjalistyczny  Zakład Opieki Zdrowotnej “ZDROJE”,,,,,,,,,,,53.428245600000004,14.5485841
+317,10317,Samodzielny Publiczny Specjalistyczny Szpital Zachodni imienia Jana Pawła II,Daleka,,,,,,,,,,52.094231799999996,20.6171621
+318,10318,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Białobrzegach,Spacerowa,,,,,,,,,,51.6467501,20.9629098
+319,10319,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Lęborku,Juliana Węgrzynowicza,,,,,+48 59 863 52 83,,,yes,,54.5387619,17.7531523
+320,10320,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej “Zdroje”,Mączna,,,,,,,,,,53.36994839999999,14.6446647
+321,10321,Samodzielny Publiczny Szpital Kliniczny Nr 1,,,,,,,,,,,51.1096818,17.065964800000003
+322,10322,Samodzielny Publiczny Szpital Kliniczny Nr 4 w Lublinie,,,,,,,,,,,51.2573959,22.563044199999997
+323,10323,Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu Medycznego,Francuska,,,,,+48 32 259-12-00,,,,,50.2534912,19.0300849
+324,10324,Samodzielny Publiczny Szpital Kliniczny im. Prof. Adama Grucy,Konarskiego,,,,,,,,no,,52.1231919,21.2789552
+325,10325,Samodzielny Publiczny Szpital Kliniczny nr 1 Pomorskiego Uniwersytetu Medycznego,,,,,,+48 91 425-3000,,,,,53.4470522,14.5038663
+326,10326,Samodzielny Publiczny Szpital Kliniczny nr 1 Pomorskiego Uniwersytetu Medycznego w Szczecinie,,,,,,+48 91 425 38 00,,,,,53.546491599999996,14.5605168
+327,10327,Samodzielny Publiczny Szpital Kliniczny nr 1 imienia Prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach,,,,,,,,,,,50.3022595,18.783318100000002
+328,10328,Samodzielny Publiczny Szpital Kliniczny nr 2 Pomorskiego Uniwersytetu Medycznego,,,,,,,,,,,53.40931260000001,14.532680800000001
+329,10329,Samodzielny Publiczny Szpital Kliniczny nr 2 Śląskiego Uniwersytetu Medycznego,Marii Curie-Skłodowskiej,,,,,,,,,,50.3142347,18.7799887
+330,10330,Samodzielny Publiczny Szpital Kliniczny nr 3 Śląskiego Uniwersytetu Medycznego,Księdza Karola Koziołka,,,,,,,,,,50.32174929999999,18.808505899999997
+331,10331,Samodzielny Publiczny Szpital Rejonowy,Wojska Polskiego,,,,,,,,,,53.6728563,15.110486100000001
+332,10332,Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II,Aleje Jana Pawła II,,,,,,,,,,50.7121299,23.2872282
+333,10333,Samodzielny Publiczny Szpital dla Nerwowo i Psychicznie Chorych,,,,,,,,,,,52.4512583,15.616741099999999
+334,10334,Samodzielny Publiczny Szpital w Sulęcinie,Wincentego Witosa,,,,,,,,,,52.43709789999999,15.116881
+335,10335,Samodzielny Publiczny Wojewódzki Szpital Zespolony - Zdunowo,,,,,,,,,yes,,53.3770738,14.7707011
+336,10336,Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie,Arkońska,,,,,+48 91 813 90 00; +48 91 813 90 10; +48 91 813 90 21,,,,,53.45256189999999,14.5250212
+337,10337,Samodzielny Publiczny Zakład Opieki Zdrowotnej,,,,,,,,,,,51.4394615,20.9970847
+338,10338,"Samodzielny Publiczny Zakład Opieki Zdrowotnej ""Szpital w Łowiczu""",,,,,,,,,,,52.099051,19.9286569
+339,10339,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,Kronikarza Galla,,,,,,,,yes,,50.0723088,19.9136062
+340,10340,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSW,,,,,,,,,,,54.1871181,16.186682
+341,10341,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA,,,,,,,,,,,50.6635686,17.925359699999998
+342,10342,Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Zielonej Górze,Wazów,,,,,,,,,,51.942115,15.5197628
+343,10343,Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji,,,,,,,,,,,51.7825301,19.4727054
+344,10344,Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Katowicach im. sierżanta Grzegorza Załogi,Bartosza Głowackiego,,,,,,,,,,50.250138299999996,19.0096093
+345,10345,Samodzielny Publiczny Zakład Opieki Zdrowotnej Rypin,3 Maja,,,,,,,,,,53.066590299999994,19.414924600000003
+346,10346,Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy,Fabryczna,,,,,,,,,,51.1744477,22.0742837
+347,10347,Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital im. św. Elżbiety,Warszawska,,,,,+48 32 253-08-31,,,,,50.2575648,19.033506600000003
+348,10348,Samodzielny Publiczny Zakład Opieki Zdrowotnej im. dr. E.Jelskiego - Przychodnia Rejonowa w Knyszynie - Poradnia ogólna,Grodzieńska,,,,,857167026,,,,,53.3196835,22.9217608
+349,10349,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Janowcu Wielkopolskim,,,,,,,,,,,52.7545817,17.4888556
+350,10350,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Myślenicach,,,,,,,,,,,49.8283622,19.9470668
+351,10351,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie,Anny Dobrskiej,,,,,,,,yes,,53.123571,20.372791199999998
+352,10352,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szamotułach,Sukiennicza,,,,,612927100,,,yes,,52.6115613,16.5807703
+353,10353,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łapach,Janusza Korczaka,,,,,+48 85 814 24 39,,,,,52.9882429,22.866529
+354,10354,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,Bolesława Leśmiana,,,,,,,,,,51.2212665,22.6978187
+355,10355,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,,,,,,,,,,,51.22142120000001,22.6937381
+356,10356,Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku,Aleja Lotników Polskich,,,,,,,,,,51.220108700000004,22.6940406
+357,10357,"Samodzielny Publiczny Zespół Gruźlicy i Chorób Płuc, Szpital Położniczo-Ginekologiczny",,,,,,,,,,,53.800795900000004,20.5113861
+358,10358,Samodzielny Publiczny Zespół Opieki Zdrowotnej,,,,,,,,,,,52.0110459,18.4900049
+359,10359,Samodzielny Publiczny Zespół Opieki Zdrowotnej w Gostyniu,Karola Marcinkowskiego,,,,,,,,,,51.8827174,17.010217100000002
+360,10360,Samodzielny Publiczny Zespół Opieki Zdrowotnej w Leżajsku,Leśna,,,,,,,,yes,,50.2718598,22.4013423
+361,10361,Samodzielny Publiczny Zespół Opieki Zdrowotnej we Włodawie,Aleja Marszałka Józefa Piłsudskiego,,,,,797 702 705,,,,,51.557595,23.553139899999998
+362,10362,Samodzielny Publiczny Zespół Szpitali Pulmonologiczno - Reumatologicznych,Karola Miarki,,,,,,,,,,50.803705900000004,17.8846005
+363,10363,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Niechorska,,,,,+48 91 3842061,,,,,53.922202799999994,15.1768073
+364,10364,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Jana Zamoyskiego,,,,,,,,,,50.7013106,22.436027
+365,10365,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,Wschodnia,,,,,,,,,,51.2259467,20.8629514
+366,10366,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,,,,,,,,,yes,,53.0273904,20.8933352
+367,10367,Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Stefana Niewirowicza w Staszowie,11 Listopada,,,,,+48 15 864 85 39,,,yes,,50.5618995,21.1904322
+368,10368,Samodzielny Specjalistyczny Zespół Zakładów Opieki Zdrowotnej w Rudce,,,,,,,,,,,52.154083299999996,21.8265658
+369,10369,Samodzielny Szpital Kliniczny im. prof. Witolda Orłowskiego,,,,,,22 628-30-11,,,,,52.229855900000004,21.031173000000003
+370,10370,Samodzielny Szpital Miejski im. PCK,Henryka Sienkiewicza,,,,,,,,yes,,53.1404235,23.171534
+371,10371,Samodzielny Szpital Wojewódzki im. Mikołaja Kopernika w Piotrkowie Trybunalskim,Rakowska,,,,,,,,,,51.4167109,19.712629500000002
+372,10372,Samodzielny Wojewódzki Publiczny Zespół Zakładów Psychiatrycznej Opieki Zdrowotnej im. dr Barbary Borzym,Krychnowicka,,,,,,,,,,51.359820899999995,21.0849058
+373,10373,Samodzielny Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych im. Ks. Biskupa Nathana w Branicach,Szpitalna,,,,,+48774868140,,,,,50.054209,17.7959403
+374,10374,Samorządowy Zakład Podstawowej Opieki Zdrowotnej,Osiedle Północ,,,,,,,,,,50.8030391,20.4684241
+375,10375,"Sanatorium ""Leśnik""",23 Marca,,,,,,,,,,54.4489182,18.526453699999998
+376,10376,Sanatorium Eskulap,Parkowa,,,,,+4813 43 574 64,,,,,49.547092,21.8516989
+377,10377,Sanatorium Polonia,Anny i Jana Potockich,,,,,+4813 43 574 18,,,,,49.5429381,21.8470554
+378,10378,Sanatorium Uzdrowiskowe Zimowit,Parkowa,,,,,+4813 43 572 31,,,no,,49.5429072,21.852944100000002
+379,10379,Silesia-Med S.A,,,,,,,,,,,49.967173100000004,19.045629199999997
+380,10380,Specjalistyczny Psychiatryczny Zespół Opieki Zdrowotnej,Aleksandrowska,,,,,,,,,,51.809899200000004,19.350014
+381,10381,Specjalistyczny Szpital Ginekologiczno - Położniczy im. E. Biernackiego,,,,,,,,,,,50.7714434,16.2891021
+382,10382,Specjalistyczny Szpital Miejski im. M. Kopernika,Stefana Batorego,,,,,,,,yes,,53.023324,18.620197
+383,10383,Specjalistyczny Szpital Wojewódzki,Powstańców Wielkopolskich,,,,,,,,,,52.883976399999995,20.6342488
+384,10384,Specjalistyczny Szpital im. dra Alfreda Sokołowskiego,Stefana Batorego,,,,,,,,,,50.7764121,16.2768952
+385,10385,Specjalistyczny Szpital im.dra A. Sokołowskiego,,,,,,,,,,,50.8021038,16.279043400000003
+386,10386,Specjalistyczny Zespół Gruźlicy I Chorób Płuc,,,,,,,,,,,54.19503100000001,16.175293
+387,10387,Specjalistyczny Zespół Opieki Zdrowotnej nad Matką: Zespół Poradni Specjalistycznych,,,,,,,,,,,52.4159056,16.9206168
+388,10388,Stacja Pogotowia Ratunkowego w Mońkach,Aleja Wojska Polskiego,,,,,,,,,,53.40445329999999,22.8108279
+389,10389,Stacja Ratownictwa Medycznego,,,,,,,,,,,51.1442836,23.4581796
+390,10390,Stacja dializ BBraun,,,,,,,,,,,51.872182,21.6363499
+391,10391,Stomatologi Protetyka,,,,,,,,,,,51.6603029,19.350338
+392,10392,Stomotolog,,,,,,,,,,,51.81048070000001,21.913256699999998
+393,10393,Strzelińskie Centrum Medyczne,,,,,,,,,yes,,50.7891929,17.069781600000002
+394,10394,Szpital,,,,,,,,,,,50.9071331,14.96977
+395,10395,Szpital,,,,,,,,,,,50.442984700000004,23.4140112
+396,10396,Szpital,,,,,,,,,,,49.291518599999996,19.8930496
+397,10397,Szpital,"Danuty Siedzikówny ""Inki""",,,,,,,,,,51.1657819,21.2329656
+398,10398,Szpital,Lubańska,,,,,,,,,,51.1581783,15.0109046
+399,10399,Szpital,,,,,,,,,,,50.2720585,22.401287399999998
+400,10400,Szpital,,,,,,,,,,,50.41915,21.7545081
+401,10401,Szpital,Stanisława Staszica,,,,,,,,,,50.563739,22.067605399999998
+402,10402,Szpital,Czesława Stęszewskiego,,,,,,,,,,51.8259181,17.447864399999997
+403,10403,Szpital,Mossego,,,,,,,,,,52.228854399999996,16.3663534
+404,10404,Szpital,,,,,,,,,,,52.3161305,16.1405484
+405,10405,Szpital,Ogrodowa,,,,,,,,,,53.0084871,17.730152399999998
+406,10406,Szpital,Bodzentyńska,,,,,,,,,,51.1611994,21.2338809
+407,10407,Szpital,Armii Krajowej,,,,,,,,yes,,53.86585720000001,20.956528100000003
+408,10408,"Szpital ""Biały Orzeł""",Parkowa,,,,,,,,,,50.684720500000005,16.236450599999998
+409,10409,"Szpital ""Mikulicz""",,,,,,,,,,,50.8545309,16.3212257
+410,10410,Szpital - Oddział 1,,,,,,,,,,,52.146956,15.409603
+411,10411,Szpital - Oddział 10(ZOL X),,,,,,,,,,,52.1458154,15.406762900000002
+412,10412,Szpital - Oddział 14B,,,,,,,,,,,52.144819,15.4058215
+413,10413,Szpital - Oddział 15,,,,,,,,,,,52.1443115,15.405753200000001
+414,10414,Szpital - Oddział 16C,,,,,,,,,,,52.1445268,15.404976999999999
+415,10415,Szpital - Oddział 17,,,,,,,,,,,52.14382979999999,15.404753
+416,10416,Szpital - Oddział 18,,,,,,,,,,,52.1443113,15.4041351
+417,10417,Szpital - Oddział 19,,,,,,,,,,,52.1436556,15.4037793
+418,10418,Szpital - Oddział 2,,,,,,,,,,,52.1464782,15.4095451
+419,10419,Szpital - Oddział 3,,,,,,,,,,,52.1459771,15.409676000000001
+420,10420,Szpital - Oddział 4,,,,,,,,,,,52.1456575,15.409429600000001
+421,10421,Szpital - Oddział 6,,,,,,,,,,,52.144997100000005,15.408567600000001
+422,10422,Szpital - Oddział 7,,,,,,,,,,,52.1470011,15.4074744
+423,10423,Szpital - Oddział 8,,,,,,,,,,,52.1466539,15.407500599999999
+424,10424,Szpital - Oddział 9,,,,,,,,,,,52.1461213,15.4072962
+425,10425,Szpital Asklepios,,,,,,,,,,,50.024548700000004,22.0061156
+426,10426,Szpital Barlinek sp. z o.o.,,,,,,,,,,,52.997680599999995,15.223806699999997
+427,10427,Szpital Barska,,,,,,,,,,,52.6506765,19.092270199999998
+428,10428,Szpital Bielański,Cegłowska,,,,,,,,,,52.286205700000004,20.9521796
+429,10429,Szpital Chirurgii Małoinwazjnej i Rekonstrukcyjnej,,,,,,,,,,,49.7851035,19.0301854
+430,10430,Szpital Chirurgii Urazowej,Bytomska,,,,,,,,,,50.3719431,18.947018300000003
+431,10431,Szpital Chorób Płuc,Dworcowa,,,,,+48 32 2213661,,,,,50.1527347,18.772743600000002
+432,10432,Szpital Chorób Płuc im. K. Dłuskiego,,,,,,,,,,,51.1020157,17.006946600000003
+433,10433,Szpital Chorób Płuc w Pilchowicach,Dworcowa,,,,,,,,,,50.2147421,18.5628605
+434,10434,Szpital Czerniakowski,,,,,,,,,,,52.205929,21.036993399999997
+435,10435,Szpital Dziecięcy Polanki,Polanki,,,,,,,,,,54.3951194,18.5595638
+436,10436,Szpital Dziecięcy im. Bolesława Krysiewicza,,,,,,,,,,,52.404163,16.9294335
+437,10437,Szpital Dziecięcy im. J. Korczaka,Ignacego Krasickiego,,,,,,,,,,49.960228799999996,18.573874
+438,10438,Szpital Dziecięcy imienia profesora doktora Jana Bogdanowicza,,,,,,,,,,,52.23501160000001,21.0615426
+439,10439,Szpital ESKULAP,Koperkowa,,,,,+48523265800,,,,,53.177290899999996,18.0616861
+440,10440,Szpital Geriatryczny im. Jana Pawła II w Katowicach,,,,,,,,,,,50.2678355,19.0928538
+441,10441,Szpital Ginekologiczno-Położniczy im. Świętej Rodziny,Kazimierza Jarochowskiego,,,,,,,,,,52.3955189,16.893848000000002
+442,10442,Szpital Ginekologiczno-Położniczy im. Świętej Rodziny,Antoniego Józefa Madalińskiego,,,,,,,,,,52.2043311,21.0163991
+443,10443,Szpital Grochowski,,,,,,,,,,,52.2426462,21.0774323
+444,10444,Szpital Kardiologiczno-Onkologiczny Magodent,,,,,,,,,,,52.2331948,21.0988984
+445,10445,Szpital Kardiologiczny,Aleja Jordana,,,,,(18) 267 65 16,,,,,49.6070643,19.9571175
+446,10446,Szpital Kliniczny Nr 7 Górnośląskie Centrum Medyczne,Ziołowa,,,,,,,,,,50.2094867,19.0011789
+447,10447,Szpital Kliniczny Przemienienia Pańskiego oddział ul. Długa,Długa,,,,,+48 61 854 90 00,,,,,52.402657899999994,16.9362603
+448,10448,Szpital Kliniczny Przemienienia Pańskiego oddział ul. Szamarzewskiego,Augustyna Szamarzewskiego,,,,,+48 61 854 90 00,,,,,52.413918200000005,16.8813899
+449,10449,Szpital Kliniczny WUM,,,,,,,,,,,52.2456727,21.0222826
+450,10450,Szpital Kliniczny im. Heliodora Święcickiego,Stanisława Przybyszewskiego,,,,,,,,,,52.40460170000001,16.8855051
+451,10451,Szpital Kliniczny im. Karola Jonschera,Szpitalna,,,,,+48 61 849 12 00,,,,,52.413191600000005,16.8782285
+452,10452,Szpital Kolejowy,,,,,,,,,,,49.7718594,19.090354
+453,10453,Szpital Kolejowy im. Włodzimierza Roeflera,Warsztatowa,,,,,,,,,,52.1745009,20.8068768
+454,10454,Szpital MSW,,,,,,,,,,,51.124719799999994,17.0359335
+455,10455,Szpital MSWiA,,,,,,,,,,,50.0477065,21.982770000000002
+456,10456,Szpital MSWiA,,,,,,,,,,,54.35089179999999,18.6348426
+457,10457,Szpital MSWiA,Grenadierów,,,,,,,,yes,,51.228263,22.612786399999997
+458,10458,Szpital Medicover,,,,,,,,,,,52.1547566,21.076318399999998
+459,10459,Szpital Miejski,,,,,,,,,,,49.776767,22.7825713
+460,10460,Szpital Miejski,,,,,,,,,,,53.7708314,20.479798300000002
+461,10461,Szpital Miejski,Oleśnicka,,,,,,,,,,51.303194700000006,17.705274199999998
+462,10462,Szpital Miejski,Krakowska,,,,,,,,,,50.0389644,21.3930595
+463,10463,Szpital Miejski,Szpitalna,,,,,,,,,,50.297495899999994,19.1818419
+464,10464,Szpital Miejski,,,,,,,,,,,50.3749495,18.953706699999998
+465,10465,Szpital Miejski,Świętego Jana,,,,,,,,yes,,52.5385706,17.5961309
+466,10466,Szpital Miejski,Konstytucji 3 Maja,,,,,,,,yes,,52.4398176,15.584246900000002
+467,10467,Szpital Miejski,3 Maja,,,,,,,,yes,,52.541802100000005,17.5985952
+468,10468,Szpital Miejski Nr 4 z Przychodnią,Zygmunta Starego,,,,,,,,,,50.2916425,18.657357100000002
+469,10469,Szpital Miejski Specjalistyczny imienia Gabriela Narutowicza,,,,,,,,,yes,,50.0834433,19.937978100000002
+470,10470,Szpital Miejski im. Jana Garduły,,,,,,,,,,,53.910197,14.256859299999999
+471,10471,Szpital Miejski im. Jana Pawła II,Rycerska,,,,,,,,,,50.0474761,22.0014772
+472,10472,Szpital Miejski im. Świętego Aleksandra - ArtMedik,Generała Tadeusza Kościuszki,,,,,+48 41 341 78 00,,,,,50.8737142,20.6383903
+473,10473,Szpital Miejski nr.1,,,,,,,,,,,50.269986700000004,19.1310267
+474,10474,Szpital Miejski w Proszowicach,,,,,,,,,,,50.1861862,20.2979416
+475,10475,Szpital Miejski w Siedlcach,,,,,,,,,,,52.1691536,22.284419
+476,10476,Szpital Miejski w Tychach,,,,,,,,,,,50.1194672,18.9820598
+477,10477,Szpital Miejski w Zabrzu,Zamkowa,,,,,,,,,,50.3267322,18.8255014
+478,10478,Szpital Morski im. PCK,Powstania Styczniowego,,,,,,,,,,54.48935229999999,18.5506582
+479,10479,Szpital Murcki,Alfreda Sokołowskiego,,,,,+48 32 255 61 62,,,,,50.1978764,19.0390448
+480,10480,Szpital Na Wyspie,Pokoju,,,,,,,,,,51.7935232,14.9745175
+481,10481,Szpital Na Wyspie,Pszenna,,,,,,,,yes,,51.644434499999996,15.1522807
+482,10482,Szpital Neuropsychiatryczny,Abramowicka,,,,,,,,,,51.2046306,22.5873647
+483,10483,Szpital Neuropsychiatryczny imienia Doktora Józefa Babińskiego,,,,,,,,,,,50.0054078,19.8878965
+484,10484,Szpital Obserwacyjno Zakaźny i Hepatologii Zakaźnej,,,,,,,,,,,50.353522600000005,18.912284200000002
+485,10485,Szpital Ogólny,Szpitalna,,,,,,,,,,52.9156947,22.521474899999998
+486,10486,Szpital Ogólny im. dr Edmunda Wojtyły,,,,,,,,,,,49.82274,19.033113
+487,10487,Szpital Pediatryczny,,,,,,,,,,,49.819438,19.0266807
+488,10488,Szpital Powiatowy,Piastowska,,,,,,,,,,50.32293920000001,17.568285600000003
+489,10489,Szpital Powiatowy,Szpitalna,,,,,,,,,,51.1111792,15.583411800000002
+490,10490,Szpital Powiatowy,,,,,,,,,yes,,50.72875689999999,16.6569057
+491,10491,Szpital Powiatowy,,,,,,,,,,,51.614286799999995,16.8433772
+492,10492,Szpital Powiatowy,,,,,,,,,,,53.2619072,19.3918758
+493,10493,Szpital Powiatowy,Jana III Sobieskiego,,,,,+48 34 350 63 80,,,yes,,50.665015600000004,18.6818683
+494,10494,Szpital Powiatowy,Inwalidów Wojennych,,,,,,,,,,51.3405759,16.6392728
+495,10495,Szpital Powiatowy,,,,,,+48 33 861-40-31,,,yes,,49.6932754,19.2031152
+496,10496,Szpital Powiatowy,Jana Kochanowskiego,,,,,,,,yes,,49.474934600000005,22.3340372
+497,10497,Szpital Powiatowy,,,,,,,,,,,51.065347100000004,21.0723237
+498,10498,Szpital Powiatowy,,,,,,,,,,,53.557598999999996,20.9872388
+499,10499,Szpital Powiatowy,Józefa Chełmońskiego,,,,,,,,,,52.08931810000001,17.005783100000002
+500,10500,"Szpital Powiatowy ""Zespół Opieki Zdrowotnej""",,,,,,,,,,,50.3068235,18.9152631
+501,10501,Szpital Powiatowy - Oddział Chorób Wewnętrznych,Ignacego Jana Paderewskiego,,,,,,,,no,,54.085185100000004,18.798579
+502,10502,Szpital Powiatowy - Oddział Zakaźny,Grunwaldzka,,,,,+48 34 356 24 15,,,,,50.662344299999994,18.680019199999997
+503,10503,Szpital Powiatowy SPZOZ,Stanisława Duboisa,,,,,,,,,,52.7989672,21.912066199999998
+504,10504,Szpital Powiatowy SPZZOZ. Oddział Psychiatryczny,,,,,,,,,,,50.3266315,19.0766701
+505,10505,Szpital Powiatowy ZZOZ,Aleja Wolności,,,,,,,,,,51.425662599999995,17.9278189
+506,10506,Szpital Powiatowy im. Aleksandra Majkowskiego w Kartuzach,Floriana Ceynowy,,,,,+48 58 685 48 00,,,yes,,54.3368137,18.1977338
+507,10507,Szpital Powiatowy im. Edmunda Biernackiego w Opocznie,Partyzantów,,,,,44 754 48 04,,,,,51.3783074,20.277828
+508,10508,Szpital Powiatowy im. Jana Pawła II,Kardynała Stefana Wyszyńskiego,,,,,,,,,,54.258791,20.791623899999998
+509,10509,Szpital Powiatowy im. Jana Pawła II w Gryfinie,Parkowa,,,,,+48 91 416 90 98;+48 91 416 23 54;+48 91 416 21 09,,,,,53.25486070000001,14.491284099999998
+510,10510,Szpital Powiatowy im. Jana Pawła II w Wadowicach,,,,,,,,,,,49.8810345,19.4918789
+511,10511,Szpital Powiatowy im. M. Kajki,Wolności,,,,,,,,yes,,53.8797395,21.303158
+512,10512,Szpital Powiatowy im. Marcela Nenckiego,,,,,,,,,,,51.698352299999996,17.432582399999998
+513,10513,Szpital Powiatowy im. Polskiego Czerwonego Krzyża,,,,,,,,,,,50.519965899999995,22.1426908
+514,10514,Szpital Powiatowy im. Prałata J.Glowatzkiego w Strzelcach Opolskich,,,,,,,,,,,50.5153433,18.2928621
+515,10515,Szpital Powiatowy im. Zbigniewa Koprowskiego,,,,,,,,,yes,,52.403623700000004,22.239462699999997
+516,10516,Szpital Powiatowy imienia doktora Tytusa Chałubińskiego w Zakopanem,,,,,,,,,yes,,49.3052848,19.954829399999998
+517,10517,Szpital Powiatowy imienia świętego Maksymiliana,Wysokie Brzegi,,,,,,,,,,50.0394198,19.2389987
+518,10518,Szpital Powiatowy w Białogardzie,,,,,,,,,,,54.0076179,16.006636
+519,10519,Szpital Powiatowy w Białogardzie (stary szpital),,,,,,,,,,,54.007047299999996,15.9697401
+520,10520,Szpital Powiatowy w Chrzanowie,,,,,,,,,yes,,50.1344407,19.4292324
+521,10521,Szpital Powiatowy w Kolbuszowej,,,,,,,,,yes,,50.2434871,21.7628199
+522,10522,Szpital Powiatowy w Kraśniku,Fryderyka Chopina,,,,,,,,,,50.9326736,22.2218654
+523,10523,Szpital Powiatowy w Kętrzynie,Marii Skłodowskiej-Curie,,,,,,,,yes,,54.0825414,21.3755694
+524,10524,Szpital Powiatowy w Międzyrzecu Podlaskim,Warszawska,,,,,+48833714011,,,,,51.985153600000004,22.7871129
+525,10525,Szpital Powiatowy w Mińsku Mazowieckim,,,,,,+48 25 758 30 01,,,,,52.173869200000006,21.580234
+526,10526,Szpital Powiatowy w Oleśnie,,,,,,,,,,,50.8814855,18.413405800000003
+527,10527,Szpital Powiatowy w Otwocku,,,,,,,,,yes,,52.0991115,21.2608026
+528,10528,Szpital Powiatowy w Oławie,,,,,,,,,yes,,50.9510646,17.283960500000003
+529,10529,Szpital Powiatowy w Połczynie Zdroju,,,,,,94 366 18 07,,,,,53.7638725,16.090804199999997
+530,10530,Szpital Powiatowy w Pszczynie,,,,,,,,,,,49.973640100000004,18.9384724
+531,10531,Szpital Powiatowy w Radomsku,,,,,,,,,,,51.057486299999994,19.4568294
+532,10532,Szpital Powiatowy w Ropczycach,,,,,,,,,yes,,50.0583934,21.6157441
+533,10533,Szpital Powiatowy w Rykach,,,,,,,,,,,51.6220994,21.9292169
+534,10534,Szpital Powiatowy w Strzyżowie,,,,,,,,,,,49.869694200000005,21.784034
+535,10535,Szpital Powiatowy w Sławnie,,,,,,,,,,,54.370083900000004,16.6783058
+536,10536,Szpital Powiatowy w Słubicach,,,,,,,,,yes,,52.3520726,14.555868300000002
+537,10537,Szpital Powiatowy w Tczewie,,,,,,,,,,,54.0835951,18.790036100000002
+538,10538,Szpital Powiatowy w Wołominie,,,,,,,,,yes,,52.3461175,21.220815899999998
+539,10539,Szpital Powiatowy w Zambrowie,Papieża Jana Pawła II,,,,,,,,,,52.9883166,22.253449300000003
+540,10540,Szpital Powiatowy w Zawierciu,Miodowa,,,,,+48 32 674 02 00,,,,,50.4821266,19.408142
+541,10541,Szpital Powiatowy w Łęcznej,Krasnystawska,,,,,,,,yes,,51.2910235,22.877878600000003
+542,10542,Szpital Powiatowy we Wrześni,,,,,,,,,,,52.324746000000005,17.5733251
+543,10543,Szpital Położniczo-Ginekologiczny Medikor,Rzemieślnicza,,,,,,,,,,49.619088,20.7058127
+544,10544,Szpital Praski,"Aleja ""Solidarności""",,,,,22 818 50 61,,,,,52.25074620000001,21.027438800000002
+545,10545,Szpital Psychiatryczny,Sarzyńska,,,,,,,,,,54.172213,16.1872914
+546,10546,Szpital Psychiatryczny,,,,,,,,,,,50.0188487,22.673920199999998
+547,10547,Szpital Psychiatryczny,,,,,,,,,,,54.353139799999994,19.678601899999997
+548,10548,Szpital Regionalistyczny w Łasinie,Grudziądzka,,,,,,,,,,53.5184698,19.0830049
+549,10549,Szpital Rehabilitacji Neurologicznej,,,,,,,,,no,,52.0704596,21.1216014
+550,10550,Szpital Rehabilitacyjno - Kardiologiczny w Kowanówku,Sanatoryjna,,,,,,,,no,,52.684400600000004,16.8441649
+551,10551,Szpital Rehabilitacyjny MSWiA,,,,,,+48 65 53 61 200; +48 65 53 69 452,,,no,,51.897223,16.7849706
+552,10552,Szpital Rehabilitacyjny Onkologiczno-Hematologiczny dla Dzieci Orlik,,,,,,,,,,,50.475071500000006,16.2779971
+553,10553,Szpital Rejonowy,,,,,,,,,yes,,50.169911,23.1238773
+554,10554,Szpital Rejonowy,Powstania Wielkopolskiego,,,,,,,,,,52.62718420000001,18.1735101
+555,10555,Szpital Rejonowy,Szpitalna,,,,,+48 74 872 22 81,,,yes,,50.5835532,16.4971451
+556,10556,Szpital Rejonowy im.dr Anki,Szkolna,,,,,,,,ambulance_station,,50.970266200000005,18.7285831
+557,10557,Szpital Rejonowy w Busku - Zdroju,Bohaterów Warszawy,,,,,,,,yes,,50.4668713,20.7014434
+558,10558,Szpital Reumatologiczno-Rehabilitacyjny,,,,,,,,,,,49.938286600000005,18.979616699999998
+559,10559,Szpital SPZOZ w Kępnie,,,,,,,,,,,51.2772816,17.983252899999997
+560,10560,Szpital Solec,,,,,,222 506 100,,,,,52.235201700000005,21.029742000000002
+561,10561,Szpital Specjalistyczny Centrum Medycznego MAVIT,Szopienicka,,,,,+48 32 358-77-00,,,,,50.2468928,19.0801793
+562,10562,Szpital Specjalistyczny Chorób Płuc im. dr O. Sokołowskiego,Gładkie,,,,,,,,,,49.297707,19.943907
+563,10563,Szpital Specjalistyczny Inflancka,,,,,,,,,,,52.2549341,20.992226100000003
+564,10564,Szpital Specjalistyczny MSWiA,,,,,,,,,,,52.106024,21.280053600000002
+565,10565,Szpital Specjalistyczny Ministerstwa Spraw Wewnętrznych,Mieczysława Karłowicza,,,,,,,,,,50.3023347,17.385237600000004
+566,10566,Szpital Specjalistyczny Podkarpacki Ośrodek Onkologiczny,,,,,,,,,,,49.69153,22.02461
+567,10567,Szpital Specjalistyczny Prabuty,,,,,,,,,,,53.73792950000001,19.207526899999998
+568,10568,Szpital Specjalistyczny Pro-Familia,,,,,,+48 42 207 00 07,,,,,51.7555888,19.5070751
+569,10569,Szpital Specjalistyczny im. A.Falkiewicza,Warszawska,,,,,,,,,,51.06424129999999,17.078076199999998
+570,10570,Szpital Specjalistyczny im. Edmunda Biernackiego,Stefana Żeromskiego,,,,,,,,,,50.288895600000004,21.435793399999998
+571,10571,Szpital Specjalistyczny im. Floriana Ceynowy w Wejherowie,Doktora Alojzego Jagalskiego,,,,,,,,,,54.612980900000004,18.2447498
+572,10572,Szpital Specjalistyczny im. H. Klimontowicza,,,,,,,,,,,49.6502098,21.164841199999998
+573,10573,Szpital Specjalistyczny im. H. Klimontowicza,,,,,,,,,,,49.6496064,21.1636125
+574,10574,Szpital Specjalistyczny im. J. K. Łukowicza,,,,,,,,,,,53.7107348,17.5503116
+575,10575,Szpital Specjalistyczny im. Jędrzeja Śniadeckiego w Nowym Sączu,Młyńska,,,,,,,,yes,,49.6199439,20.6987663
+576,10576,Szpital Specjalistyczny im. S. Starkiewicza,,,,,,,,,,,50.32124520000001,19.1761807
+577,10577,Szpital Specjalistyczny im. S. Starkiewicza Oddział Psychiatryczny,,,,,,,,,,,50.3192631,19.212905499999998
+578,10578,Szpital Specjalistyczny im. Stanisława Staszica w Pile,Ludwika Rydygiera,,,,,672106666,,,yes,,53.1223991,16.7176364
+579,10579,Szpital Specjalistyczny im. Świętej Rodziny,,,,,,,,,,,50.1049166,21.9785647
+580,10580,Szpital Specjalistyczny imienia Jana Pawła II,,,,,,,,,,,50.089799299999996,19.932417899999997
+581,10581,Szpital Specjalistyczny nr 1,,,,,,,,,,,50.3539214,18.922509899999998
+582,10582,Szpital Specjalistyczny nr 2,Stefana Batorego,,,,,,,,,,50.3479238,18.9073432
+583,10583,Szpital Specjalistyczny w Chorzowie,,,,,,,,,,,50.2922992,18.9512691
+584,10584,Szpital Specjalistyczny w Kościerzynie,Alojzego Piechowskiego,,,,,,,,yes,,54.121930299999995,17.9500993
+585,10585,Szpital Stary,,,,,,,,,,,49.55581420000001,22.203120300000002
+586,10586,Szpital Szczecinek,,,,,,,,,yes,,53.7118769,16.6790258
+587,10587,Szpital Tucholski,Bartłomieja Nowodworskiego,,,,,,,,,,53.5896978,17.8616909
+588,10588,Szpital Tuszyn,,,,,,,,,,,51.601824,19.4995818
+589,10589,Szpital Uniwersytecki CM UJ,,,,,,,,,,,50.0613977,19.9481329
+590,10590,Szpital Uniwersytecki Collegium Medicum Uniwersytetu Jagiellońskiego,,,,,,+48 12 430 5266,,,,,50.04688170000001,19.9428065
+591,10591,Szpital Uniwersytecki im. Karola Marcinkowskiego w Zielonej Górze,,,,,,,,,yes,,51.9399731,15.5186975
+592,10592,Szpital Uniwersytecki nr 1 im. dr. A. Jurasza,Marii Skłodowskiej-Curie,,,,,,,,,,53.12786070000001,18.0288326
+593,10593,Szpital Uniwersytecki nr 2 im. dr Jana Biziela,Kornela Ujejskiego,,,,,,,,,,53.116671999999994,18.0248289
+594,10594,Szpital Uzdrowiskowo-Rehabilitacyjny POLEX,Jana Lorentowicza,,,,,+48 54 283 60 87,,,,,52.87645010000001,18.7939866
+595,10595,"Szpital Uzdrowiskowy dla Dzieci ""Stokrotka""",,,,,,,,,,,49.9396019,18.980090399999998
+596,10596,Szpital Uzdrowiskowy nr 1,Armii Krajowej,,,,,+48 54 283 60 73,,,,,52.8779459,18.7956889
+597,10597,"Szpital Uzdrowiskowy nr 4 ""Dom Zdrojowy""",Leśna,,,,,+48 54 283 6078,,,yes,,52.8762056,18.7992096
+598,10598,Szpital Vital Medic,,,,,,,,,,,50.969042200000004,18.2175522
+599,10599,Szpital Wielospecjalistyczny,Tadeusza Kościuszki,,,,,+48 32 238-20-91,,,,,50.289044,18.6613725
+600,10600,Szpital Wielospecjalistyczny im. Stanleya Dudricka,Tyniecka,,,,,,,,,,49.9782595,19.8195918
+601,10601,Szpital Wielospecjalistyczny w Jaworznie,,,,,,,,,,,50.205663200000004,19.2852219
+602,10602,Szpital Wojewódzki,Augustyna Kośnego,,,,,+48 (77) 443-31-00,,,,,50.6718077,17.9348993
+603,10603,Szpital Wojewódzki,Szpitalna,,,,,,,,,,50.5687037,21.6704214
+604,10604,Szpital Wojewódzki,,,,,,,,,,,51.963942200000005,20.1527798
+605,10605,Szpital Wojewódzki Nr 2,Lwowska,,,,,,,,,,50.0339896,22.038791699999997
+606,10606,Szpital Wojewódzki im. Jana Pawła II,,,,,,,,,,,51.3753513,19.3548378
+607,10607,Szpital Wojewódzki im. M. Kopernika,,,,,,,,,yes,,54.199355700000005,16.2111011
+608,10608,Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego,,,,,,,,,,,51.58268270000001,18.7104774
+609,10609,Szpital Wojewódzki im. dr. Ludwika Rydygiera w Suwałkach,,,,,,,,,,,54.117928000000006,22.927017499999998
+610,10610,Szpital Wojewódzki w Bielsku-Białej,,,,,,,,,,,49.79012279999999,19.0431546
+611,10611,Szpital Wolski im. doktor Anny Gostyńskiej,Marcina Kasprzaka,,,,,,,,,,52.2271566,20.9710687
+612,10612,Szpital Zakonu Bonifatrów pw. Aniołów Stróżów,Leopolda Markiefki,,,,,32 357-62-00,,,,,50.2686218,19.040881699999996
+613,10613,Szpital Zakonu Bonifratrów św. Jana Bożego,Kosynierów Gdyńskich,,,,,+48 42 685 51 30,,,,,51.71778,19.470337899999997
+614,10614,Szpital Zespolony,,,,,,,,,,,50.33240670000001,18.1500595
+615,10615,Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana,Skarszewska,,,,,,,,,,53.9767348,18.5076719
+616,10616,Szpital dla Przewlekle Chorych Dzieci z Rehabilitacją,3 Maja,,,,,,,,,,51.6364594,17.8124985
+617,10617,Szpital im. Henryka Jordana,,,,,,,,,,,51.8026661,19.453588600000003
+618,10618,Szpital im. Ignacego Mościckiego Lecznica Dzieci i Dorosłych,Powstańców,,,,,,,,,,50.2933457,18.950530999999998
+619,10619,Szpital im. Jana Bożego,Zbigniewa Herberta,,,,,,,,yes,,51.2153263,22.5693612
+620,10620,Szpital im. Jana Pawła II,Stefana Żeromskiego,,,,,,,,,,50.8464519,19.9731347
+621,10621,Szpital im. Mikołaja Kopernika,,,,,,,,,,,54.350256099999996,18.636739499999997
+622,10622,Szpital im. Mikołaja Kopernika,,,,,,,,,,,54.352579399999996,18.6351402
+623,10623,Szpital im. Piotra Skargi,Księdza Piotra Skargi,,,,,,,,,,51.86772620000001,20.867848100000003
+624,10624,Szpital im. Radzimira Śmigielskiego,Szpitalna,,,,,+48 95 717 00 39,,,yes,,52.594121400000006,15.505051000000002
+625,10625,Szpital im. Tytusa Chałubińskiego,Bolesława Limanowskiego,,,,,062 595-11-00,,,yes,,51.6553568,17.8292807
+626,10626,Szpital im. dr. J. Dietla,,,,,,,,,,,49.401711600000006,20.953367
+627,10627,Szpital im. Świętego Ducha w Rawie Mazowieckiej,Warszawska,,,,,,,,yes,,51.766498999999996,20.2588668
+628,10628,Szpital im. św. Jadwigi Śląskiej,,,,,,,,,,,51.318936799999996,17.060414899999998
+629,10629,Szpital im.Sebastiana Petrycego,Szpitalna,,,,,+48 14 642 28 31,,,no,,50.1767269,20.9745103
+630,10630,Szpital miejski,,,,,,,,,,,52.86269420000001,21.0862767
+631,10631,Szpital miejski,Jana Pawła II,,,,,,,,,,53.14693199999999,14.895172199999998
+632,10632,Szpital miejski w Rabce Zdroju,Słoneczna,,,,,,,,yes,,49.608908299999996,19.970616800000002
+633,10633,Szpital nr 1,Marii Curie-Skłodowskiej,,,,,,,,,,50.3155926,17.3854369
+634,10634,Szpital nr 2,,,,,,,,,,,49.7528882,18.640014899999997
+635,10635,Szpital nr 2,Józefa Lompy,,,,,,,,,,50.3019009,17.3833807
+636,10636,Szpital nr 2,,,,,,,,,,,49.7530821,18.6400233
+637,10637,Szpital oddział zakaźny,,,,,,,,,,,53.644812,22.4697083
+638,10638,"Szpital ortopedyczny ""ORTOPEDICUM""",Koło Strzelnicy,,,,,+48 12 425 3851,,,,,50.063781799999994,19.880349399999997
+639,10639,Szpital powiatowy im. Marii Skłodowskiej-Curie,Bartoszycka,,,,,,,,,,54.125806499999996,20.5909671
+640,10640,Szpital powiatowy w Pińczowie,,,,,,,,,yes,,50.5181714,20.529818399999996
+641,10641,Szpital powiatowy w Więcborku,,,,,,,,,,,53.355368799999994,17.490842899999997
+642,10642,Szpital powiatowy w Wągrowcu,,,,,,+48 67 268 15 00,,,,,52.8176567,17.203741100000002
+643,10643,Szpital rejonowy,,,,,,+48 676 2239,,,,,51.3553164,21.580702300000002
+644,10644,Szpital specjalistyczny imienia Stefana Żeromskiego,,,,,,,,,yes,,50.063656099999996,20.0474167
+645,10645,Szpital w Paczkowie im. Św. Jana Pawła II,Stanisława Staszica,,,,,+48 77 43 90 308,,,,,50.4631834,17.002833300000002
+646,10646,Szpital w Słupcy,Traugutta,,,,,+48 63 275 23 00,,,,,52.2932784,17.8706689
+647,10647,Szpital w Wodzisławiu Śląskim,,,,,,,,,,,50.009693299999995,18.460987300000003
+648,10648,Szpital Śląski,,,,,,,,,,,49.7461535,18.638485100000004
+649,10649,Szpital Średzki,Franciszka Żwirki i Stanisława Wigury,,,,,,,,,,52.2276352,17.2852607
+650,10650,Szpital Św. Wojciecha,Aleja Jana Pawła II,,,,,,,,yes,,54.4040749,18.612969800000002
+651,10651,Szpital Świętej Anny,,,,,,,,,,,52.061772399999995,21.0256341
+652,10652,Szpital Świętej Anny,,,,,,,,,,,50.3542771,20.033850199999996
+653,10653,Szpital Świętej Trójcy,,,,,,,,,,,52.5394412,19.695663600000003
+654,10654,Szpital św. Antoniego,Bolesława Chrobrego,,,,,,,,,,50.5875696,16.8171632
+655,10655,Szpital św. Jerzego,Szpitalna,,,,,,,,,,53.9698957,14.7774802
+656,10656,Szpital św. Rocha,Częstochowska,,,,,,,,,,50.6816811,18.219889399999996
+657,10657,Szpital św. Tadeusza,,,,,,,,,,,51.9251435,22.378418300000003
+658,10658,Szpital św. Wojciecha,,,,,,+48 61 623 31 11,,,,,52.362602,16.9926794
+659,10659,Szpital świętej Elżbiety,Seweryna Goszczyńskiego,,,,,,,,,,52.1955159,21.020198399999998
+660,10660,Szpitalny Oddział Ratunkowy,,,,,,,,,yes,,50.481390999999995,19.4087415
+661,10661,ULTRAMEDIC Centrum Medyczne,Władysława Broniewskiego,,,,,,,,,,49.816082200000004,19.0502748
+662,10662,Ujastek Grupa Neomedic,,,,,,,,,,,50.081968700000004,20.069107000000002
+663,10663,Uniwersytecka Klinika Stomatologiczna,Montelupich,,,,,,,,,,50.07372,19.9406579
+664,10664,Uniwersytecki Szpital Dziecięcy,,,,,,+48 12 658 20 11,,,yes,,50.013588399999996,19.9997597
+665,10665,Uniwersytecki Szpital Dziecięcy w Lublinie,,,,,,,,,,,51.260746999999995,22.5599535
+666,10666,Uniwersytecki Szpital Kliniczny,Aleja Warszawska,,,,,,,,,,53.7737975,20.469254
+667,10667,Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego,,,,,,,,,,,51.072745399999995,17.0320947
+668,10668,Uniwersytecki Szpital Kliniczny im. WAM - Centralny Szpital Weteranów,,,,,,,,,,,51.7601882,19.443205600000002
+669,10669,Uniwersytecki Szpital Kliniczny im. WAM – Centralny Szpital Weteranów,,,,,,,,,,,51.779080900000004,19.4683742
+670,10670,Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej,Stefana Żeromskiego,,,,,+48 42 6393424,,,,,51.7592927,19.447759100000003
+671,10671,Uniwersytecki Szpital Kliniczny im. Wojskowej Akademii Medycznej,Plac generała Józefa Hallera,,,,,,,,,,51.768176000000004,19.4372567
+672,10672,Uniwersytecki Szpital Kliniczny nr 1 im. N. Barlickiego. SPZOZ,Doktora Stefana Kopcińskiego,,,,,,,,,,51.7748992,19.4826244
+673,10673,Uniwersytecki Szpital Ortopedyczno Rehabilitacyjny w Zakopanem,,,,,,,,,,,49.2871461,19.986009399999997
+674,10674,Uniwersyteckie Centrum Kliniczne,Dębinki,,,,,,,,,,54.3670961,18.6263015
+675,10675,Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach,,,,,,,,,,,50.2457764,19.018341
+676,10676,Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej,,,,,,,,,no,,54.48752879999999,18.547451199999998
+677,10677,Utrata,,,,,,,,,,,52.163468,20.8344012
+678,10678,Uzdrowiskowy Instytut Zdrowia,Sanatoryjna,,,,,,,,,,49.7218023,18.825344199999996
+679,10679,Uzdrowiskowy Szpital Dziecięcy „Olszówka”,Juliusza Słowackiego,,,,,18 26 77 011,,,,,49.6107654,19.970420999999998
+680,10680,VITA LONGA,Uniczowska,,,,,,,,,,50.175942799999994,18.969446100000003
+681,10681,Vratislavia Medica,,,,,,,,,,,51.1582036,17.0292403
+682,10682,WOPR,,,,,,,,,,,51.444019899999994,19.9237751
+683,10683,WSS Oddział Pulmonologiczny,,,,,,,,,,,54.4726532,17.0258772
+684,10684,WSS im. M. Pirogowa. Ośrodek Szpitalny im. M. Madurowicza,,,,,,,,,,,51.752438700000006,19.4250496
+685,10685,WSZPZO im. prof. Eugeniusza Wilczkowskiego,Zalesie,,,,,,,,,,52.40077539999999,19.5037525
+686,10686,WZZOZ Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi,Szpitalna,,,,,+48 42 614 37 96,,,,,51.6002138,19.504292899999996
+687,10687,Warszawski Szpital Dla Dzieci,Mikołaja Kopernika,,,,,,,,,,52.2376088,21.0193237
+688,10688,Wiejski Ośrodek Zdrowia,Józefa Suskiego,,,,,,,,,,50.0175104,19.3159192
+689,10689,Wielkopolskie Centrum Onkologii,,,,,,,,,,,52.40199929999999,16.9350138
+690,10690,Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów,Strzelecka,,,,,67 2822837,,,,,52.98337239999999,16.9015677
+691,10691,Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii i Janusza Zeylandów,,,,,,,,,,,52.41165529999999,16.885545399999998
+692,10692,Wielospecjalistyczna Przychodnia i Szpital chirurgii jednego dnia (w budowie),,,,,,,,,,,52.3176464,21.0287805
+693,10693,Wielospecjalistyczny Szpital Miejski im. E. Warmińskiego,Szpitalna,,,,,,,,,,53.101152500000005,18.0445249
+694,10694,Wielospecjalistyczny Szpital Miejski im. Józefa Strusia,,,,,,,,,yes,,52.390299,16.998307999999998
+695,10695,Wielospecjalistyczny Szpital Powiatowy im. dr B. Hagera,Pyskowicka,,,,,+48 32 285-42-13,,,,,50.4386508,18.804107300000002
+696,10696,Wielospecjalistyczny Szpital SPZOZ w Nowej Soli,,,,,,,,,,,51.8073216,15.6864402
+697,10697,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,,,,,,,,,yes,,52.7621905,15.235204099999999
+698,10698,Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim,,,,,,,,,yes,,52.754887100000005,15.2616625
+699,10699,Wielospecjalistyczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Bydgoszczy,Księdza Ryszarda Markwarta,,,,,,,,,,53.1264586,18.012015899999998
+700,10700,Wojewódzka Przychodnia Zdrowia Psychicznego w Bydgoszczy,Józefa Sułkowskiego,,,,,,,,,,53.1410544,18.0305872
+701,10701,Wojewódzka Stacja Krwiodawstwa,Jagiellońska,,,,,+48 41 3359400,,,,,50.87332620000001,20.6051175
+702,10702,Wojewódzka Stacja Pogotowia Ratunkowego SP ZOZ w Suwałkach,Adama Mickiewicza,,,,,,,,yes,,54.09835,22.9251523
+703,10703,Wojewódzka Stacja Ratownictwa Medycznego,,,,,,,,,,,51.754992,19.4636559
+704,10704,Wojewódzka Stacja Ratownictwa Medycznego,,,,,,,,,,,51.7542881,19.462695800000002
+705,10705,Wojewódzki Ośrodek Lecznictwa Psychiatrycznego,Adama Mickiewicza,,,,,,,,,,53.0122139,18.591386800000002
+706,10706,Wojewódzki Podkarpacki Szpital Psychiatryczny im. prof. Eugeniusza Brzezickiego,Różana,,,,,,,,,,49.825684100000004,22.7665999
+707,10707,Wojewódzki Specjalistyczny Szpital im. M. Pirogowa (dawny szp. im. M. Madurowicza),Wileńska,,,,,,,,,,51.7532157,19.423289399999998
+708,10708,Wojewódzki Specjalistyczny Szpital im. dr. Władysława Biegańskiego,Karola Kniaziewicza,,,,,,,,yes,,51.8011994,19.4359862
+709,10709,Wojewódzki Specjalistyczny Szpital imienia Mikołaja Pirogowa,,,,,,,,,,,51.7514492,19.4544305
+710,10710,Wojewódzki Specjalistyczny Szpital imienia Mikołaja Pirogowa,Wólczańska,,,,,,,,,,51.7517792,19.455217
+711,10711,Wojewódzki Specjalistyczny Zespół Neuropsychiatryczny,,,,,,,,,,,50.6761642,17.9394115
+712,10712,Wojewódzki Specjalistyczny Zespół Zakładów Opieki Zdrowotnej Chorób Płuc i Gruźlicy,,,,,,,,,,,51.6979862,18.1475419
+713,10713,Wojewódzki Szpital Chirurgii Urazowej,,,,,,,,,,,52.2194142,20.9780343
+714,10714,Wojewódzki Szpital Chorób Płuc im. dr Alojzego Pawelca,,,,,,,,,,,49.998470000000005,18.4887471
+715,10715,Wojewódzki Szpital Dziecięcy im. J. Brudzińskiego w Bydgoszczy,,,,,,,,,,,53.129627899999996,18.0266266
+716,10716,Wojewódzki Szpital Neuropsychiatryczny im. dr Emila Cyrana,Grunwaldzka,,,,,+48 34 353 28 00,,,,,50.6658049,18.679871600000002
+717,10717,Wojewódzki Szpital Neuropsychiatryczny imienia Oskara Bielawskiego,,,,,,,,,,,52.0820588,16.6374687
+718,10718,Wojewódzki Szpital Obserwacyjno-Zakaźny,Świętego Floriana,,,,,,,,,,53.12249820000001,18.008353200000002
+719,10719,Wojewódzki Szpital Obserwacyjno-Zakaźny,Zygmunta Krasińskiego,,,,,,,,,,53.0111493,18.5942619
+720,10720,Wojewódzki Szpital Okulistyczny,Osiedle Na Wzgórzach,,,,,,,,,,50.0994233,20.0636032
+721,10721,Wojewódzki Szpital Podkarpacki,,,,,,,,,,,49.703496,21.7850762
+722,10722,Wojewódzki Szpital Psychiatryczny,,,,,,,,,,,49.847462799999995,19.3463883
+723,10723,Wojewódzki Szpital Psychiatryczny im. Tadeusza Bilikiewicza,Srebrniki,,,,,,,,,,54.37451329999999,18.577691
+724,10724,Wojewódzki Szpital Psychiatryczny w Warcie,Sieradzka,,,,,,,,yes,,51.704706,18.6260482
+725,10725,Wojewódzki Szpital Psychiatryczny w Warcie,Sieradzka,,,,,,,,,,51.7051934,18.6282054
+726,10726,Wojewódzki Szpital Psychiatryczny w Warcie,,,,,,,,,,,51.7041364,18.6279617
+727,10727,Wojewódzki Szpital Psychiatryczny w Warcie,,,,,,,,,,,51.703486,18.629536899999998
+728,10728,Wojewódzki Szpital Psychiatryczny w Złotoryi,,,,,,,,,,,51.122372600000006,15.906964000000002
+729,10729,Wojewódzki Szpital Rehabilitacyjny dla Dzieci w Ameryce,,,,,,,,,,,53.61704889999999,20.314835600000002
+730,10730,Wojewódzki Szpital Rehabilitacyjny im. dr. S. Jasińskiego w Zakopanem,,,,,,,,,no,,49.3125494,19.961343499999998
+731,10731,Wojewódzki Szpital Specjalistyczny,,,,,,,,,,,52.0473592,23.1098975
+732,10732,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego,,,,,,,,,,49.959571999999994,18.5740457
+733,10733,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego,,,,,,,,,,49.9597902,18.573730800000003
+734,10734,Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych,,,,,,,,,,,52.147221200000004,15.4101815
+735,10735,Wojewódzki Szpital Specjalistyczny im. Fryderyka Chopina,Fryderyka Szopena,,,,,,,,,,50.0348841,22.0084508
+736,10736,Wojewódzki Szpital Specjalistyczny im. J. Gromkowskiego,,,,,,,,,,,51.1439634,17.0678492
+737,10737,Wojewódzki Szpital Specjalistyczny im. J. Korczaka,,,,,,,,,,,54.45099570000001,17.060540300000003
+738,10738,Wojewódzki Szpital Specjalistyczny im. M. Kopernika,Pabianicka,,,,,+48 42 6895000,,,,,51.731563,19.454074399999996
+739,10739,Wojewódzki Szpital Specjalistyczny im. Marii Skłodowskiej – Curie,Parzęczewska,,,,,42 71 44 500,,,yes,,51.8640546,19.3858702
+740,10740,Wojewódzki Szpital Specjalistyczny im. Najświętszej Maryi Panny,Bialska,,,,,,,,,,50.8304413,19.0884438
+741,10741,Wojewódzki Szpital Specjalistyczny im. Stefana Wyszyńskiego,Aleja Kraśnicka,,,,,+48 81 537-41-71,,,,,51.2380904,22.5032137
+742,10742,Wojewódzki Szpital Specjalistyczny im. św. Rafała w Czerwonej Górze,,,,,,+48413465545,,,,,50.8232671,20.4889501
+743,10743,Wojewódzki Szpital Specjalistyczny imienia Ludwika Rydygiera,,,,,,,,,yes,,50.0910266,20.0205616
+744,10744,Wojewódzki Szpital Specjalistyczny nr 1,Edukacji,,,,,,,,yes,,50.1126076,19.0059043
+745,10745,Wojewódzki Szpital Specjalistyczny nr 3,Energetyków,,,,,32 4291000,,,yes,,50.112774,18.5196013
+746,10746,Wojewódzki Szpital Specjalistyczny nr 4,,,,,,+48 32 281-02-71,,,,,50.355705799999996,18.9131102
+747,10747,Wojewódzki Szpital Specjalistyczny nr 5 im. Świętej Barbary,,,,,,,,,,,50.3023513,19.121363100000003
+748,10748,Wojewódzki Szpital Specjalistyczny w Legnicy,,,,,,,,,,,51.207325399999995,16.2193475
+749,10749,Wojewódzki Szpital Specjalistyczny we Wrocławiu,Henryka Michała Kamieńskiego,,,,,,,,,,51.1507047,17.0457466
+750,10750,Wojewódzki Szpital Zakaźny,,,,,,,,,,,52.232941600000004,20.9713012
+751,10751,Wojewódzki Szpital Zespolony,,,,,,,,,,,51.9638303,20.1537002
+752,10752,Wojewódzki Szpital Zespolony,,,,,,,,,,,51.9637847,20.154448000000002
+753,10753,Wojewódzki Szpital Zespolony,,,,,,,,,,,51.9636352,20.153984
+754,10754,Wojewódzki Szpital Zespolony,Juraszów,,,,,,,,,,52.4388806,16.9049989
+755,10755,Wojewódzki Szpital Zespolony,Grunwaldzka,,,,,+48 41 367 13 01,,,,,50.8743938,20.6018485
+756,10756,Wojewódzki Szpital Zespolony - Szpital Dziecięcy,Konstytucji 3 Maja,,,,,,,,yes,,53.0220975,18.691968399999997
+757,10757,Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego,,,,,,,,,,,53.1233625,23.1615988
+758,10758,Wojewódzki Szpital Zespolony im. L. Rydygiera,Świętego Józefa,,,,,,,,yes,,53.0262347,18.583292999999998
+759,10759,Wojewódzki Szpital Zespolony im. Ludwika Perzyny,Poznańska,,,,,+48 62 765 12 51,,,yes,,51.762932299999996,18.067068
+760,10760,Wojewódzki Szpital Zespolony im. Ludwika Perzyny,Toruńska,,,,,,,,,,51.768977,18.0999563
+761,10761,Wojewódzki Szpital Zespolony im. Marcina Kacprzaka w Płocku,Medyczna,,,,,,,,yes,,52.5579696,19.654591500000002
+762,10762,Wojewódzki Szpital Zespolony im. prof. dr. Witolda Orłowskiego w Częstochowie,Polskiego Czerwonego Krzyża,,,,,,,,,,50.8302823,19.1103414
+763,10763,Wojewódzki Szpital Zespolony w Lesznie,Jana Kiepury,,,,,,,,yes,,51.840944799999995,16.604080800000002
+764,10764,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych,,,,,,,,,,,51.2790472,16.4568689
+765,10765,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych,,,,,,,,,no,,51.2588305,15.5875688
+766,10766,"Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych ""Dziekanka"" im. Aleksandra Piotrowskiego",Poznańska,,,,,,,,,,52.534604099999996,17.5813588
+767,10767,Wojewódzki Szpital dla Nerwowo i Psychicznie Chorych w Sieniawce,Rolnicza,,,,,,,,,,50.89200820000001,14.8396239
+768,10768,Wojewódzki Szpital im. Św. Ojca Pio w Przemyślu,,,,,,,,,,,49.8102309,22.783051999999998
+769,10769,Wojewódzki Zakład Opieki Psychiatrycznej w Sokołówce,,,,,,+48627637013,,,,,51.8196115,18.3080056
+770,10770,Wojewódzki Zespół Zakładów Opieki Zdrowotnej – Centrum Leczenia Chorób Płuc i Rehabilitacji im. błogosławionego ojca Rafała Chylińskiego,,,,,,+42 617 72 11,,,,,51.8471902,19.475324899999997
+771,10771,Wojewódzki ośrodek diabetologii i chorób metabolicznych,,,,,,,,,,,51.764126399999995,19.4827371
+772,10772,Wojewódzkie Centrum Medyczne,,,,,,,,,,,50.675326399999996,17.975673800000003
+773,10773,Wojewódzkie Centrum Pediatrii Kubalonka,,,,,,,,,,,49.6007251,18.899095199999998
+774,10774,Wojewódzkie Centrum Psychiatrii Długoterminowej,Morawka,,,,,,,,,,50.2911204,16.8785177
+775,10775,Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej,Michała Kleofasa Ogińskiego,,,,,,,,,,50.9142094,15.765820199999999
+776,10776,Wojskowy Instytut Medycyny Lotniczej,Zygmunta Krasińskiego,,,,,,,,,,52.2611641,20.9628298
+777,10777,Wojskowy Ośrodek Medycyny Prewencyjnej,,,,,,,,,,,52.43393390000001,20.6647661
+778,10778,ZLA Amicus-Med,Klasztorna,,,,,+48 32 419 14 16,,,,,50.2011135,18.3151679
+779,10779,ZOZ Oddział II Wewnętrzny,Ekonomii,,,,,,,,,,51.0996856,20.8697665
+780,10780,"ZZOZ Wadowice, Szpital powiatowy im. Jana Pawła II",Karmelicka,,,,,,,,,,49.880967999999996,19.4906774
+781,10781,Zachodnie Centrum Medyczne,,,,,,,,,,,52.0578174,15.097368
+782,10782,Zachodniopomorskie Centrum Onkologii,,,,,,,,,,,53.46732629999999,14.5922397
+783,10783,Zakład Opieki Długoterminowej i Paliacji,Marszałka Józefa Piłsudskiego,,,,,+48 17 229 70 25,,,no,,49.883416700000005,22.101222
+784,10784,Zakład Opieki Zdrowotnej MSWiA im. prof. Ludwika Bierkowskiego,Dojazd,,,,,,,,,,52.437289799999995,16.9046275
+785,10785,Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji,,,,,,+48 91 43 29 511,,,,,53.4360228,14.5233991
+786,10786,Zakład Opiekuńczo Leczniczy,,,,,,,,,,,50.85652460000001,17.4785068
+787,10787,Zakład Opiekuńczo-Leczniczy,,,,,,,,,,,52.52832900000001,17.572844
+788,10788,Zakład Opiekuńczo-Leczniczy,Parkowa,,,,,,,,,,50.305265000000006,17.3835388
+789,10789,Zakład Pielęgnacyjno - Opiekuńczy imienia świętego Józefa w Pleszewie,,,,,,,,,,,51.8990348,17.78525
+790,10790,"Zespół Opieki Zdrowotnej ,,Szpitala Powiatowego” w Sochaczewie",,,,,,+48 46 864-95-00,,,,,52.2384086,20.223927399999997
+791,10791,Zespół Opieki Zdrowotnej Szpital Psychiatryczny,,,,,,,,,,,50.0584532,21.3682963
+792,10792,Zespół Opieki Zdrowotnej w Bolesławcu,,,,,,,,,,,51.2553219,15.5673784
+793,10793,"Zespół Opieki Zdrowotnej w Chełmnie, Szpital Rejonowy im. L. Rydygiera",Ludwika Rydygiera,,,,,+48 56 677 26 07,,,,,53.3446928,18.419235
+794,10794,Zespół Opieki Zdrowotnej w Ostrowcu Świętokrzyskim,Karola Szymanowskiego,,,,,+4841 247 80 00,,,,,50.9526539,21.360288100000002
+795,10795,Zespół Opieki Zdrowotnej w Rydułtowach,,,,,,,,,,,50.0600824,18.4250384
+796,10796,Zespół Opieki Zdrowotnej w Skarżysku-Kamiennej,Szpitalna,,,,,,,,,,51.126421,20.870082699999998
+797,10797,Zespół Profilaktyki i Rehabilitacji,,,,,,,,,,,50.8917891,15.9285591
+798,10798,Zespół Szpitali Miejskich w Chorzowie,Strzelców Bytomskich,,,,,32 349-91-15,,,,,50.2915995,18.940638500000002
+799,10799,"Zespół Szpitalno - Sanatoryjny ""ZACHĘTA""",Tadeusza Kościuszki,,,,,,,,no,,52.8791265,18.797404500000003
+800,10800,"Zespół Szpitalno - Sanatoryjny ""ZACHĘTA"" B",Tadeusza Kościuszki,,,,,,,,no,,52.8795493,18.7950995
+801,10801,"Zespół sanatoryjno-Szpitalny ""Gwarek""",,,,,,,,,,,49.9396019,18.980090399999998
+802,10802,ośrodek zdrowia,Stefana Żeromskiego,,,,,,,,,,51.0051922,22.703460600000003
+803,10803,przychodnia w małdytach,,,,,,,,,,,53.9206575,19.7409703
+804,10804,szpital psychiatryczny,,,,,,,,,,,50.4527439,18.5232217
+805,10805,Łużyckie Centrum Medyczne,Zawidowska,,,,,,,,,,51.1166863,15.2740571
+806,10806,Świętokrzyskie Centrum Rehabilitacji w Czarnieckiej Górze,,,,,,,,,,,51.1363269,20.528967
+807,10807,Żagiel Med Szpital,,,,,,,,,,,51.2262329,22.5949052

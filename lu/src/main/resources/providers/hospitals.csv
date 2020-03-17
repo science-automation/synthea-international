@@ -1,0 +1,14 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Centre Hospitalier,,,,,,,,,,,49.6167041,6.1009636
+1,10001,Centre Hospitalier Neuro-Psychiatrique (CHNP),,,,,,,,,,,49.84313529999999,6.0964532
+2,10002,Centre Hospitalier du Nord,Avenue Lucien Salentiny,,,,,,,,,,49.8532735,6.0946999
+3,10003,Centre de Convalescence,,,,,,+352 2755 4300,,,,,49.7592849,5.8250859
+4,10004,Centre hospitalier Émile Mayrisch,,,,,,,,,,,49.502992299999995,5.9806643
+5,10005,Clinique Sainte-Marie,,,,,,,,,yes,,49.5013745,5.9865260000000005
+6,10006,Clinique d'Eich,Rue d'Eich,,,,,+352 44 11 12,,,,,49.630763,6.1349911
+7,10007,Clinique saint Joseph Wiltz,Rue Grande-Duchesse Charlotte,,,,,,,,yes,,49.965351299999995,5.9339156
+8,10008,Hôpital Kirchberg,,,,,,+352 2468-1,,,,,49.631793,6.1775012
+9,10009,Hôpital de la ville de Dudelange,Rue de l'Hôpital,,,,,,,,,,49.4707005,6.088256400000001
+10,10010,Maison des Soins Sacré Coeur,,,,,,,,,,,49.8703995,6.1544587
+11,10011,Rehazenter,,,,,,,,,,,49.6288334,6.1749046
+12,10012,Sénologie,,,,,,,,,,,49.6309966,6.1354292

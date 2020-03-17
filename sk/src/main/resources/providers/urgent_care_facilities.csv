@@ -1,0 +1,22 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,20001,Detská fakultná nemocnica Košice,,,,,,+421552354101,,,yes,,48.721642200000005,21.2391504
+2,20002,Detská fakultná nemocnica s poliklinikou Banská Bystrica,Námestie Ludvíka Svobodu,,,,,+421 48 472 65 11,,,yes,,48.7430887,19.1188485
+6,20006,Fakultná nemocnica Trenčín,,,,,,,,,yes,,48.8838722,18.0272033
+8,20008,Fakultná nemocnica s poliklinikou F.D. Roosevelta,Námestie Ludvíka Svobodu,,,,,,,,yes,,48.7452816,19.1138999
+12,20012,Fakultná nemocnica s poliklinikou Žilina,,,,,,,,,yes,,49.2184185,18.7449224
+15,20015,Kysucká nemocnica s poliklinikou Čadca,Palárikova,,,,,,,,yes,,49.4383154,18.774607
+16,20016,Lekárska služba prvej pomoci,,,,,,,,,yes,,48.7349378,21.253526
+19,20019,Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu,Palúčanská,,,,,,,,yes,,49.085007,19.5990758
+26,20026,"Nemocnica Košice-Šaca a.s., 1. súkromná nemocnica",,,,,,,,,yes,,48.643964700000005,21.1724086
+27,20027,Nemocnica Krompachy spol. s r.o.,,,,,,,,,yes,,48.9055989,20.8722359
+31,20031,Nemocnica Zlaté Moravce a.s.,Bernolákova,,,,,,,,yes,,48.3833885,18.397810500000002
+36,20036,Nemocnica s poliklinikou Ilava,,,,,,,,,yes,,48.9941958,18.229785999999997
+37,20037,Nemocnica s poliklinikou Považská Bystrica,,,,,,,,,yes,,49.1045113,18.458003
+54,20054,Poliklinika Západ,,,,,,,,,yes,,48.72245770000001,21.2377899
+64,20064,Univerzitná nemocnica Bratislava - Nemocnica sv. Cyrila a Metoda,Antolská,,,,,,,,yes,,48.102315600000004,17.1156951
+67,20067,Univerzitná nemocnica L. Pasteura,Rastislavova,,,,,,,,yes,,48.7092102,21.253869899999998
+68,20068,Univerzitná nemocnica Louisa Pasteura,Trieda SNP,,,,,,,,yes,,48.72422279999999,21.236527
+71,20071,Východoslovenský ústav srdcových a cievnych chorôb,,,,,,,,,yes,,48.721198,21.2408617
+74,20074,Všeobecná nemocnica Rimavská Sobota,,,,,,,,,yes,,48.3845488,20.024159
+75,20075,"Všeobecná nemocnica s poliklinikou Lučenec, n.o.",,,,,,,,,yes,,48.329618599999996,19.6579217
+88,20088,Železničná nemocnica s poliklinikou Košice,,,,,,,,,yes,,48.7281181,21.2588677

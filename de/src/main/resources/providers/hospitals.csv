@@ -1,0 +1,2027 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,13 - LFI-Gebäude,,,,,,,,,,,50.924487899999995,6.9166819
+1,10001,ACURA Kliniken Albstadt GmbH,Robert-Koch-Straße,,,,,,,,,,48.2374484,9.0335627
+2,10002,AGAPLESION Bethesda Klinik Ulm,,,,,,,,,,,48.4019156,10.007245300000001
+3,10003,AHG Klinik,Ferndorfstraße,,,,,,,,,,50.998698299999994,8.1151191
+4,10004,AHG Klinik Hardberg,,,,,,,,,no,,49.831461499999996,9.015281199999999
+5,10005,AHG Klinik Römhild,,,,,,,,,,,50.3897749,10.564237199999999
+6,10006,AHG Klinik und Moorbad,Gesundbrunnenstraße,,,,,,,,no,,52.77375260000001,14.0211734
+7,10007,AMEOS Innere Kliniken,Am Gradierwerk,,,,,,,,,,51.996433700000004,11.7158944
+8,10008,AMEOS Klinikum,Tiroler Ring,,,,,+49 431 780530,,,no,,54.2966377,10.185087199999998
+9,10009,AMEOS Klinikum,,,,,,,,,,,52.14247460000001,9.9802635
+10,10010,AMEOS Klinikum Alfeld,Landrat-Beushausen-Straße,,,,,,,,yes,,51.994148700000004,9.833699800000002
+11,10011,AMEOS Klinikum Heiligenhafen,Friedrich-Ebert-Straße,,,,,,,,,,54.372924600000005,10.963550999999999
+12,10012,AMEOS Klinikum Inntal,Jakob-Weindler-Straße,,,,,,,,,,48.262761,13.014605099999999
+13,10013,AMEOS Klinikum Kaiserstuhl,Brunngasse,,,,,,,,no,,48.1049675,7.6309154999999995
+14,10014,AMEOS Klinikum Mitte Bremerhaven,Wiener Straße,,,,,+49 471 4805 0,,,,,53.5521666,8.576482
+15,10015,AMEOS Klinikum Neustadt,Wiesenhof,,,,,+49 4561 6110,,,,,54.107513100000006,10.7927989
+16,10016,AMEOS Klinikum Preetz,Am Krankenhaus,,,,,,,,,,54.238988600000006,10.276117300000001
+17,10017,AMEOS Klinikum Schönebeck,,,,,,,,,,,52.0130586,11.7400112
+18,10018,AMEOS Klinikum Seepark Geestland,Langener Straße,,,,,+49 4743 893 0,,,,,53.6166664,8.6279875
+19,10019,AMEOS Klinikum St. Salvator Halberstadt,Gleimstraße,,,,,,,,yes,,51.9009511,11.0533717
+20,10020,AMEOS Klinikum ehem. Sana-Klinkum,Kiefholzstraße,,,,,,,,,,52.286198799999994,11.3784845
+21,10021,ASB Rettungshundestaffel Hattingen,,,,,,,,,no,,51.4134547,7.2003187
+22,10022,ASKLEPIOS Klinik Schaufling,Hausstein,,,,,+49 9904 770,,,,,48.8623668,13.0649632
+23,10023,ATOS Klinik,Bismarckstraße,,,,,+49 6221 983-0,,,,,49.410169700000004,8.6917653
+24,10024,ATOS-Klinik,Effnerstraße,,,,,,,,no,,48.1545022,11.6165521
+25,10025,AWO Krankenhaus Calbe,,,,,,,,,,,51.903460100000004,11.767240199999998
+26,10026,AWO Psychiatriezentrum,Vor dem Kaiserdom,,,,,,,,,,52.2468005,10.810831199999999
+27,10027,Aatalklinik,,,,,,,,,no,,51.51778839999999,8.7005009
+28,10028,Abtseeklinik,,,,,,,,,,,47.9145093,12.907351
+29,10029,Achenbach Krankenhaus,Köpenicker Straße,,,,,,,,,,52.30200870000001,13.6266279
+30,10030,Achertalklinik für Psychiatrie und Psychotherapie,Markgraf-Bernhard-Straße,,,,,,,,,,48.565932000000004,8.1551233
+31,10031,Agaplesion Allgemeines Krankenhaus Hagen,,,,,,+49 2331 201 0,,,,,51.3547053,7.4654817
+32,10032,Agaplesion Diakonieklinikum Rotenburg,Elise-Averdieck-Straße,,,,,,,,yes,,53.10575970000001,9.4115161
+33,10033,Agaplesion Evangelisches Klinikum Schaumburg gGmbH,Zum Schaumburger Klinikum,,,,,+49 5724 95800,,,yes,,52.2657349,9.1030571
+34,10034,Agaplesion Neu-Bethlehem,Humboldtallee,,,,,,,,,,51.5403849,9.9427453
+35,10035,Agaplesion evangelisches Krankenhaus Holzminden,Forster Weg,,,,,+49 5531 7050,,,yes,,51.835003799999996,9.455443699999998
+36,10036,Aggertalklinik Engelskirchen,,,,,,,,,,,50.9873842,7.3828233999999995
+37,10037,Albert-Schweitzer-Therapeutikum Holzminden,Pipping,,,,,,,,no,,51.8247852,9.4832008
+38,10038,Albertinen-HausZentrum für Geriatrie und Gerontologie,,,,,,,,,,,53.628297499999995,9.9247635
+39,10039,Albklinik Münsingen,,,,,,,,,yes,,48.404206,9.4903384
+40,10040,Alexianer Krankenhaus,,,,,,,,,no,,50.7715719,6.0812264
+41,10041,"Alexianer Krankenhaus, Tagesklinik",Mörgensstraße,,,,,,,,,,50.7711244,6.0813690000000005
+42,10042,Alexianer Münster GmbH,Alexianerweg,,,,,,,,,,51.877493799999996,7.563717
+43,10043,Alexianer St. Joseph Krankenhaus Berlin-Weißensee,,,,,,,,,yes,,52.5515022,13.4681057
+44,10044,Alexianer-Krankenhaus Köln,,,,,,,,,,,50.8975184,7.0387132
+45,10045,Alfried-Krupp-Krankenhaus,,,,,,,,,,,51.4242048,7.006473599999999
+46,10046,Alice-Hospital,,,,,,,,,,,49.8770681,8.666528900000001
+47,10047,Aller-Weser-Klinik Verden,Eitzer Straße,,,,,,,,,,52.91313910000001,9.2309496
+48,10048,Allgemeines Krankenhaus,Krankenhausstraße,,,,,,,,,,53.94197020000001,10.309434399999999
+49,10049,Allgemeines Krankenhaus Viersen,,,,,,,,,,,51.249686,6.3816752
+50,10050,Allgemeinspychatrische Tagesklinik,Allerstraße,,,,,,,,,,51.5046925,7.5479277
+51,10051,Altbau Feuerwehrstraße,,,,,,,,,,,52.3710635,9.725722099999999
+52,10052,Altenzentrum Bethesda,,,,,,,,,,,52.089495899999996,8.7455478
+53,10053,Alter Marienbau,Böheimstraße,,,,,,,,,,48.7613172,9.1628345
+54,10054,Altmark-Klinikum,Brunnenstraße,,,,,,,,,,52.855842200000005,11.1454543
+55,10055,Altmark-Klinikum Gardelegen,,,,,,,,,,,52.52305079999999,11.3819077
+56,10056,Altonaer Kinderkrankenhaus,,,,,,+49 40 88908-0,,,yes,,53.551203,9.9127621
+57,10057,Amalie-Sieveking-Krankenhaus,Haselkamp,,,,,,,,yes,,53.641079000000005,10.1523153
+58,10058,Ambulanz,,,,,,,,,,,52.3705849,9.7246299
+59,10059,Ameos Klinikum Anklam,Hospitalstraße,,,,,+49 3971 834 0,,,yes,,53.848582900000004,13.6994424
+60,10060,Ameos Klinikum Dr. Heines,Rockwinkeler Landstraße,,,,,,,,,,53.0773621,8.941268699999998
+61,10061,Ameos-Klinikum,Eislebener Straße,,,,,+49 3473 970,,,,,51.745515999999995,11.458327
+62,10062,Anmeldung,,,,,,,,,,,48.007900299999996,7.8574535
+63,10063,Annastift,,,,,,,,,,,52.369249100000005,9.809451600000001
+64,10064,Arona Klinik für Altersmedizin,Blumberger Damm,,,,,,,,,,52.5148157,13.5643894
+65,10065,Artemed Fachklinik,,,,,,,,,,,52.2042841,8.8044855
+66,10066,Arztgruppe,,,,,,,,,,,48.187096999999994,8.9982136
+67,10067,Arztpraxi Michael Stegherr,Hauptstraße,,,,,,,,,,48.51221760000001,10.518466199999999
+68,10068,Asklepios Burgseekliniken (Parkklinik),Burgseestraße,,,,,,,,yes,,50.807826399999996,10.2387531
+69,10069,Asklepios Fachklinikum Brandenburg,Anton-Saefkow-Allee,,,,,+49 3381 780,,,,,52.41886829999999,12.479043199999998
+70,10070,Asklepios Fachklinikum Göttingen,Rosdorfer Weg,,,,,,,,,,51.522444799999995,9.9197306
+71,10071,Asklepios Fachklinikum Lübben,Luckauer Straße,,,,,+49 3546 290,,,,,51.9361274,13.8887415
+72,10072,Asklepios Fachklinikum Stadtroda,Bahnhofstraße,,,,,,,,,,50.8602592,11.7246536
+73,10073,Asklepios Fachklinikum Teupitz,,,,,,,,,,,52.1305598,13.620263099999999
+74,10074,Asklepios Fachklinikum Tiefenbrunn,Tiefenbrunn,,,,,,,,,,51.49763529999999,9.8775047
+75,10075,Asklepios Harzklinik Bad Harzburg,Ilsenburger Straße,,,,,,,,,,51.8861171,10.5773992
+76,10076,Asklepios Harzklinik Clausthal-Zellerfeld,Windmühlenstraße,,,,,,,,,,51.8081658,10.333413499999999
+77,10077,Asklepios Harzklinik Goslar,Kösliner Straße,,,,,,,,,,51.9296304,10.4421415
+78,10078,Asklepios Klinik,Lindenstraße,,,,,,,,,,49.740714000000004,8.6284636
+79,10079,Asklepios Klinik,,,,,,,,,,,48.9333299,12.038881
+80,10080,Asklepios Klinik Altona,,,,,,,,,yes,,53.55399370000001,9.9038601
+81,10081,Asklepios Klinik Barmbek,,,,,,+49 40 181882 0,,,,,53.6075958,10.0345707
+82,10082,Asklepios Klinik Birkenwerder,Hubertusstraße,,,,,+49 3303 5220,,,,,52.6908789,13.2973136
+83,10083,Asklepios Klinik Harburg,,,,,,,,,yes,,53.458801199999996,9.951374900000001
+84,10084,Asklepios Klinik Langen,,,,,,,,,yes,,49.9995557,8.683425199999999
+85,10085,Asklepios Klinik Lich,,,,,,,,,,,50.5259816,8.8063788
+86,10086,Asklepios Klinik Melsungen,Kasseler Straße,,,,,,,,yes,,51.137657700000005,9.5399847
+87,10087,Asklepios Klinik Nord Heidberg,,,,,,+49 40 1818870,,,yes,,53.677347499999996,10.030166
+88,10088,Asklepios Klinik Nord Ochsenzoll,,,,,,,,,,,53.675602299999994,10.0060852
+89,10089,Asklepios Klinik Pasewalk,Prenzlauer Chaussee,,,,,+49 3973 230,,,yes,,53.490373399999996,13.983274599999998
+90,10090,Asklepios Klinik Sankt Augustin,,,,,,,,,,,50.774916499999996,7.1800885999999995
+91,10091,Asklepios Klinik Seligenstadt,,,,,,,,,yes,,50.042035299999995,8.9630013
+92,10092,Asklepios Klinik St. Georg,,,,,,+49 40 181885 0,,,yes,,53.560936700000006,10.0179546
+93,10093,Asklepios Klinik Triberg,Ludwigstraße,,,,,+49 7722 9550,,,,,48.12841629999999,8.2311482
+94,10094,Asklepios Klinik Wandsbek,,,,,,+49 40 181883-0,,,yes,,53.570977799999994,10.0901034
+95,10095,Asklepios Klinik am Kurpark,Am Kurpark,,,,,,,,,,53.9212932,10.7001866
+96,10096,Asklepios Kliniken Schildautal,Karl-Herold-Straße,,,,,,,,,,51.8828744,10.2146076
+97,10097,Asklepios Neurologische Klinik Falkenstein,Asklepiosweg,,,,,,,,no,,50.1909439,8.4838085
+98,10098,Asklepios Nordseeklinik,Norderstraße,,,,,+49 4651 84 0,,,yes,,54.9259941,8.3161293
+99,10099,Asklepios Privatklinik,Schützenstraße,,,,,,,,no,,47.7574046,11.5495031
+100,10100,Asklepios Stadtklinik,Schützenstraße,,,,,+49 8041 507-01,,,yes,,47.757276700000006,11.5516352
+101,10101,Asklepios Stadtklinik,Schützenstraße,,,,,+49 8041 507-01,,,yes,,47.7572217,11.5515325
+102,10102,Asklepios Stadtklinik Bad Wildungen,Brunnenallee,,,,,+49 5621 795 0,,,,,51.1180614,9.114856399999999
+103,10103,Asklepios Südpfalzklinik Germersheim,,,,,,+49 7274 504 0,,,yes,,49.220226000000004,8.3650734
+104,10104,Asklepios Südpfalzklinik Kandel,,,,,,+49 7275 71-0,,,,,49.0855913,8.2000356
+105,10105,Asklepios Tagesklinik,Friedländer Weg,,,,,,,,,,51.5285255,9.946676199999999
+106,10106,Asklepios Westklinikum Hamburg,,,,,,+49 40 8191 0,,,,,53.582219499999994,9.7729113
+107,10107,Asklepios-Klinik Bad Oldesloe,Schützenstraße,,,,,,,,yes,,53.81196510000001,10.3644108
+108,10108,Asklepios-Paulinen-Klinik,Geisenheimer Straße,,,,,,,,yes,,50.0722682,8.2259214
+109,10109,Augenklinik,Doberaner Straße,,,,,,,,,,54.0902615,12.1184652
+110,10110,Augenklinik,,,,,,,,,,,51.3843945,8.5832589
+111,10111,Augenklinik Berlin Marzahn,Brebacher Weg,,,,,,,,,,52.514626899999996,13.5670486
+112,10112,Augenklinik Herzog Carl Theodor,Nymphenburger Straße,,,,,,,,,,48.1483651,11.5503431
+113,10113,Augenklinik Universitätsallee Bremen,Parkallee,,,,,,,,,,53.1049502,8.841574000000001
+114,10114,Augenklinik der Universität München,Mathildenstraße,,,,,,,,,,48.135674,11.5632237
+115,10115,Augenklinik-Ambulanz,,,,,,,,,,,49.4930129,8.486602
+116,10116,Augenklinik;Medizinische Klinik,,,,,,,,,,,51.5083699,7.456681
+117,10117,August-Bier-Klinik,Diekseepromenade,,,,,+49 4523 405 0,,,no,,54.1648167,10.5473668
+118,10118,Augusta Krankenhaus,Amalienstraße,,,,,+49 211 90430,,,,,51.2669255,6.825613400000001
+119,10119,Augusta-Klinik Bochum-Mitte,Bergstraße,,,,,+49 234 517-0,,,yes,,51.4858641,7.2214815
+120,10120,Augusta-Kranken-Anstalt Bochum-Linden,,,,,,,,,,,51.4233628,7.157921099999999
+121,10121,Augustahospital Anholt,,,,,,,,,no,,51.8491321,6.432403400000001
+122,10122,Auguste-Viktoria-Klinik,,,,,,,,,,,52.206509499999996,8.7860134
+123,10123,Auguste-Viktoria-Klinikum,Rubensstraße,,,,,+49 30 130200,,,yes,,52.459274,13.348324
+124,10124,Aussentreppe,,,,,,,,,,,48.7583364,9.162364199999999
+125,10125,BDH-Klinik Hessisch Oldendorf,Greitstraße,,,,,+49 5152 781 0,,,,,52.1746079,9.2485358
+126,10126,BDH-Klinik Vallendar,,,,,,,,,,,50.4001838,7.6112292
+127,10127,BG Klinik Ludwigshafen,,,,,,,,,yes,,49.4867865,8.3907591
+128,10128,BG Klinikum Bergmannstrost Halle,Merseburger Straße,,,,,,,,yes,,51.4611451,11.983940800000001
+129,10129,BG Klinikum Duisburg,Großenbaumer Allee,,,,,+49 203 7688-0,,,yes,,51.379589700000004,6.7817457999999995
+130,10130,BG Unfallklinik,Friedberger Landstraße,,,,,,,,yes,,50.1433208,8.7086977
+131,10131,BRK Bereitschaft Großostheim,Wallstädter Weg,,,,,,,,,,49.9160479,9.086654
+132,10132,Balzerbornkliniken,Balzerbornweg,,,,,,,,,,51.263076,9.9673599
+133,10133,Barbarossa Klinik,Lange Straße,,,,,,,,,,51.4309115,11.0288662
+134,10134,Barmherzige Brüder Saffig,,,,,,,,,no,,50.377369099999996,7.419687700000001
+135,10135,Baumholder Army Health Clinic,,,,,,,,,yes,,49.6150147,7.3276666
+136,10136,Benedictus Krankenhaus Feldafing,,,,,,,,,,,47.9514315,11.298663900000001
+137,10137,Benedictus Krankenhaus Tutzing,Bahnhofstraße,,,,,+498158230,,,yes,,47.9070843,11.2773086
+138,10138,Bereich Bachstraße,,,,,,,,,,,50.92973129999999,11.576249699999998
+139,10139,Bereich Dornburger Straße,,,,,,,,,,,50.9374977,11.5883953
+140,10140,Bereich Erfurter Straße,,,,,,,,,,,50.935095200000006,11.5638731
+141,10141,Bereich Landgrafengebiet,,,,,,,,,,,50.9335487,11.578503999999999
+142,10142,Bereich Stadtzentrum,,,,,,,,,,,50.9283432,11.5837448
+143,10143,Berolina Klinik,,,,,,,,,,,52.198238399999994,8.783911300000002
+144,10144,Berolina Klinik,,,,,,,,,,,52.197720200000006,8.784864500000001
+145,10145,Berolina Klinik Haus 1,,,,,,,,,,,52.198398299999994,8.7865856
+146,10146,Berolina Klinik Haus 2,,,,,,,,,,,52.1985944,8.7851357
+147,10147,Berolina Klinik Haus 3,,,,,,,,,,,52.198353600000004,8.7844949
+148,10148,Bertha-Krankenhaus,Maiblumenstraße,,,,,+492065258461,,,no,,51.3967167,6.6993451
+149,10149,Berufsgenossenschaftliche Klinikum Hamburg,,,,,,,,,yes,,53.5053253,10.1754918
+150,10150,Berufsgenossenschaftliche Unfallklinik,,,,,,,,,,,48.5345657,9.035605499999999
+151,10151,Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil GmbH,Bürkle de la Camp-Platz,,,,,+49 234 302-0,,,,,51.469680100000005,7.2114771
+152,10152,Beta Klink,Joseph-Schumpeter-Allee,,,,,,,,,,50.719057799999995,7.151343799999999
+153,10153,Bethanien-Krankenhaus,Rohrbacher Straße,,,,,,,,,,49.3922528,8.6903374
+154,10154,Bethanienkrankenhaus,,,,,,,,,,,50.128852,8.706231800000001
+155,10155,Bethesda Krankenhaus,Euelsbruchstraße,,,,,+49 2734 2790,,,,,50.8994284,7.8639519
+156,10156,Bethesda Krankenhaus Bergedorf,,,,,,,,,yes,,53.48516970000001,10.2378179
+157,10157,Bethesda-Krankenhaus,Hainstraße,,,,,,,,yes,,51.2689813,7.129514100000001
+158,10158,Bethlehem Gesundheitszentrum,Steinfeldstraße,,,,,,,,yes,,50.772737299999996,6.230356400000001
+159,10159,Betriebskindertagesstätte Bergmännchen,,,,,,,,,,,52.4022846,13.0673356
+160,10160,Bettenhaus Nord,,,,,,,,,,,52.3713576,9.725010800000002
+161,10161,Bettenhaus Ost,,,,,,,,,,,52.3707083,9.725515300000001
+162,10162,Bettenhaus St. Antonius Hospital,,,,,,,,,yes,,51.773084499999996,6.135199299999999
+163,10163,Bettenhaus Süd,,,,,,,,,,,52.370303899999996,9.725016499999999
+164,10164,Bettenhaus West,,,,,,,,,,,52.3706834,9.723733900000001
+165,10165,Bezirksklinikum Ansbach,Feuchtwanger Straße,,,,,+49 981 46530,,,,,49.292382399999994,10.5463923
+166,10166,Bezirksklinikum Mainkofen,,,,,,+49 9931 870,,,,,48.809267299999995,12.8987088
+167,10167,Bezirksklinikum Passau,,,,,,,,,,,48.566539500000005,13.4465949
+168,10168,Bezirksklinikum Wöllershof,Wöllershof,,,,,,,,,,49.74788579999999,12.182947300000002
+169,10169,Bezirkskrankenhaus,Nordring,,,,,+49 921 2830,,,,,49.956024600000006,11.5664323
+170,10170,Bezirkskrankenhaus Augsburg,Dr.-Mack-Straße,,,,,+49 821 4803-0,,,no,,48.3872283,10.830702
+171,10171,Bezirkskrankenhaus I,,,,,,,,,,,49.155697499999995,11.719904199999998
+172,10172,Bezirkskrankenhaus II,Pfarrer-Fischer-Straße,,,,,,,,,,49.1543897,11.718213
+173,10173,Bezirkskrankenhaus Landshut,Prof.-Buchner-Straße,,,,,,,,,,48.5369034,12.1340016
+174,10174,Bezirkskrankenhaus Straubing Forensisch-psychiatrische Klinik,Lerchenhaid,,,,,+49 9421 8005 0,,,no,,48.881204,12.531686500000001
+175,10175,BfA Kurklinik Lipperland,,,,,,,,,,,52.089820200000005,8.755546
+176,10176,BfA-Klinik,,,,,,,,,,,51.6770602,12.729743699999998
+177,10177,Birkle Klinik,Obere Sankt-Leonhard-Straße,,,,,+4975518030,,,,,47.7662515,9.181613699999998
+178,10178,Blutspende/ Transfusionsmedizin,Schillerstraße,,,,,,,,,,49.5992662,11.016224099999999
+179,10179,Boddenklinik,Sandhufe,,,,,,,,,,54.236640799999996,12.444328599999999
+180,10180,Bonifatius Hospital,Wilhelmstraße,,,,,+49 591 910 0,,,,,52.5230787,7.316592699999999
+181,10181,Borromäus Hospital,Kirchstraße,,,,,+49 491 85 0,,,,,53.22797289999999,7.443341
+182,10182,Brohltal-Klinik St. Josef,,,,,,+49 2636 530,,,no,,50.45623270000001,7.279029700000001
+183,10183,Bruder-Klaus-Krankenhaus,Heitereweg,,,,,+49 7681 2080,,,yes,,48.0978363,7.9521019
+184,10184,Brüderhaus Koblenz,Kardinal-Krementz-Straße,,,,,,,,,,50.353025099999996,7.5856822
+185,10185,Brüderkrankenhaus Montabaur,,,,,,,,,yes,,50.431599799999994,7.831582400000001
+186,10186,Brüderkrankenhaus Sankt Josef,,,,,,,,,,,51.711223499999996,8.757529
+187,10187,Buchberg-Klinik Bad Tölz,Wengleinstraße,,,,,+49 8041 803–0,,,,,47.759948,11.539713699999998
+188,10188,Buchinger Wilhelmi - Fachklinik für Heilfasten,Wilhelm-Beck-Straße,,,,,,,,,,47.771722,9.1456908
+189,10189,Bundeswehr Dienstelle - Facharztzentrum Amberg,Köferinger Straße,,,,,,,,,,49.4293458,11.8551821
+190,10190,Bundeswehrkrankenhaus Berlin,Scharnhorststraße,,,,,,,,yes,,52.534169299999995,13.370702900000001
+191,10191,Bundeswehrkrankenhaus Ulm,Oberer Eselsberg,,,,,,,,yes,,48.424997999999995,9.9484704
+192,10192,Burghof-Klinik Haus 1,Ritterstraße,,,,,,,,,,52.184617200000005,9.0812673
+193,10193,Burghof-Klinik Haus 3,Virchowstraße,,,,,,,,no,,52.2044955,9.0731635
+194,10194,Burghofklinik,Burgallee,,,,,,,,no,,50.3673789,8.7343993
+195,10195,Bürgerhospital,,,,,,+49 69 1500-0,,,,,50.130970899999994,8.686070800000001
+196,10196,Bürgerhospital Friedberg,,,,,,,,,yes,,50.335362200000006,8.7508001
+197,10197,CELENUS ALGOS-Klinik,Hermann-Sachse-Straße,,,,,,,,,,50.9196823,11.863538900000002
+198,10198,Caduceus Fachkrankenhaus,Niendorfer Weg,,,,,+49 5821 9775 0,,,,,53.0906986,10.6023672
+199,10199,Cantine / Cafeteria,Am Vogelherd,,,,,,,,,,47.6995815,9.8358592
+200,10200,Capio Elbe-Jeetzel-Klinik,Hermann-Löns-Straße,,,,,,,,,,53.083589100000005,11.080155900000001
+201,10201,Capio Franz von Prümmer Klinik,Bahnhofstraße,,,,,,,,,,50.3079623,9.7842837
+202,10202,Capio Hofgartenklinik,Hofgartenstraße,,,,,,,,,,49.9754076,9.154929800000001
+203,10203,Capio Klinik im Park,Hagelkreuzstraße,,,,,,,,,,51.1642695,6.9372894
+204,10204,Capio Krankenhaus Land Hadeln,Große Ortstraße,,,,,+49 4751 908 0,,,,,53.811168099999996,8.8891192
+205,10205,Capio Mathilden-Hospital,Am Schlag,,,,,+49 6042 86 0,,,yes,,50.2869378,9.1130517
+206,10206,Caritas Zentrum Memmingen,,,,,,,,,,,47.986839,10.1901462
+207,10207,Caritas-Heim Maria am See,Am Stadion,,,,,,,,,,50.8070096,10.237515199999999
+208,10208,Caritas-Krankenhaus Lebach,,,,,,+49 6881 501-0,,,,,49.4188158,6.890866099999999
+209,10209,Caritas-Krankenhaus Sankt Josef,Landshuter Straße,,,,,+49 941 782-0,,,yes,,49.00663839999999,12.1193046
+210,10210,CaritasKlinikum Saarbrücken St. Josef Dudweiler,Klosterstraße,,,,,,,,yes,,49.277314200000006,7.040423
+211,10211,CaritasKlinikum Saarbrücken St. Theresia,Rheinstraße,,,,,,,,yes,,49.248456299999994,6.9576049
+212,10212,Carl-Thiem-Klinikum,Thiemstraße,,,,,,,,yes,,51.7435854,14.3179285
+213,10213,Carl-von-Basedow-Klinikum,,,,,,,,,,,51.3708204,11.6055095
+214,10214,Celenus Fachklinik Freiburg,An den Heilquellen,,,,,+49 761 888590,,,no,,47.982828999999995,7.7667405
+215,10215,Centralklinik Pforzheim,,,,,,,,,,,48.8906898,8.696982
+216,10216,Charité Campus Virchow Klinikum,,,,,,+49 30 45050,,,yes,,52.542468799999995,13.340345600000001
+217,10217,Charité Universitätsmedizin Berlin,,,,,,,,,yes,,52.52561970000001,13.380129
+218,10218,Charité-Campus Benjamin Franklin,Hindenburgdamm,,,,,,,,yes,,52.4402845,13.316595800000002
+219,10219,Charlottenhall,Mathilde-Wurm-Straße,,,,,+49 3695 6923-0,,,,,50.813080299999996,10.2306968
+220,10220,Chiemgau Klinik Marquartstein,,,,,,,,,,,47.7473969,12.458670300000001
+221,10221,Chirurgie/Neurologie,,,,,,,,,,,51.508703499999996,7.4569158
+222,10222,Chirurgische Klinik,Beurhausstraße,,,,,,,,,,51.509367499999996,7.456278999999999
+223,10223,Chirurgische Klinik,Im Neuenheimer Feld,,,,,,,,,,49.4123309,8.673231
+224,10224,Chirurgische Klinik der Universität München,Nußbaumstraße,,,,,+49 89 5160-0,,,,,48.1341513,11.561389300000002
+225,10225,Chirurgische Privatklinik Bogenhausen,Denninger Straße,,,,,+49 89 92794 0,,,yes,,48.1485219,11.614905499999999
+226,10226,Chirurgische Tagesklinik,,,,,,,,,,,48.818231899999994,13.5480427
+227,10227,Christliches Kinderhospital Osnabrück,Johannisfreiheit,,,,,,,,,,52.2699029,8.0534697
+228,10228,Christophorus Klink (Fachklinik für den Maßregelvollzug),,,,,,,,,,,51.8790907,7.5591791
+229,10229,Christophorus-Kliniken,Vollenstraße,,,,,,,,yes,,51.827739,7.279677700000001
+230,10230,Christophorushaus,,,,,,,,,no,,48.1593338,11.6200581
+231,10231,Christophorushaus,,,,,,,,,no,,48.1592973,11.620239100000001
+232,10232,Christophsbad,Faurndauer Straße,,,,,+49 7161 601-0,,,,,48.700063899999996,9.6408302
+233,10233,Clemens Hospital,Düesbergweg,,,,,+49 251 9760,,,yes,,51.932342999999996,7.6120325
+234,10234,Clementine Kinderhospital,Theobald-Christ-Straße,,,,,,,,yes,,50.114379799999995,8.697970699999999
+235,10235,Cochlear Implant Centrum,,,,,,,,,,,52.393391799999996,9.7862982
+236,10236,Collm Klinik Oschatz,Parkstraße,,,,,,,,yes,,51.293180799999995,13.113504500000001
+237,10237,Curtius-Klinik,Neue Kampstraße,,,,,,,,,,54.172048600000004,10.565142800000002
+238,10238,Cusanus-Krankenhaus Bernkastel-Kues,Karl-Binz-Weg,,,,,,,,yes,,49.915804200000004,7.062763400000001
+239,10239,DIAKO,Gröpelinger Heerstraße,,,,,+49 421 6102 0,,,,,53.1254478,8.7446065
+240,10240,DIAKO Fachklinik für Psychiatrie und Psychosomatik,Gammeltoft,,,,,,,,,,54.6149365,8.9844229
+241,10241,DIAKOVERE Friederikenstift Humboldtstraße,Humboldtstraße,,,,,,,,yes,,52.3721461,9.723682499999999
+242,10242,DIAKOVERE Henriettenstift Marienstraße,Marienstraße,,,,,,,,,,52.369850799999995,9.7544734
+243,10243,DONAUISAR Klinikum Deggendorf,,,,,,+49 991 3800,,,,,48.839888099999996,12.971872300000001
+244,10244,DRK Dorndiel/Klein-Umstadt,Seewiese,,,,,,,,no,,49.866060499999996,9.0163288
+245,10245,DRK Görwihl,Mühleberg,,,,,,,,,,47.641985600000005,8.0753585
+246,10246,DRK Heim,Am Edenhof,,,,,,,,,,53.600328000000005,7.289206200000001
+247,10247,DRK Kamillus Klinik Asbach,Hospitalstraße,,,,,+49 2683 59-0,,,,,50.6668938,7.4241542
+248,10248,DRK Kliniken Berlin - Köpenick,,,,,,,,,yes,,52.441380599999995,13.5966884
+249,10249,DRK Kliniken Berlin | Mitte,,,,,,,,,,,52.556709600000005,13.3767948
+250,10250,DRK Kliniken Westend,Spandauer Damm,,,,,+49303035-0,,,yes,,52.5192059,13.274707399999999
+251,10251,DRK Krankenhaus,Klützer Straße,,,,,+49 3881 7260,,,,,53.868551000000004,11.183278300000001
+252,10252,DRK Krankenhaus Alzey,,,,,,,,,yes,,49.7463593,8.1049004
+253,10253,DRK Krankenhaus Chemnitz-Rabenstein,Unritzstraße,,,,,,,,yes,,50.8226419,12.8239605
+254,10254,DRK Krankenhaus Hachenburg,,,,,,+49 2662 85-0,,,yes,,50.6574368,7.8320141
+255,10255,DRK Krankenhaus Kirchen,Bahnhofstraße,,,,,,,,,,50.8064925,7.8794497
+256,10256,DRK Krankenhaus Sondershausen,Hospitalstraße,,,,,+49 3632 670,,,yes,,51.3745949,10.877269400000001
+257,10257,DRK Manniske-Krankenhaus gGmbH,An der Wipper,,,,,,,,,,51.356921500000006,11.094686099999999
+258,10258,DRK Unterkunft Staufenberg,,,,,,,,,no,,50.6579792,8.7385159
+259,10259,DRK-Blutspendedienst Hessen gemeinnützige GmbH,Sandhofstraße,,,,,+49 69 67820,,,,,50.092415700000004,8.653144000000001
+260,10260,DRK-Fachklinik Hahnknüll,Hahnknüll,,,,,,,,,,54.09770210000001,9.9474956
+261,10261,DRK-Kinderklinik,,,,,,,,,,,50.882364700000004,8.018537400000001
+262,10262,"DRK-Kliniken Nordhessen, Standort Kaufungen",,,,,,+49 5605 9450,,,no,,51.28453029999999,9.648158
+263,10263,"DRK-Kliniken Nordhessen, Standort Wehlheiden",Hansteinstraße,,,,,,,,yes,,51.31207379999999,9.4533138
+264,10264,DRK-Krankenhaus Clementinenhaus,,,,,,,,,,,52.387401700000005,9.7448222
+265,10265,DRK-Krankenhaus Luckenwalde,Saarstraße,,,,,,,,yes,,52.098920299999996,13.1793696
+266,10266,DRK-Krankenhaus Mecklenburg-Strelitz,Penzliner Straße,,,,,+49 3981 268 0,,,yes,,53.3801943,13.0542694
+267,10267,DRK-Krankenhaus Mölln-Ratzeburg,Röpersberg,,,,,+49 4541 8840,,,,,53.6901514,10.7791837
+268,10268,DRK-Ortsverein Bad Urach,Espachstraße,,,,,,,,,,48.4912166,9.4024092
+269,10269,"DRK-Vorsorge- und Rehaeinrichtung für Mutter und Kind - ""Schloss Neuhaus""",Schloßbergring,,,,,,,,no,,50.314658,11.245208900000002
+270,10270,DRV Reha-Klinik Taubertal,Ketterberg,,,,,,,,no,,49.5002001,9.7807419
+271,10271,Danuvius Klinik,,,,,,,,,,,48.40394860000001,11.4758497
+272,10272,Darmklinik Exter,,,,,,,,,,,52.1335189,8.7766407
+273,10273,Deegenbergklinik Bad Kissingen,Burgstraße,,,,,+49 971 8210,,,,,50.1938883,10.0885492
+274,10274,Deutsche Klinik für Diagnostik,Aukammallee,,,,,,,,,,50.0869645,8.2682465
+275,10275,Deutsche Rentenversicherung BUND – Reha-Zentrum Bad Frankenhausen,Udersleber Weg,,,,,,,,,,51.3606285,11.1179173
+276,10276,Deutsches Herzzentrum,Lazarettstraße,,,,,+49 89 1218-0,,,,,48.1522636,11.5473842
+277,10277,Deutsches Zentrum für Kinder- und Jugendrheumatologie,Gehfeldstraße,,,,,,,,,,47.4875017,11.1024114
+278,10278,DiaMed Centrum-Clinic,,,,,,,,,,,49.293082399999996,10.7909091
+279,10279,Diabetes Zentrum Mergentheim,Theodor-Klotzbücher-Straße,,,,,,,,,,49.496117100000006,9.778723300000001
+280,10280,Diabeteszentrum Bad Lauterberg,Kirchberg,,,,,+49 5524 81 1,,,,,51.6274205,10.4723577
+281,10281,Diagnose und Therapiezentrum / Kurmittelhaus,Kaiserstraße,,,,,,,,,,51.5876207,8.169161200000001
+282,10282,Diakonie Kork,,,,,,+49 7851 840,,,,,48.5686843,7.8625335000000005
+283,10283,Diakonie Krankenhaus,Ringstraße,,,,,+49 671 6050,,,yes,,49.836963399999995,7.8632992
+284,10284,Diakonie Suchtklinik,Schellenberg,,,,,,,,no,,53.1039946,8.210419900000002
+285,10285,Diakonie-Kliniken Kassel,Herkulesstraße,,,,,,,,yes,,51.3146839,9.461119199999999
+286,10286,Diakonie-Klinikum Neunkirchen,,,,,,+49 6821 18-0,,,yes,,49.341006799999995,7.1819038
+287,10287,Diakonie-Krankenhaus,,,,,,,,,yes,,49.7950885,7.4561521
+288,10288,Diakonie-Krankenhaus Harz,Badestraße,,,,,+49 36331360,,,,,51.5606436,10.839855400000001
+289,10289,Diakonie-Krankenhaus Harz,Brockenstraße,,,,,,,,,,51.7718084,10.789228199999998
+290,10290,Diakonie-Krankenhaus Wehrda,,,,,,,,,,,50.8302468,8.760745199999999
+291,10291,Diakoniekrankenhaus Halle,Lafontainestraße,,,,,,,,yes,,51.4948888,11.958065300000001
+292,10292,Diakoniekrankenhaus Mannheim,Speyerer Straße,,,,,+49 621 81020,,,yes,,49.4646903,8.469493400000001
+293,10293,Diakoniekrankenhaus Seehausen,,,,,,,,,,,52.881591,11.747698
+294,10294,Diakonieverbund der Kirchengemeinden Freiamts und Sexau,Ernst-Bühler-Weg,,,,,+49 7641 913024,,,,,48.103486,7.9065325
+295,10295,Diakoniewerk München-Maxvorstadt,Heßstraße,,,,,+49 89 21220,,,,,48.1518,11.5686507
+296,10296,Diakonische Stiftung Wittekindshof,,,,,,,,,,,52.2557872,8.784713900000002
+297,10297,Diakonissen-Stiftungs-Krankenhaus Speyer (Haus Hilgardstraße),Paul-Egell-Straße,,,,,+49 6232 221796,,,yes,,49.3114571,8.432054800000001
+298,10298,Diakonissenkrankenhaus Dessau,Gropiusallee,,,,,,,,yes,,51.838504799999995,12.2270694
+299,10299,Diakonissenkrankenhaus Flensburg,Knuthstraße,,,,,+49 461 8120,,,yes,,54.79119010000001,9.424201199999999
+300,10300,Dialyse Zentrum,,,,,,,,,,,51.6869175,7.8479426
+301,10301,Dialyse-Zentrum,Rennbahn,,,,,,,,,,50.9794912,10.3255957
+302,10302,Dialysezentrum,Annastraße,,,,,,,,,,51.4453664,6.6413398
+303,10303,"Dialysezentrum PHV-Der Dialysepartner, Patienten-Heimversorgung",Obernfelder Allee,,,,,+49 5741 809092,,,,,52.2976013,8.6038321
+304,10304,Die Filderklinik,,,,,,,,,,,48.64717720000001,9.201695800000001
+305,10305,Die Johanniter Waldkrankenhaus,Waldstraße,,,,,,,,yes,,50.6824459,7.1290932
+306,10306,Dietrich-Bonhoeffer-Klinikum,Salvador-Allende-Straße,,,,,,,,yes,,53.546329500000006,13.2914862
+307,10307,Dietrich-Bonhoeffer-Klinikum,Basedower Straße,,,,,,,,,,53.736562600000006,12.755465
+308,10308,Dietrich-Bonhoeffer-Klinikum Altentreptow,Klosterberg,,,,,,,,,,53.6970664,13.251357999999998
+309,10309,Dill-Klinikum,Rotebergstraße,,,,,+49 2771 / 396-0,,,,,50.7464545,8.2846436
+310,10310,Diätschule,Eierstraße,,,,,,,,,,48.7595031,9.1637969
+311,10311,Dominikus-Krankenhaus,Kurhausstraße,,,,,+4930 4092 0,,,yes,,52.625713600000005,13.2915177
+312,10312,Domus Mea in Bavaria,,,,,,,,,no,,48.062297799999996,12.763895199999999
+313,10313,Donau-Isar Klinikum Landau,Bayerwaldring,,,,,+49 9951 75-1,,,yes,,48.666265100000004,12.7012403
+314,10314,Donauisar Klinikum Dingolfing,Teisbacher Straße,,,,,+49 8731 880,,,,,48.6210782,12.488803599999999
+315,10315,Dr. Becker Burgklinik,Burgstraße,,,,,,,,no,,50.782546999999994,10.1271922
+316,10316,Dr. Becker Kiliani-Klinik,Schwarzallee,,,,,,,,,,49.5086044,10.4107082
+317,10317,Dr. Becker Klinik,Schnappweg,,,,,,,,,,51.4924475,8.118598500000001
+318,10318,Dr. Fontheim Mentale Gesundheit,Lindenstraße,,,,,,,,,,52.0239338,10.4325786
+319,10319,Dr. Horst Schmidt Kliniken,,,,,,,,,yes,,50.067161,8.188909299999999
+320,10320,Dr. med. Volker Winkelmann,Rosenheimer Straße,,,,,+49 8034 8222,,,,,47.7364353,12.1052248
+321,10321,Dr. v. Ehrenwall'sche Klinik,Walporzheimer Straße,,,,,+49 2641 3860,,,,,50.5397755,7.090888400000001
+322,10322,Dreifaltigkeits Hospital,,,,,,,,,,,51.6736523,8.3376649
+323,10323,Dreifaltigkeits Hospital,,,,,,,,,yes,,51.673969799999995,8.33892
+324,10324,Dreifaltigkeits Krankenhaus,Aachener Straße,,,,,,,,,,50.9367195,6.9053975
+325,10325,Dreifaltigkeitskloster,,,,,,,,,,,51.3137768,6.573038900000001
+326,10326,Dynamisch-Psychiatrische Klinik Menterschwaige,Geiselgasteigstraße,,,,,+49 89 642723 0,,,,,48.0796819,11.5566945
+327,10327,Dynamisch-Psychiatrische Klinik Menterschwaige,Geiselgasteigstraße,,,,,,,,,,48.0800246,11.5562194
+328,10328,EOS-Klinik für Psychotherapie,Hammer Straße,,,,,,,,no,,51.9538624,7.625534200000001
+329,10329,Eduardus-Krankenhaus,Custodisstraße,,,,,,,,yes,,50.933088299999994,6.980131599999999
+330,10330,Eichsfeld Klinikum,,,,,,,,,yes,,51.4240682,10.3603247
+331,10331,Eichsfeld Klinikum,Klosterstraße,,,,,,,,,,51.3467977,10.363022099999998
+332,10332,Einbecker Bürgerspital,Andershäuser Straße,,,,,,,,,,51.833946000000005,9.867640199999999
+333,10333,Eisenmoorbad,Kurpromenade,,,,,+49 34925 63037,,,no,,51.6839727,12.7311921
+334,10334,Elbe Kliniken Stade,Bremervörder Straße,,,,,,,,,,53.598263,9.443405199999999
+335,10335,Elblandklinikum Meißen,,,,,,,,,yes,,51.175148799999995,13.504581900000002
+336,10336,Elblandklinikum Meißen,,,,,,,,,yes,,51.1748911,13.5065601
+337,10337,Elblandklinikum Radebeul,Heinrich-Zille-Straße,,,,,,,,yes,,51.108668200000004,13.650044199999998
+338,10338,Elblandklinikum Riesa,,,,,,,,,yes,,51.2971446,13.309123699999999
+339,10339,Eleonoren-Klinik,Am Kaiserturm,,,,,+49-6255-3020,,,,,49.7174115,8.779468199999998
+340,10340,Elisabeth Klinikum Schmalkalden,Eichelbach,,,,,,,,yes,,50.721479200000005,10.4412883
+341,10341,Elisabeth Krankenhaus,,,,,,,,,,,51.446285499999995,7.0339339999999995
+342,10342,Elisabeth-Klinik,,,,,,,,,,,51.502958899999996,7.5459664
+343,10343,Elisabeth-Klinik,,,,,,,,,yes,,51.3573333,8.4733196
+344,10344,Elisabeth-Krankenhaus,Klosterstraße,,,,,,,,,,52.4974892,7.4881243
+345,10345,Elisabeth-Krankenhaus,Weinbergstraße,,,,,+49 56172010,,,yes,,51.310356299999995,9.4911173
+346,10346,Ermstalklinik,Stuttgarter Straße,,,,,,,,,,48.4968956,9.3886871
+347,10347,Ernst von Bergmann Gesundheitsakademie,,,,,,,,,,,52.402678,13.0674792
+348,10348,"Ernst von Bergmann Klinikum - Psychiatrie, Psychotherapie",,,,,,,,,,,52.3842117,13.1363608
+349,10349,Erste Hilfe Station,,,,,,,,,,,51.6130463,6.978668700000001
+350,10350,Erste-Hilfe-Station,,,,,,,,,,,51.620163,6.976709
+351,10351,Erzgebirgsklinikum,Chemnitzer Straße,,,,,,,,yes,,50.592594299999995,13.0074538
+352,10352,Eschenberg-Wildpark-Klinik,,,,,,,,,,,50.7688534,7.276904300000001
+353,10353,Espan Klinik,Gartenstraße,,,,,,,,,,48.016903899999996,8.5393265
+354,10354,Ethianum,Voßstraße,,,,,,,,,,49.409462299999994,8.684004400000001
+355,10355,Ev. Jung-Stilling Krankenhaus,,,,,,+49 271/333-3,,,yes,,50.850906,8.019931
+356,10356,Ev. Krankenhaus Bethanien,,,,,,,,,,,51.3704969,7.6934947
+357,10357,Ev. Krankenhaus Bethesda,,,,,,,,,,,51.1983685,6.423708400000001
+358,10358,Ev. Krankenhaus Hagen-Haspe,,,,,,,,,,,51.348006700000006,7.4118841
+359,10359,Ev. Krankenhaus Kredenbach B.Weiss Klinik,Dr.-Stelbrink-Straße,,,,,,,,,,50.970173100000004,8.0343662
+360,10360,Ev. Krankenhaus Luckau,Berliner Straße,,,,,,,,yes,,51.853210499999996,13.702668599999999
+361,10361,Ev. Krankenhaus Lutherstift,,,,,,,,,,,52.333581200000005,14.5369165
+362,10362,Ev. Krankenhaus Paul Gerhardt Stift,Paul-Gerhardt-Straße,,,,,+49 3491 500,,,yes,,51.8695373,12.6537918
+363,10363,Ev. Lukas-Krankenhaus,Zum Lukas-Krankenhaus,,,,,,,,yes,,52.2173099,7.030410400000001
+364,10364,Ev. Lukas-Krhs. Tagesklinik für Psychiatrie und Psychotherapie,Bentheimer Straße,,,,,,,,no,,52.2161958,7.030480000000001
+365,10365,Evang. Krankenhaus Herne - Betriebsstelle Eickel,Hordeler Straße,,,,,+49 2323 4989 0,,,yes,,51.510528799999996,7.1749220000000005
+366,10366,Evang. Krankenhaus Hohenlimburg,Iserlohner Straße,,,,,,,,yes,,51.3581964,7.5655943
+367,10367,Evangelische Kliniken Luise-Henrietten-Stift Lehnin,Klosterkirchplatz,,,,,+49 3382 786138,,,,,52.322751399999994,12.7440347
+368,10368,Evangelisches Diakoniekrankenhaus Freiburg,,,,,,+49 761 1301-01,,,yes,,48.023799200000006,7.8138552
+369,10369,Evangelisches Diakonissenkrankenhaus Leipzig,Georg-Schwarz-Straße,,,,,,,,yes,,51.3432039,12.3189279
+370,10370,Evangelisches Geriatriezentrum Berlin,Reinickendorfer Straße,,,,,,,,,,52.5550558,13.3656992
+371,10371,Evangelisches Klinikum Bethel (EvKB) - Haus Mosesberg - Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie,Remterweg,,,,,+49 521 772-76930,,,yes,,52.0081306,8.5322284
+372,10372,Evangelisches Krankenhaus,Holbeinstraße,,,,,,,,yes,,51.5330459,7.6773072
+373,10373,Evangelisches Krankenhaus,,,,,,,,,no,,49.2450052,7.3727583
+374,10374,Evangelisches Krankenhaus,Kirchfeldstraße,,,,,,,,yes,,51.2124606,6.772365
+375,10375,Evangelisches Krankenhaus,,,,,,,,,,,51.6710547,7.8268364
+376,10376,Evangelisches Krankenhaus,Paul-Zipp-Straße,,,,,,,,yes,,50.5927484,8.6489214
+377,10377,Evangelisches Krankenhaus Alsterdorf,Elisabeth-Flügge-Straße,,,,,+49 40 50773241,,,,,53.6140149,10.022757400000001
+378,10378,Evangelisches Krankenhaus BETHESDA zu Duisburg GmbH,Heerstraße,,,,,,,,yes,,51.41692929999999,6.763001200000001
+379,10379,Evangelisches Krankenhaus Bad Dürkheim,,,,,,+49 6322 607-0,,,yes,,49.4667235,8.1782967
+380,10380,Evangelisches Krankenhaus Bethanien,Gützkower Landstraße,,,,,,,,,,54.0794713,13.3819997
+381,10381,Evangelisches Krankenhaus Castrop-Rauxel,Grutholzallee,,,,,+49 2305 1020,,,,,51.5669203,7.317758
+382,10382,Evangelisches Krankenhaus Dierdorf,Hachenburger Straße,,,,,,,,,,50.5477795,7.6622276
+383,10383,Evangelisches Krankenhaus Dinslaken,Kreuzstraße,,,,,,,,,,51.558883200000004,6.730448700000001
+384,10384,Evangelisches Krankenhaus Dinslaken,,,,,,+49 2064 42-0,,,,,51.5591722,6.7289656
+385,10385,Evangelisches Krankenhaus Duisburg-Nord,Fahrner Straße,,,,,+4920350800,,,yes,,51.514291799999995,6.7638662
+386,10386,Evangelisches Krankenhaus Elisabethenstift,,,,,,,,,,,49.8742814,8.663683
+387,10387,Evangelisches Krankenhaus Essen-Steele (ehemals Knappschafts-Krankenhaus),Am Deimelsberg,,,,,,,,no,,51.4420494,7.0614174
+388,10388,Evangelisches Krankenhaus Essen-Werden,Pattbergstraße,,,,,,,,yes,,51.390402,7.0054682
+389,10389,Evangelisches Krankenhaus Göttingen-Lengern,Pappelweg,,,,,,,,no,,51.5910231,9.8722116
+390,10390,Evangelisches Krankenhaus Herne Mitte,Wiescherstraße,,,,,,,,yes,,51.533377200000004,7.2298008000000005
+391,10391,Evangelisches Krankenhaus Herne-Eickel,,,,,,,,,,,51.5108526,7.1768089999999995
+392,10392,Evangelisches Krankenhaus Hubertus,,,,,,,,,,,52.430674399999994,13.2219935
+393,10393,Evangelisches Krankenhaus Johannisstift,Wichernstraße,,,,,+4925127060,,,yes,,51.9726367,7.6240452
+394,10394,Evangelisches Krankenhaus Kalk,,,,,,,,,yes,,50.9406323,7.0089609
+395,10395,Evangelisches Krankenhaus Königin Elisabeth Herzberge,Herzbergstraße,,,,,,,,yes,,52.5255316,13.5116272
+396,10396,Evangelisches Krankenhaus Ludwigsfelde-Teltow,Albert-Schweitzer-Straße,,,,,,,,yes,,52.3100431,13.2586355
+397,10397,Evangelisches Krankenhaus Mettmann,Gartenstraße,,,,,+49 (0)2104 773-0,,,yes,,51.250987,6.9704045
+398,10398,Evangelisches Krankenhaus Mülheim,,,,,,,,,yes,,51.4234682,6.8822944
+399,10399,Evangelisches Krankenhaus Oberhausen,,,,,,,,,,,51.4756656,6.8659723
+400,10400,Evangelisches Krankenhaus Weende,An der Lutter,,,,,,,,yes,,51.5558458,9.941494699999998
+401,10401,Evangelisches Krankenhaus Witten,Pferdebachstraße,,,,,,,,,,51.446034999999995,7.344444500000001
+402,10402,Evangelisches Krankenhaus Woltersdorf,Schleusenstraße,,,,,,,,,,52.4485292,13.7609715
+403,10403,Evangelisches Stadtkrankenhaus Saarbrücken,,,,,,,,,yes,,49.2330305,7.0033944
+404,10404,Evangelisches Stift Sankt Martin,Johannes-Müller-Straße,,,,,,,,,,50.3491376,7.593191
+405,10405,Evangelisches Waldkrankenhaus Spandau,,,,,,,,,,,52.559637800000004,13.156681900000002
+406,10406,Facharztzentrum Aalen,Weidenfelder Straße,,,,,+49 7361 68666,,,,,48.8397446,10.0922336
+407,10407,Facharztzentrum Mediplus Hilden,Walder Straße,,,,,,,,,,51.1686927,6.9433921000000005
+408,10408,Fachklinik Allgäu,Peter-Heel-Straße,,,,,,,,,,47.5844035,10.547804699999999
+409,10409,Fachklinik Bad Blankenburg,Georgstraße,,,,,+49 36741 41490,,,,,50.6760472,11.2660661
+410,10410,Fachklinik Bad Heilbrunn,Wörnerweg,,,,,,,,no,,47.7498755,11.4609229
+411,10411,Fachklinik Enzensberg,,,,,,,,,,,47.6135277,10.687036
+412,10412,Fachklinik Falkenburg,Falkenburgweg,,,,,+49 7083 9260,,,,,48.8018968,8.4357566
+413,10413,Fachklinik Fischer-Haus,Mönchkopfstraße,,,,,,,,,,48.8210279,8.3598031
+414,10414,Fachklinik Freudenholm-Ruhleben,Missionsweg,,,,,,,,,,54.136312,10.444857800000001
+415,10415,Fachklinik Freudenholm-Ruhleben,Freudenholm,,,,,,,,,,54.217703099999994,10.3099655
+416,10416,Fachklinik Friedrichshof,,,,,,,,,,,49.1160044,9.413877900000001
+417,10417,Fachklinik Furth im Wald,Eichertweg,,,,,,,,,,49.31577720000001,12.8223455
+418,10418,Fachklinik Gaißach,,,,,,+49 8041 798-0,,,no,,47.745898499999996,11.5807201
+419,10419,Fachklinik Haus Immanuel,,,,,,,,,,,50.0399818,11.4138274
+420,10420,Fachklinik Heiligenfeld,Euerdorfer Straße,,,,,+49 971 840,,,,,50.1883153,10.0699541
+421,10421,Fachklinik Herzogenaurach,In der Reuth,,,,,,,,,,49.577453999999996,10.8692736
+422,10422,Fachklinik Hornheide,,,,,,,,,no,,52.014261499999996,7.7096803
+423,10423,Fachklinik Im Deerth,,,,,,,,,no,,51.3373968,7.448980099999999
+424,10424,Fachklinik Kamillushaus,Heidhauser Straße,,,,,,,,,,51.3743384,7.0175304999999994
+425,10425,Fachklinik Klosterwald,Bahnhofstraße,,,,,+493 66 01 859-0,,,,,50.911347799999994,11.8635086
+426,10426,Fachklinik Langenberg,,,,,,,,,,,51.3521104,7.113587700000001
+427,10427,Fachklinik Oldenburger Land,Neerstedter Straße,,,,,,,,no,,52.9632225,8.3933722
+428,10428,Fachklinik Rusteberg,Rusteberger Straße,,,,,,,,,,51.3861464,10.0092849
+429,10429,Fachklinik Schillerhöhe,Solitudestraße,,,,,,,,defibrillator,,48.787804200000004,9.073579800000001
+430,10430,Fachklinik St. Camillus,Kirchstraße,,,,,+49203479070,,,no,,51.5312148,6.7071259
+431,10431,Fachklinik St. Marien,,,,,,,,,,,47.6037555,10.404556800000002
+432,10432,Fachklinik Stadtsteinach,,,,,,,,,,,50.1665447,11.500683300000002
+433,10433,Fachklinik Weihersmühle,,,,,,+49 9105 9944 0,,,,,49.3865374,10.7893181
+434,10434,Fachklinik Wigbertshöhe,,,,,,,,,,,50.8600231,9.693420399999999
+435,10435,Fachklinik Wilhelmsheim,,,,,,,,,,,49.0073235,9.456465800000002
+436,10436,Fachklinik für Neurologie Dietenbronn,,,,,,,,,,,48.162357,9.9688806
+437,10437,Fachklinikum Uchtspringe,,,,,,,,,,,52.53759920000001,11.595039199999999
+438,10438,Fachkrankenhaus Coswig,,,,,,,,,,,51.131286200000005,13.5964179
+439,10439,Fachkrankenhaus Jerichow,Johannes-Lange-Straße,,,,,,,,no,,52.5012135,12.0353254
+440,10440,Fachkrankenhaus für Psychiatrie und Neurologie,Eisfelder Straße,,,,,,,,,,50.4273799,10.7426581
+441,10441,Fachkrankenhaus für neurologische Frührehabilitation Beelitz-Heilstätten,Paracelsusring,,,,,,,,,,52.2663102,12.9260722
+442,10442,Falkenstein-Klinik,Ostrauer Ring,,,,,,,,no,,50.91899960000001,14.1722899
+443,10443,Fanny-Zahn-Haus,,,,,,,,,,,51.269309,6.3741773
+444,10444,Feldberg-Klinik,Todtmooser Straße,,,,,,,,,,47.7599454,8.121982000000001
+445,10445,Felsenland Klinik Dahn,Ingbert-Naab-Straße,,,,,,,,,,49.151902299999996,7.7826002999999995
+446,10446,Ferdinand-Wahrendorff-Klinik,Rudolf-Wahrendorff-Straße,,,,,,,,,,52.344553499999996,9.932554300000001
+447,10447,Fliedner Krankenhaus Neunkirchen,,,,,,+49 6821 901-0,,,yes,,49.3477631,7.1848193
+448,10448,Fliedner Tagesklinik,Sudfeldstraße,,,,,,,,,,51.317662799999994,7.337813499999999
+449,10449,Fliedner-Krankenhaus,,,,,,,,,,,51.334295399999995,6.817715400000001
+450,10450,Flora,,,,,,,,,,,52.291390299999996,11.3830129
+451,10451,Fontane-Klinik Motzen,Fontanestraße,,,,,,,,,,52.180162100000004,13.597366500000001
+452,10452,Forensische Klinik,Akazienstraße,,,,,+49 2421 400,,,,,50.8205917,6.4802963
+453,10453,Forensische Psychiatrie,,,,,,,,,no,,49.821302,8.499672
+454,10454,Frankenalb-Klinik Engelthal,Reschenbergstraße,,,,,+49 9158 9260,,,,,49.4764403,11.4054416
+455,10455,Frankenland-Klinik,,,,,,,,,,,49.508763200000004,10.4127276
+456,10456,Franziskus-Hospital Harderberg,Alte Rothenfelder Straße,,,,,,,,yes,,52.2384146,8.0701339
+457,10457,Franziskushospital,Morillenhang,,,,,+49 241 7501 0,,,yes,,50.766291700000004,6.0696083
+458,10458,Frauenklinik,Prittwitzstraße,,,,,,,,,,48.410024299999996,9.9927791
+459,10459,Frauenklinik,,,,,,,,,,,51.5077656,7.459195599999999
+460,10460,Frauenklinik Dr. Hartog,Kiskerstraße,,,,,,,,,,52.023177000000004,8.5214898
+461,10461,Frauenklinik Maistraße,Maistraße,,,,,+49 89 5160-0,,,,,48.1298555,11.5625494
+462,10462,Frauenklinik München West,,,,,,,,,,,48.146308000000005,11.457469999999999
+463,10463,Frauenklinik/Ambulanz,,,,,,,,,,,49.49316760000001,8.4870569
+464,10464,Frauenklinik/Kreißsaal,,,,,,,,,,,49.4934309,8.4860861
+465,10465,Friederikenstift,,,,,,,,,,,52.3709685,9.7236603
+466,10466,Friedrich von Bodelschwingh-Klinik,,,,,,,,,no,,52.4892701,13.328935099999999
+467,10467,Friedrich-Ebert-Krankenhaus,Friesenstraße,,,,,,,,,,54.0649868,9.995042699999999
+468,10468,Friedrich-Husemann-Klinik,,,,,,,,,,,47.9671189,7.9957576
+469,10469,Funktionstrakt,,,,,,,,,,,52.3707117,9.725407
+470,10470,Furtbachkrankenhaus,Furtbachstraße,,,,,,,,,,48.7705046,9.171909
+471,10471,Föhrenbachklinik,Grüner Winkel,,,,,,,,no,,51.7570852,6.176711599999999
+472,10472,Földi Klinik,,,,,,,,,,,47.9115411,8.1019648
+473,10473,Fürst-Stirum-Klinik,Gutleutstraße,,,,,+49 7251 7080,,,yes,,49.1331057,8.60431
+474,10474,GFO Kliniken Troisdorf Betriebsstätte St. Johannes Sieglar,Wilhelm-Busch-Straße,,,,,,,,,,50.7972724,7.1177867
+475,10475,GFO Kliniken Troisdorf Betriebsstätte St. Josef Troisdorf,,,,,,,,,,,50.816857899999995,7.159711
+476,10476,GPR-Klinikum,,,,,,+49 6142 88-0,,,yes,,49.9834741,8.4230598
+477,10477,GRN-Betreuungszentrum,Alte Waibstadter Straße,,,,,,,,,,49.25331370000001,8.889353199999999
+478,10478,GRN-Klinik Eberbach,Scheuerbergstraße,,,,,,,,,,49.463054799999995,8.989711999999999
+479,10479,GRN-Klinik Schwetzingen,Bodelschwinghstraße,,,,,+49 6202 84-30,,,,,49.378052000000004,8.570119300000002
+480,10480,GRN-Klinik Sinsheim,,,,,,,,,,,49.2513813,8.8896149
+481,10481,GRN-Klinik Sinsheim,Alte Waibstadter Straße,,,,,+49 (0) 7261 66-0,,,yes,,49.251995,8.8899071
+482,10482,GRN-Klinik Weinheim,Röntgenstraße,,,,,+49 6201 890,,,,,49.5506231,8.6429317
+483,10483,Geburtensaal und OP-Säle,,,,,,,,,,,50.8438911,12.8830589
+484,10484,Geburtshaus Werne,Heitkamp,,,,,,,,,,51.6618814,7.614507400000001
+485,10485,Geburtshaus Werne,Heitkamp,,,,,,,,,,51.661909,7.6147195000000005
+486,10486,Gebäude-9 Bettenhaus,,,,,,,,,yes,,50.9238001,6.916549099999999
+487,10487,Gelderland-Klinik,Clemensstraße,,,,,,,,no,,51.5297585,6.3283402
+488,10488,Gelenkzentrum München,,,,,,,,,,,48.1458393,11.580486599999999
+489,10489,Gemeindepsychiatrisches Zentrum (GPZ),,,,,,,,,,,51.9456021,8.8902398
+490,10490,Gemeinschaftskrankenhaus Bonn Haus St. Elisabeth,,,,,,+49 228 5080,,,yes,,50.72702879999999,7.1022896
+491,10491,Gemeinschaftskrankenhaus Bonn Haus St. Petrus,Bonner Talweg,,,,,+49 228 5060,,,yes,,50.7281092,7.0980697
+492,10492,Gemeinschaftskrankenhaus Havelhöhe,Kladower Damm,,,,,,,,yes,,52.46084690000001,13.155807500000002
+493,10493,Gemeinschaftskrankenhaus Herdecke,,,,,,,,,yes,,51.4123339,7.3981532
+494,10494,Geriatrische Rehaklinik Giengen,Hirschstraße,,,,,+49 (0)7322 954 0,,,no,,48.62382589999999,10.2506147
+495,10495,Gerontopsychiatrischen Zentrum,,,,,,,,,,,51.2672539,6.3815467
+496,10496,Gertrudis Hospital Westerholt,Kuhstraße,,,,,,,,yes,,51.6006053,7.0853741999999995
+497,10497,Gesundheits- und Krankenpflegeschule,Eierstraße,,,,,,,,,,48.759343900000005,9.1636832
+498,10498,Gesundheitstraße,,,,,,,,,,,51.1378283,7.014844
+499,10499,Gesundheitszentrum,,,,,,,,,,,50.60478079999999,6.3034287
+500,10500,"Gesundheitszentrum ""Am Rennsteig""",Schanzweg,,,,,+49 36704 8820,,,,,50.4721914,11.081490800000001
+501,10501,Gesundheitszentrum Engen,Hewenstraße,,,,,,,,yes,,47.85383710000001,8.7669408
+502,10502,Gesundheitszentrum Glantal,Liebfrauenberg,,,,,+49 6753 910-0,,,,,49.7069963,7.6769112999999995
+503,10503,Gesundheitszentrum Hannover,Kestnerstraße,,,,,,,,,,52.371846399999995,9.7551344
+504,10504,Gesundheitszentrum Langenau,Karlstraße,,,,,,,,,,48.5003326,10.1161687
+505,10505,Gesundheitszentrum Meiningen,Bergstraße,,,,,,,,,,50.5578954,10.3994024
+506,10506,Gesundheitszentrum Wildau,Freiheitstraße,,,,,+49 3375 525 63 10,,,,,52.325615500000005,13.6297592
+507,10507,Ginsterhof Psychosomatische Klinik,Metzendorfer Weg,,,,,+49 4108 598 107,,,,,53.4050375,9.934252699999998
+508,10508,Goldberg-Klinik,Traubenweg,,,,,+49 9441 702-0,,,yes,,48.9238082,11.884583500000002
+509,10509,Gollwitzer-Meier-Klinik,Herforder Straße,,,,,+49 5731 - 249-0,,,,,52.2021937,8.7920191
+510,10510,"Gotthard-Schettler-Klinik, Sigmund-Weil-Klinik",,,,,,,,,no,,49.2172842,8.6713935
+511,10511,Gut Großer Neuenhof - Klinik für Kinder- und Jugendpsychiatrie,Neuenhofer Weg,,,,,,,,,,50.7724498,6.0426599
+512,10512,Gästehaus Barmherzigen Brüder Trier,,,,,,+49 651 208 1026,,,,,49.762915899999996,6.637736
+513,10513,HELIOS Albert-Schweitzer-Klinik Northeim,Albert-Schweitzer-Weg,,,,,+49 5551 97 0,,,,,51.73088,9.979092999999999
+514,10514,HELIOS Bördeklinik,Kreiskrankenhaus,,,,,,,,,,52.064984700000004,11.188368400000002
+515,10515,HELIOS Hanseklinikum Stralsund Krankenhaus West,Rostocker Chaussee,,,,,+49 3831 450,,,,,54.30382879999999,13.0386832
+516,10516,HELIOS Klinik Attendorn,Hohler Weg,,,,,,,,yes,,51.12651470000001,7.898738799999999
+517,10517,HELIOS Klinik Hohenstücken,,,,,,+49 3381 79 0,,,,,52.4353069,12.513195699999999
+518,10518,HELIOS Klinik Jerichower Land,,,,,,+49 3921 96 0,,,yes,,52.266157799999995,11.833864300000002
+519,10519,HELIOS Klinik Leisnig,Colditzer Straße,,,,,+49 34321 8-0,,,yes,,51.1551885,12.920601300000001
+520,10520,HELIOS Klinik Müllheim,Heliosweg,,,,,+49 7631 880,,,,,47.8115373,7.6342272
+521,10521,HELIOS Klinik Sangerhausen,Am Beinschuh,,,,,,,,yes,,51.4710283,11.3098115
+522,10522,HELIOS Klinik Wesermarsch,Mildred-Scheel-Straße,,,,,,,,,,53.456057200000004,8.442397999999999
+523,10523,HELIOS Klinik Wittingen,Gustav-Dobberkau-Straße,,,,,+49 5831 22 0,,,,,52.7305093,10.7402192
+524,10524,HELIOS Kliniken,Schillerstraße,,,,,+49 66 52 9 87 0,,,,,50.663179,9.7665389
+525,10525,HELIOS Kliniken Mittelweser Stolzenau,Holzhäuser Weg,,,,,,,,yes,,52.5157939,9.0673328
+526,10526,HELIOS Klinikum Berlin Buch,Schwanebecker Chaussee,,,,,+49 30 94010,,,yes,,52.6318307,13.501997
+527,10527,HELIOS Klinikum München West,,,,,,+49 89 8892 0,,,yes,,48.143840600000004,11.4527506
+528,10528,HELIOS Klinikum Niederberg,,,,,,,,,yes,,51.351200399999996,7.013403100000001
+529,10529,HELIOS Klinikum Pforzheim,,,,,,+49 7231 9690,,,,,48.8889822,8.710862400000002
+530,10530,HELIOS Klinikum Schleswig,Sankt-Jürgener-Straße,,,,,+49 4621 8120,,,yes,,54.5288164,9.5651914
+531,10531,HELIOS Klinkum Wuppertal,Heusnerstraße,,,,,,,,yes,,51.2731924,7.1740326
+532,10532,HELIOS Mariahilf Klinik Hamburg,,,,,,,,,,,53.470853299999995,9.936835199999999
+533,10533,HELIOS Marien Klinik,Grunewaldstraße,,,,,,,,yes,,51.412744599999996,6.7560034
+534,10534,HELIOS Seehospital Sahlenburg,Nordheimstraße,,,,,,,,,,53.865532200000004,8.600975300000002
+535,10535,HELIOS-Klinik Elberfeld,,,,,,,,,,,51.2510532,7.1339398
+536,10536,HNO-Ambulanz,,,,,,,,,,,49.49294329999999,8.486035800000002
+537,10537,HNO-Klinik,,,,,,,,,,,51.508094299999996,7.457105800000001
+538,10538,"HNO-Klinik, Uni-Klinikum",,,,,,,,,,,49.596357399999995,11.0120328
+539,10539,HNO-Praxis,Kanzlerstraße,,,,,,,,,,48.8894865,8.713431199999999
+540,10540,HPH,,,,,,,,,,,51.287529799999994,6.3545405
+541,10541,Habichtswald-Klinik,,,,,,,,,no,,51.312912299999994,9.4243101
+542,10542,Hans Carossa Klinik,,,,,,,,,,,47.745332299999994,8.446729
+543,10543,Haranni Clinic,,,,,,,,,no,,51.540614399999995,7.225453
+544,10544,Harzklinikum,,,,,,,,,,,51.794574,11.1642511
+545,10545,Harzklinikum Dorothea Christiane Erxleben,Thiestraße,,,,,+493944960,,,no,,51.7934279,10.956251199999999
+546,10546,Harzklinikum Dorothea Christiane Erxleben GmbH,Ditfurter Weg,,,,,,,,yes,,51.795379,11.1634281
+547,10547,Harzklinikum Kinderklinik,Steinbergstraße,,,,,,,,,,51.8163101,10.746936999999999
+548,10548,"Haupteingang, Notaufnahme",Rintelner Straße,,,,,,,,yes,,52.0377541,8.901152699999999
+549,10549,Haus 22,,,,,,,,,,,50.672955200000004,8.3036284
+550,10550,Haus Aggerblick,Marialindener Straße,,,,,,,,,,50.9382466,7.298299900000001
+551,10551,Haus Burgwald,In der Mordach,,,,,,,,,,49.806369200000006,8.681219699999998
+552,10552,Haus Dessauer,,,,,,,,,,,50.8704033,12.0463484
+553,10553,Haus I,Römerweg,,,,,,,,,,48.797546600000004,8.650246000000001
+554,10554,Haus II,Römerweg,,,,,,,,,,48.7995601,8.6505302
+555,10555,Haus III,Römerweg,,,,,,,,,,48.7986555,8.6494325
+556,10556,Haus Luftschloss,,,,,,,,,,,47.6994697,9.8349476
+557,10557,Haus Seeblick,Hillersbach,,,,,,,,,,50.396293299999996,9.1186761
+558,10558,Haus Siloah,,,,,,,,,,,51.3355615,6.8166556
+559,10559,Haus St. Vincenz Heiligenstadt,Windische Gasse,,,,,,,,,,51.3772523,10.1418367
+560,10560,Hautklinik,,,,,,,,,,,51.508347799999996,7.456353999999999
+561,10561,Havellandklinik,,,,,,+49 3321 421000,,,,,52.600373,12.8732525
+562,10562,Haßberg-Kliniken Haus Ebern,Coburger Straße,,,,,+49-9531-628-0,,,yes,,50.0966154,10.7976466
+563,10563,Haßberg-Kliniken Haus Hassfurt,Hofheimer Straße,,,,,+49 9521 28-511,,,,,50.040715000000006,10.5128431
+564,10564,Heckscher-Kinder-Klinik,,,,,,,,,no,,48.1141815,11.5827053
+565,10565,Hegau-Bodensee-Klinikum,Virchowstraße,,,,,+49 07731 89 0,,,yes,,47.7594537,8.8201309
+566,10566,Hegau-Bodensee-Klinikum Loreto,,,,,,,,,yes,,47.743198299999996,8.440273199999998
+567,10567,Heidekreis-Klinikum,,,,,,,,,,,52.860175600000005,9.5854339
+568,10568,Heidekreis-Klinikum gGmbH,Oeninger Weg,,,,,,,,yes,,52.98821529999999,9.8574066
+569,10569,Heidelberger Ionenstrahl-Therapiezentrum,Im Neuenheimer Feld,,,,,,,,,,49.4178461,8.6646134
+570,10570,Heil- und Pflegeanstalt Karlshof,Karlshof,,,,,,,,,,49.3698143,11.5956666
+571,10571,Heilig Geist,,,,,,,,,,,50.2326287,7.5881270999999995
+572,10572,Heilig-Geist-Hospital,Rodensteinstraße,,,,,+49 6251 1320,,,,,49.6782969,8.6204895
+573,10573,Heilig-Geist-Hospital Bingen,Kapuzinerstraße,,,,,,,,yes,,49.9685055,7.896174799999999
+574,10574,Heilig-Geist-Krankenhaus,Graseggerstraße,,,,,,,,yes,,50.9928494,6.924688099999999
+575,10575,Heiligenfeld Klinik,Krankenhausstraße,,,,,,,,,,49.3735836,12.706569400000001
+576,10576,Heiligenfeld Klinik,Krankenhausstraße,,,,,,,,,,49.5420245,10.2354979
+577,10577,Heinrich Sengelmann Krankenhaus,Kayhuder Straße,,,,,,,,no,,53.7594174,10.1577519
+578,10578,Heinrich-Braun-Klinikum Standort Kirchberg,Schneeberger Straße,,,,,,,,yes,,50.6264295,12.5608876
+579,10579,Heinrich-Braun-Krankenhaus,Karl-Keil-Straße,,,,,,,,yes,,50.723003600000006,12.427852
+580,10580,Heinrich-Heine-Klinik,Am Stinthorn,,,,,,,,,,52.446551899999996,13.0542809
+581,10581,Heinrich-Mann-Klinik,,,,,,,,,,,50.8107307,10.3531823
+582,10582,Helfensteinklinik,,,,,,,,,,,48.62508029999999,9.8435503
+583,10583,Helios Agnes-Karll-Krankenhaus,Am Hochkamp,,,,,+49 451 20070,,,no,,53.9227184,10.6933696
+584,10584,Helios Cäcilien-Hospital Hüls,,,,,,+49 2151 7391,,,yes,,51.3756589,6.5157693
+585,10585,Helios Frankenwaldklinik Kronach,Friesener Straße,,,,,,,,,,50.2447739,11.332822199999999
+586,10586,Helios Klinik,,,,,,,,,,,50.8614129,11.3381364
+587,10587,Helios Klinik (Nebengebäude),Am Hagen,,,,,+4923249660,,,,,51.3912443,7.216895299999999
+588,10588,Helios Klinik Bleicherode,Barbarastraße,,,,,,,,yes,,51.4432692,10.565344099999999
+589,10589,Helios Klinik Erlenbach,Krankenhausstraße,,,,,,,,yes,,49.8115214,9.166117999999999
+590,10590,Helios Klinik Erlenbach,,,,,,,,,,,49.8109127,9.1653402
+591,10591,Helios Klinik Hattingen,Am Hagen,,,,,+4923249660,,,,,51.3908771,7.2168185
+592,10592,Helios Klinik Herzberg/Osterode,Dr.-Frössel-Allee,,,,,,,,,,51.6696924,10.3431272
+593,10593,Helios Klinik Kipfenberg,Konrad-Regler-Straße,,,,,,,,,,48.9525466,11.3945442
+594,10594,Helios Klinik München Perlach,Schmidbauerstraße,,,,,+49 89 67802-1,,,yes,,48.1029388,11.6295521
+595,10595,Helios Klinik Oberwald,,,,,,,,,,,50.4865658,9.310166699999998
+596,10596,Helios Klinik Wipperfürth,Alte-Kölner-Straße,,,,,+49 2267 8890,,,,,51.1127161,7.3846061
+597,10597,Helios Klinik Zerbst/Anhalt,Friedrich-Naumann-Straße,,,,,,,,,,51.959994099999996,12.0933455
+598,10598,Helios Kliniken,,,,,,,,,,,51.320342700000005,6.5721022
+599,10599,Helios Kliniken Mittelweser Nienburg,Ziegelkampstraße,,,,,,,,yes,,52.6363217,9.2233123
+600,10600,Helios Klinikum (Martfeld),,,,,,,,,yes,,51.294127200000005,7.3116887
+601,10601,Helios Klinikum Bad Saarow,Pieskower Straße,,,,,+49 33631 70,,,,,52.282092299999995,14.064890799999999
+602,10602,Helios Klinikum Emil von Behring,Walterhöferstraße,,,,,+49 30 81020,,,,,52.4236929,13.252117499999999
+603,10603,Helios Klinikum Erfurt,Nordhäuser Straße,,,,,,,,,,50.9895138,11.016718
+604,10604,Helios Klinikum Kiel,Hamburger Chaussee,,,,,,,,yes,,54.304815500000004,10.117266
+605,10605,Helios Klinikum Salzgitter,Kattowitzer Straße,,,,,+49 5341 835 0,,,,,52.1560899,10.320121
+606,10606,Helios Klinikum Siegburg,Ringstraße,,,,,,,,yes,,50.7988185,7.2064523000000005
+607,10607,Helios OrthoClinic Hammelburg,Ofenthaler Weg,,,,,+49 9732 9000,,,,,50.120295,9.896313800000001
+608,10608,Helios St. Elisabeth Klinik,,,,,,,,,yes,,51.4620229,6.8537293
+609,10609,Helios St. Johannes Klinik Duisburg,An der Abtei,,,,,+492035460,,,yes,,51.4914891,6.7605886
+610,10610,Helios-Klinik Idstein,Robert-Koch-Straße,,,,,,,,,,50.208032,8.2628351
+611,10611,Helios-Rosmann-Klinik,Zeppelinstraße,,,,,,,,,,48.0308277,7.586450099999999
+612,10612,Hellmuth-Ulrici-Klinik,Waldhausstraße,,,,,+493305550,,,no,,52.8088105,13.0421451
+613,10613,Helmuth-G.-Walther Klinikum,,,,,,,,,,,50.138128,11.0795456
+614,10614,Hennebergklinik,,,,,,,,,yes,,50.50834520000001,10.754192300000001
+615,10615,Henriettenstiftung,,,,,,,,,,,52.3625533,9.8261336
+616,10616,Hermann-Albrecht-Klinik,Strandbadstraße,,,,,,,,no,,47.7284261,8.9957395
+617,10617,Herz- & Gefäßzentrum Göttingen,,,,,,,,,,,51.540560799999994,9.9424663
+618,10618,Herz- und Diabeteszentrum NRW,,,,,,,,,,,52.1921042,8.7928049
+619,10619,Herz-Jesu-Krankenhaus,Am Weinberg,,,,,,,,,,50.856004600000006,9.6902343
+620,10620,Herz-Jesu-Krankenhaus,Buttlarstraße,,,,,,,,yes,,50.5634521,9.6727819
+621,10621,Herz-Jesu-Krankenhaus Dernbach,,,,,,,,,,,50.4524005,7.7857152
+622,10622,Herz-Kreislauf-Zentrum,Heinz-Meise-Straße,,,,,,,,,,51.004714,9.737614599999999
+623,10623,Herz-Zentrum Bodensee,Luisenstraße,,,,,+49 7531 8970,,,no,,47.671609499999995,9.185417
+624,10624,Herzogin Elisabeth Hospital,Leipziger Straße,,,,,,,,,,52.2334462,10.5250256
+625,10625,Herzzentrum,,,,,,,,,,,50.92434420000001,6.9196364
+626,10626,Hessenklinik Stadtkrankenhaus Korbach,,,,,,,,,,,51.2661228,8.870123399999999
+627,10627,Hessing-Klinik,Hessingstraße,,,,,+49 821 9090,,,yes,,48.3403134,10.8660252
+628,10628,Hessische Berglandklinik Koller GmbH,Landstraße,,,,,+49 2776 803-0,,,,,50.7552879,8.4855266
+629,10629,Hochgebirgsklinik Mittelberg,Alois-Wagner-Straße,,,,,+49 8366 9800,,,,,47.6352995,10.4211605
+630,10630,Hochtaunus-Kliniken Bad Homburg,Zeppelinstraße,,,,,,,,yes,,50.21278710000001,8.618248699999999
+631,10631,Hochtaunus-Kliniken Usingen,,,,,,+49 6081 107-0,,,yes,,50.342541600000004,8.5296739
+632,10632,Hochwaldkrankenhaus,,,,,,+49 6032 7020,,,yes,,50.3571559,8.729037599999998
+633,10633,Hohenfeldklinik,Hohenfeldstraße,,,,,,,,,,50.2958871,8.2748943
+634,10634,Hohenloher Krankenhaus Öhringen,,,,,,,,,yes,,49.204961299999994,9.4975178
+635,10635,Hohenzollernklinik,Hohenzollernring,,,,,,,,,,51.9594437,7.6469747
+636,10636,HolsingVital GmbH,Brunnenallee,,,,,,,,,,52.2911508,8.5531758
+637,10637,Hospital zum Heiligen Geist,Lange Straße,,,,,+49 69 2196 0,,,yes,,50.1109738,8.6935976
+638,10638,Hospital zum Heiligen Geist,,,,,,+49 5622 9970,,,yes,,51.1330124,9.277830699999999
+639,10639,Hospital zum Hl. Geist,,,,,,,,,,,51.362891299999994,6.4120356
+640,10640,Hospital zum Hl. Geist Geseke,Bachstraße,,,,,+49 2942 5900,,,,,51.6363523,8.5099102
+641,10641,Hotelklinik Passauer Wolf,,,,,,,,,,,48.8205573,11.787405
+642,10642,Hubschrauberlandeplatz Bundeswehrkrankenhaus Hamburg,,,,,,,,,,,53.5969226,10.0776472
+643,10643,Hufeland Klinik,Taunusallee,,,,,,,,,,50.333919200000004,7.726903999999999
+644,10644,Hufeland Klinikum,Rudolf-Weiss-Straße,,,,,,,,,,51.104705200000005,10.6496508
+645,10645,Hufeland Klinikum GmbH,,,,,,,,,yes,,51.2027956,10.466786
+646,10646,Humboldt-Klinikum,Frohnauer Straße,,,,,,,,,,52.6223749,13.2931684
+647,10647,Hunsrück Klinik,Holzbacher Straße,,,,,,,,,,49.9802999,7.516691499999999
+648,10648,Huyssens-Stiftung - Kliniken Essen-Mitte,,,,,,,,,,,51.4399843,7.0302188999999995
+649,10649,Hüttenhospital,Am Marksbach,,,,,,,,,,51.4808838,7.509199900000001
+650,10650,Ida-Wolff-Krankenhaus,Juchaczweg,,,,,+49-30-600010,,,no,,52.435240799999995,13.460093400000002
+651,10651,Illertalklinik,Krankenhausstraße,,,,,+49 7303 177 0,,,,,48.225349,10.104664
+652,10652,Ilm-Kreis-Kliniken Arnstadt-Ilmenau,Oehrenstöcker Straße,,,,,,,,yes,,50.6793355,10.917752199999999
+653,10653,Ilmtalklinik,,,,,,,,,,,48.5195654,11.496056300000001
+654,10654,Immanuel Klinik Rüdersdorf,,,,,,,,,,,52.45596870000001,13.775474800000001
+655,10655,Immanuel Klinikum Bernau Herzzentrum Brandenburg,Ladeburger Chaussee,,,,,,,,,,52.68228320000001,13.583437900000002
+656,10656,Immanuel Krankenhaus Berlin,Königstraße,,,,,,,,,,52.4197845,13.1628062
+657,10657,Inn-Salzach-Klinikum,Gabersee,,,,,+49 (0) 807171-0,,,,,48.06299620000001,12.20164
+658,10658,Innenhof II,,,,,,,,,,,50.907582500000004,7.5494726
+659,10659,Innenhof III,,,,,,,,,,,50.907406,7.5498326
+660,10660,Innenhof IV,,,,,,,,,,,50.9077451,7.549694099999999
+661,10661,Inselklinik Fehmarn,Mummendorfer Weg,,,,,+49 4371 5040,,,,,54.4417833,11.1757544
+662,10662,Inselklinik Föhr-Amrum,Rebbelstieg,,,,,+49 4681 480,,,yes,,54.685220400000006,8.5638147
+663,10663,Inselkrankenhaus Borkum,Gartenstraße,,,,,,,,,,53.585950600000004,6.6704057
+664,10664,Inselsberg Klinik,Fischbacher Straße,,,,,,,,,,50.8826167,10.4979954
+665,10665,"Institut für Medizinische Psychologie, Psychologische Alternsforschung, Gerontologie",Bergheimer Straße,,,,,+49 6221 568151,,,,,49.4090559,8.6900063
+666,10666,"Institut für Psychosomatische Kooperationsforschung und Familientherapie, Personalwohngebäude",Bergheimer Straße,,,,,+49 6221 56-4701,,,,,49.4081999,8.686338000000001
+667,10667,Institut für Transfusionsmedizin,Alexanderstraße,,,,,,,,,,51.5085743,7.4549343
+668,10668,International Neuroscience Institute,Rudolf-Pichlmayr-Straße,,,,,+49 511 270920,,,,,52.3902536,9.797205400000001
+669,10669,Israelitisches Krankenhaus,,,,,,,,,,,53.606756700000005,9.9913386
+670,10670,Jabbok Haus 1-3,Karl-Siebold-Weg,,,,,,,,no,,52.0027825,8.5333355
+671,10671,Jakobi,,,,,,,,,,,52.2734261,7.4443703999999995
+672,10672,Johanna-Etienne-Krankenhaus,Am Hasenberg,,,,,+49 2131 529500,,,yes,,51.2128503,6.6589024000000006
+673,10673,Johannes Wesling Klinikum,Hans-Nolte-Straße,,,,,+49 571 - 7 90-0,,,yes,,52.2606695,8.886691599999999
+674,10674,Johanneum,Feldstraße,,,,,+49 4431 982 0,,,yes,,52.893193200000006,8.4333743
+675,10675,Johanniter Frauen- und Kinderklinik,,,,,,,,,,,52.595915299999994,11.8567703
+676,10676,Johanniter Klinik am Rombergpark,Am Rombergpark,,,,,,,,no,,51.484367,7.4652285
+677,10677,Johanniter Ordenshäuser,,,,,,,,,,,52.2003886,8.7895123
+678,10678,Johanniter-Krankenhaus,,,,,,,,,yes,,50.712506299999994,7.1308777999999995
+679,10679,Johanniter-Krankenhaus,Steinbrinkstraße,,,,,,,,yes,,51.5100533,6.8541262000000005
+680,10680,Johanniter-Krankenhaus,Am Runden Berge,,,,,,,,yes,,53.4327935,10.3838901
+681,10681,Johanniter-Krankenhaus,Steinbrinkstraße,,,,,,,,no,,51.509991299999996,6.8538553
+682,10682,Johanniter-Krankenhaus Gronau,Johanniterstraße,,,,,+49 5182 583 0,,,,,52.083012700000005,9.765899000000001
+683,10683,Johanniter-Krankenhaus Stendal,,,,,,+49 3931 660,,,yes,,52.6108701,11.8547655
+684,10684,Josef-Hospital Delmenhorst Deichhorst,Wildeshauser Straße,,,,,+49 4221 993,,,yes,,53.04363370000001,8.5944319
+685,10685,Josefinum,Kapellenstraße,,,,,+49 821 2412 - 0,,,,,48.3849682,10.8739886
+686,10686,Josefinum KJF Fachklinik,Haubensteigweg,,,,,,,,,,47.7257709,10.2982114
+687,10687,Josephinum,,,,,,+49 89 23688-0,,,,,48.1454904,11.5817219
+688,10688,Josephs-Hospital,Am Krankenhaus,,,,,,,,yes,,51.9607,8.000622
+689,10689,Juliane-Wahrendorff-Klinik,Rudolf-Wahrendorff-Straße,,,,,,,,,,52.344167,9.9307974
+690,10690,Juraklinik,Oberend,,,,,,,,,,49.9796243,11.0373802
+691,10691,Justizvollzugskrankenhaus NRW Fröndenberg,,,,,,,,,,,51.4787012,7.7817845000000005
+692,10692,Jüdisches Krankenhaus Berlin,Heinz-Galinski-Straße,,,,,+49 30 49940,,,,,52.5547557,13.3686182
+693,10693,KBO Kinderzentrum München,Heiglhofstraße,,,,,,,,,,48.10654279999999,11.4779121
+694,10694,KH Merheim Notaufnahme,Ostmerheimer Straße,,,,,+49 221 8907-0,,,yes,,50.9389659,7.052363099999999
+695,10695,KJP Mariaberg,Burghaldenstraße,,,,,,,,no,,48.2740229,9.2106605
+696,10696,KMG Elbtalklinik,,,,,,038791-30,,,no,,52.963626,11.9527069
+697,10697,KMG Klinik Boizenburg,Vor dem Mühlentor,,,,,+49388476370,,,,,53.3775077,10.7181563
+698,10698,KMG Klinikum AG Kyritz,,,,,,,,,,,52.9485301,12.387218800000001
+699,10699,KMG Klinikum Havelberg,Domherrnstraße,,,,,+4939387710,,,yes,,52.8272125,12.0781492
+700,10700,KMG Klinikum Sömmerda,Bahnhofstraße,,,,,+49 3634 520,,,yes,,51.1624825,11.1211724
+701,10701,KMG Klinikum Wittstock,Meyenburger Chaussee,,,,,,,,yes,,53.170181799999995,12.486723699999999
+702,10702,KMG Rehabilitationszentrum Sülzhayn GmbH,Am Haidberg,,,,,,,,,,51.6099732,10.6776949
+703,10703,KMG-Klinikum,Friedrich-Trendelenburg-Allee,,,,,,,,,,53.8111424,12.198965
+704,10704,KRH Klinikum Agnes Karll Laatzen,,,,,,,,,yes,,52.3077477,9.7990215
+705,10705,KRH Klinikum Großburgwedel,Fuhrberger Straße,,,,,+49 5139 8011,,,,,52.496281599999996,9.861740300000001
+706,10706,KRH Klinikum Neustadt am Rübenberge,Lindenstraße,,,,,,,,yes,,52.49393620000001,9.465034900000001
+707,10707,KRH Klinikum Nordstadt,Haltenhoffstraße,,,,,,,,,,52.3913745,9.7108095
+708,10708,KRH Klinikum Robert Koch Gehrden,Von-Reden-Straße,,,,,+49 5108 69 0,,,yes,,52.3030995,9.594727800000001
+709,10709,KRH Klinikum Siloah,,,,,,,,,,,52.358860799999995,9.726149900000001
+710,10710,KRH Klinkum Lehrte,Manskestraße,,,,,+495132 5030,,,yes,,52.381201000000004,9.9843067
+711,10711,KRH Psychiatrie Langenhagen,Rohdehof,,,,,,,,,,52.44288340000001,9.739870100000001
+712,10712,KRH Psychiatrie Langenhagen - Haus im Park,Rohdehof,,,,,,,,,,52.44468620000001,9.743439500000001
+713,10713,Kaiser-Trajan-Klinik,,,,,,,,,,,48.8266417,11.7801793
+714,10714,Kaiserbergklinik,,,,,,,,,,,50.3696035,8.7313472
+715,10715,Kaiserin-Auguste-Victoria Krankenhaus,Stegwiese,,,,,,,,,,50.6047255,8.384364699999999
+716,10716,Kapelle Friederikenstift,,,,,,,,,,,52.371184899999996,9.724885
+717,10717,Kapellenstraße,,,,,,,,,,,47.6897648,8.768238900000002
+718,10718,Kapellenstraße,,,,,,,,,,,47.6898117,8.7680457
+719,10719,Kapellenstraße,,,,,,,,,,,47.6907874,8.766020300000001
+720,10720,Karl-Hansen-Klinik,,,,,,,,,,,51.7831639,8.8258845
+721,10721,Karl-Olga-Krankenhaus,Hackstraße,,,,,+49 711 2639 0,,,yes,,48.7892312,9.2029576
+722,10722,Karolinen Hospital,,,,,,,,,,,51.4262172,7.997891
+723,10723,Kassenärztlicher Notfalldienst,Nordhäuser Straße,,,,,,,,yes,,50.9939352,11.0104558
+724,10724,Katharinen-Hospital,Obere Husemannstraße,,,,,,,,,,51.5370786,7.6859099
+725,10725,Katharinenhospital,Kriegsbergstraße,,,,,,,,yes,,48.784237299999994,9.173697
+726,10726,Katholisches Karl-Leisner-Klinikum Wilhelm-Anton-Hospital Goch,Voßheider Straße,,,,,+49-2823-8910,,,,,51.67692520000001,6.1807538
+727,10727,Katholisches Kinderkrankenhaus Wilhelmstift,,,,,,,,,,,53.5884586,10.1634489
+728,10728,"Katholisches Klinikum Mainz, Standort St. Vincenz und Elisabeth Hospital",,,,,,,,,yes,,49.9899487,8.271898700000001
+729,10729,Katholisches Klinikum Marienhof Koblenz,Rudolf-Virchow-Straße,,,,,+49 261 4960,,,yes,,50.359167600000006,7.570915299999999
+730,10730,"Katholisches Krankenhaus ""St. Johann Nepomuk""",Haarbergstraße,,,,,,,,,,50.9480313,11.082804800000002
+731,10731,Katholisches Krankenhaus Dortmund-West,Zollernstraße,,,,,,,,yes,,51.5237097,7.369005099999999
+732,10732,Kbo Isar-Amper-Klinikum Fürstenfeldbruck für Psychiatrie und Psychotherapie,Stadelbergerstraße,,,,,+49 8141 53470,,,,,48.1826376,11.260428
+733,10733,Kemperhof,Koblenzer Straße,,,,,,,,yes,,50.354681899999996,7.564905900000001
+734,10734,Ketteler Krankenhaus,,,,,,,,,,,50.0942602,8.783098800000001
+735,10735,KfH Kuratorium für Dialyse und Nierentransplantation,Dorstener Straße,,,,,,,,,,51.5094194,6.8552613
+736,10736,KfH-Nierenzentrum,Gautinger Straße,,,,,,,,,,48.085630200000004,11.4517457
+737,10737,Kinder- und Jugendklinik,Loschgestraße,,,,,,,,,,49.600064200000006,11.0074318
+738,10738,Kinder- und Jugendklinik,,,,,,,,,yes,,54.08302510000001,12.103517199999999
+739,10739,Kinder- und Jugendmedizin,,,,,,,,,yes,,50.9249256,6.9173129
+740,10740,Kinder- und Jugendpsychiatrie,,,,,,,,,,,48.410374299999994,10.0017133
+741,10741,Kinder- und Jugendpsychiatrie,,,,,,,,,,,51.29481079999999,6.3484086
+742,10742,Kinder- und Jugendpsychiatrie,,,,,,,,,,,49.7170037,7.320909299999999
+743,10743,"Kinder- und Jugendpsychiatrie (KJPP), St. Elisabethen Krankenhaus Lörrach",,,,,,,,,,,47.617239500000004,7.663172900000001
+744,10744,Kinder- und Jugendpsychiatrie Helios Klinikum Schleswig,Friedrich-Ebert-Straße,,,,,+49 4621 831713,,,,,54.520315000000004,9.5494993
+745,10745,Kinder- und Jugendpsychiatrie Marien Hospital Papenburg Aschendorf,Marienstraße,,,,,+49 4962 502 100,,,no,,53.051288,7.3297343999999995
+746,10746,Kinder- und Jugendpsychiatrie Spiel und Ergotherapie,,,,,,,,,,,52.425219299999995,9.4395221
+747,10747,Kinderheilstätte,,,,,,,,,,,51.739149299999994,7.5253265
+748,10748,Kinderhospital Osnabrück,Iburger Straße,,,,,,,,no,,52.2515399,8.063293400000001
+749,10749,Kinderklinik,,,,,,,,,yes,,51.5334509,6.917807099999999
+750,10750,Kinderklinik,,,,,,,,,,,51.7684029,7.884176299999999
+751,10751,Kinderklinik Dritter Orden,,,,,,,,,,,48.5659963,13.446403699999998
+752,10752,Kinderklinik und Poliklinik,,,,,,,,,yes,,50.724735700000004,7.1138245
+753,10753,Kinderkrankenhaus Amsterdamer Straße,Amsterdamer Straße,,,,,+49 221 8907-0,,,yes,,50.963474700000006,6.9658462
+754,10754,Kinderkrankenhaus Salzwedel,,,,,,,,,,,52.8564456,11.146018199999999
+755,10755,Kinderkrankenhaus Sankt Marien,Grillparzerstraße,,,,,+49 871 8520,,,yes,,48.5344648,12.164104
+756,10756,Kinderkrankenhaus auf der Bult,,,,,,,,,,,52.361202899999995,9.7778935
+757,10757,Kinderpsychiatrie,Harfenstraße,,,,,,,,,,49.603192799999995,11.008045300000001
+758,10758,Kirchbergklinik,Kirchberg,,,,,+49 5524 859 0,,,,,51.6254558,10.4682322
+759,10759,Kirnitzschtal-Klinik,Kirnitzschtalstraße,,,,,,,,no,,50.9239314,14.161942000000002
+760,10760,Klinik,,,,,,,,,,,51.440873100000005,6.968306699999999
+761,10761,Klinik Achim,Bierdener Mühle,,,,,+49 4202 998 0,,,,,53.017440799999996,9.0058421
+762,10762,Klinik Alpenhof,,,,,,,,,,,47.8948925,12.529243600000001
+763,10763,Klinik Am Lerchenberg,,,,,,,,,,,49.137418700000005,9.232587599999999
+764,10764,Klinik Amsee,Amsee,,,,,,,,,,53.542083999999996,12.6881776
+765,10765,Klinik Augustinum,Wolkerweg,,,,,,,,,,48.1227778,11.4885985
+766,10766,Klinik Bad Bergzabern,Danziger Straße,,,,,,,,yes,,49.1065653,7.9994312999999995
+767,10767,Klinik Bad Trissl,Bad-Trißl-Straße,,,,,,,,,,47.6573073,12.1552115
+768,10768,Klinik Bad Windsheim,,,,,,,,,,,49.515491,10.408772099999998
+769,10769,Klinik Bavaria,Von-der-Tann-Straße,,,,,+49 971 829-0,,,,,50.198808,10.084057099999999
+770,10770,Klinik Bavaria,,,,,,,,,,,48.795053499999995,13.541825099999999
+771,10771,Klinik Bergwinkel,,,,,,,,,,,50.2856993,9.3532306
+772,10772,Klinik Berlin,,,,,,,,,no,,51.7372505,9.044596199999999
+773,10773,Klinik Berlin,,,,,,,,,no,,51.73753320000001,9.0439612
+774,10774,Klinik Berlin,Brunnenstraße,,,,,,,,no,,51.736469299999996,9.0433789
+775,10775,Klinik Birkental,Zur Herche,,,,,+49 5621 760,,,,,51.1082256,9.0822488
+776,10776,Klinik Blankenstein,,,,,,,,,,,51.404880799999994,7.2213848
+777,10777,Klinik Buching,,,,,,,,,no,,47.6362571,10.785555
+778,10778,Klinik ChiemseeWinkel Seebruck GmbH,Römerstraße,,,,,,,,,,47.932838399999994,12.4755228
+779,10779,Klinik Diepholz,Eschfeldstraße,,,,,,,,,,52.6102824,8.375331599999999
+780,10780,Klinik Donaustauf,Ludwigstraße,,,,,+49 9403 80-0,,,no,,49.036612899999994,12.2077461
+781,10781,Klinik Dr. Guth,Jürgensallee,,,,,,,,,,53.557406799999995,9.853400599999999
+782,10782,Klinik Dr. Reiser,Münchener Straße,,,,,+49 841 9733-0,,,yes,,48.7392692,11.435861599999999
+783,10783,Klinik Dr. Steib,Adelheidstraße,,,,,,,,,,50.1845549,8.4708575
+784,10784,Klinik Eichholz,Walkenhausweg,,,,,,,,,,51.7156882,8.3399365
+785,10785,Klinik Eichstätt,Ostenstraße,,,,,+49 8421 601 0,,,yes,,48.8908022,11.192339500000001
+786,10786,Klinik Eilenburg,Wilhelm-Grune-Straße,,,,,,,,yes,,51.459790999999996,12.619826699999999
+787,10787,Klinik Eschenburg,,,,,,+49 2774-9134-0,,,no,,50.7943794,8.3205629
+788,10788,Klinik Fallingbostel,,,,,,,,,,,52.868369900000005,9.707477
+789,10789,Klinik Frühauf,Scheffelstraße,,,,,,,,,,50.0915036,8.7893435
+790,10790,Klinik Füssen,,,,,,+49 8362 500-0,,,,,47.5666091,10.708519699999998
+791,10791,Klinik Glotterbad,Badstraße,,,,,,,,,,48.0548706,7.9637733
+792,10792,Klinik Hohe Warte,Hohe Warte,,,,,+49 921 40001,,,yes,,49.9666226,11.582387599999999
+793,10793,Klinik Hohenlohe,Lothar-Daiker-Straße,,,,,,,,,,49.495692600000005,9.781528199999999
+794,10794,Klinik Hoher Meissner,Hardtstraße,,,,,,,,,,51.27555460000001,9.9547832
+795,10795,Klinik Höhenried,,,,,,+49 8158 24-0,,,no,,47.8791401,11.2787225
+796,10796,Klinik Kitzinger Land,,,,,,,,,,,49.744266100000004,10.1370601
+797,10797,Klinik Königsfeld,Holthauser Talstraße,,,,,,,,,,51.27603,7.331981900000001
+798,10798,Klinik Kösching,Krankenhausstraße,,,,,+49 8456 710,,,yes,,48.8148969,11.507279400000002
+799,10799,Klinik Köthen,Hallesche Straße,,,,,,,,yes,,51.7477412,11.972045399999999
+800,10800,Klinik Leezen,Wittgensteiner Platz,,,,,+49 3866 60 0,,,no,,53.66018270000001,11.4909785
+801,10801,Klinik Lilienthal,Moorhauser Landstraße,,,,,,,,,,53.149283600000004,8.9047394
+802,10802,Klinik Lindenplatz,Weslarner Straße,,,,,,,,,,51.595375399999995,8.17623
+803,10803,Klinik Lutherstadt Eisleben,Hohetorstraße,,,,,,,,yes,,51.5335083,11.5433545
+804,10804,Klinik Maingau vom Roten Kreuz,,,,,,,,,no,,50.1201983,8.6881333
+805,10805,Klinik Martinusquelle,,,,,,,,,,,51.7871709,8.808866499999999
+806,10806,Klinik Mühldorf,,,,,,,,,yes,,48.2426617,12.5280679
+807,10807,Klinik Nahetal,,,,,,+49 671 375-0,,,,,49.8257967,7.8446295
+808,10808,Klinik Nette-Gut für Forensische Psychiatrie,,,,,,,,,,,50.4256323,7.435612599999999
+809,10809,Klinik Neumühle,Neumühle,,,,,,,,,,50.3505806,10.305694800000001
+810,10810,Klinik Neustadt,,,,,,,,,,,49.581235299999996,10.623742
+811,10811,Klinik Nürtingen,,,,,,,,,,,48.6303254,9.355806699999999
+812,10812,"Klinik Oberammergau - Zentrum für Rheumatologie, Orthopädie und Schmerztherapie",Hubertusstraße,,,,,+49 8822 9140,,,no,,47.5911976,11.074027099999999
+813,10813,Klinik Oberstdorf,Trettachstraße,,,,,,,,yes,,47.4110338,10.2821479
+814,10814,Klinik Paradiese,,,,,,,,,,,51.5674235,8.0508396
+815,10815,Klinik Parsberg,Lupburger Straße,,,,,+49 9492 603-0,,,,,49.159164600000004,11.7253263
+816,10816,Klinik Porta Westfalica,Steinstraße,,,,,,,,no,,52.1984471,8.807485699999999
+817,10817,Klinik Püttlingen,,,,,,+49 6898 55-0,,,yes,,49.2769975,6.8710363
+818,10818,Klinik Rabenstein,Kurstraße,,,,,,,,,,50.419458399999996,8.986042999999999
+819,10819,Klinik Rathenow,,,,,,,,,,,52.606758299999996,12.3466855
+820,10820,Klinik Reinhardstal,Ahornallee,,,,,,,,,,51.1117354,9.0790355
+821,10821,Klinik Roseneck,,,,,,,,,,,47.860417,12.3612479
+822,10822,Klinik Roseneck,,,,,,,,,,,47.860085999999995,12.3625859
+823,10823,Klinik Sankt Elisabeth,Furtwänglerstraße,,,,,,,,no,,49.421888200000005,8.682024
+824,10824,Klinik Schkeuditz,Leipziger Straße,,,,,,,,yes,,51.3955646,12.233780900000001
+825,10825,Klinik Schloss Falkenhof,Nibelungenstraße,,,,,,,,,,49.6849518,8.6401713
+826,10826,Klinik Schwabenland,,,,,,,,,,,47.709922999999996,10.0356168
+827,10827,Klinik Schöneck,Albertplatz,,,,,,,,yes,,50.397197600000005,12.336589100000001
+828,10828,Klinik Seehalde,Scheffelstraße,,,,,,,,no,,47.7349975,8.9773982
+829,10829,Klinik Seehalde,,,,,,,,,no,,47.7347985,8.9777677
+830,10830,Klinik Seehalde,Scheffelstraße,,,,,,,,no,,47.73547070000001,8.9770573
+831,10831,Klinik Solequelle,Mühlenweg,,,,,,,,no,,51.6297963,8.3545894
+832,10832,Klinik Sonnenalm,,,,,,,,,,,47.533621000000004,10.0239114
+833,10833,Klinik Sonnenblick,Amöneburger Straße,,,,,,,,,,50.7992544,8.8012908
+834,10834,Klinik St. Hedwig,Steinmetzstraße,,,,,+49 941 369 98,,,yes,,49.0174849,12.0791115
+835,10835,Klinik St. Irmingard,,,,,,,,,no,,47.86107020000001,12.3636695
+836,10836,Klinik Sulingen,Schmelingstraße,,,,,,,,,,52.683356700000004,8.8046385
+837,10837,Klinik Tecklenburger Land,Bahnhofstraße,,,,,,,,,,52.2171924,7.8055133
+838,10838,Klinik Tettnang,Emil-Münch-Straße,,,,,+49 7542 5310,,,yes,,47.672914500000005,9.5974494
+839,10839,Klinik Walstedde,Nordholter Weg,,,,,,,,,,51.76215870000001,7.7939978000000005
+840,10840,Klinik Wartenberg,Badstraße,,,,,,,,,,48.4048765,11.9999746
+841,10841,Klinik Weißenfels,Naumburger Straße,,,,,,,,yes,,51.1938229,11.9530523
+842,10842,Klinik Werraland,Balzerbornweg,,,,,,,,,,51.266032,9.9639952
+843,10843,Klinik Wetterau,Zanderstraße,,,,,,,,,,50.359401299999995,8.7450616
+844,10844,Klinik Wiesengrund,Wiesenstraße,,,,,,,,,,51.5921145,8.1727951
+845,10845,Klinik Wiesengrund,Mühlenweg,,,,,+49 (0) 29 43 - 899-00,,,no,,51.6302174,8.3560932
+846,10846,Klinik Wiesengrund,Berliner Straße,,,,,,,,,,51.5921145,8.1727951
+847,10847,Klinik Wollmarshöhe,,,,,,,,,,,47.7204706,9.6753087
+848,10848,Klinik Zimmermann,Badstraße,,,,,,,,no,,47.80298870000001,7.6874204
+849,10849,Klinik Zissendorf,Gut Zissendorf,,,,,,,,no,,50.7855815,7.262786
+850,10850,Klinik am Bürgerpark,Schiffdorfer Chaussee,,,,,+49 471 1820,,,yes,,53.5322456,8.6061463
+851,10851,Klinik am Greinberg,,,,,,,,,,,49.8007959,9.9654556
+852,10852,Klinik am Haussee,Buchenallee,,,,,,,,,,53.34120279999999,13.432808999999999
+853,10853,Klinik am Hellweg,Bismarckstraße,,,,,,,,,,51.5875532,8.167969099999999
+854,10854,Klinik am Hellweg,Friedrichstraße,,,,,,,,,,51.5875775,8.1703715
+855,10855,Klinik am Kasinopark,Hospitalweg,,,,,,,,,,52.2051815,8.0410464
+856,10856,Klinik am Korso,,,,,,,,,,,52.2018419,8.798559800000001
+857,10857,Klinik am Kronsberg,Debberoder Straße,,,,,,,,,,52.310696500000006,9.835454499999999
+858,10858,Klinik am Kurpark,Ziergartenstraße,,,,,,,,,,51.1087966,9.0781609
+859,10859,Klinik am Lietholz,,,,,,,,,,,52.0925862,8.7561718
+860,10860,Klinik am Osterbach,Am Osterbach,,,,,+49 5731 159 0,,,,,52.198374,8.787743199999998
+861,10861,Klinik am Park,Westkorso,,,,,+49 5731 248 0,,,,,52.1996581,8.7914194
+862,10862,Klinik am Park,Berliner Straße,,,,,,,,,,51.5900717,8.1726303
+863,10863,Klinik am Rennsteig,,,,,,,,,,,50.871320399999995,10.512457099999999
+864,10864,Klinik am Roseneck,,,,,,,,,,,52.47941779999999,13.281481099999999
+865,10865,Klinik am Rosengarten,,,,,,,,,,,52.2000289,8.7919924
+866,10866,Klinik am Schlossgarten Dülmen GmbH,Am Schloßgarten,,,,,,,,yes,,51.8263703,7.2812479
+867,10867,Klinik am See,,,,,,,,,,,52.4536412,13.770482399999999
+868,10868,Klinik am Steigerwald,,,,,,,,,,,49.8895197,10.4091891
+869,10869,Klinik am Südpark,Zanderstraße,,,,,,,,,,50.3600553,8.7442743
+870,10870,Klinik am schönen Moos,Am Schönen Moos,,,,,,,,,,48.0140351,9.4838875
+871,10871,Klinik an der Weißenburg,,,,,,,,,,,50.731181299999996,11.4495
+872,10872,Klinik der LMU,,,,,,,,,,,48.1326573,11.5586706
+873,10873,Klinik des Max-Planck-Instituts für Psychiatrie,Kraepelinstraße,,,,,,,,,,48.173680600000004,11.575956800000002
+874,10874,Klinik für Forensische Psychiatrie,Krawehlstraße,,,,,,,,no,,51.4389245,6.998701700000001
+875,10875,Klinik für Frauenheilkunde und Geburtshilfe,Flemmingstraße,,,,,,,,,,50.8438127,12.882700999999999
+876,10876,Klinik für Hals-Nasen-Ohrenheilkunde,Doberaner Straße,,,,,,,,,,54.090548600000005,12.1177959
+877,10877,Klinik für Herzchirurgie,Franz-Lust-Straße,,,,,,,,,,49.01803579999999,8.375741900000001
+878,10878,Klinik für Kinder- und Jugendmedizin,Humboldtstraße,,,,,,,,,,51.50964329999999,7.455418300000001
+879,10879,Klinik für Kinder- und Jugendmedizin Eppendorf,,,,,,+49 40 7410-0,,,yes,,53.590407299999995,9.9791028
+880,10880,Klinik für Kinder- und Jugendpsychiatrie - Erweiterung,Neuenhofer Weg,,,,,,,,,,50.7729344,6.0435713
+881,10881,Klinik für Kinder- und Jugendpsychiatrie - Tageszentrum für Jugendliche,Blumenstraße,,,,,+49 6221 56-4466,,,,,49.4045156,8.690994900000002
+882,10882,Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie (KJPP),,,,,,,,,,,49.3797518,8.9852594
+883,10883,"Klinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",Südliche Hildapromenade,,,,,,,,,,49.0117403,8.379686999999999
+884,10884,Klinik für Kinderneurologie und Sozialpädiatrie,Knittlinger Steige,,,,,+49 7043 160,,,no,,49.0004804,8.8004883
+885,10885,Klinik für Manuelle Therapie Haus 2/3,Ostenallee,,,,,,,,,,51.6911658,7.8495814
+886,10886,Klinik für Orthopädie,Doberaner Straße,,,,,,,,,,54.0899106,12.119999900000002
+887,10887,Klinik für Pneumologie und Intensivmedizin,,,,,,,,,yes,,51.31850120000001,12.3019232
+888,10888,Klinik für Psychiatrie & Psychotherapie,,,,,,,,,,,50.3337406,8.7413595
+889,10889,Klinik für Psychiatrie und Psychotherapie,Knappenstraße,,,,,,,,,,51.6885307,7.8511977
+890,10890,Klinik für Psychiatrie und Psychotherapie,,,,,,,,,,,50.3537204,9.5265746
+891,10891,Klinik für Psychiatrie und Psychotherapie Vitos - Standort Marburg,,,,,,,,,,,50.790191,8.775308099999998
+892,10892,Klinik für Psychiatrie und psychotherapeutische Medizin,,,,,,,,,,,49.012336,8.3815059
+893,10893,"Klinik für Psychiatrie, Psychotherapie und Psychosomatik",Hans-Böckler-Allee,,,,,,,,,,50.773545500000004,6.0433543
+894,10894,Klinik für Psychsomatische Medizin und Psychotherapie,Klosterkamp,,,,,,,,,,53.9424887,10.3094887
+895,10895,Klinik im Park,Rudolf-Wahrendorff-Straße,,,,,,,,,,52.3434666,9.9328829
+896,10896,Klinik Öschelbronn CIMK,,,,,,,,,,,48.9036815,8.8245267
+897,10897,Kliniken Berg,,,,,,,,,,,48.5280326,9.0446431
+898,10898,Kliniken Böblingen,,,,,,,,,,,48.69089879999999,9.031292
+899,10899,Kliniken Calw,Eduard-Conz-Straße,,,,,,,,yes,,48.715259100000004,8.7453999
+900,10900,Kliniken Doberaner Straße,,,,,,,,,,,54.0903812,12.1177503
+901,10901,Kliniken Dr. Erler,Kontumazgarten,,,,,+49 911 2728 0,,,yes,,49.453920000000004,11.0669808
+902,10902,Kliniken Hochfranken Haus Naila,,,,,,,,,,,50.325675200000006,11.7207369
+903,10903,Kliniken Maria Hilf,,,,,,,,,,,51.216922,6.4195525
+904,10904,Kliniken Michelsberg,,,,,,,,,,,48.408793,9.9913839
+905,10905,Kliniken Oberallgäu,,,,,,,,,,,47.5633029,10.227832099999999
+906,10906,Kliniken Schmieder Allensbach,Zum Tafelholz,,,,,+49 7533 8080,,,,,47.7153467,9.0833034
+907,10907,Kliniken Schmieder Gailingen,Auf dem Berg,,,,,+49 7734 860,,,,,47.7035304,8.752511300000002
+908,10908,Kliniken Schmieder Heidelberg,Speyererhofweg,,,,,+49 6221 65400,,,,,49.395587799999994,8.7080094
+909,10909,Kliniken Sindelfingen,Arthur-Gruber-Straße,,,,,,,,,,48.715579,9.024733099999999
+910,10910,Kliniken St. Antonius - Petrus Krankenhaus,,,,,,,,,yes,,51.274294899999994,7.1927284
+911,10911,Kliniken St. Elisabeth,Müller-Gnadenegg-Weg,,,,,,,,,,48.7310652,11.175232699999999
+912,10912,Kliniken des Main-Taunus-Kreises,Kronberger Straße,,,,,,,,yes,,50.151202399999995,8.5130547
+913,10913,Kliniken im Theodor-Wenzel-Werk,Potsdamer Chaussee,,,,,+49 30 81090,,,,,52.4218039,13.207089199999999
+914,10914,Klinikparkplatz,,,,,,,,,,,50.961701700000006,11.3209494
+915,10915,Klinikum Altmühlfranken Weißenburg,Krankenhausstraße,,,,,,,,,,49.0349846,10.9829436
+916,10916,Klinikum Annweiler,Georg-Staab-Straße,,,,,,,,yes,,49.2024974,7.960325599999999
+917,10917,Klinikum Aschaffenburg-Alzenau Standort Alzenau,Schloßhof,,,,,,,,,,50.0698295,9.0755761
+918,10918,Klinikum Aue,Gartenstraße,,,,,,,,yes,,50.5904286,12.717613
+919,10919,Klinikum Augsburg Süd,Sauerbruchstraße,,,,,,,,,,48.3068185,10.9153675
+920,10920,Klinikum Bad Bramstedt,,,,,,,,,yes,,53.902821200000005,9.890466
+921,10921,Klinikum Bad Salzungen,,,,,,,,,,,50.803516200000004,10.218085499999999
+922,10922,Klinikum Balg,Balger Straße,,,,,+49 7221 910,,,yes,,48.784839,8.2161251
+923,10923,Klinikum Bautzen-Bischofswerda,,,,,,,,,,,51.1350524,14.1795953
+924,10924,Klinikum Bayreuth,Preuschwitzer Straße,,,,,+49 921 40000,,,,,49.945233200000004,11.5299603
+925,10925,Klinikum Bielefeld Mitte,Teutoburger Straße,,,,,+49 521 581-0,,,yes,,52.012506200000004,8.5444956
+926,10926,Klinikum Bielefeld Rosenhöhe,An der Rosenhöhe,,,,,+49-521-943-50,,,yes,,51.98231129999999,8.530265
+927,10927,Klinikum Bogenhausen,Englschalkinger Straße,,,,,+49 89 9270-0,,,,,48.154950899999996,11.6243774
+928,10928,Klinikum Borna,Rudolf-Virchow-Straße,,,,,+49 3433 210,,,yes,,51.1359062,12.5069732
+929,10929,Klinikum Braunschweig Salzdahlumer Straße,Salzdahlumer Straße,,,,,,,,yes,,52.23714520000001,10.5510234
+930,10930,Klinikum Bremen-Mitte,,,,,,,,,yes,,53.0731178,8.8425259
+931,10931,Klinikum Bremen-Nord,Hammersbecker Straße,,,,,+49 421 66060,,,yes,,53.1836316,8.5919606
+932,10932,Klinikum Bremen-Ost,Züricher Straße,,,,,,,,yes,,53.0638444,8.938391699999999
+933,10933,Klinikum Bremerhaven-Reinkenheide,Postbrookstraße,,,,,+49 471 299 0,,,yes,,53.53942239999999,8.636716
+934,10934,Klinikum Coburg,Ketschendorfer Straße,,,,,+49-9561-22-0,,,,,50.247732899999995,10.972146
+935,10935,Klinikum Crailsheim,,,,,,,,,yes,,49.135953799999996,10.0751863
+936,10936,Klinikum Dahme-Spreewald,Schillerstraße,,,,,,,,,,51.9453639,13.8762599
+937,10937,Klinikum Darmstadt,,,,,,,,,,,49.8749324,8.6435502
+938,10938,Klinikum Darmstadt-Eberstadt,,,,,,,,,,,49.8066522,8.6405238
+939,10939,Klinikum Dritter Orden,Menzinger Straße,,,,,+49 89 1795-0,,,yes,,48.164666100000005,11.502769599999999
+940,10940,Klinikum Döbeln,Sörmitzer Straße,,,,,,,,yes,,51.1180131,13.1316687
+941,10941,Klinikum Elmshorn,Agnes-Karll-Allee,,,,,+49 4121 798 0,,,yes,,53.752644,9.6843306
+942,10942,Klinikum Esslingen,Hirschlandstraße,,,,,,,,,,48.738600399999996,9.326559199999998
+943,10943,Klinikum Flemmingstraße,,,,,,,,,,,50.8463789,12.888407699999998
+944,10944,Klinikum Frankfurt (Oder),,,,,,,,,,,52.3030847,14.482540700000001
+945,10945,Klinikum Frankfurt-Höchst,Gotenstraße,,,,,,,,yes,,50.1081957,8.548475
+946,10946,Klinikum Freising,,,,,,,,,yes,,48.4035569,11.744000199999999
+947,10947,Klinikum Freital,Bürgerstraße,,,,,,,,yes,,50.9910434,13.6449854
+948,10948,Klinikum Friedrichshafen,Röntgenstraße,,,,,+49 7541 96 0,,,yes,,47.6742503,9.4306274
+949,10949,Klinikum Fürstenfeldbruck,Dachauer Straße,,,,,+49 8141 99-0,,,yes,,48.1803088,11.2590809
+950,10950,Klinikum Fürth,Jakob-Henle-Straße,,,,,+49 911 75800,,,yes,,49.4861773,10.9734799
+951,10951,Klinikum Garmisch-Partenkirchen,,,,,,,,,yes,,47.4841896,11.1270236
+952,10952,Klinikum Gütersloh,Reckenberger Straße,,,,,,,,yes,,51.897998799999996,8.3829917
+953,10953,Klinikum Halle,Winnebrockstraße,,,,,,,,,,52.055014899999996,8.3544565
+954,10954,Klinikum Hanau,,,,,,,,,,,50.134789700000006,8.9221247
+955,10955,Klinikum Hann. Münden,Vogelsang,,,,,,,,,,51.3972589,9.6582575
+956,10956,Klinikum Heidenheim,Schloßhaustraße,,,,,+497321 33 0,,,yes,,48.672035,10.1398241
+957,10957,Klinikum Heidenheim,Schloßhaustraße,,,,,+49 (0)7321 33 0,,,yes,,48.6707739,10.140838699999998
+958,10958,Klinikum Herford,,,,,,,,,,,52.1274667,8.7030696
+959,10959,Klinikum Hildesheim,,,,,,,,,,,52.152651299999995,9.97307
+960,10960,"Klinikum Ibbenbüren ""St.-Elisabeth-Hospital""",Große Straße,,,,,,,,yes,,52.2786766,7.713712299999999
+961,10961,Klinikum Idar-Oberstein,Dr.-Ottmar-Kohler-Straße,,,,,+49 6781 66-0,,,yes,,49.7165709,7.321621400000001
+962,10962,Klinikum Karlsburg,Greifswalder Straße,,,,,+49 38355 700,,,,,53.9708488,13.6091435
+963,10963,Klinikum Kempten-Oberallgäu,Robert-Weixler-Straße,,,,,,,,yes,,47.7327489,10.3012231
+964,10964,"Klinikum Konstanz, Haus 2",Luisenstraße,,,,,,,,yes,,47.6725415,9.1893293
+965,10965,Klinikum Kulmbach,,,,,,,,,ambulance_station,,50.1173547,11.465817900000001
+966,10966,Klinikum Landau-Südliche Weinstraße,,,,,,+49 6341 908-0,,,yes,,49.2055673,8.1024948
+967,10967,Klinikum Landkreis Erding,,,,,,+49 8122 590,,,yes,,48.2951473,11.894490699999999
+968,10968,Klinikum Landkreis Tuttlingen Gesundheitszentrum Spaichingen,,,,,,,,,yes,,48.0773354,8.722136099999998
+969,10969,Klinikum Landsberg am Lech,Bürgermeister-Doktor-Hartmann-Straße,,,,,,,,yes,,48.048323100000005,10.8548764
+970,10970,Klinikum Leer,Augustenstraße,,,,,+49 491 86 0,,,yes,,53.2367377,7.456985899999999
+971,10971,Klinikum Links der Weser,,,,,,,,,yes,,53.0369351,8.8172788
+972,10972,Klinikum Lippe Lemgo,Rintelner Straße,,,,,,,,yes,,52.0389686,8.898142199999999
+973,10973,Klinikum Lippe-Detmold,Röntgenstraße,,,,,+49 5231 72-0,,,yes,,51.9418097,8.878996800000001
+974,10974,Klinikum Ludwigsburg,Posilipostraße,,,,,+49 7141 9990,,,yes,,48.89987120000001,9.2037414
+975,10975,Klinikum Luitpold,,,,,,,,,,,49.1699834,12.8583451
+976,10976,Klinikum Lüdenscheid,Paulmannshöher Straße,,,,,,,,yes,,51.2059013,7.658663000000001
+977,10977,Klinikum Lüneburg,Bögelstraße,,,,,,,,,,53.2395816,10.395401800000002
+978,10978,Klinikum Magdeburg,Birkenallee,,,,,,,,yes,,52.158817,11.5788055
+979,10979,Klinikum Main-Spessart,Grafen-von-Rieneck-Straße,,,,,+49 9352 505-0,,,yes,,49.996574,9.570965699999999
+980,10980,Klinikum Memmingen,Bismarckstraße,,,,,,,,yes,,47.981829,10.1678245
+981,10981,Klinikum Merzig,,,,,,+49 6861 705-0,,,yes,,49.457001899999995,6.630345599999999
+982,10982,Klinikum Mittelbaden Bühl,Robert-Koch-Straße,,,,,+49 7223 81-0,,,yes,,48.68633079999999,8.1408113
+983,10983,Klinikum Mittelbaden Forbach,Friedrichstraße,,,,,+49 7228 9130,,,yes,,48.6827342,8.3574421
+984,10984,Klinikum Mittelbaden Hub,Hubstraße,,,,,+49 7223 810,,,no,,48.6653555,8.1333499
+985,10985,Klinikum Mutterhaus der Borromäerinnen Nord,Theobaldstraße,,,,,,,,yes,,49.761888299999995,6.6426859
+986,10986,Klinikum Mutterhaus der Borromäerinnen Trier,,,,,,,,,yes,,49.75571179999999,6.6301921
+987,10987,Klinikum Mutterhaus der Borromäerinnen Trier-Ehrang,August-Antz-Straße,,,,,,,,,,49.8090523,6.6896799
+988,10988,Klinikum Neumarkt i.d.OPf.,Nürnberger Straße,,,,,+49 9181 420-0,,,yes,,49.286727299999995,11.450821099999999
+989,10989,Klinikum Neuperlach,Oskar-Maria-Graf-Ring,,,,,+49 89 6794-0,,,yes,,48.0942558,11.6541371
+990,10990,Klinikum Nordfriesland - Klinik Niebüll,Gather Landstraße,,,,,+49 4661 150,,,yes,,54.79286629999999,8.8442896
+991,10991,Klinikum Nordfriesland GmbH,Erichsenweg,,,,,+49 4841 6600,,,yes,,54.4828505,9.051669300000002
+992,10992,Klinikum Nordschwarzwald,,,,,,,,,no,,48.745852299999996,8.7114546
+993,10993,Klinikum Nürnberg Nord,Prof.-Ernst-Nathan-Straße,,,,,+49 911 3980,,,yes,,49.462042499999995,11.059287300000001
+994,10994,Klinikum Obergöltzsch,Stiftstraße,,,,,,,,,,50.5224766,12.4109519
+995,10995,Klinikum Obergöltzsch,Stiftstraße,,,,,,,,yes,,50.523656200000005,12.412785699999999
+996,10996,Klinikum Oberlausitzer Bergland,Görlitzer Straße,,,,,+49 3583 880,,,yes,,50.8985868,14.8195177
+997,10997,Klinikum Oberlausitzer Bergland,Röntgenstraße,,,,,,,,yes,,51.0051611,14.5684929
+998,10998,Klinikum Oldenburg,Rahel-Straus-Straße,,,,,+49 441 403 0,,,yes,,53.112396,8.214497699999999
+999,10999,Klinikum Osnabrück,Am Finkenhügel,,,,,,,,yes,,52.2771944,8.002464999999999
+1000,11000,Klinikum Passau,Innstraße,,,,,,,,yes,,48.5647281,13.445607500000001
+1001,11001,Klinikum Peine,Virchowstraße,,,,,+49 5171 930,,,yes,,52.303386700000004,10.235770800000001
+1002,11002,Klinikum Pirna,Struppener Straße,,,,,,,,yes,,50.9587701,13.952293
+1003,11003,Klinikum Sankt Marien,,,,,,,,,,,49.448158500000005,11.865303599999999
+1004,11004,Klinikum Schwabing,,,,,,,,,yes,,48.170313799999995,11.5752138
+1005,11005,Klinikum Seefeld,,,,,,,,,,,48.0342808,11.214211800000001
+1006,11006,Klinikum Staßfurt,Bodestraße,,,,,+49 3925 262-0,,,yes,,51.8532486,11.592303999999999
+1007,11007,Klinikum Traunstein,,,,,,,,,yes,,47.8747263,12.6312914
+1008,11008,Klinikum Weiden in der Oberpfalz,Söllnerstraße,,,,,,,,yes,,49.680826399999994,12.1655713
+1009,11009,Klinikum Weilmünster,,,,,,,,,,,50.4253007,8.3882435
+1010,11010,Klinikum Weißer Hirsch,Heinrich-Cotta-Straße,,,,,,,,yes,,51.065106,13.8338691
+1011,11011,Klinikum Westfalen (ehem. Kanppschaftskrankenhaus),Am Knappschaftskrankenhaus,,,,,,,,yes,,51.5211617,7.5312629
+1012,11012,Klinikum Wetzlar,Forsthausstraße,,,,,,,,,,50.5384913,8.5285513
+1013,11013,Klinikum Wilhelmshaven,Friedrich-Paffrath-Straße,,,,,+49 4421 890,,,,,53.544275899999995,8.0860699
+1014,11014,Klinikum Winterberg,Winterberg,,,,,,,,,,49.219604,6.9918886
+1015,11015,Klinikum Worms,,,,,,,,,yes,,49.6483108,8.3207997
+1016,11016,Klinikum am Bruderwald,Buger Straße,,,,,,,,,,49.869183,10.8901364
+1017,11017,Klinikum am Europakanal,,,,,,,,,,,49.6070153,10.963478
+1018,11018,Klinikum am Michelsberg,Sankt-Getreu-Straße,,,,,,,,no,,49.893592,10.8726981
+1019,11019,Klinikum am Weissenhof,,,,,,,,,,,49.1647818,9.297557800000002
+1020,11020,Klinikum am Weissenhof,,,,,,,,,,,49.1656784,9.2970521
+1021,11021,Klinikum der Stadt Ludwigshafen,Bremserstraße,,,,,+49 621 503 0,,,yes,,49.487973,8.426390699999999
+1022,11022,Klinikum der Stadt Wolfsburg,Sauerbruchstraße,,,,,+49 5361 800,,,,,52.4138783,10.7644479
+1023,11023,Klinikum der Universität München - Campus Großhadern,Marchioninistraße,,,,,+49-89-4400-0,,,yes,,48.112907,11.4734353
+1024,11024,Klinikum im Friedrichshain,Landsberger Allee,,,,,,,,yes,,52.523923499999995,13.4386914
+1025,11025,Klinikum in den Pfeifferschen Stiftungen,Pfeifferstraße,,,,,,,,yes,,52.1159723,11.664120599999999
+1026,11026,Klinikum rechts der Isar,,,,,,+49 89 4140-0,,,yes,,48.139681,11.6006035
+1027,11027,Klinikzentrum Nord,,,,,,,,,,,51.5344952,7.4557587
+1028,11028,Klinikzentrum Westerstede,,,,,,+49 4488 50 0,,,yes,,53.257001100000004,7.9182335
+1029,11029,Klinische Hämostaseologie und Transfusionsmedizin (Geb. 1),Ringstraße,,,,,,,,,,49.3120929,7.343010499999999
+1030,11030,Klnik Berlin,,,,,,,,,no,,51.737086299999994,9.0437671
+1031,11031,Knappschafts-Klinik,Georg-Nave-Straße,,,,,,,,,,51.7396123,9.027038300000001
+1032,11032,Knappschafts-Klinik,Georg-Nave-Straße,,,,,,,,,,51.739945899999995,9.0277101
+1033,11033,Knappschaftskrankenhaus,,,,,,,,,yes,,51.5162945,6.9060842000000005
+1034,11034,Knappschaftskrankenhaus Sulzbach,An der Klinik,,,,,,,,,,49.2972129,7.053774400000001
+1035,11035,Kneipp-Anlage,,,,,,,,,,,51.680625299999996,12.727332400000002
+1036,11036,Kohlwald-Klinik,Johann-Rothmeier-Straße,,,,,,,,,,47.7604318,8.1163876
+1037,11037,Kopfklinik,,,,,,,,,,,49.8048031,9.9574265
+1038,11038,Kraichgau-Klinik,Fritz-Hagner-Promenade,,,,,+49 7264 8020,,,no,,49.2409094,9.109707499999999
+1039,11039,Kraichtal-Kliniken Therapiezentrum Münzesheim,,,,,,,,,,,49.1228532,8.7295478
+1040,11040,"Kraichtal-Kliniken, Haus Kraichtalblick",Sternackerstraße,,,,,,,,,,49.1083701,8.7096494
+1041,11041,Krankenhaus,Nordstraße,,,,,,,,,,51.5950895,7.6630918
+1042,11042,Krankenhaus 14 Nothelfer,Ravensburger Straße,,,,,+49 751 406 0,,,,,47.800003000000004,9.631867399999999
+1043,11043,Krankenhaus Aichach,Krankenhausstraße,,,,,+49 8251 9090,,,yes,,48.461496600000004,11.1422396
+1044,11044,Krankenhaus Angermünde,Rudolf-Breitscheid-Straße,,,,,+49 3331 2710,,,yes,,53.0128201,13.989684299999999
+1045,11045,Krankenhaus Bad Cannstatt,Prießnitzweg,,,,,+49 711 27802,,,yes,,48.810317100000006,9.235212800000001
+1046,11046,Krankenhaus Bad Doberan,Am Waldrand,,,,,,,,,,54.0903906,11.905856300000002
+1047,11047,Krankenhaus Bad Oeynhausen,,,,,,,,,yes,,52.1941128,8.7962534
+1048,11048,Krankenhaus Bad Waldsee,,,,,,,,,,,47.9254631,9.759947
+1049,11049,Krankenhaus Bethanien,Bethanienstraße,,,,,,,,no,,51.460913399999995,6.6326561
+1050,11050,Krankenhaus Bethanien Plauen,Dobenaustraße,,,,,+49 3741 1720,,,,,50.5023874,12.122195
+1051,11051,Krankenhaus Bethel,Promenadenstraße,,,,,+49 30 77910,,,yes,,52.43174079999999,13.326839800000002
+1052,11052,Krankenhaus Bietigheim-Bissingen,,,,,,,,,,,48.9577623,9.135775500000001
+1053,11053,Krankenhaus Bietigheim-Bissingen,Riedstraße,,,,,,,,yes,,48.9575807,9.135926300000001
+1054,11054,Krankenhaus Bitterfeld/Wolfen,Friedrich-Ludwig-Jahn-Straße,,,,,,,,yes,,51.632608700000006,12.3321656
+1055,11055,Krankenhaus Brackenheim,,,,,,+49 7135 101-0,,,yes,,49.0721516,9.0599018
+1056,11056,Krankenhaus Buchholz in der Nordheide,Steinbecker Straße,,,,,+49 4181 130,,,yes,,53.3333858,9.8733544
+1057,11057,Krankenhaus Burglengenfeld,Doktor-Sauerbruch-Straße,,,,,+49 9471 705-111,,,,,49.2036937,12.0352327
+1058,11058,Krankenhaus Düren,Roonstraße,,,,,+49 2421 300,,,yes,,50.8074626,6.4968463
+1059,11059,Krankenhaus Eichhof,,,,,,,,,,,50.62987929999999,9.391693
+1060,11060,Krankenhaus Elsterwerda,Elsterstraße,,,,,,,,yes,,51.4565391,13.520787200000001
+1061,11061,Krankenhaus Erlabrunn,Am Märzenberg,,,,,+49 3773 60,,,,,50.4731526,12.7082617
+1062,11062,Krankenhaus Falkeneck,Hecksbergstraße,,,,,+49 6442-302-0,,,yes,,50.520930299999996,8.380995
+1063,11063,Krankenhaus Freudenstadt,Karl-von-Hahn-Straße,,,,,,,,yes,,48.4773936,8.4046951
+1064,11064,Krankenhaus Freyung,,,,,,+49 8551 9770,,,,,48.806292799999994,13.5454638
+1065,11065,Krankenhaus Friedberg,Herrgottsruhstraße,,,,,+49 821 6004 0,,,yes,,48.3559054,10.9855841
+1066,11066,Krankenhaus Grafenau,Schwarzmaierstraße,,,,,+49 8581 981-0,,,yes,,48.8591885,13.392662900000001
+1067,11067,Krankenhaus Grimma,,,,,,,,,,,51.2382732,12.7174062
+1068,11068,Krankenhaus Grimma,Kleiststraße,,,,,,,,yes,,51.2378644,12.7178942
+1069,11069,Krankenhaus Hardheim,Wertheimer Straße,,,,,,,,yes,,49.61139,9.470949800000001
+1070,11070,Krankenhaus Hedwigshöhe,Höhensteig,,,,,,,,yes,,52.4063882,13.57112
+1071,11071,Krankenhaus Herzberg,Alte Prettiner Straße,,,,,,,,yes,,51.685559999999995,13.2102536
+1072,11072,Krankenhaus Hofheim,,,,,,+49 6192 98-0,,,yes,,50.0902009,8.4443852
+1073,11073,Krankenhaus Holweide,Neufelder Straße,,,,,,,,yes,,50.9669396,7.0560696
+1074,11074,Krankenhaus Ingelheim der Universitätsmedizin Mainz,,,,,,+49 6132 785-0,,,yes,,49.9737213,8.0685662
+1075,11075,Krankenhaus Jerusalem,Moorkamp,,,,,,,,no,,53.56957979999999,9.9668353
+1076,11076,Krankenhaus Kemnath,,,,,,,,,,,49.868332200000005,11.8906116
+1077,11077,Krankenhaus Köln-Merheim,,,,,,,,,,,50.941553799999994,7.0506761
+1078,11078,Krankenhaus Küchwald,Bürgerstraße,,,,,,,,,,50.847007500000004,12.894414
+1079,11079,Krankenhaus Künzelsau,Stettenstraße,,,,,+49 7940 148-0,,,yes,,49.2762488,9.6911685
+1080,11080,Krankenhaus Lauchhammer,Friedensstraße,,,,,,,,yes,,51.4973714,13.7882043
+1081,11081,Krankenhaus Leonberg,Rutesheimer Straße,,,,,+49 07152 2020,,,,,48.8036321,9.0013592
+1082,11082,Krankenhaus Lindenbrunn,Lindenbrunn,,,,,+49 5156 782 0,,,,,52.1086189,9.5495234
+1083,11083,Krankenhaus Ludmillenstift,Ludmillenstraße,,,,,,,,yes,,52.689619799999996,7.294554
+1084,11084,Krankenhaus Marbach,Im Bannmüller,,,,,,,,yes,,48.9432077,9.2583505
+1085,11085,Krankenhaus Maria Hilf Bad Neuenahr-Ahrweiler,,,,,,,,,yes,,50.54143679999999,7.12799
+1086,11086,Krankenhaus Maria Stern,Am Anger,,,,,,,,yes,,50.5736112,7.2335732
+1087,11087,Krankenhaus Maria-Hilf,Oberdießemer Straße,,,,,+49-2151-3340,,,,,51.3257047,6.582981599999999
+1088,11088,Krankenhaus Maria-Hilf,,,,,,+49 2902 891-0,,,yes,,51.4411427,8.3554791
+1089,11089,Krankenhaus Markt Werneck,Balthasar-Neumann-Platz,,,,,+49 9722 590,,,,,49.9816946,10.099489199999999
+1090,11090,Krankenhaus Martha Maria,,,,,,,,,,,51.503184600000004,11.8733142
+1091,11091,Krankenhaus Martha-Maria,Stadenstraße,,,,,+49 911 9590,,,yes,,49.482778,11.1359367
+1092,11092,Krankenhaus Neustadt,Felixallee,,,,,,,,,,49.725077399999996,12.172373599999998
+1093,11093,Krankenhaus Neustadt bei Coburg,,,,,,,,,yes,,50.3274646,11.1274759
+1094,11094,Krankenhaus Neuwerk Maria von den Aposteln,,,,,,,,,,,51.2246313,6.4693065
+1095,11095,Krankenhaus Neuwittelsbach,,,,,,,,,,,48.1571025,11.525117199999999
+1096,11096,Krankenhaus Norderney,Lippestraße,,,,,+49 4932 8050,,,yes,,53.715613600000005,7.173601400000001
+1097,11097,Krankenhaus Nordwest,Steinbacher Hohl,,,,,,,,,,50.152093799999996,8.6160177
+1098,11098,Krankenhaus Oberviechtach,Teunzer Straße,,,,,+49 9671 9300,,,yes,,49.462521,12.4119023
+1099,11099,Krankenhaus Porz,,,,,,,,,,,50.892618,7.052542999999999
+1100,11100,Krankenhaus Porz am Rhein,Urbacher Weg,,,,,,,,,,50.8925672,7.0502923
+1101,11101,Krankenhaus Rahden,Hohe Mühle,,,,,,,,yes,,52.430055,8.6107715
+1102,11102,Krankenhaus Reinbek St. Adolf-Stift,Hamburger Straße,,,,,,,,yes,,53.510373,10.242315699999999
+1103,11103,Krankenhaus Rheiderland,Neue Straße,,,,,+49 4951 3010,,,yes,,53.1683876,7.352997099999999
+1104,11104,Krankenhaus Rheinfelden,Am Vogelsang,,,,,,,,,,47.579995700000005,7.7851829
+1105,11105,Krankenhaus Rockenhausen,,,,,,,,,yes,,49.631333399999995,7.8149671000000005
+1106,11106,Krankenhaus Roding,Arnulfstraße,,,,,,,,,,49.1894749,12.51887
+1107,11107,Krankenhaus Rotes Kreuz Lübeck -Geriatriezentrum-,Marlistraße,,,,,+49 451 62020,,,no,,53.87336510000001,10.708264199999999
+1108,11108,Krankenhaus Rummelsberg,,,,,,,,,,,49.362874299999994,11.2644463
+1109,11109,Krankenhaus Saarlouis vom DRK,,,,,,,,,yes,,49.314308600000004,6.7425607
+1110,11110,Krankenhaus Sachsenhausen,,,,,,,,,yes,,50.1068338,8.6835354
+1111,11111,Krankenhaus Sankt Camillus,,,,,,,,,,,48.271424200000006,10.4481543
+1112,11112,Krankenhaus Sankt Raphael Ostercappeln,Bremer Straße,,,,,+49 5473 29 0,,,yes,,52.3445566,8.2299659
+1113,11113,Krankenhaus Senftenberg,Krankenhausstraße,,,,,,,,yes,,51.52650870000001,14.000425
+1114,11114,Krankenhaus St. Barbara,Barbarastraße,,,,,+49 345 21330,,,,,51.459565500000004,11.9772225
+1115,11115,Krankenhaus St. Barbara,Steinberger Straße,,,,,+49 9431 52-0,,,yes,,49.3165271,12.1123655
+1116,11116,Krankenhaus St. Elisabeth,Mauerstraße,,,,,+49 345 21330,,,yes,,51.478500399999994,11.9674633
+1117,11117,Krankenhaus St. Joseph-Stift,,,,,,,,,yes,,51.0466244,13.760003699999999
+1118,11118,Krankenhaus St. Marienstift Magdeburg,Harsdorfer Straße,,,,,,,,,,52.1380599,11.5992696
+1119,11119,Krankenhaus St. Vincentius,Untere Neckarstraße,,,,,,,,,,49.4117933,8.6970515
+1120,11120,Krankenhaus Stenum,Heilstättenweg,,,,,,,,,,53.0792095,8.553870199999999
+1121,11121,Krankenhaus Stockach,Am Stadtgarten,,,,,+4977718030,,,yes,,47.85366810000001,9.009164300000002
+1122,11122,Krankenhaus Strausberg,Prötzeler Chaussee,,,,,+493341/52-0,,,yes,,52.588481200000004,13.8999983
+1123,11123,Krankenhaus Tabea,Kösterbergstraße,,,,,+49 40 86692-0,,,,,53.5642733,9.791307199999999
+1124,11124,Krankenhaus Vilshofen,Krankenhausstraße,,,,,+4985412060,,,,,48.627909499999994,13.1988897
+1125,11125,Krankenhaus Vohenstrauß,,,,,,,,,,,49.6224482,12.3393707
+1126,11126,Krankenhaus Waldfriede,Argentinische Allee,,,,,+49 30 818100,,,,,52.4440561,13.238083800000002
+1127,11127,Krankenhaus Waltershausen-Friedrichroda GmbH,Reinhardsbrunner Straße,,,,,,,,,,50.8606932,10.5594605
+1128,11128,Krankenhaus Wegscheid,Marktstraße,,,,,+49 8592 880-0,,,,,48.6011092,13.792538
+1129,11129,Krankenhaus Weilheim,,,,,,,,,no,,47.8368403,11.143631800000001
+1130,11130,Krankenhaus Wermelskirchen,,,,,,,,,yes,,51.1343906,7.2213902999999995
+1131,11131,Krankenhaus Winsen,Friedrich-Lichtenauer-Allee,,,,,,,,,,53.3512061,10.2003066
+1132,11132,Krankenhaus Wittmund,Dohuser Weg,,,,,,,,yes,,53.5723353,7.7887932
+1133,11133,Krankenhaus Wriezen,,,,,,,,,,,52.7199897,14.1280204
+1134,11134,Krankenhaus Wurzen,Kutusowstraße,,,,,+49 3425 930,,,,,51.3796411,12.7299913
+1135,11135,Krankenhaus der Augustinerinnen „Klösterchen“,Jakobstraße,,,,,+49-221-3308-0,,,,,50.9252266,6.9561421
+1136,11136,Krankenhaus der Barmherzigen Brüder,,,,,,,,,,,49.015526799999996,12.063800599999999
+1137,11137,Krankenhaus der Barmherzigen Brüder,Romanstraße,,,,,+49 89 1797-0,,,,,48.1556896,11.5107219
+1138,11138,Krankenhaus des Maßregelvollzugs Berlin (KMV),Olbendorfer Weg,,,,,,,,,,52.5851769,13.327124
+1139,11139,Krankenhaus vom Roten Kreuz Bad Cannstatt,Badstraße,,,,,+49 711 5533-0,,,,,48.8036485,9.211369699999999
+1140,11140,Krankenhäuser Klinik für innere Medizin II,,,,,,,,,,,51.7114779,11.2257873
+1141,11141,Kreis-Krankenhaus-Schopfheim,Schwarzwaldstraße,,,,,,,,yes,,47.6467446,7.8236113
+1142,11142,Kreisklinik Bad Reichenhall,,,,,,,,,,,47.72801079999999,12.872587300000001
+1143,11143,Kreisklinik Bad Reichenhall,,,,,,,,,,,47.72802,12.871946099999999
+1144,11144,Kreisklinik Bad Reichenhall,Riedelstraße,,,,,,,,yes,,47.72833970000001,12.870730900000002
+1145,11145,Kreisklinik Bad Reichenhall - Hauptgebäude Eingang,Riedelstraße,,,,,+49 8651 7720,,,,,47.7278532,12.8707617
+1146,11146,Kreisklinik Ebersberg,Pfarrer-Guggetzer-Straße,,,,,,,,yes,,48.0756937,11.9587816
+1147,11147,Kreisklinik Freilassing,,,,,,,,,yes,,47.8480247,12.9792234
+1148,11148,Kreisklinik Groß-Gerau,,,,,,+49 6152 986-0,,,yes,,49.9119588,8.476806800000002
+1149,11149,Kreisklinik Groß-Umstadt,Krankenhausstraße,,,,,,,,,,49.8674692,8.9366603
+1150,11150,Kreisklinik Roth,Weinbergweg,,,,,+49 9171 802-0,,,yes,,49.2366524,11.0719912
+1151,11151,Kreisklinik Trostberg,,,,,,,,,yes,,48.028123,12.541713099999999
+1152,11152,Kreisklinik Tuttlingen,Zeppelinstraße,,,,,,,,,,47.9843598,8.831702400000001
+1153,11153,Kreisklinik Wolfhagen,Am kleinen Ofenberg,,,,,+49 5692 400,,,yes,,51.3198933,9.1905788
+1154,11154,Kreisklinik Wörth an der Donau,Krankenhausstraße,,,,,+49 9482 202 0,,,yes,,48.999088799999996,12.3985437
+1155,11155,Kreisklinikum Siegen,Weidenauer Straße,,,,,,,,yes,,50.9027727,8.0194026
+1156,11156,Kreiskrankenhaus,Krankenhausstraße,,,,,+49 8741 60-0,,,yes,,48.4446649,12.3615314
+1157,11157,Kreiskrankenhaus,Bärwinkelstraße,,,,,,,,yes,,50.838772399999996,10.940223
+1158,11158,Kreiskrankenhaus,Marienstraße,,,,,,,,,,48.5922325,8.875132
+1159,11159,Kreiskrankenhaus,,,,,,,,,yes,,49.385344399999994,11.359338300000001
+1160,11160,Kreiskrankenhaus Alsfeld,,,,,,,,,yes,,50.7616675,9.267723
+1161,11161,Kreiskrankenhaus Altötting,,,,,,,,,,,48.234907,12.675889100000001
+1162,11162,Kreiskrankenhaus Cham,,,,,,,,,yes,,49.2245631,12.6602429
+1163,11163,Kreiskrankenhaus Demmin,Wollweberstraße,,,,,,,,yes,,53.90252339999999,13.0401395
+1164,11164,Kreiskrankenhaus Dormagen,Dr.-Geldmacher-Straße,,,,,+49 2133 660,,,,,51.073240999999996,6.8096374000000015
+1165,11165,Kreiskrankenhaus Ehingen,,,,,,,,,,,48.2809339,9.7199895
+1166,11166,Kreiskrankenhaus Frankenberg,,,,,,,,,yes,,51.0624756,8.7928425
+1167,11167,Kreiskrankenhaus Freiberg,Donatsring,,,,,,,,yes,,50.920864,13.3496805
+1168,11168,Kreiskrankenhaus GeoMed Klinik Gerolzhofen,Dingolshäuser Straße,,,,,+49 9382 6010,,,yes,,49.901052299999996,10.3548757
+1169,11169,Kreiskrankenhaus Greiz,Wichmannstraße,,,,,,,,yes,,50.663963,12.1971994
+1170,11170,Kreiskrankenhaus Grevenbroich St. Elisabeth,Von-Werth-Straße,,,,,+49 2181 6001,,,,,51.0908041,6.5920826
+1171,11171,Kreiskrankenhaus Grünstadt,,,,,,+49 6359 8090,,,yes,,49.564746299999996,8.1589403
+1172,11172,Kreiskrankenhaus Gummersbach,Wilhelm-Breckow-Allee,,,,,+49 2261 170,,,,,51.01600379999999,7.5673791
+1173,11173,Kreiskrankenhaus Gunzenhausen,Albert-Schweitzer-Straße,,,,,+49 9831 520,,,yes,,49.1085631,10.7737436
+1174,11174,Kreiskrankenhaus Günzburg,Ludwig Heilmeyer-Straße,,,,,+49 8221 9600,,,yes,,48.457861,10.2932374
+1175,11175,Kreiskrankenhaus Haag,,,,,,,,,,,48.1628739,12.183671400000001
+1176,11176,Kreiskrankenhaus Hagenow,Parkstraße,,,,,,,,,,53.4347969,11.179953900000001
+1177,11177,Kreiskrankenhaus Heppenheim,Viernheimer Straße,,,,,,,,yes,,49.628674700000005,8.624755
+1178,11178,Kreiskrankenhaus Krumbach,,,,,,,,,,,48.237153,10.3668325
+1179,11179,Kreiskrankenhaus Lörrach,Spitalstraße,,,,,,,,yes,,47.6147861,7.658610400000001
+1180,11180,Kreiskrankenhaus Nagold,Röntgenstraße,,,,,,,,yes,,48.5420231,8.721570300000002
+1181,11181,Kreiskrankenhaus Osterholz,Am Krankenhaus,,,,,,,,,,53.234258499999996,8.7940728
+1182,11182,Kreiskrankenhaus Prenzlau,Stettiner Straße,,,,,+49 3984 33 0,,,,,53.332285899999995,13.8665809
+1183,11183,Kreiskrankenhaus Prignitz,,,,,,,,,yes,,53.071849300000004,11.875496400000001
+1184,11184,Kreiskrankenhaus Rastatt,Engelstraße,,,,,,,,yes,,48.8615775,8.2052181
+1185,11185,Kreiskrankenhaus Schleiz,Berthold-Schmidt-Straße,,,,,,,,yes,,50.5757978,11.816985899999999
+1186,11186,Kreiskrankenhaus Schotten,,,,,,,,,,,50.507364100000004,9.1046021
+1187,11187,Kreiskrankenhaus Schrobenhausen,Högenauer Weg,,,,,+49 8252 94 0,,,,,48.5733619,11.2624883
+1188,11188,Kreiskrankenhaus St. Franziskus Saarburg,Graf-Siegfried-Straße,,,,,+49 6581 82-0,,,yes,,49.6033434,6.537851
+1189,11189,Kreiskrankenhaus St. Ingbert,,,,,,,,,,,49.2915804,7.1144424
+1190,11190,Kreiskrankenhaus Starnberg,Oßwaldstraße,,,,,+49 8151 18-0,,,,,48.0063907,11.3340901
+1191,11191,Kreiskrankenhaus TBB Haus Ⅰ,,,,,,,,,,,49.6301616,9.673169
+1192,11192,Kreiskrankenhaus TBB Haus Ⅱ,Am Heimbergsflur,,,,,,,,,,49.6304092,9.672637
+1193,11193,Kreiskrankenhaus Waldbröl,Dr.-Goldenbogen-Straße,,,,,,,,,,50.877426,7.630654700000001
+1194,11194,Kreiskrankenhaus Weilburg,,,,,,+49 6471 313-0,,,yes,,50.4849713,8.2514209
+1195,11195,Kreiskrankenhaus Wolgast,Chausseestraße,,,,,,,,,,54.0516123,13.7627266
+1196,11196,Kreiskrankenhaus Zschopau,Alte Marienberger Straße,,,,,,,,yes,,50.73566470000001,13.0776241
+1197,11197,Kreiskrankenhaus des Kreises Plön,Am Krankenhaus,,,,,,,,,,54.238988600000006,10.276117300000001
+1198,11198,Kriegsblindenkursanatorium,,,,,,,,,,,48.0050956,11.3189515
+1199,11199,Kultur-therapeutische Gemeinschaft GmbH siebenzwerge,,,,,,,,,,,47.7600626,9.353767
+1200,11200,Kur- und Gesundheitszentrum Friedborn,Lehnhof,,,,,,,,,,47.58929570000001,7.9959928
+1201,11201,Kur- und Pflegeheim Schloß Friedland GmbH,Schloßstraße,,,,,,,,,,51.418173100000004,9.9151437
+1202,11202,Kuratorium für Heimdialyse,,,,,,,,,no,,49.8077052,9.952803
+1203,11203,Kurkliniken am Burggraben,,,,,,,,,,,52.0955033,8.7603441
+1204,11204,Kurparkklinik,,,,,,,,,,,50.3606655,8.7404013
+1205,11205,Kurparkklinik Dr. Lauterbach,Heinrich-Mann-Straße,,,,,+49 36961 790,,,,,50.813899400000004,10.3513999
+1206,11206,Kussmaul Campus für medizinische Forschung,Hartmannstraße,,,,,,,,,,49.595785799999994,11.022683099999998
+1207,11207,König-Ludwig-Haus,Brettreichstraße,,,,,,,,,,49.7827068,9.9475633
+1208,11208,Küche,,,,,,,,,,,52.3711006,9.724619
+1209,11209,LVA Klinik Kohlbruck,Kohlbruck,,,,,,,,,,48.5513886,13.414506900000001
+1210,11210,LVR-Klinik Bedburg-Hau,,,,,,+49 2821 81-0,,,,,51.7572188,6.1738957999999995
+1211,11211,LVR-Klinik Bonn,,,,,,,,,yes,,50.7490708,7.0908212
+1212,11212,LVR-Klinik Bonn - Behandlungszentrum Meckenheim,Siebengebirgsring,,,,,,,,,,50.6243209,7.0437368000000005
+1213,11213,LVR-Klinik Langenfeld,,,,,,,,,,,51.095164600000004,6.9576277
+1214,11214,LVR-Klinik Viersen,,,,,,,,,,,51.293625,6.349501
+1215,11215,LVR-Klinik für Orthopädie Viersen,,,,,,,,,,,51.2900689,6.3499407
+1216,11216,LVR-Klinikum Düsseldorf für Psychiatrie und Psychotherapie,Bergische Landstraße,,,,,,,,,,51.2429084,6.8497726
+1217,11217,LVR-Klinikum Essen,Virchowstraße,,,,,,,,,,51.434262200000006,6.986471099999999
+1218,11218,LWL Ambulante Jugendpsychiatrie,,,,,,,,,,,51.6174717,7.5894686
+1219,11219,LWL Forensik Herne,,,,,,,,,,,51.5332058,7.134980400000001
+1220,11220,LWL Tagesklinik,Falkstraße,,,,,,,,,,51.5322783,7.6757258
+1221,11221,LWL Tagesklinik,Arnold-Kock-Straße,,,,,,,,,,52.127334999999995,7.399238900000001
+1222,11222,LWL Tagesklinik+ Institutsambulanz,Hattroper Weg,,,,,,,,,,51.577513700000004,8.086307099999999
+1223,11223,LWL-Klinik Gütersloh,Buxelstraße,,,,,,,,,,51.8972599,8.3444497
+1224,11224,LWL-Klinik Herten,Im Schlosspark,,,,,,,,no,,51.5904564,7.1232936
+1225,11225,LWL-Klinik Lengerich,Parkallee,,,,,,,,,,52.197334399999995,7.854066900000001
+1226,11226,LWL-Klinik Marl-Sinsen - Haardklinik -,Halterner Straße,,,,,+49 2365 802 0,,,no,,51.6918717,7.187348200000001
+1227,11227,LWL-Klinik Marsberg,,,,,,,,,,,51.456728399999996,8.8355858
+1228,11228,LWL-Klinik Marsberg,,,,,,,,,,,51.4545801,8.858624699999998
+1229,11229,LWL-Klinik Marsberg,,,,,,,,,,,51.45686370000001,8.8527025
+1230,11230,LWL-Klinik Münster,Friedrich-Wilhelm-Weber-Straße,,,,,,,,no,,51.975597799999996,7.6178215
+1231,11231,LWL-Klinik Paderborn,Agathastraße,,,,,,,,,,51.7188729,8.762793499999999
+1232,11232,"LWL-Klinik Warstein für Psychiatrie, Psychotherapie und Psychosomatik",,,,,,+49 2902 820,,,,,51.4553135,8.355439599999999
+1233,11233,LWL-Tagesklinik,,,,,,,,,,,51.9378735,7.168467
+1234,11234,LWL-Tagesklinik für Kinder- und Jugendpsychiatrie,Bentheimer Straße,,,,,,,,no,,52.2165643,7.0301178
+1235,11235,LWL-Universitätsklinik,,,,,,,,,,,51.4905107,7.2281148
+1236,11236,LWL-Universitätsklinik Hamm,Heithofer Allee,,,,,,,,,,51.6843279,7.865985799999999
+1237,11237,Laborgebäude,,,,,,,,,,,48.0084419,7.8578637
+1238,11238,Lakumed Hospiz,Kremplsetzerweg,,,,,,,,,,48.446403600000004,12.3593276
+1239,11239,Landesklinik Marienheide - Zentrum für seelische Gesundheit,Leppestraße,,,,,,,,,,51.0736474,7.5243074000000005
+1240,11240,Landeskrankenhaus,,,,,,,,,,,53.01152679999999,10.422855
+1241,11241,Landeskrankenhaus für Forensische Psychiatrie,Hohenziatzer Chausee,,,,,+49 39221 6470,,,no,,52.155477600000005,11.9908284
+1242,11242,Landeskrankenhaus für Forensische Psychiatrie Uchtspringe,,,,,,,,,,,52.5350073,11.594534800000002
+1243,11243,Landkreis Mittweida Krankenhaus,Hainichener Straße,,,,,+49 3727 990,,,yes,,50.9815417,12.985114300000001
+1244,11244,Landschaftsverband Rheinland - Klinik Düren,Meckerstraße,,,,,,,,,,50.8194349,6.4792259
+1245,11245,Lausitz Klinik Forst,Robert-Koch-Straße,,,,,+49 3562-985 0,,,yes,,51.7557301,14.635272699999998
+1246,11246,Lazarus-Kranken- und Diakonissenhaus,,,,,,,,,,,52.5338929,13.3880582
+1247,11247,Lebenshilfe Reinsdorf,Schwalbenweg,,,,,,,,,,52.1557635,11.0421349
+1248,11248,Leopoldina-Krankenhaus,Gustav-Adolf-Straße,,,,,,,,yes,,50.0528438,10.245233800000001
+1249,11249,Lichthof 1,,,,,,,,,,,50.777427200000005,6.042088400000001
+1250,11250,Lichthof 10,,,,,,,,,,,50.7766745,6.0430056
+1251,11251,Lichthof 3,,,,,,,,,,,50.7774085,6.0433399
+1252,11252,Lichthof 5,,,,,,,,,,,50.777414,6.0445507
+1253,11253,Lichthof 8,,,,,,,,,,,50.77666970000001,6.0417862
+1254,11254,Lichthof V,,,,,,,,,,,50.90775429999999,7.5493259
+1255,11255,Liegendanfahrt,,,,,,,,,yes,,51.528873700000005,6.3277627
+1256,11256,Loreley-Kliniken Oberwesel,Hospitalgasse,,,,,,,,,,50.110516600000004,7.7231205
+1257,11257,Loreley-Kliniken St. Goar,Gründelbach,,,,,+49 6741 800-0,,,,,50.1551716,7.7022012
+1258,11258,Loretto-Krankenhaus,Mercystraße,,,,,,,,,,47.9824516,7.8391858999999995
+1259,11259,Lubinus Clinicum,Steenbeker Weg,,,,,,,,,,54.353942700000005,10.1187127
+1260,11260,Ludwig-Noll-Krankenhaus,Dennhäuser Straße,,,,,,,,no,,51.27177329999999,9.4887515
+1261,11261,Luise von Marillac Klinik,Elly-Heuss-Knapp-Weg,,,,,,,,no,,48.597237799999995,9.7913286
+1262,11262,Luisenhospital,Boxgraben,,,,,,,,yes,,50.76805220000001,6.076986799999999
+1263,11263,Luisenklinik,Strandbadstraße,,,,,,,,,,47.7370657,8.9770633
+1264,11264,Lukas-Krankenhaus,Hindenburgstraße,,,,,,,,yes,,52.197570500000005,8.5935559
+1265,11265,Lukaskrankenhaus,Preußenstraße,,,,,,,,yes,,51.192919599999996,6.6700949000000005
+1266,11266,LungenClinic Grosshansdorf,Wöhrendamm,,,,,,,,,,53.660578,10.2801684
+1267,11267,Lungenfachklinik,,,,,,,,,,,51.424588,9.4762595
+1268,11268,Lungenklinik,,,,,,,,,,,51.7124386,11.231216900000002
+1269,11269,Lungenklinik Hemer,,,,,,,,,,,51.3939242,7.7643113
+1270,11270,Lungenklinik Lostau,,,,,,,,,,,52.2165916,11.7270597
+1271,11271,Lutrina-Klinik,Karl-Marx-Straße,,,,,,,,yes,,49.4419845,7.7723569
+1272,11272,MARE Klinikum,Eckernförder Straße,,,,,,,,,,54.338720200000004,10.1043977
+1273,11273,MEDIAN Klinik,Parkstraße,,,,,,,,,,51.1521843,12.6470234
+1274,11274,MEDIAN Klinik Bad Lobenstein,,,,,,,,,no,,50.4418906,11.6299847
+1275,11275,MEDIAN Klinik Dormagen,Kurt-Tucholsky-Straße,,,,,+49 2133 2660-0,,,,,51.0997516,6.8157160999999995
+1276,11276,MEDIAN Klinik Grünheide,An der REHA-Klinik,,,,,,,,,,52.42475220000001,13.813773800000002
+1277,11277,MEDIAN Klinik St. Georg,Gartenstraße,,,,,,,,,,48.016964200000004,8.542077599999999
+1278,11278,MEDIAN Klinik St. Georg,Gartenstraße,,,,,,,,,,48.0170231,8.5404696
+1279,11279,MEDIAN Kliniken Daun Altburg,,,,,,+49 6592 201800,,,,,50.1594869,6.8434618
+1280,11280,MEDIAN Kliniken Lübeck,Weidenweg,,,,,+49 451 5894 0,,,,,53.8484524,10.6914942
+1281,11281,MEDIAN NRZ Bad Salzuflen,Forsthausweg,,,,,+49 5222 398-0,,,no,,52.0962984,8.7498566
+1282,11282,MEDIAN-Klinik Hoppegarten,Rennbahnallee,,,,,+49 3342 353 0,,,no,,52.505377,13.659317999999999
+1283,11283,MEDICLIN Herzzentrum Lahr,,,,,,,,,yes,,48.339856899999994,7.8887254
+1284,11284,MEDINOS Kliniken des Landkreises Sonneberg GmbH,,,,,,,,,yes,,50.3533964,11.160675999999999
+1285,11285,MVZ Kölleda,,,,,,,,,no,,51.1843254,11.246436300000001
+1286,11286,Main-Kinzig-Kliniken Gelnhausen,Herzbachweg,,,,,+49 6051 870,,,yes,,50.207724600000006,9.179227699999998
+1287,11287,Main-Kinzig-Kliniken Kreiskrankenhaus,,,,,,,,,,,50.3548134,9.527230699999999
+1288,11288,Main-Klinik Ochsenfurt,,,,,,,,,,,49.661249,10.0886561
+1289,11289,Malbergklinik,Römerstraße,,,,,+49 2603 9750,,,no,,50.332976,7.7189872
+1290,11290,Malteser Krankenhaus St. Anna,Albertus-Magnus-Straße,,,,,,,,yes,,51.3664615,6.7549556
+1291,11291,Malteser Krankenhaus St. Carolus,Carolusstraße,,,,,+49 3581 720,,,yes,,51.144347100000005,14.937915
+1292,11292,Malteser Krankenhaus St. Johannes,Nebelschützer Straße,,,,,,,,yes,,51.264462200000004,14.121781400000001
+1293,11293,Malteser-Krankenhaus,Pillkaller Allee,,,,,,,,,,52.5092228,13.2512218
+1294,11294,Marbachtalklinik,Doktor-Georg-Heim-Straße,,,,,+49 971 8080,,,,,50.1983187,10.059272199999999
+1295,11295,Margarethen-Klinik,Konsul-Lorentzen-Straße,,,,,+49 4642 52 100,,,yes,,54.6577726,9.9250256
+1296,11296,Maria Frieden,Am Krankenhaus,,,,,,,,no,,51.987122799999995,7.8159618
+1297,11297,Maria Heimsuchung Caritas Klinikum Pankow,,,,,,,,,,,52.5710655,13.413218400000002
+1298,11298,Maria-Hilf Krankenhaus Daun,,,,,,+49 6592 715 0,,,yes,,50.193776899999996,6.832801400000001
+1299,11299,Maria-Hilf-Krankenhaus,Klosterstraße,,,,,+49 2271 870,,,yes,,50.952913099999996,6.6377839000000005
+1300,11300,Maria-Josef-Hospital,,,,,,,,,,,52.088571200000004,7.6108229000000005
+1301,11301,MariaHilf MH 2,,,,,,,,,,,51.32595379999999,6.5846836
+1302,11302,Marien Hospital Papenburg Aschendorf,Hauptkanal rechts,,,,,+49 4961 93 0,,,,,53.0756169,7.3960049
+1303,11303,Marien-Hospital,,,,,,+4922354040,,,yes,,50.8088595,6.808913799999999
+1304,11304,Marien-Hospital,Rochusstraße,,,,,,,,,,51.236372499999995,6.7845821
+1305,11305,Marien-Hospital,Marienplatz,,,,,,,,,,51.44507410000001,7.336753
+1306,11306,Marien-Hospital Erwitte,Von-Droste-Straße,,,,,+49 2943 890-0,,,no,,51.615279799999996,8.3386444
+1307,11307,Marien-Hospital Euskirchen,,,,,,,,,yes,,50.6435875,6.790239
+1308,11308,Marien-Hospital Klinik Knappenstraße,,,,,,,,,,,51.6883695,7.848497
+1309,11309,Marien-Hospital Marl,Hervester Straße,,,,,+49 2365 911 0,,,yes,,51.6523181,7.0833788
+1310,11310,Marien-Krankenhaus,,,,,,,,,,,50.99248060000001,7.1300387
+1311,11311,Marienhaus Klinikum Eifel Bitburg,,,,,,,,,,,49.9721077,6.525549900000001
+1312,11312,Marienhaus Klinikum Hetzelstift Neustadt/Weinstraße,,,,,,,,,yes,,49.3469179,8.1487091
+1313,11313,Marienhaus Klinikum St. Elisabeth Neuwied,,,,,,,,,yes,,50.42836629999999,7.4720952
+1314,11314,Marienhaus Klinikum St. Elisabeth Saarlouis,,,,,,,,,yes,,49.31481779999999,6.7573042
+1315,11315,Marienhausklinik Ottweiler,,,,,,,,,yes,,49.401819200000006,7.166896700000001
+1316,11316,Marienhausklinik St. Josef Kohlhof,,,,,,+49 6821 363-0,,,yes,,49.3188238,7.227891900000001
+1317,11317,Marienhospital,Eierstraße,,,,,,,,,,48.7582121,9.1625617
+1318,11318,Marienhospital,,,,,,,,,,,51.841759499999995,6.8606781
+1319,11319,Marienhospital,Pohlstraße,,,,,,,,,,52.057354100000005,7.353977900000001
+1320,11320,Marienhospital,Basilikastraße,,,,,,,,,,51.584798299999996,6.2480479
+1321,11321,Marienhospital,Spellerstraße,,,,,,,,yes,,51.8223384,8.142921000000001
+1322,11322,Marienhospital,Zeise,,,,,+49 241 6006 0,,,yes,,50.7622503,6.0952307999999995
+1323,11323,Marienhospital,Mühlenstraße,,,,,+49 2232 74 0,,,yes,,50.827048,6.9019091
+1324,11324,Marienhospital,,,,,,,,,yes,,48.761975299999996,9.1638092
+1325,11325,Marienhospital,,,,,,,,,yes,,51.47898370000001,7.441016499999999
+1326,11326,Marienhospital,Hospitalstraße,,,,,,,,,,51.500364000000005,7.0061800000000005
+1327,11327,Marienhospital Borghorst,Mauritiusstraße,,,,,,,,,,52.1261714,7.399501600000001
+1328,11328,Marienhospital Bottrop,Josef-Albers-Straße,,,,,,,,,,51.532795799999995,6.9177869
+1329,11329,Marienhospital Gelsenkirchen,Virchowstraße,,,,,,,,,,51.4943602,7.100946899999999
+1330,11330,Marienhospital Gelsenkirchen,,,,,,,,,yes,,51.494268,7.100152099999999
+1331,11331,Marienhospital Herne,Hölkeskampring,,,,,+49 2323 4990,,,yes,,51.5295495,7.2259245
+1332,11332,Marienhospital Osnabrück,Bischofsstraße,,,,,,,,yes,,52.2700688,8.053493
+1333,11333,Marienhospital Wattenscheid,,,,,,,,,no,,51.484105,7.140384399999999
+1334,11334,Marienkliniken Sankt Josef Losheim,,,,,,,,,,,49.509397299999996,6.7391071
+1335,11335,Marienkrankenhaus Goethestraße,Goethestraße,,,,,,,,yes,,51.4443475,7.5676727
+1336,11336,Marienkrankenhaus Kaiserswerth,An Sankt Swidbert,,,,,,,,,,51.3005597,6.7340129
+1337,11337,Marienkrankenhaus Kassel,Marburger Straße,,,,,+49 561 8073-0,,,yes,,51.3279912,9.4815317
+1338,11338,Marienkrankenhaus Nassau,,,,,,+49 2604 706-0,,,no,,50.3190931,7.7901281
+1339,11339,Marienkrankenhaus Sankt Wendel,,,,,,+49 6851 5901,,,yes,,49.4537839,7.1767254000000005
+1340,11340,Marienkrankenhaus Soest,Widumgasse,,,,,,,,,,51.575021299999996,8.1116466
+1341,11341,Marienstift,Helmstedter Straße,,,,,,,,,,52.2591313,10.5452764
+1342,11342,Marienstift Arnstadt,Wachsenburgallee,,,,,,,,,,50.8380435,10.945744699999999
+1343,11343,Marinus am Stein,Biberstraße,,,,,,,,,,47.7265902,12.110067599999999
+1344,11344,Markus-Krankenhaus,Wilhelm-Epstein-Straße,,,,,,,,,,50.134299,8.6483193
+1345,11345,Martin-Gropius-Krankenhaus,Oderberger Straße,,,,,+49 3334530,,,,,52.8447618,13.832120800000002
+1346,11346,Martin-Luther-Krankenhaus,Caspar-Theyß-Straße,,,,,,,,yes,,52.48949079999999,13.290309699999998
+1347,11347,Martin-Luther-Krankenhaus,Voedestraße,,,,,,,,yes,,51.481700700000005,7.142073299999999
+1348,11348,Masserberger Klinik,Hauptstraße,,,,,,,,no,,50.518008,10.9682242
+1349,11349,Mathilden-Hospital,,,,,,,,,,,52.1125652,8.675696499999999
+1350,11350,Maßregelvollzugszentrum Niedersachsen - Brauel,Bremervörder Straße,,,,,+49 4281 949 0,,,,,53.32420260000001,9.2640605
+1351,11351,MediClin Fachklinik Rhein/Ruhr,,,,,,,,,,,51.3538219,6.9393609
+1352,11352,MediClin Fachklinik Rhein/Ruhr,Auf der Rötsch,,,,,+49205488-0,,,,,51.3548349,6.9396297
+1353,11353,MediClin Hedon Klinik,Hedonallee,,,,,+49 591 918 0,,,,,52.5124943,7.358041
+1354,11354,MediClin Klinik am Vogelsang,,,,,,,,,,,47.9545267,8.478980400000001
+1355,11355,MediClin Klinkum Soltau,,,,,,,,,,,52.9930542,9.8580778
+1356,11356,MediClin Krankenhaus Plau am See,Quetziner Straße,,,,,,,,,,53.4788759,12.2851034
+1357,11357,MediClin Müritz-Klinikum,Weinbergstraße,,,,,,,,,,53.5227506,12.6862364
+1358,11358,MediClin Reha-Zentrum Reichshof,,,,,,,,,,,50.9884022,7.6856734
+1359,11359,MediClin Reha-Zentrum Reichshof,Zur Reha-Klinik,,,,,,,,,,50.9884022,7.6856734
+1360,11360,MediaPark,Im Mediapark,,,,,,,,,,50.9484307,6.9479812999999995
+1361,11361,Median Klinik,Straße der Jugend,,,,,+49 (0) 390 80 / 71-0,,,,,52.6526948,11.3952171
+1362,11362,Median Klinik I,,,,,,,,,,,52.3264277,11.2376572
+1363,11363,Median Klinik II,,,,,,,,,,,52.3250395,11.2389936
+1364,11364,Medical Park - Prien - Kronprinz,,,,,,,,,,,47.8554761,12.3425061
+1365,11365,Medical Park Bad Camberg,Obertorstraße,,,,,,,,,,50.297940600000004,8.2824614
+1366,11366,Medical Park Klinik Chiemsee,Birkenallee,,,,,+49 800 6337275,,,no,,47.829627,12.3805975
+1367,11367,Medical Park Klinik Chiemseeblick,Rasthausstraße,,,,,+49 800 5800850,,,no,,47.8325,12.3890526
+1368,11368,Medical Park Reithofpark,,,,,,+49 8066 18-0,,,,,47.7871599,12.0099123
+1369,11369,Medina-Heim,,,,,,,,,no,,52.62085210000001,11.172932099999999
+1370,11370,Medizinische Klinik,Im Neuenheimer Feld,,,,,,,,,,49.41689829999999,8.665521400000001
+1371,11371,Medizinische Klinik,Beurhausstraße,,,,,,,,,,51.5085077,7.457341800000001
+1372,11372,Medizinische Poliklinik der Universität München,Pettenkoferstraße,,,,,,,,,,48.1349623,11.5618283
+1373,11373,Medizinisches Versorgungszentrum Waldkirchen,Erlenhain,,,,,,,,no,,48.726946000000005,13.5982643
+1374,11374,"Medizinisches Zentrum für Zahn-, Mund- und Kieferheilkunde",Georg-Voigt-Straße,,,,,,,,,,50.8157935,8.782523199999998
+1375,11375,Michael Balint Klinik,Hermann-Voland-Straße,,,,,,,,,,48.1401768,8.4168981
+1376,11376,Migräne- und Kopfschmerzklinik,Ölmühlweg,,,,,,,,no,,50.186468700000006,8.4561007
+1377,11377,Mikina Fachklinik,Franz-Peter-Sigel-Straße,,,,,+49 7253 933-0,,,no,,49.201738399999996,8.6563808
+1378,11378,Moorküche,,,,,,,,,,,51.6812662,12.7289448
+1379,11379,Mutter-und-Kind-Kurklinik Regenbogenland,,,,,,,,,,,50.530368,11.611278599999999
+1380,11380,Mühlenstraße,,,,,,,,,,,49.846638899999995,7.861914
+1381,11381,Mühlenstraße,,,,,,,,,,,49.8461391,7.861144900000001
+1382,11382,München Klinik Harlaching,Sanatoriumsplatz,,,,,+49 89 6210 0,,,,,48.087630700000005,11.5595602
+1383,11383,NEF-Standort Erkelenz,Goswinstraße,,,,,,,,yes,,51.075301,6.3123407
+1384,11384,Naemi-Wilke-Stift,,,,,,,,,yes,,51.9455515,14.71531
+1385,11385,Naemi-Wilke-Stift Guben,,,,,,,,,,,51.9455295,14.713369
+1386,11386,Nardini Klinikum St. Johannis,,,,,,,,,yes,,49.3993329,7.5818259999999995
+1387,11387,Nardiniklinikum St. Elisabeth,,,,,,,,,yes,,49.2464154,7.361672
+1388,11388,Nationales Centrum für Tumorerkrankungen,Im Neuenheimer Feld,,,,,,,,,,49.4182657,8.6633606
+1389,11389,Neckar-Odenwald Kliniken Buchen,Dr.-Konrad-Adenauer-Straße,,,,,,,,yes,,49.5233468,9.3075934
+1390,11390,Neckar-Odenwald Kliniken Buchen,Dr.-Konrad-Adenauer-Straße,,,,,,,,yes,,49.523257,9.307526199999998
+1391,11391,Neckar-Odenwald Kliniken Mosbach,Knopfweg,,,,,+49 6261 830,,,yes,,49.3553058,9.1535897
+1392,11392,Neu-Mariahilf,Waldweg,,,,,,,,,,51.5421938,9.9418855
+1393,11393,Neuro Spine Dr.Al-Hami,Münsterfeldallee,,,,,,,,no,,50.5512824,9.6401485
+1394,11394,NeuroCentrum,Am Ziegelkamp,,,,,,,,,,51.0915945,6.594655099999999
+1395,11395,Neurologische Klinik,von-Guttenberg-Straße,,,,,+49 9771 908 83100,,,,,50.323780600000006,10.2369352
+1396,11396,Neurologische Klinik,,,,,,,,,,,50.1911091,8.481754400000002
+1397,11397,Neurologische Klinik,Am Hasensprung,,,,,+49 6043 804-0,,,,,50.4195813,8.9878912
+1398,11398,Neurologische Klinik Selzer,Schifferstraße,,,,,,,,,,48.6048357,8.3581887
+1399,11399,Neurologische Klinik Sorpesee,Lindenstraße,,,,,+49 2935 807-0,,,no,,51.3492198,7.949911800000001
+1400,11400,Neurologische Rehabilitationsklinik Beelitz-Heilstätten,Paracelsusring,,,,,,,,,,52.2670054,12.9235382
+1401,11401,Neurologisches Fachkrankenhaus für Bewegungsstörungen / Parkinson,,,,,,,,,,,52.253231299999996,12.931025300000002
+1402,11402,Neurologisches Zentrum am Hamdorfer Weg,Hamdorfer Weg,,,,,,,,no,,53.952676399999994,10.2957156
+1403,11403,Niels-Stensen-Kliniken Bramsche,Hasestraße,,,,,,,,yes,,52.40843710000001,7.9850166
+1404,11404,Nierenzentrum Heidelberg,Im Neuenheimer Feld,,,,,,,,,,49.414475700000004,8.6658484
+1405,11405,Norddeutsches Epilepsiezentrum,Henry-Dunant-Straße,,,,,,,,,,54.2886231,10.2084223
+1406,11406,Nordwest-Krankenhaus Sanderbusch,Am Gut Sanderbusch,,,,,+49 4422 800,,,yes,,53.50569470000001,8.011529300000001
+1407,11407,Notaufnahme,,,,,,,,,yes,,51.77303870000001,6.1344979
+1408,11408,Notaufnahme,,,,,,,,,,,48.7607539,9.1634799
+1409,11409,Notfallaufnahme,,,,,,,,,yes,,47.7283477,12.8723989
+1410,11410,Nova-Clinic,Eichendorffweg,,,,,,,,,,48.08545720000001,9.7939319
+1411,11411,Nürnberger Klinik für Ästhetisch-Plastische Chirurgie Dr. Kunze,Sibeliusstraße,,,,,+49 911 959610,,,,,49.4692336,11.1255442
+1412,11412,OP-Trakt,,,,,,,,,,,51.5087251,7.4560917
+1413,11413,OP-Zentrum Schweckendiek,Blitzweg,,,,,+49 6421 9884180,,,no,,50.813782200000006,8.7841347
+1414,11414,OPAL Palliativteam,Albert-Schäffenacker-Straße,,,,,+49 8041 79 621 0,,,,,47.7596284,11.5859305
+1415,11415,Oberhavel Kliniken,,,,,,,,,,,52.998964199999996,13.143858100000001
+1416,11416,Oberhavel Kliniken,,,,,,,,,,,52.74204350000001,13.2411626
+1417,11417,Oberhavelklinik Hennigsdorf,Marwitzer Straße,,,,,,,,,,52.6558748,13.1906128
+1418,11418,Oberhavelkliniken,,,,,,,,,,,52.656056299999996,13.188235500000001
+1419,11419,Oberlausitz-Kliniken gGmbH,Am Stadtwall,,,,,+49 3591 3630,,,yes,,51.1851398,14.431280300000001
+1420,11420,Oberlinklinik,Rudolf-Breitscheid-Straße,,,,,,,,,,52.394443200000005,13.089184800000002
+1421,11421,Odenwald Hospiz,Pater-Josef-Eckstein-Straße,,,,,,,,no,,49.5889145,9.3549591
+1422,11422,Olgahospital und Frauenklinik,Kriegsbergstraße,,,,,+49 711 27804,,,yes,,48.784237299999994,9.173697
+1423,11423,Ortenau Klinikum Lahr-Ettenheim,,,,,,,,,yes,,48.344898,7.8869042
+1424,11424,Ortenau Klinikum Oberkirch,,,,,,,,,,,48.535535499999995,8.0795334
+1425,11425,Ortenau Klinikum Wolfach,,,,,,,,,,,48.30284,8.2222093
+1426,11426,Ortenau Klinkum Lahr-Ettenheim,,,,,,,,,,,48.2574396,7.816182400000001
+1427,11427,Ortenauklinikum Achern,Josef-Wurzler-Straße,,,,,+49 7841 7000,,,yes,,48.625126200000004,8.064732000000001
+1428,11428,Ortho-Klinik Dortmund K13,,,,,,,,,,,51.4857597,7.4984478
+1429,11429,Orthopädie,,,,,,,,,,,51.50843270000001,7.456344500000001
+1430,11430,Orthopädie Bad Hersfeld,Am Hopfengarten,,,,,,,,,,50.8606833,9.694012800000001
+1431,11431,Orthopädische Klinik,Am Mühlenberg,,,,,+495602830,,,,,51.2097605,9.710282000000001
+1432,11432,Orthopädische Klinik - Volmarstein,Lothar-Gau-Straße,,,,,,,,,,51.369870399999996,7.374609599999999
+1433,11433,Orthopädische Klinik Markgröningen,Kurt-Lindemann-Weg,,,,,+49 7145 91-0,,,,,48.909436799999995,9.1072607
+1434,11434,Orthopädische Klinik München-Harlaching,,,,,,+49 89 6211 0,,,yes,,48.104211,11.5668379
+1435,11435,Orthopädische Universitätsklinik Friedrichsheim,,,,,,,,,,,50.0915885,8.6466694
+1436,11436,Ostalb-Klinikum Aalen,Im Kälblesrain,,,,,+49 7361 55-0,,,yes,,48.8482614,10.083715699999999
+1437,11437,OsteMed Klinik Bremervörde,Gnarrenburger Straße,,,,,,,,yes,,53.4705483,9.1348646
+1438,11438,Ostseeklinik,Anton-Baumann-Straße,,,,,,,,,,53.9153879,10.6981309
+1439,11439,Ostseeklinik Prerow,,,,,,,,,,,54.44854,12.5872686
+1440,11440,Otto-Fricke-Krankenhaus,,,,,,,,,,,50.1338839,8.059304
+1441,11441,P1,,,,,,,,,,,52.2753182,7.4265091
+1442,11442,P2,,,,,,,,,,,52.277137599999996,7.4239584
+1443,11443,PHV-Dialysezentrum,Kolpingstraße,,,,,,,,,,51.6740231,8.3415379
+1444,11444,Palliativstation St. Joseph-Krankenhaus,Neutorstraße,,,,,,,,,,50.0472732,10.2266511
+1445,11445,Panorama-Klinik,Mülbergerstraße,,,,,,,,,,48.7424402,9.319509599999998
+1446,11446,Paracelsus Kurfürstenklinik,In der Vahr,,,,,,,,no,,53.07986579999999,8.8759705
+1447,11447,Paracelsus-Elena-Klinik,Klinikstraße,,,,,,,,no,,51.3305925,9.4233668
+1448,11448,Paracelsus-Klinik,Werdauer Straße,,,,,,,,yes,,50.7235934,12.469950500000001
+1449,11449,Paracelsus-Klinik,,,,,,,,,yes,,51.39120870000001,7.7576826
+1450,11450,Paracelsus-Klinik,Lipper Weg,,,,,+49 2361 56 0,,,,,51.6621791,7.1230023000000005
+1451,11451,Paracelsus-Klinik,Wilstedter Straße,,,,,,,,yes,,53.7488027,10.0080461
+1452,11452,Paracelsus-Klinik Golzheim,Friedrich-Lau-Straße,,,,,+49 211 4386 0,,,,,51.254813,6.7586431
+1453,11453,Paracelsus-Klinik Osnabrück,Am Natruper Holz,,,,,,,,no,,52.2895539,8.0106947
+1454,11454,Paracelsus-Klinik Reichenbach,Plauensche Straße,,,,,,,,yes,,50.6135774,12.308981300000001
+1455,11455,Paracelsus-Nordseeklinik,Invasorenpfad,,,,,,,,yes,,54.1786686,7.8867677
+1456,11456,Paracelsusklinik,,,,,,,,,,,51.72584260000001,11.1099841
+1457,11457,Park Klinik Weißensee,,,,,,,,,,,52.5542417,13.4515286
+1458,11458,Park-Klinik Manhagen,Sieker Landstraße,,,,,,,,,,53.662752600000005,10.2575984
+1459,11459,Parkinson-Klinik Wolfach,,,,,,,,,,,48.2937572,8.216716700000001
+1460,11460,Parkklinik,Goethestraße,,,,,,,,,,54.32685479999999,10.1256952
+1461,11461,Pathologie,,,,,,,,,,,51.507326299999995,7.455646700000001
+1462,11462,Paul-Gerhard-Haus - Zentrum für Altersmedizin,Prüfeninger Straße,,,,,,,,,,49.015887899999996,12.0636371
+1463,11463,Paulinen Krankenhaus,Dickensweg,,,,,+49 30 300080,,,,,52.5081316,13.231845300000002
+1464,11464,Paulinenkrankenhaus,Paulinenweg,,,,,+49 5922 9770,,,no,,52.299071000000005,7.1505677
+1465,11465,Perioperatives Zentrum,Strempelstraße,,,,,,,,yes,,54.0851774,12.103033900000002
+1466,11466,Perioperatives Zentrum,,,,,,,,,yes,,54.0858353,12.1034601
+1467,11467,"Pflegezentrum ""Am Wiesenhof""",Xantener Straße,,,,,,,,,,51.549595000000004,6.598959
+1468,11468,Philippusstift,Hülsmannstraße,,,,,,,,,,51.4760877,6.9501709
+1469,11469,Piushospital,,,,,,,,,no,,52.2118785,7.188782700000001
+1470,11470,Plastische Chirurgie,Volksgartenstraße,,,,,,,,,,51.5026924,7.3295924
+1471,11471,Pleißental Klinik,,,,,,,,,,,50.7408745,12.365644699999999
+1472,11472,"Poliklinik f. Dermatologie, Allergologie",,,,,,,,,,,48.1283662,11.5633309
+1473,11473,Poliklinik für Dermatologie und Allergologie,Frauenlobstraße,,,,,+49 89 5160-6141,,,,,48.128479999999996,11.5633875
+1474,11474,Praxisklinik Kronshagen,Eichkoppelweg,,,,,,,,no,,54.3376425,10.0977717
+1475,11475,Praxisklinik Norderstedt,Heidbergstraße,,,,,,,,,,53.70473520000001,9.9943151
+1476,11476,Praxisklinik Remscheid,Freiheitstraße,,,,,+49 2191 9516500,,,,,51.181379299999996,7.177393799999999
+1477,11477,Privatklinik Bad Gleisweiler,,,,,,,,,no,,49.242178,8.0616041
+1478,11478,Prosper-Hospital,Mühlenstraße,,,,,+49 2361 540,,,yes,,51.6065431,7.1912085999999995
+1479,11479,Psychiatrie,Hauptstraße,,,,,,,,,,48.0084343,7.8568148
+1480,11480,Psychiatrische Abteilung,,,,,,,,,,,50.6306005,9.391771
+1481,11481,Psychiatrische Klinik,,,,,,,,,yes,,53.256809,10.3806779
+1482,11482,Psychiatrische Klinik,Nußbaumstraße,,,,,+49 89 51600,,,,,48.132599,11.5600364
+1483,11483,Psychiatrische Klinik Uelzen,An den Zehn Eichen,,,,,+49 581 3895 0,,,,,52.966722100000005,10.528106800000002
+1484,11484,Psychiatrische Klink Uelzen - Ambulanz & Tagesklink,Alewinstraße,,,,,,,,,,52.96547579999999,10.5521792
+1485,11485,Psychiatrische Tagesklinik,Weimarer Straße,,,,,,,,no,,50.687561200000005,10.915819599999999
+1486,11486,Psychiatrische Tagesklinik,,,,,,,,,,,49.1385311,9.231570300000001
+1487,11487,Psychiatrische Tagesklinik,Nagaistraße,,,,,,,,,,47.5631498,7.9431975999999995
+1488,11488,Psychiatrische Tagesstätte Uelzen,Alewinstraße,,,,,,,,,,52.96521020000001,10.5536397
+1489,11489,Psychiatrisches Behandlungszentrum Nord,Aumunder Heerweg,,,,,+49 421 6606 1220,,,,,53.1739954,8.6211734
+1490,11490,Psychiatrisches Krankenhaus Rickling,Daldorfer Straße,,,,,,,,yes,,53.9952086,10.178901300000001
+1491,11491,Psychiatrisches Zentrum Nordbaden,Heidelberger Straße,,,,,,,,,,49.3012559,8.700136
+1492,11492,Psychosomatische Fachklinik Gengenbach,Wolfsweg,,,,,,,,no,,48.41297539999999,8.01923
+1493,11493,Psychosomatische Klinik,,,,,,,,,,,50.8606726,9.6902585
+1494,11494,Psychosomatische Klinik Bad Neustadt,Kurhausstraße,,,,,+49 9771 6770,,,,,50.3182192,10.2253773
+1495,11495,Psychosomatische Klinik Windach,,,,,,,,,,,48.0728915,11.0472258
+1496,11496,Quellenhof (Neurologisches Rehabilitationszentrum),Kuranlagenallee,,,,,+49 7081 173-0,,,,,48.7484685,8.5502469
+1497,11497,"REHA-Klinik ""Hoher Fläming""",Hermann-Lielje-Straße,,,,,,,,,,52.164033,12.5872008
+1498,11498,REHA-Klinik Schloss Hamborn,Schloß Hamborn,,,,,,,,,,51.66538,8.766832699999998
+1499,11499,Radiologie,Volksgartenstraße,,,,,,,,,,51.5018797,7.3288383
+1500,11500,Radiologisches Zentrum Sinsheim,Alte Waibstadter Straße,,,,,,,,,,49.2529255,8.8900164
+1501,11501,Rangauklinik Ansbach,,,,,,+49-981-8400,,,,,49.3244917,10.541855199999999
+1502,11502,Raphaelsklinik,,,,,,+49 251 5007 0,,,yes,,51.959413399999995,7.6315767999999995
+1503,11503,Raucherinsel,,,,,,,,,,,52.400727,13.0648865
+1504,11504,Rechbergklinik,Virchowstraße,,,,,,,,yes,,49.0334142,8.695687
+1505,11505,Rechtsmedizin,,,,,,,,,no,,51.3621999,6.991192599999999
+1506,11506,Regio Klinikum Wedel,Holmer Straße,,,,,,,,,,53.601923600000006,9.6773228
+1507,11507,Reha Klinik St. Landelin,,,,,,,,,,,48.217161700000005,7.8194382
+1508,11508,Reha und Präventionszentrum Quellenhof,,,,,,,,,,,51.5915834,8.155361
+1509,11509,Reha-Fachklinik Haus Renchtal,Renchtalstraße,,,,,+49 7843 949113,,,no,,48.5820166,8.0175517
+1510,11510,Reha-Klinik An der Rosenquelle,Kurbrunnenstraße,,,,,+49 241 6007 0,,,no,,50.766222,6.0970202
+1511,11511,Reha-Klinik Lüdenscheid,Paulmannshöher Straße,,,,,,,,,,51.2094991,7.664917599999999
+1512,11512,Reha-Klinik Panorama,Eichenweg,,,,,,,,,,51.7173737,8.330589100000001
+1513,11513,Reha-Klinik Panorama,Eichenweg,,,,,,,,,,51.7174074,8.3295301
+1514,11514,Reha-Klinik Sonthofen,,,,,,,,,no,,47.5085579,10.277287
+1515,11515,Reha-Klinik Waldburg-Zeil,Siebenkreuzerweg,,,,,,,,no,,48.014680799999994,9.4857079
+1516,11516,Reha-Klinik am Kyffhäuser für Kinder und Jugendliche,Rottlebener Straße,,,,,+49 34671 6630,,,,,51.360777,11.090567199999999
+1517,11517,Reha-Klinik der KVB,,,,,,,,,,,50.1730118,8.474433099999999
+1518,11518,Reha-Klinik der KVB,,,,,,,,,no,,50.173637400000004,8.4757801
+1519,11519,Reha-Zentrum Schömberg,,,,,,,,,,,48.7982166,8.6538609
+1520,11520,Rehabilitationseinrichtung für für psychisch Kranke,Guttmannstraße,,,,,,,,,,48.9026025,8.4987774
+1521,11521,Rehabilitationsklinik,Badepark,,,,,,,,,,51.9982688,11.7193436
+1522,11522,Rehabilitationsklinik Auental,,,,,,,,,,,50.368851299999996,11.650934300000001
+1523,11523,Rehabilitationsklinik Bad Wurzach,Karl-Wilhelm-Heck-Straße,,,,,,,,,,47.9115467,9.9034991
+1524,11524,Rehabilitationsklinik Katharinenhöhe,Oberkatzensteig,,,,,+49 7723/65 03 0,,,,,48.093422499999996,8.189265400000002
+1525,11525,Rehabilitationsklinik Sonnhalde,,,,,,,,,no,,47.949788700000006,8.4681478
+1526,11526,Rehabilitationsklinik Werscherberg,Am Werscher Berg,,,,,,,,,,52.24025820000001,8.1886076
+1527,11527,Rehaklinik Bensberg,Friedrich-Ebert-Straße,,,,,+49 2204 8590,,,no,,50.9615961,7.1827621
+1528,11528,Rehaklinik Feldberg für Mutter-Vater-Kind,Falkauer Straße,,,,,,,,,,47.8560667,8.1120809
+1529,11529,Rehaklinik Kandertal,,,,,,,,,,,47.7820748,7.7305186
+1530,11530,Rehaklinik Kandertal,,,,,,,,,,,47.7828417,7.725158500000001
+1531,11531,Rehaklinik Überruh,Überruh,,,,,,,,,,47.6810974,10.1099391
+1532,11532,Rehazentrum Bayerisch Gmain - Klinik Hochstaufen - Deutsche Rentenversicherung Bund,Herkommerstraße,,,,,,,,no,,47.7190786,12.898055900000001
+1533,11533,Rehazentrum Burgerland,Burger Landstraße,,,,,+49 212 382060,,,,,51.1596638,7.1161105
+1534,11534,Rehazentrum Isarwinkel,,,,,,,,,no,,47.7572489,11.562509
+1535,11535,Remigius-Krankenhaus-Opladen,An St. Remigius,,,,,,,,yes,,51.0683528,7.0051432
+1536,11536,Rems-Murr-Klinik Schorndorf,,,,,,+49 7181 67-0,,,,,48.7965681,9.528579400000002
+1537,11537,Rems-Murr-Klinikum Winnenden,Am Jakobsweg,,,,,,,,,,48.8712739,9.392302
+1538,11538,Residenz Leben am Wald,Heinrich-Glücklich-Straße,,,,,,,,,,49.6295079,8.8538183
+1539,11539,Rhein-Jura Klinik,Schneckenhalde,,,,,,,,,,47.5617404,7.938935000000001
+1540,11540,Rhein-Maas Klinikum,,,,,,,,,yes,,50.814442799999995,6.140966400000001
+1541,11541,Rheinische Landesklinik,,,,,,,,,,,51.1700078,6.436560500000001
+1542,11542,Rheinklinik,,,,,,,,,,,50.6446349,7.2223224
+1543,11543,Rheintor-Klinik,Hafenstraße,,,,,+49 2131 26950,,,,,51.2022922,6.6904281
+1544,11544,Rheumaklinik,,,,,,,,,,,52.201303100000004,8.7997478
+1545,11545,Rheumaklinik Aachen,Burtscheider Markt,,,,,,,,,,50.7619839,6.0913916
+1546,11546,Rheumazentrum,Rotenbachtalstraße,,,,,,,,no,,48.764074799999996,8.2458061
+1547,11547,Rhön Klinik Gersfeld,Wolf-Hirth-Straße,,,,,+49 6654 918430,,,,,50.4570228,9.918143400000002
+1548,11548,Rhön-Klinikum Campus,,,,,,,,,,,50.3253076,10.2313796
+1549,11549,Richters Hof,,,,,,,,,,,52.71996070000001,7.9372909
+1550,11550,Rinecker Proton Therapy Center,Schäftlarnstraße,,,,,,,,,,48.1057484,11.5496032
+1551,11551,RoMed Klinik Bad Aibling,Harthauser Straße,,,,,,,,yes,,47.8661716,12.0165948
+1552,11552,RoMed Klinikum Rosenheim,Pettenkoferstraße,,,,,+49 8031 36 02,,,yes,,47.8594814,12.1324168
+1553,11553,RoMed-Klinik Prien,,,,,,,,,,,47.8489337,12.3670659
+1554,11554,RoMed-Klinikum Wasserburg am Inn,Krankenhausstraße,,,,,+49 8071 - 77 0,,,yes,,48.0626522,12.213403699999999
+1555,11555,Robert-Bosch-Krankenhaus,Auerbachstraße,,,,,,,,yes,,48.8127594,9.1877421
+1556,11556,Robert-Koch-Krankenhaus Apolda,Jenaer Straße,,,,,,,,yes,,51.013391,11.510713599999999
+1557,11557,Roland-Klinik,Niedersachsendamm,,,,,,,,,,53.0571032,8.8236299
+1558,11558,Rommel-Klinik,Bätznerstraße,,,,,+49 7081 171 106,,,,,48.7479813,8.5452744
+1559,11559,Rosentrittklinik,Salinenstraße,,,,,+49 7264 830,,,no,,49.2378161,9.113386300000002
+1560,11560,Rotes Kreuz Krankenhaus,Sankt-Pauli-Deich,,,,,,,,yes,,53.06900989999999,8.8014122
+1561,11561,Rotkreuzklinik,Kapuzinerstraße,,,,,,,,,,49.7951112,9.938640199999998
+1562,11562,Rotkreuzklinik Wertheim,,,,,,,,,yes,,49.759722,9.4968318
+1563,11563,Rotkreuzklinikum München,Winthirstraße,,,,,+49 89 13030,,,yes,,48.154542600000006,11.5314146
+1564,11564,Rotkreuzklinikum München Frauenklinik,Taxisstraße,,,,,+49 89 15706-0,,,,,48.1608185,11.5315465
+1565,11565,Rudolf Virchow Klinikum Glauchau,,,,,,,,,yes,,50.81078170000001,12.549320199999999
+1566,11566,Ruhrlandklinik,,,,,,,,,no,,51.3618619,6.991763099999999
+1567,11567,Ruhrtalklinik,Wimberner Kirchweg,,,,,,,,,,51.464954799999994,7.8500233999999995
+1568,11568,Ruppiner Kliniken,Fehrbelliner Straße,,,,,+49 3391 39 0,,,yes,,52.908463100000006,12.798697099999998
+1569,11569,Römerbad-Klinik,,,,,,,,,,,48.8251587,11.7782999
+1570,11570,SALUS Fachklinikum Bernburg,,,,,,,,,no,,51.7873403,11.7306174
+1571,11571,SHG Fachklinik Tiefental,,,,,,,,,,,49.198879299999994,7.0150494000000005
+1572,11572,SHG Kliniken Sonnenberg,Sonnenbergstraße,,,,,,,,no,,49.2011241,7.0090466000000005
+1573,11573,SHG-Fachklinik Sonnenberg,,,,,,,,,,,49.201744899999994,7.0093947
+1574,11574,SHG-Klinik Halberg,Spitalstraße,,,,,+49 (681) 8882711,,,yes,,49.2132809,7.0362424
+1575,11575,SHG-Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie,,,,,,,,,,,49.152617,7.048271300000001
+1576,11576,SLK-Klinik Gesundbrunnen,Am Gesundbrunnen,,,,,,,,,,49.1539602,9.187717999999998
+1577,11577,SLK-Klinik Plattenwald,Am Plattenwald,,,,,,,,yes,,49.2132756,9.237605
+1578,11578,SLK-Lungenklinik Löwenstein,Geißhölzle,,,,,+49 7130 150,,,,,49.0903919,9.4044814
+1579,11579,SRH Gesundheitszentrum Bad Wimpfen,Bei der alten Saline,,,,,+49 7063 520,,,no,,49.2341021,9.153688699999998
+1580,11580,SRH Gesundheitszentrum Dobel,Neuenbürger Straße,,,,,+49 7083 7470,,,,,48.801554700000004,8.5025074
+1581,11581,SRH Gesundheitszentrum Waldbronn,Gisela-und-Hans-Ruland-Straße,,,,,+49 7243 603-0,,,no,,48.9260931,8.470525300000002
+1582,11582,SRH Klinikum Karlsbad-Langensteinbach,Guttmannstraße,,,,,+49 7202 610,,,no,,48.9044908,8.501889199999999
+1583,11583,SRH Krankenhaus Oberndorf a.N.,Hölderlinstraße,,,,,,,,,,48.2963796,8.5787799
+1584,11584,SRH Krankenhaus Sigmaringen,,,,,,,,,,,48.0959239,9.2250533
+1585,11585,SRH Wald-Klinikum,,,,,,,,,,,50.8687324,12.0538556
+1586,11586,SRH-Fachkrankenhaus für Neurologie,Kösinger Straße,,,,,,,,,,48.75592929999999,10.335647
+1587,11587,Saale-Unstrut Klinikum Naumburg,Humboldtstraße,,,,,,,,,,51.160427,11.813067
+1588,11588,Saaletalklinik,Salzburgweg,,,,,,,,,,50.3245168,10.229790199999998
+1589,11589,Sabine Frimmel Physiotherapie,Alte Obergasse,,,,,+49 6641 9118650,,,,,50.611053399999996,9.367002900000001
+1590,11590,Sachsenklinik,Parkstraße,,,,,,,,,,51.1481434,12.6480399
+1591,11591,Sachsenklinik - Haus Herrmannsbad,Badstraße,,,,,,,,,,51.1484623,12.650166800000001
+1592,11592,Salem,Zeppelinstraße,,,,,,,,,,49.4235969,8.683618300000001
+1593,11593,Salinenklinik,Salinenstraße,,,,,+49 7264 825170,,,no,,49.2389242,9.112512800000001
+1594,11594,Salus Klinik,,,,,,,,,,,50.3478781,8.773192300000002
+1595,11595,Salzetal Klinik,,,,,,,,,,,52.093892,8.7598551
+1596,11596,Sana HANSE-Klinikum Wismar,Störtebekerstraße,,,,,+49 3841 330,,,yes,,53.884910999999995,11.4415675
+1597,11597,Sana Herzchirurgie Stuttgart,Herdweg,,,,,,,,,,48.7827294,9.1709148
+1598,11598,Sana Kinder- und Jugendpsychiatrie,Weststraße,,,,,,,,,,51.2503167,7.143924
+1599,11599,Sana Klinik Riedlingen,Zwiefalter Straße,,,,,,,,yes,,48.1615491,9.4801509
+1600,11600,Sana Kliniken,,,,,,,,,,,48.74930629999999,8.549055599999999
+1601,11601,Sana Kliniken Duisburg,Zu den Rehwiesen,,,,,,,,yes,,51.3964199,6.7813795
+1602,11602,Sana Kliniken Düsseldorf Gerresheim,Gräulinger Straße,,,,,,,,,,51.2445505,6.856893799999999
+1603,11603,Sana Kliniken Ostholstein,Mühlenkamp,,,,,+49 4361 5130,,,yes,,54.2906266,10.879189300000002
+1604,11604,Sana Kliniken des Landkreises Cham,,,,,,,,,,,49.184256899999994,12.8601291
+1605,11605,Sana Klinikum Hameln-Pyrmont,Saint-Maur-Platz,,,,,,,,yes,,52.1073036,9.3514614
+1606,11606,Sana Klinikum Lichtenberg,Fanningerstraße,,,,,,,,,,52.5133437,13.494522400000001
+1607,11607,Sana Klinikum Offenbach,Starkenburgring,,,,,+49 69 8405-0,,,yes,,50.0964601,8.7549835
+1608,11608,Sana Krankenhaus Templin,Robert-Koch-Straße,,,,,,,,,,53.119129099999995,13.5052383
+1609,11609,Sana-Klinik Pegnitz,Langer Berg,,,,,,,,,,49.758163399999994,11.526911300000002
+1610,11610,Sana-Krankenhaus Hürth,,,,,,,,,,,50.883818299999994,6.8858916
+1611,11611,Sana-Krankenhaus Rügen,Calandstraße,,,,,,,,,,54.4200909,13.430739
+1612,11612,Sanitätsstation,,,,,,,,,,,50.855024900000004,6.3285817
+1613,11613,Sanitätsstation,,,,,,,,,,,50.898925899999995,6.7962114
+1614,11614,Sanitätszentrum Neubiberg,Werner-Heisenberg-Weg,,,,,,,,,,48.082375799999994,11.6409274
+1615,11615,Sankt Antonius Hospital,,,,,,+49 2821 4900,,,yes,,51.7737021,6.138028299999999
+1616,11616,Sankt Antonius Hospital,Dechant-Deckers-Straße,,,,,,,,yes,,50.8189549,6.264302099999999
+1617,11617,Sankt Antonius Hospital,,,,,,,,,,,51.6053396,6.9229161999999995
+1618,11618,Sankt Elisabeth Hospital,,,,,,,,,,,51.8836827,8.3833091
+1619,11619,Sankt Elisabeth Krankenhaus,,,,,,+49 971 805-0,,,,,50.190568,10.082301199999998
+1620,11620,Sankt Elisabeth Krankenhaus,Plöner Straße,,,,,+49 4521 8020,,,,,54.1382792,10.610529199999998
+1621,11621,Sankt Elisabeth-Hospital,Bleichstraße,,,,,+49 234 612-0,,,,,51.4825563,7.220202400000001
+1622,11622,Sankt Elisabeth-Krankenhaus,Dreisamstraße,,,,,,,,,,47.9904819,7.8510580999999995
+1623,11623,Sankt Elisabeth-Krankenhaus,Röntgenstraße,,,,,,,,,,51.568707700000004,7.2081643
+1624,11624,Sankt Franzikus-Hospital,Schönsteinstraße,,,,,,,,,,50.954770200000006,6.917430400000001
+1625,11625,Sankt Gertrauden-Krankenhaus,Paretzer Straße,,,,,+49 30 82720,,,,,52.47929179999999,13.3182987
+1626,11626,Sankt Johannisstift,Reumontstraße,,,,,,,,,,51.72345120000001,8.746464699999999
+1627,11627,Sankt Josef-Hospital,,,,,,,,,,,51.6437787,6.4513728
+1628,11628,Sankt Josef-Krankenhaus,Rurdorfer Straße,,,,,+49 2462 204 0,,,yes,,50.9763344,6.2685656
+1629,11629,Sankt Katharinen Krankenhaus,,,,,,,,,,,50.1370941,8.709107800000002
+1630,11630,Sankt Luise,,,,,,,,,,,48.7601655,9.163547300000001
+1631,11631,Sankt Maria,Böheimstraße,,,,,,,,,,48.7612526,9.1635362
+1632,11632,Sankt Marien-Krankenhaus,Kampenstraße,,,,,,,,yes,,50.8790531,8.0301068
+1633,11633,Sankt Paul,Böheimstraße,,,,,,,,,,48.761768100000005,9.1642662
+1634,11634,Sankt Rochus-Hospital Telgte,,,,,,,,,,,51.977612799999996,7.762836500000001
+1635,11635,Sankt Veronika,Eierstraße,,,,,,,,,,48.7601882,9.1634419
+1636,11636,Sankt Vincentius Krankenhaus,Holzstraße,,,,,+49 6232 133 0,,,,,49.31651779999999,8.420223
+1637,11637,Sankt Vincenz Frauen- und Kinderklinik Sankt Louise,,,,,,,,,,,51.708751,8.762395199999998
+1638,11638,Sankt Vincenz Krankenhaus,,,,,,,,,,,51.7186744,8.758554
+1639,11639,Sankt Vinzenz Hospital,,,,,,,,,,,51.8337894,8.3313327
+1640,11640,Sankt-Johannes-Hospital,,,,,,,,,yes,,51.3953698,7.472556699999999
+1641,11641,Sankt-Josefs-Hospital,,,,,,,,,,,51.742574,9.0103615
+1642,11642,Sankt-Josefs-Hospital,,,,,,+49 611 177-0,,,yes,,50.0777389,8.2540811
+1643,11643,Sankt-Josefs-Hospital,Dreieckstraße,,,,,,,,,,51.366676,7.4655533
+1644,11644,Sankt-Marien-Hospital,Neustraße,,,,,,,,yes,,51.770312700000005,7.446610700000001
+1645,11645,Sankt-Marien-Krankenhaus,Gallwitzallee,,,,,+49 30 76783-0,,,yes,,52.4235896,13.348398999999999
+1646,11646,Sauerlandklinik Hachen,Siepenstraße,,,,,+49 2935 8080,,,,,51.3840468,7.9745561
+1647,11647,Schloss Warnsdorf,Schlossstraße,,,,,,,,,,53.9683961,10.8059344
+1648,11648,Schloss Wasserlos,,,,,,,,,,,50.0695842,9.0764322
+1649,11649,Schlossbergklinik,Schloßberg,,,,,,,,,,50.424468,9.203958199999999
+1650,11650,Schlossgebäude,Schloßstraße,,,,,,,,,,48.872741999999995,9.3972477
+1651,11651,Schlosspark-Klinik,Heubnerweg,,,,,,,,,,52.52116650000001,13.289008800000001
+1652,11652,Schloßklinik,Schloßplatz,,,,,,,,no,,48.0675984,9.611360699999999
+1653,11653,Schlüsselbad,Renchtalstraße,,,,,+49 7806 860,,,,,48.4293361,8.2057877
+1654,11654,Schmerzklinik Kiel,Heikendorfer Weg,,,,,,,,,,54.3291284,10.182686300000002
+1655,11655,Schmerzklinik Löffelstelzen,,,,,,,,,no,,49.50647360000001,9.789883099999999
+1656,11656,Schwarzwald-Baar Klinikum,Klinikstraße,,,,,,,,yes,,48.0645351,8.4995236
+1657,11657,Schwarzwald-Baar-Kliniken Donaueschingen,,,,,,,,,yes,,47.9565926,8.4813891
+1658,11658,Schwertbad,Benediktinerstraße,,,,,+49 241 6002 0,,,no,,50.7635443,6.0909930999999995
+1659,11659,Schwesternhaus A,,,,,,,,,,,52.3717998,9.7244147
+1660,11660,Schwesternhaus B,,,,,,,,,,,52.3715987,9.7242604
+1661,11661,Schwesternwohnheim,Schwarzwaldstraße,,,,,,,,no,,47.6461185,7.821942
+1662,11662,Schön Klinik,Droste-Hülshoff-Straße,,,,,,,,,,47.8662876,12.119551300000001
+1663,11663,Schön Klinik Bad Aibling-Harthausen,Kolbermoorer Straße,,,,,,,,,,47.857941600000004,12.027517900000001
+1664,11664,Schön Klinik Bad Staffelstein,Am Kurpark,,,,,+49 9573 560,,,,,50.1114488,10.993054800000001
+1665,11665,Schön Klinik Berchtesgadener Land,Maltherhöh,,,,,,,,,,47.6024352,12.979491699999999
+1666,11666,Schön Klinik Hamburg Eilbek,,,,,,,,,yes,,53.5785125,10.0492529
+1667,11667,Schön Klinik Lorsch,Waldstraße,,,,,+49 6251 5910,,,,,49.6521059,8.5633478
+1668,11668,Schön Klinik München Schwabing,Parzivalplatz,,,,,+49 89 36087-0,,,,,48.1715727,11.5853383
+1669,11669,Schön Klinik Neustadt,Am Kiebitzberg,,,,,,,,yes,,54.0917637,10.828335000000001
+1670,11670,Schön Klinik Nürnberg Fürth,,,,,,,,,,,49.4504966,10.9966481
+1671,11671,Schön Klinik Vogtareuth,Krankenhausstraße,,,,,+49 8038 90-0,,,,,47.948975,12.1856452
+1672,11672,Schön-Klinik,Hofgarten,,,,,,,,,,51.37996939999999,9.0283281
+1673,11673,Segeberger Kliniken Herzzentrum,Am Kurpark,,,,,,,,no,,53.94309570000001,10.309444599999999
+1674,11674,Sigma-Tagesklinik,Hüssyweg,,,,,,,,,,47.5591533,7.9544467999999995
+1675,11675,Sigma-Zentrum,Weihermatten,,,,,,,,,,47.5569791,7.939655999999999
+1676,11676,Siloah St. Trudpert Klinikum,Wilferdinger Straße,,,,,,,,yes,,48.8979409,8.672551400000001
+1677,11677,Simsseeklinik Bad Endorf,Klinikstraße,,,,,+49 8053 2000,,,no,,47.90244860000001,12.2954101
+1678,11678,Sonnenberg - Klinik,,,,,,,,,,,51.273396999999996,9.9566234
+1679,11679,Sophie-Luisen-Klinik,Salinenstraße,,,,,+49 7264 93300,,,no,,49.2380928,9.1134642
+1680,11680,Sozialmed. Nachsorge,,,,,,,,,,,52.401286299999995,13.066690600000001
+1681,11681,Spessart-Klinik,Würzburger Straße,,,,,,,,,,50.227236600000005,9.3494705
+1682,11682,Spezialklinik Neukirchen GmbH & Co. KG,Krankenhausstraße,,,,,+49 9947 280,,,,,49.2600041,12.967252499999999
+1683,11683,Sport- und Rehabilitationsmedizin,Leimgrubenweg,,,,,,,,,,48.410692100000006,10.000722900000001
+1684,11684,Sportklinik Hellersen,,,,,,,,,,,51.2076547,7.6583719
+1685,11685,Sportklinik Stuttgart,Taubenheimstraße,,,,,,,,,,48.8074388,9.2236525
+1686,11686,St. Agatha Krankenhaus,Feldgärtenstraße,,,,,,,,,,50.9874414,6.9602889999999995
+1687,11687,St. Agnes Hospital,Barloer Weg,,,,,+49 2871 20-0,,,yes,,51.856826899999994,6.6266852
+1688,11688,St. Anna Krankenhaus,,,,,,+49 9661 520-0,,,yes,,49.5054917,11.7272231
+1689,11689,St. Anna-Klinik,Vogelsangstraße,,,,,,,,yes,,51.2755439,7.1411561
+1690,11690,St. Anna-Klinik,Obere Waiblinger Straße,,,,,,,,yes,,48.8074514,9.229881599999999
+1691,11691,St. Annastiftskrankenhaus,Karolina-Burger-Straße,,,,,,,,,,49.4635858,8.430783
+1692,11692,St. Antonius Krankenhaus,Auf der Rahm,,,,,,,,,,50.782100299999996,7.732549900000001
+1693,11693,St. Antonius Krankenhaus,,,,,,,,,yes,,50.910758200000004,6.965986099999999
+1694,11694,St. Antonius-Hospital,Möllenweg,,,,,,,,,,52.2084164,7.0208103
+1695,11695,St. Augustinus Krankenhaus,Renkerstraße,,,,,+49 2421 5990,,,yes,,50.7688261,6.48739
+1696,11696,St. Christophorus-Krankenhaus,,,,,,,,,,,51.6750128,7.6166526
+1697,11697,St. Clemens Hospital,,,,,,,,,,,51.5189012,6.8440745
+1698,11698,St. Elisabeth,,,,,,,,,,,51.4775765,6.974583
+1699,11699,St. Elisabeth Hospital,Im Schloßpark,,,,,,,,yes,,51.5920897,7.125105900000001
+1700,11700,St. Elisabeth Krankenhaus,Königsweg,,,,,+49 431 66030,,,,,54.317169299999996,10.127416199999999
+1701,11701,St. Elisabeth Krankenhaus,Essener Straße,,,,,,,,,,51.4027722,7.134205099999999
+1702,11702,St. Elisabeth Krankenhaus,Essener Straße,,,,,,,,,,51.4033061,7.1350644
+1703,11703,St. Elisabeth Krankenhaus,,,,,,,,,yes,,50.0011566,6.8936534
+1704,11704,St. Elisabeth Krankenhaus,Pfarrer-Wilhelm-Schmitz-Straße,,,,,,,,,,51.6570924,6.956330900000001
+1705,11705,St. Elisabeth Krankenhaus,,,,,,,,,,,51.4023998,7.1351033
+1706,11706,St. Elisabeth Krankenhaus Gerolstein,,,,,,,,,,,50.225941600000006,6.667375900000001
+1707,11707,St. Elisabeth Krankenhaus Lahnstein,Ostallee,,,,,+49 2621 171 0,,,yes,,50.305356,7.6085723
+1708,11708,St. Elisabeth-Hospital,,,,,,+49 2150 9170,,,,,51.305116299999995,6.6765514999999995
+1709,11709,St. Elisabeth-Hospital,Elisabethstraße,,,,,,,,yes,,51.7530875,8.0388143
+1710,11710,St. Elisabeth-Krankenhaus,,,,,,,,,no,,51.21287879999999,10.2187406
+1711,11711,St. Elisabeth-Krankenhaus,,,,,,,,,yes,,51.6558159,6.9546128
+1712,11712,St. Elisabeth-Krankenhaus,Biedermannstraße,,,,,,,,yes,,51.303639700000005,12.378619300000002
+1713,11713,St. Elisabeth-Krankenhaus Geilenkirchen,,,,,,,,,,,50.966254799999994,6.1248797
+1714,11714,St. Elisabethen Krankenhaus,Feldbergstraße,,,,,+49 7621 1710,,,yes,,47.617647999999996,7.666172099999999
+1715,11715,St. Elisabethen-Klinikum,,,,,,,,,yes,,47.788879,9.620806300000002
+1716,11716,St. Franziskus Hospital,Franziskusstraße,,,,,+49 4442 81 0,,,yes,,52.66521329999999,8.240432
+1717,11717,St. Franziskus Hospital,Robert-Koch-Straße,,,,,,,,,,51.767703999999995,7.8849583
+1718,11718,St. Franziskus Hospital,Nikolausstraße,,,,,+49228923820,,,,,50.7134929,7.105631699999999
+1719,11719,St. Franziskus Krankenhaus Eitorf,Hospitalstraße,,,,,,,,yes,,50.7676585,7.4524952
+1720,11720,St. Franziskus-Hospital,,,,,,,,,yes,,54.7914128,9.421803
+1721,11721,St. Georg Klinikum Eisenach,Mühlhäuser Str.,,,,,+49 3691 6980,,,yes,,50.9900829,10.3150554
+1722,11722,St. Hedwig-Krankenhaus,Große Hamburger Straße,,,,,,,,,,52.5252698,13.3952751
+1723,11723,St. Hildegardis Krankenhaus,,,,,,,,,yes,,50.930999799999995,6.9229633
+1724,11724,St. Hubertus-Stift,Klosterstraße,,,,,+49 2272 4040,,,yes,,50.9977929,6.577603
+1725,11725,St. Irmgardis-Krankenhaus,,,,,,+49 2162 8990,,,,,51.2859723,6.3741477
+1726,11726,St. Johann,,,,,,,,,,,49.7630442,6.6392050000000005
+1727,11727,St. Johannes Klinik Auerbach,Krankenhausstraße,,,,,,,,,,49.6984401,11.6188699
+1728,11728,St. Johannes Krankenhaus,Schülgenstraße,,,,,,,,,,50.6471849,7.2265958
+1729,11729,St. Johannes-Hospital,Springufer,,,,,,,,,,51.450591499999994,7.9638922999999995
+1730,11730,St. Johannis-Hospital,Bleichenpfad,,,,,+49 4451 920 0,,,,,53.391320799999995,8.1394819
+1731,11731,St. Josef,Bergstraße,,,,,,,,,,51.2599149,7.142835099999999
+1732,11732,St. Josef,Bergstraße,,,,,,,,,,51.2602438,7.144011900000001
+1733,11733,St. Josef,Asberger Straße,,,,,,,,yes,,51.446251200000006,6.6408788
+1734,11734,St. Josef Krankenhaus,Woogtalstraße,,,,,+49 6174 2080,,,no,,50.184033299999996,8.4623793
+1735,11735,St. Josef Krankenhaus,Ludwigstraße,,,,,+49 9721 57 0,,,,,50.0443718,10.225897900000001
+1736,11736,St. Josef Krankenhaus,Robert-Koch-Straße,,,,,+49 2129 929 0,,,,,51.198431899999996,7.0201163
+1737,11737,St. Josef Krankenhaus,Wohlandstraße,,,,,,,,no,,50.98628720000001,7.378805000000001
+1738,11738,St. Josef Krankenhaus Essen-Werden,Propsteistraße,,,,,,,,yes,,51.3886411,7.0060522
+1739,11739,St. Josef-Hospital,Rudolf-Bertram-Platz,,,,,,,,,,51.5415526,7.0268227
+1740,11740,St. Josef-Hospital,,,,,,,,,,,51.4759446,6.8631164
+1741,11741,St. Josef-Krankenhaus,Mühlenstraße,,,,,,,,yes,,50.3842435,6.9267405
+1742,11742,St. Josef-Krankenhaus,Albert-Struck-Straße,,,,,+49 2381 9610,,,yes,,51.6983181,7.764025599999999
+1743,11743,St. Josef-Krankenhaus,Nordkanalallee,,,,,+49 2131 5292-00,,,yes,,51.192423,6.7013007
+1744,11744,St. Josef-Krankenhaus,Seegartenstraße,,,,,,,,yes,,49.536145,8.574860099999999
+1745,11745,St. Josef-Krankenhaus Hermeskeil,Koblenzer Straße,,,,,,,,yes,,49.657835600000006,6.9479027
+1746,11746,St. Josef-Krankenhaus Zell,Barlstraße,,,,,,,,yes,,50.024156500000004,7.1699091
+1747,11747,St. Josef-Stift,,,,,,,,,,,51.8432186,7.8202964999999995
+1748,11748,St. Josefs-Hospital,Uferstraße,,,,,+49 2723 606 0,,,yes,,51.1079735,8.0682047
+1749,11749,St. Josefs-Hospital Bochum-Linden,Axstraße,,,,,+49 234 4181,,,,,51.4255167,7.1553787
+1750,11750,St. Josefs-Hospital Rheingau,Eibinger Straße,,,,,,,,,,49.9832128,7.9262662
+1751,11751,St. Josefs-Krankenhaus,,,,,,,,,,,51.6773369,8.616973300000002
+1752,11752,St. Josefshospital,Kurfürstenstraße,,,,,,,,,,51.352313200000005,6.6479121
+1753,11753,St. Josefsklinik,,,,,,,,,,,48.469614,7.964757799999999
+1754,11754,St. Josefskrankenhaus,Landhausstraße,,,,,+49 6221 5260,,,yes,,49.4032099,8.6887166
+1755,11755,St. Josefskrankenhaus,Sautierstraße,,,,,,,,yes,,48.001476000000004,7.8531266
+1756,11756,St. Joseph Krankenhaus,Wüsthoffstraße,,,,,,,,,,52.478830099999996,13.372314999999999
+1757,11757,St. Joseph-Stift,Schwachhauser Heerstraße,,,,,,,,yes,,53.084438399999996,8.835180300000001
+1758,11758,St. Kamillus,,,,,,,,,,,49.762814500000005,6.640681900000001
+1759,11759,St. Lucia,,,,,,,,,,,51.9633522,8.2247352
+1760,11760,St. Lukas Klinik,Schwanenstraße,,,,,,,,yes,,51.155337,6.9848122
+1761,11761,St. Maria-Hilf-Krankenhaus,,,,,,,,,,,51.5208172,7.2712943
+1762,11762,St. Marien Hospital Herne,Widumer Straße,,,,,,,,no,,51.5432279,7.2608194
+1763,11763,St. Marien Krankenhaus,Werdener Straße,,,,,,,,yes,,51.30025070000001,6.8512413
+1764,11764,St. Marien-Hospital,Nürnberger Straße,,,,,,,,,,51.5027692,6.8891781000000005
+1765,11765,St. Marien-Hospital,Kaiserstraße,,,,,,,,,,51.426429399999996,6.8873675
+1766,11766,St. Marien-Hospital,Kunibertskloster,,,,,,,,,,50.9468929,6.9618801999999995
+1767,11767,St. Marien-Hospital Eickel,Marienstraße,,,,,+49 2325 3740,,,,,51.5149183,7.1815755999999995
+1768,11768,St. Marien-Klinik (Frauenklinik),,,,,,,,,,,49.0019966,8.3778852
+1769,11769,St. Marien-Krankenhaus,Wüllener Straße,,,,,,,,,,52.0683007,6.993137
+1770,11770,St. Marienhospital,Nassauerstraße,,,,,,,,,,51.678844700000006,7.817419999999999
+1771,11771,St. Marienhospital Birkesdorf,Hospitalstraße,,,,,+49 2421 805 0,,,,,50.822835999999995,6.4679115
+1772,11772,St. Marienhospital Vechta,Marienstraße,,,,,+49 4441 99 0,,,yes,,52.72536529999999,8.2877573
+1773,11773,St. Marienkrankenhaus Brandenburg,Bergstraße,,,,,+49 3381 3660,,,,,52.4155833,12.5528253
+1774,11774,St. Martini Krankenhaus,Göttinger Straße,,,,,+49 5527 842 0,,,yes,,51.516654100000004,10.2463884
+1775,11775,St. Martinus-Hospital,Hospitalweg,,,,,+49 2751 85 0,,,yes,,51.0277467,7.845516099999999
+1776,11776,St. Mauritius Therapieklinik,,,,,,,,,,,51.2783217,6.6283402
+1777,11777,St. Nikolaus Hospital,Hospitalstraße,,,,,,,,,,49.32891179999999,6.7122652
+1778,11778,St. Nikolaus Hospital Rheinberg,Orsoyer Straße,,,,,,,,,,51.5415445,6.608446400000001
+1779,11779,St. Nikolaus-Stiftshospital,,,,,,,,,yes,,50.441291799999995,7.404250099999999
+1780,11780,St. Rochus Krankenhaus,Kratzengasse,,,,,,,,,,49.900571299999996,8.839652000000001
+1781,11781,St. Rochus Krankenhaus,Nieheimer Straße,,,,,,,,yes,,51.8561691,9.0905444
+1782,11782,St. Rochus-Hospital,Glückaufstraße,,,,,+49 2305 294 0,,,,,51.546912299999995,7.314344999999999
+1783,11783,St. Theresien-Krankenhaus,Mommsenstraße,,,,,+49 911 56990,,,,,49.4698804,11.1084894
+1784,11784,St. Valentinus-Krankenhaus,Sebastian-Kneipp-Straße,,,,,,,,no,,50.1446699,8.5093074
+1785,11785,St. Vincent Krankenhaus,Am Stein,,,,,,,,yes,,51.4370396,7.800033900000001
+1786,11786,St. Vincentius-Kliniken,Südendstraße,,,,,,,,yes,,48.9997115,8.390454400000001
+1787,11787,St. Vincentius-Kliniken,,,,,,,,,,,48.9990886,8.380630400000001
+1788,11788,St. Vincenz,,,,,,,,,,,51.7273992,9.180433500000001
+1789,11789,St. Vincenz Krankenhaus,Adelheidstraße,,,,,+49 6432 506-0,,,yes,,50.3747849,8.0084041
+1790,11790,St. Vincenz-Hospital,,,,,,,,,,,51.727478999999995,9.1791228
+1791,11791,St. Vincenz-Krankenhaus Limburg,,,,,,,,,yes,,50.3882324,8.050263099999999
+1792,11792,St. Vinzenz,,,,,,,,,,,49.7616624,6.639249700000001
+1793,11793,St. Vinzenz Hospital,Merheimer Straße,,,,,+49 221 77120,,,yes,,50.9672024,6.9444393
+1794,11794,St. Vinzenz Klinik,,,,,,,,,,,47.5835429,10.554265
+1795,11795,St. Vinzenz Krankenhaus,Am Frankfurter Tor,,,,,+49 6181 272-0,,,,,50.134586600000006,8.9118481
+1796,11796,St. Vinzenz-Hospital Dinslaken,,,,,,,,,yes,,51.559368299999996,6.7261587
+1797,11797,St. Vinzenz-Hospital Rhede,,,,,,,,,no,,51.8399707,6.691377900000001
+1798,11798,St. Vinzenz-Krankenhaus,Schloßstraße,,,,,,,,,,51.242948299999995,6.7903496
+1799,11799,St. Willibrord Spital Emmerich-Rees,Willibrordstraße,,,,,+49 2822 730,,,,,51.8331709,6.2387065999999995
+1800,11800,St.-Elisabeth Krankenhaus Dortmund-Kurl,Kurler Straße,,,,,,,,no,,51.5548131,7.5831275
+1801,11801,St.-Elisabeth-Hospital,,,,,,,,,,,51.378791899999996,7.6891867
+1802,11802,St.-Elisabeth-Krankenhaus Hohenlind,,,,,,+49 221 46770,,,,,50.9235835,6.892786200000001
+1803,11803,St.-Franziskus-Hospital,Hohenzollernring,,,,,+49 251 9350,,,yes,,51.96211029999999,7.6476773
+1804,11804,St.-Gerburgis-Hospital,,,,,,,,,,,51.932734100000005,7.3543240999999995
+1805,11805,St.-Johannes-Hospital,,,,,,,,,,,51.5123099,7.455221400000001
+1806,11806,St.-Josefs-Hospital K14,Wilhelm-Schmidt-Straße,,,,,+49 231 4342-0,,,,,51.485015000000004,7.5053402
+1807,11807,St.-Josefs-Krankenhaus,Allee nach Sanssouci,,,,,,,,yes,,52.3995834,13.0449346
+1808,11808,St.-Katharinen - Hospital,,,,,,,,,yes,,50.9226814,6.810558
+1809,11809,St.-Laurentius-Stift,Hochstraße,,,,,+49 2309 63 1,,,,,51.6210552,7.3865473
+1810,11810,St.-Marien-Hospital,,,,,,+49 4491 940 0,,,,,53.021391200000004,7.852530499999999
+1811,11811,St.-Marien-Hospital,,,,,,,,,,,51.619583399999996,7.517387400000001
+1812,11812,St.-Marienhospital 2,,,,,,,,,,,51.6890062,7.853535000000001
+1813,11813,St.-Sixtus-Hospital,Gartenstraße,,,,,,,,,,51.7445607,7.1931771
+1814,11814,St.-Vincenz-Krankenhaus,,,,,,,,,,,51.474205700000006,7.0347254
+1815,11815,St.-Vinzenz-Hospital,Hammer Straße,,,,,+49 5961 503 0,,,,,52.670834899999996,7.4826766000000005
+1816,11816,St.Josef Krankenhaus,Heidbergweg,,,,,,,,yes,,51.3918965,7.085440299999999
+1817,11817,St.Vincenz-Krankenhaus Datteln,Rottstraße,,,,,,,,yes,,51.652508600000004,7.343522099999999
+1818,11818,Stadt- und Kreiskrankenhaus Witzenhausen,,,,,,,,,,,51.3438259,9.8614625
+1819,11819,Stadthaus Ambulanz,Lindenstraße,,,,,+49 5731 21515,,,,,52.204975700000006,8.791170300000001
+1820,11820,Stadtklinik Frankenthal,,,,,,,,,,,49.5415504,8.3311601
+1821,11821,Stadtkrankenhaus Schwabach,Regelsbacher Straße,,,,,+49 9122 182-1,,,yes,,49.333482399999994,11.013046300000001
+1822,11822,Standort Lobeda,Am Klinikum,,,,,,,,,,50.887106200000005,11.6163968
+1823,11823,Stauferklinikum Mutlangen,Wetzgauer Straße,,,,,+49 7171 701 0,,,yes,,48.8196033,9.786052699999999
+1824,11824,Steigerwaldklinik,,,,,,,,,,,49.8186795,10.730903900000001
+1825,11825,Stereotaktische Strahlentherapie und experimentelle 7 Tesla MRT,,,,,,,,,,,49.603699299999995,11.0105974
+1826,11826,Stift Rottal,Max-Köhler-Straße,,,,,,,,,,48.4485154,13.193527900000001
+1827,11827,Stiftungsklinik Weißenhorn,,,,,,,,,yes,,48.3129144,10.1566415
+1828,11828,Stimmheilzentrum,Salinenstraße,,,,,+497246860,,,no,,49.2389299,9.1125882
+1829,11829,Strahlenklinik/Radiologie,,,,,,,,,,,51.508757200000005,7.455387700000001
+1830,11830,Strahlenklinik/Radiologie,,,,,,,,,,,51.507935700000004,7.4554659
+1831,11831,Strahlenklinik/Radiologie,Beurhausstraße,,,,,,,,,,51.5088868,7.455161099999999
+1832,11832,Strahlentherapie,,,,,,,,,,,52.370321999999994,9.7254283
+1833,11833,Städtische Kliniken,,,,,,,,,,,51.5086843,7.458246099999999
+1834,11834,Städtische Kliniken Mönchengladbach,,,,,,,,,yes,,51.1574114,6.4152013
+1835,11835,Städtisches Klinikum,,,,,,,,,yes,,49.0200291,8.3720819
+1836,11836,Städtisches Klinikum,,,,,,,,,,,49.0171316,8.368859200000001
+1837,11837,Städtisches Klinikum Brandenburg,Hochstraße,,,,,+49 3381 4110,,,yes,,52.4147327,12.545179199999998
+1838,11838,Städtisches Klinikum Braunschweig Celler Straße,Celler Straße,,,,,,,,yes,,52.27624779999999,10.5048454
+1839,11839,Städtisches Klinikum Braunschweig Holwedestraße,Holwedestraße,,,,,,,,,,52.2657379,10.509144699999998
+1840,11840,Städtisches Klinikum Dessau,,,,,,,,,True,,51.8163099,12.195822999999999
+1841,11841,Städtisches Klinikum Dresden-Friedrichstadt,Friedrichstraße,,,,,,,,,,51.0574032,13.719583600000002
+1842,11842,Städtisches Klinikum Dresden-Neustadt,Industriestraße,,,,,,,,yes,,51.0907276,13.7064522
+1843,11843,Städtisches Klinikum Görlitz,Girbigsdorfer Straße,,,,,,,,yes,,51.1618475,14.9682637
+1844,11844,Städtisches Klinikum Leverkusen - Kinderklinikum,,,,,,,,,yes,,51.0317092,7.0342985
+1845,11845,Städtisches Klinikum Leverkusen - Kinderklinikum,,,,,,,,,yes,,51.0316903,7.033587400000001
+1846,11846,Städtisches Klinikum Solingen,,,,,,,,,,,51.1857823,7.0689197
+1847,11847,Städtisches Klinikum Wolfenbüttel,Alter Weg,,,,,,,,yes,,52.1807552,10.5343562
+1848,11848,Städtisches Krankenhaus,,,,,,,,,,,52.3408193,14.543416399999998
+1849,11849,Städtisches Krankenhaus Eisenhüttenstadt,Friedrich-Engels-Straße,,,,,,,,yes,,52.1431126,14.6238853
+1850,11850,Städtisches Krankenhaus Heinsberg,Auf dem Brand,,,,,+49 2452 1880,,,,,51.0650628,6.094743599999999
+1851,11851,Städtisches Krankenhaus Kiel,Chemnitzstraße,,,,,+49 431 16970,,,yes,,54.32411389999999,10.115204199999999
+1852,11852,Städtisches Krankenhaus Nettetal,,,,,,,,,yes,,51.3092378,6.271652400000001
+1853,11853,Städtisches Krankenhaus Pirmasens,Pettenkoferstraße,,,,,,,,yes,,49.193348,7.618077
+1854,11854,Sächsische Schweiz Klinik Sebnitz,Doktor-Steudner-Straße,,,,,,,,yes,,50.9832415,14.2675796
+1855,11855,Südharz Klinikum,Dr.-Robert-Koch-Straße,,,,,+49 3631 410,,,yes,,51.5175614,10.794111000000001
+1856,11856,TU München Universitätslinik für Dermatologie,,,,,,,,,,,48.1647296,11.593418699999999
+1857,11857,Tagesklinik Bedburg,Augustinerallee,,,,,,,,,,50.998958,6.5772399
+1858,11858,Tagesklinik Hamm,,,,,,,,,no,,51.685222100000004,7.8596338
+1859,11859,Tagesklinik Heilbronn,Allee,,,,,,,,,,49.1436031,9.2236454
+1860,11860,Tagesklinik Hofheim und Ärztezentrum,Reifenberger Straße,,,,,,,,,,50.0947834,8.4575892
+1861,11861,Tagesklinik Rosenheim des Inn-Salzach-Klinikums,Freiherr-vom-Stein-Straße,,,,,,,,,,47.8620771,12.1257979
+1862,11862,Tagesklinik für Allgemeine Psychiatrie u. Psychotherapie Halle (Westf.),Moltkestraße,,,,,+49520166170,,,no,,52.0543274,8.3540121
+1863,11863,Tagesklinik für Kinder- und Jugendpsychiatrie und -psychotherapie,Europaratstraße,,,,,,,,,,50.493688,12.1004781
+1864,11864,Tagesklinik-Psychiatrie,,,,,,,,,,,48.0086819,7.8567127999999995
+1865,11865,Therapiezentrum Burgau,,,,,,,,,,,48.4361814,10.4062614
+1866,11866,Therapiezentrum für Schilddrüsenerkrankungen,Argelès-sur-Mer-Straße,,,,,,,,,,50.885481799999994,6.8696894
+1867,11867,Therapiezentrum für Suchtkranke,Grutholzallee,,,,,,,,,,51.5683385,7.3171719
+1868,11868,Theresien-Krankenhaus,,,,,,,,,yes,,49.4894971,8.4809103
+1869,11869,Thoraxklinik Heidelberg,Röntgenstraße,,,,,+49 6221 396-0,,,,,49.378496000000005,8.6888564
+1870,11870,Thoraxzentrum Bezirk Unterfranken,Michelsberg,,,,,+49 9733 620,,,,,50.251759899999996,10.178039300000002
+1871,11871,Thure-von-Uexküll-Klinik,Badstraße,,,,,,,,,,48.0548145,7.9643235
+1872,11872,Thüringen-Klinik Rudolstadt,Hugo-Trinckler-Straße,,,,,,,,,,50.707894700000004,11.316378199999999
+1873,11873,"Thüringen-Kliniken ""Georgius Agricola"" GmbH",Rainweg,,,,,,,,yes,,50.6435652,11.3422495
+1874,11874,"Thüringen-Kliniken ""Georgius Agricola"" GmbH Standort Pößneck",Hohes Gäßchen,,,,,,,,,,50.6981033,11.5899962
+1875,11875,"Transfusionsmedizin, Stammzellbank",Hartmannstraße,,,,,,,,,,49.5950571,11.024556
+1876,11876,Tropenklinik Paul-Lechler-Krankenhaus,,,,,,+49 7071 206-0,,,,,48.530964399999995,9.059517699999999
+1877,11877,Tropenmedizinische Ambulanz / Institut für Public Health / Department für Infektiologie,Im Neuenheimer Feld,,,,,+49 6221 56-22999,,,,,49.416135,8.6694204
+1878,11878,Turm,,,,,,,,,,,52.370804,9.724766699999998
+1879,11879,UMG - Augenheilkunde (Standort Hainberg),Wagnerstraße,,,,,,,,,,51.53419,9.9469532
+1880,11880,Ubbo-Emmius-Klinik,Wallinghausener Straße,,,,,,,,,,53.4682442,7.4959198
+1881,11881,Unfallchirurgie - ATOS,Luisenstraße,,,,,,,,,,49.410179600000006,8.6909159
+1882,11882,Unfallkrankenhaus Berlin,Warener Straße,,,,,,,,yes,,52.5188081,13.565940300000001
+1883,11883,Uniklinik Bereich F - Zentrum für Psychische Gesundheit,,,,,,,,,,,49.8042394,9.9405728
+1884,11884,"Uniklinik RWTH Aachen: Phoniatrie, Psychiatrische Tagesklinik für Erwachsene und Institutsambulanz",Kullenhofstraße,,,,,,,,,,50.7744275,6.042807700000001
+1885,11885,Unikliniken Neurologie und Neurochirurgie,,,,,,,,,,,50.0918174,8.6491216
+1886,11886,Unikliniken Psychiatrie,,,,,,,,,,,50.0918174,8.6491216
+1887,11887,Universität Erlangen Nürnberg Medizinische Klinik IV Nephrologische Forschungslaboratorien,Loschgestraße,,,,,,,,,,49.6002174,11.0072053
+1888,11888,Universität zu Lübeck,,,,,,,,,,,53.849628,10.6911698
+1889,11889,Universitätsfrauenklinik Magdeburg,Gerhart-Hauptmann-Straße,,,,,,,,,,52.1298382,11.616777699999998
+1890,11890,Universitätsklinikum,Kerpener Straße,,,,,,,,,,50.9237398,6.917689500000001
+1891,11891,Universitätsklinikum Eppendorf,,,,,,,,,,,53.587664100000005,9.9723055
+1892,11892,Universitätsklinikum Erlangen,,,,,,,,,yes,,49.5979326,11.0127479
+1893,11893,"Universitätsklinikum Erlangen - Psychosomatik (Ambulanz, Tagesklink)",Hartmannstraße,,,,,,,,,,49.5958155,11.0228336
+1894,11894,Universitätsklinikum Essen,Hufelandstraße,,,,,+49 2 01 - 7 23 - 0,,,yes,,51.4367205,6.9878222999999995
+1895,11895,Universitätsklinikum Gießen-Marburg,,,,,,,,,,,50.572705299999996,8.6639401
+1896,11896,Universitätsklinikum Halle (Saale),Ernst-Grube-Straße,,,,,,,,yes,,51.5004868,11.9339534
+1897,11897,Universitätsklinikum Knappschaftskrankenhaus Bochum,In der Schornau,,,,,,,,yes,,51.462565399999995,7.3266029999999995
+1898,11898,Universitätsklinikum Köln,,,,,,,,,yes,,50.927769,6.9185137
+1899,11899,Universitätsklinikum Leipzig,,,,,,,,,yes,,51.328644,12.386548699999999
+1900,11900,Universitätsklinikum Regensburg,Franz-Josef-Strauß-Allee,,,,,+49 941 944 0,,,yes,,48.9903046,12.0925832
+1901,11901,Universitätsklinikum Schleswig-Holstein - Campus Lübeck,,,,,,+49 451 5000,,,,,53.8374925,10.700299099999999
+1902,11902,Universitätsklinikum St.-Josef-Hospital Bochum,Gudrunstraße,,,,,,,,,,51.4905321,7.228621
+1903,11903,Universitätsklinikum Ulm,,,,,,,,,,,48.422832799999995,9.9535879
+1904,11904,Universitätsmedizin Göttingen,Robert-Koch-Straße,,,,,,,,yes,,51.5487446,9.942686
+1905,11905,Universitätsmedizin Mannheim,Theodor-Kutzer-Ufer,,,,,+49 621 383 0,,,yes,,49.491192299999994,8.4867339
+1906,11906,Unversitätsklinikum Marburg,,,,,,,,,,,50.8154828,8.8028245
+1907,11907,Urologische Klinik,,,,,,,,,,,48.4096696,9.993697500000001
+1908,11908,Urologische Klinik,Germeringer Straße,,,,,+49 89 85693-0,,,,,48.1092508,11.414990699999999
+1909,11909,VAMED Ostseeklinik Damp,Seute-Deern-Ring,,,,,+49 4352 806001,,,no,,54.586135600000006,10.0222014
+1910,11910,VAMED Rehaklink Bad Ems,Viktoriaallee,,,,,,,,,,50.3326284,7.714505900000001
+1911,11911,VITOS Klinik für Psychiatrie und Psychotherapie,Viernheimer Straße,,,,,,,,yes,,49.6272403,8.6255337
+1912,11912,Veramed Klinik am Wendelstein,Mühlenstraße,,,,,,,,no,,47.739578200000004,12.0918916
+1913,11913,Verbundklinikum Landkreis Ansbach - Klinik Rothenburg o.d.T.,Ansbacher Straße,,,,,+49-9861-707-0,,,yes,,49.3790252,10.198493800000001
+1914,11914,Verus Klinik,Hauptstraße,,,,,,,,,,47.7408436,8.0039831
+1915,11915,Verwaltung / Haus Franziskus,Am Vogelherd,,,,,,,,,,47.700095700000006,9.8355836
+1916,11916,Verwaltungs- und Technikgebäude,Böheimstraße,,,,,,,,,,48.76207720000001,9.1637228
+1917,11917,Verwaltungs- und Technikgebäude,Böheimstraße,,,,,,,,,,48.7621777,9.163134900000001
+1918,11918,Verwaltungsgebäide,,,,,,,,,,,51.683651399999995,12.7301259
+1919,11919,Vesalius Klinik,Salinenstraße,,,,,+49 7264 966000,,,no,,49.237032299999996,9.1069674
+1920,11920,Vestische Kinder- und Jugendklinik Datteln,,,,,,,,,,,51.642869899999994,7.3360284
+1921,11921,Viktoriastift,Cecilienhöhe,,,,,+49 671 83550,,,no,,49.8298463,7.8503675
+1922,11922,Vinzentius-Krankenhaus,Cornichonstraße,,,,,,,,,,49.1908896,8.1145248
+1923,11923,Vinzenz-Pallotti-Hospital,Vinzenz-Pallotti-Straße,,,,,,,,yes,,50.961544599999996,7.175699400000001
+1924,11924,Vinzenz-Pallotti-Krankenhaus,,,,,,,,,,,50.961116499999996,7.176296400000001
+1925,11925,Vinzenzkrankenhaus,,,,,,,,,yes,,52.35718920000001,9.8135033
+1926,11926,Virngrund-Klinik,Dalkinger Straße,,,,,,,,yes,,48.9582349,10.1310175
+1927,11927,Vital Klinik Alzenau,Streuweg,,,,,+49 6023 50590,,,,,50.10061339999999,9.0916104
+1928,11928,Vitalresort und Privatklinik Eberl,Buchener Straße,,,,,,,,,,47.7612344,11.544046699999999
+1929,11929,Vitos Kinder- und Jugendpsychiatrische Ambulanz und Tagesklinik Alsfeld,,,,,,,,,no,,50.7455609,9.2661287
+1930,11930,Vitos Klinik für Kinder- und Jugendpsychiatrie,Herkulesstraße,,,,,+49 561 310060,,,no,,51.31329,9.453715800000001
+1931,11931,Vitos Klinik für Psychiatrie und Psychotherapie,Landgraf-Philipp-Straße,,,,,,,,,,51.231322,9.2540304
+1932,11932,Vitos Kliniken,,,,,,,,,,,51.312766499999995,9.429434800000001
+1933,11933,Vivantes - Haus Hohengatow,,,,,,,,,,,52.4699228,13.180966
+1934,11934,Vivantes Humboldt-Klinikum,Am Nordgraben,,,,,,,,yes,,52.5899965,13.3044473
+1935,11935,Vivantes Humboldt-Klinikum - Standort Oranienburger Straße,Oranienburger Straße,,,,,+4930 130120,,,,,52.58366089999999,13.327991
+1936,11936,Vivantes Klinikum - Neukölln,Rudower Straße,,,,,,,,yes,,52.4350696,13.4569218
+1937,11937,Vivantes Klinikum Kaulsdorf,,,,,,,,,,,52.507560700000006,13.5920988
+1938,11938,Vivantes Klinikum Spandau,Neue Bergstraße,,,,,,,,,,52.548722399999996,13.203972199999997
+1939,11939,Vivantes Klinikum am Urban,Dieffenbachstraße,,,,,,,,yes,,52.49437629999999,13.4103647
+1940,11940,"Vivantes Klinikum im Friedrichshain, Standort Prenzlauer Berg",Fröbelstraße,,,,,,,,,,52.5416785,13.4296288
+1941,11941,Vivantes Wenckebach-Klinikum,Wenckebachstraße,,,,,,,,,,52.459385100000006,13.3876791
+1942,11942,Vogelsbergklinik,Jean-Berlit-Straße,,,,,,,,,,50.516576799999996,9.3112067
+1943,11943,Vogtland-Klinikum Plauen,Röntgenstraße,,,,,,,,yes,,50.492969,12.1519722
+1944,11944,Wadtbergklinik,Zum Weintal,,,,,,,,no,,51.755951200000005,6.1830582000000005
+1945,11945,Waldhausklinik Deuringen,Sandbergstraße,,,,,+49 821 43050,,,,,48.365407,10.8126012
+1946,11946,Waldkrankenhaus St. Marien,,,,,,,,,,,49.610508100000004,11.0173272
+1947,11947,Warnow Klinik,Am Forsthof,,,,,,,,yes,,53.8438247,11.9745493
+1948,11948,Weissenstein-Klinik,Johann-Rothmeier-Straße,,,,,,,,,,47.760838799999995,8.120435
+1949,11949,Weißeritztal-Klinik Dippoldiswalde,Rabenauer Straße,,,,,+49 3504 6320,,,yes,,50.9013966,13.668574300000001
+1950,11950,Wendelsteinklinik,Reutlinger Straße,,,,,,,,no,,48.257182799999995,9.211700500000001
+1951,11951,Werksärztlicher Dienst,,,,,,,,,yes,,50.1197526,8.968351199999999
+1952,11952,Werner Forßmann Krankenhaus,Rudolf-Breitscheid-Straße,,,,,,,,yes,,52.827233400000004,13.788565099999998
+1953,11953,Werner-Messmer-Klinik,Strandbadstraße,,,,,,,,no,,47.7334169,8.987768199999998
+1954,11954,Werner-Wicker-Klinik,Im Kreuzfeld,,,,,,,,,,51.109444,9.0846276
+1955,11955,Wertachklinik Bobingen,Wertachstraße,,,,,+49 8234 81-0,,,yes,,48.2815869,10.8230521
+1956,11956,Wertachklinik Schwabmünchen,Weidenhartstraße,,,,,+49 8232 508-0,,,yes,,48.176275399999994,10.7463687
+1957,11957,Weserberglandklinik,,,,,,,,,,,51.7883044,9.373626400000001
+1958,11958,Westf. Klinik Schloß Haldem Fachkrankenhaus für Suchtkranke,Haldemer Straße,,,,,,,,no,,52.439350899999994,8.3760765
+1959,11959,Westfälische Klinik für Psychiatrie,,,,,,,,,,,51.5082885,7.5446327
+1960,11960,Westküstenklinikum Brunsbüttel,Delbrückstraße,,,,,+49 4852 9800,,,yes,,53.89928979999999,9.1457308
+1961,11961,Westküstenklinikum Heide,Esmarchstraße,,,,,+49 481 7850,,,yes,,54.198551,9.0751685
+1962,11962,Westpfalz-Klinikum,Hellmut-Hartert-Straße,,,,,,,,yes,,49.4408741,7.757503
+1963,11963,Westpfalz-Klinikum Standort Kirchheimbolanden,,,,,,,,,yes,,49.659767200000005,8.0070038
+1964,11964,Westpfalz-Klinikum Standort Kusel,,,,,,,,,yes,,49.5462358,7.3739666
+1965,11965,Wicker Klinik,Fürst-Friedrich-Straße,,,,,,,,,,51.1159227,9.112613699999999
+1966,11966,Wilhelm Fresenius Klinik,Aukammallee,,,,,+49 611 43-6161,,,,,50.087619000000004,8.2741591
+1967,11967,Wilhelmsburger Krankenhaus Groß-Sand,,,,,,,,,yes,,53.5029293,9.9864512
+1968,11968,Wirbelsäulenzentrum Marburg,,,,,,,,,,,50.830931,8.760930300000002
+1969,11969,Wohlfühlhaus 1.0,Weseler Straße,,,,,,,,,,51.5357282,6.4283731
+1970,11970,Wohlfühlhaus 2.0,Vogt-von-Belle-Platz,,,,,,,,,,51.5354148,6.4284478
+1971,11971,Wohn- und Pflegezentrum St. Barbara,Limbecker Straße,,,,,,,,,,51.5024946,7.326342299999999
+1972,11972,Wohnheim Campus Gesundheitspark,,,,,,,,,,,52.4002051,13.0673067
+1973,11973,Würmtalklinik,,,,,,,,,,,48.126866899999996,11.4192217
+1974,11974,ZI-Klinik für abhängiges Verhalten,,,,,,,,,,,49.4934698,8.468741
+1975,11975,"Zahn-, Mund- und Kieferklinik",,,,,,,,,,,48.1321143,11.557117
+1976,11976,Zahn-Mund-Kieferklinik,,,,,,,,,,,49.599274799999996,11.012982199999998
+1977,11977,Zahnklinik des UKGM Giessen,Schlangenzahl,,,,,,,,,,50.569355200000004,8.6683845
+1978,11978,Zeisigwaldkliniken Bethanien Chemnitz,Zeisigwaldstraße,,,,,,,,yes,,50.8389052,12.9617144
+1979,11979,Zentrales OP- und Funktionszentrum,,,,,,,,,,,51.5078251,7.4562527
+1980,11980,Zentralinstitut für Seelische Gesundheit,,,,,,,,,no,,49.4926776,8.468022300000001
+1981,11981,Zentralinstitut für Seelische Gesundheit,,,,,,,,,,,49.492928799999994,8.4654366
+1982,11982,Zentralklinik Bad Berka,,,,,,,,,yes,,50.889836100000004,11.2633692
+1983,11983,Zentralklinikum Suhl,Albert-Schweitzer-Straße,,,,,,,,,,50.6009917,10.7096366
+1984,11984,Zentrum für Innere Medizin,Ernst-Heydemann-Straße,,,,,,,,yes,,54.08391820000001,12.1003366
+1985,11985,Zentrum für Integrative Psychiatrie,Niemannsweg,,,,,,,,,,54.343435899999996,10.1436358
+1986,11986,Zentrum für Kinder- und Jugendmedizin,Heiliggeiststraße,,,,,+49 761 27043000,,,,,48.0035006,7.8416453
+1987,11987,Zentrum für Nervenheilkunde,Gehlsheimer Straße,,,,,+49 381 4949511,,,,,54.10210179999999,12.1306749
+1988,11988,Zentrum für Psychatrie Weißenau,,,,,,,,,,,47.7643883,9.597315199999999
+1989,11989,Zentrum für Psychiatrie Emmendingen,Neubronnstraße,,,,,,,,,,48.1176489,7.8625231
+1990,11990,Zentrum für Psychiatrie Reichenau,Feursteinstraße,,,,,,,,,,47.6925377,9.117906699999999
+1991,11991,Zentrum für Psychiatrie Winnenden,,,,,,,,,,,48.8710023,9.3955266
+1992,11992,Zentrum für Psychosoziale Medizin,Robert-Koch-Straße,,,,,,,,no,,53.943113100000005,9.5018745
+1993,11993,Zentrum für Schmerztherapie und Palliativmedizin,Im Neuenheimer Feld,,,,,+49 6221 56-6254,,,,,49.4131983,8.669538900000001
+1994,11994,Zentrum für kognitive Störungen,,,,,,,,,,,48.1444519,11.6007667
+1995,11995,ZkM,,,,,,,,,yes,,50.3225411,10.235669999999999
+1996,11996,Zollernalb-Klinikum Balingen,,,,,,,,,,,48.278395399999994,8.8577391
+1997,11997,Zollernalbklinikum Ebingen,Friedrichstraße,,,,,,,,yes,,48.21409620000001,9.0195302
+1998,11998,Zum Guten Hirten,Semmelweisstraße,,,,,+49 621 6819-0,,,yes,,49.48696760000001,8.384956299999999
+1999,11999,cts Klinik Stöckenhöfe,Stöckenhöfe,,,,,+49 761 40150,,,,,47.946946399999995,7.823606599999999
+2000,12000,ehem. Klinik Quierschied,,,,,,,,,,,49.3112054,7.0366550000000005
+2001,12001,ehemaliges Johanniter Krankenhaus Genthin,,,,,,,,,,,52.4069363,12.167638199999999
+2002,12002,ev. Krankenhaus Hattingen,,,,,,,,,,,51.3942443,7.1919104
+2003,12003,go:h Gelenkchirurgie Orthopädie: Hannover,Bertastraße,,,,,,,,,,52.3719283,9.7467148
+2004,12004,iTCM-Klinik Illertissen,Krankenhausstraße,,,,,,,,,,48.2256096,10.1051412
+2005,12005,imland Klinik Eckernförde,Schleswiger Straße,,,,,+49 4351 8820,,,,,54.48311579999999,9.8167673
+2006,12006,imland Klinik Rendsburg,Lilienstraße,,,,,+49 4331 2000,,,yes,,54.29715229999999,9.6605288
+2007,12007,kbo-Isar-Amper-Klinikum München-Ost,,,,,,,,,no,,48.114762400000004,11.7508449
+2008,12008,m&i Fachklinik Ichenhausen,Krumbacher Straße,,,,,+49 8223 99-0,,,no,,48.366572399999995,10.308338800000001
+2009,12009,m&i-Fachklinik Bad Liebenstein,Kurpromenade,,,,,+49 36961 660,,,,,50.813721,10.3532672
+2010,12010,medbo Bezirksklinikum Regensburg,Universitätsstraße,,,,,,,,yes,,49.0009054,12.0874644
+2011,12011,medius KLINIK Kirchheim,,,,,,+49 7021/88-0,,,yes,,48.651383,9.440261
+2012,12012,medius Klinik Ostfildern-Ruit,,,,,,+49 711 4488-0,,,yes,,48.740535200000004,9.253050199999999
+2013,12013,medneo Diagnostikzentrum Potsdam,Charlottenstraße,,,,,+49 0331 231 807-00,,,,,52.4018793,13.0649397
+2014,12014,salus klinik Hürth,,,,,,,,,,,50.8868932,6.869372200000001
+2015,12015,salus klinik Hürth,Willy-Brandt-Platz,,,,,,,,,,50.8858055,6.8683666
+2016,12016,stadtklinik im diako,Frölichstraße,,,,,+49 821 3160-0,,,no,,48.3681245,10.8878803
+2017,12017,vitos Kinder- und Jugendpsychiatrie,Geibelstraße,,,,,,,,,,50.139102,8.9137147
+2018,12018,Ärzte,,,,,,,,,,,47.7285,8.9957875
+2019,12019,Ärzte- und Therapiehaus am Schwanberg,Birklinger Straße,,,,,,,,,,49.702554,10.2655337
+2020,12020,Ärztehaus,Schulstraße,,,,,,,,,,51.423797,6.8826000999999986
+2021,12021,Ärztehaus,Bernhard-Kellermann-Straße,,,,,,,,,,52.378259899999996,12.9349694
+2022,12022,Ärztehaus Kahla,Bahnhofstraße,,,,,,,,,,50.8070836,11.5891338
+2023,12023,Ärztehaus Vielbrunn,,,,,,,,,,,49.712078600000005,9.0979764
+2024,12024,Ökumenisches Hainich Klinikum,,,,,,,,,,,51.2064838,10.4010117
+2025,12025,Ökumenisches Hainich Klinikum - Klinik Bad Frankenhausen,,,,,,,,,,,51.353708600000004,11.1072734

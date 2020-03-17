@@ -1,0 +1,18 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+2,20002,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g.,,,,,,,,yes,,54.398918099999996,24.0406259
+9,20009,Biržų ligoninė,Vilniaus g.,,,,,,,,yes,,56.18838220000001,24.7585641
+13,20013,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g.,,,,,,,,yes,,54.67190600000001,25.0902703
+19,20019,Joniškėlio ligoninė,Vytauto g.,,,,,,,,yes,,56.026255400000004,24.1690884
+20,20020,Jurbarko ligoninė,,,,,,,,,yes,,55.0854936,22.7486134
+28,20028,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g.,,,,,,,,yes,,54.895666500000004,23.9218516
+30,20030,Kelmės ligoninė,Nepriklausomybės g.,,,,,,,,yes,,55.631141500000005,22.9467744
+33,20033,Klaipėdos universitetinė ligoninė,,,,,,,,,yes,,55.7513834,21.1284329
+34,20034,Klaipėdos vaikų ligoninė,K. Donelaičio g.,,,,,+37046484144;+37046484120,,,yes,,55.715137600000006,21.135270600000002
+35,20035,Kražių ambulatorija,S. Dariaus ir S. Girėno g.,,,,,,,,yes,,55.6029106,22.689313600000002
+45,20045,LSMUL Kauno Klinikos,Eivenių g.,,,,,,,,yes,,54.918929399999996,23.919375
+57,20057,Neringos pirminės sveikatos priežiūros centras,Taikos g.,,,,,,,,yes,,55.302643,21.0033078
+75,20075,Respublikinė Klaipėdos ligoninė,S. Nėries g.,,,,,+370 46 410 688,,,yes,,55.7184174,21.1327333
+77,20077,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g.,,,,,,,,yes,,54.66914379999999,25.2055004
+85,20085,Santariškių klinikų vaikų ligoninė,Santariškių g.,,,,,,,,yes,,54.75544620000001,25.281913
+116,20116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g.,,,,,,,,yes,,55.836985600000006,24.9914702
+121,20121,VšĮ „Kupiškio ligoninė“,Krantinės g.,,,,,,,,yes,,55.837394599999996,24.9876543

@@ -1,0 +1,176 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+10,20010,Airedale General Hospital,Skipton Road,,,,,,,,yes,,53.8960764,-1.9616604
+22,20022,Altnagelvin Hospital,Glenshane Road,,,,,028 7134 5171,,,yes,,54.9883505,-7.289858000000001
+29,20029,Antrim Area Hospital,,,,,,,,,yes,,54.735666099999996,-6.1879101
+52,20052,Ayr & Ailsa Hospitals,,,,,,,,,yes,,55.432633100000004,-4.6052528
+69,20069,Balfour Hospital,New Scapa Road,,,,,+44 1856 888000,,,yes,,58.976435200000004,-2.9642087000000004
+74,20074,Basildon University Hospital,Nether Mayne,,,,,+44 1268 524900,,,yes,,51.5580635,0.4474004
+75,20075,Basingstoke and North Hampshire Hospital,,,,,,,,,yes,,51.2801535,-1.1107708
+78,20078,Bassetlaw Hospital,Blyth Road,,,,,+44 1909 500990,,,yes,,53.314557900000004,-1.11172
+83,20083,Bedford Hospital South Wing,Kempston Road,,,,,,,,yes,,52.1283178,-0.47506499999999996
+86,20086,Belfast City Hospital,,,,,,,,,yes,,54.5880997,-5.9391059
+111,20111,Blackpool Victoria Hospital,,,,,,,,,yes,,53.821257499999994,-3.0133145
+117,20117,Bodmin Hospital,,,,,,,,,yes,,50.4666436,-4.741487599999999
+121,20121,Borders General Hospital,,,,,,,,,yes,,55.593070700000006,-2.7451407000000003
+126,20126,Bradford Royal Infirmary,Duckworth Lane,,,,,,,,yes,,53.80811429999999,-1.8016737
+132,20132,Brecon War Memorial Hospital,,,,,,,,,yes,,51.9490893,-3.3851714999999998
+140,20140,Bristol Royal Infirmary,,,,,,,,,yes,,51.4594058,-2.5984938
+152,20152,Broomfield Hospital,Court Road,,,,,+44 1245 443673,,,yes,,51.7777333,0.46007200000000004
+158,20158,Burnley General Hospital,Casterton Avenue,,,,,,,,yes,,53.8073299,-2.2301368
+162,20162,Calderdale Royal Hospital,,,,,,,,,yes,,53.7036721,-1.8588740000000001
+171,20171,Campbeltown Hospital,,,,,,,,,yes,,55.420553399999996,-5.6057015
+185,20185,Causeway Hospital,Newbridge Road,,,,,028 7032 7032,,,yes,,55.1223652,-6.6493423
+193,20193,Charing Cross Hospital,,,,,,,,,yes,,51.48772329999999,-0.2214698
+217,20217,City Hospital,Dudley Road,,,,,,,,yes,,52.490166200000004,-1.9269033
+237,20237,Coggeshall Surgery,,,,,,,,,yes,,51.87241220000001,0.6840484
+238,20238,Colchester General Hospital,,,,,,,,,yes,,51.9075839,0.8972589
+240,20240,Community Paramedic Service,,,,,,,,,yes,,55.306783700000004,-1.9141343000000002
+248,20248,Countess of Chester Hospital,Liverpool Road,,,,,,,,yes,,53.213492200000005,-2.8989960999999997
+265,20265,Croydon University Hospital,London Road,,,,,,,,yes,,51.3887237,-0.1075482
+267,20267,Cumberland Infirmary,,,,,,,,,yes,,54.8943119,-2.9560547
+276,20276,Daisy Hill Hospital,Hospital Road,,,,,028 3083 5000 ext 2347,,,yes,,54.17837420000001,-6.3489169
+278,20278,Darent Valley Hospital,,,,,,,,,yes,,51.4374945,0.2549568
+285,20285,Derriford Hospital,Derriford Road,,,,,+44 1752 202082,,,yes,,50.4181976,-4.1165136
+288,20288,Dewsbury & District Hospital,,,,,,,,,yes,,53.703177100000005,-1.648966
+291,20291,Dilke Memorial Hospital,Speech House Road,,,,,,,,yes,,51.8104157,-2.5213528999999997
+295,20295,Doncaster Royal Infirmary,,,,,,,,,yes,,53.5300033,-1.1145481000000002
+299,20299,Downe Hospital,Struell Wells Road,,,,,028 4483 8191,,,yes,,54.3208267,-5.6936323
+300,20300,Dr Gray's Hospital,,,,,,,,,yes,,57.644656299999994,-3.3305247000000002
+305,20305,Dumfries and Galloway Royal Infirmary,Cargenbridge,,,,,,,,yes,,55.0608846,-3.6617144
+316,20316,East Riding Community Hospital,Swinemoor Lane,,,,,,,,yes,,53.8527846,-0.4147281
+330,20330,Epsom General Hospital,Dorking Road,,,,,,,,yes,,51.3263599,-0.2742125
+339,20339,Fairfield Hospital,Rochdale Old Road,,,,,,,,yes,,53.5996586,-2.2594232000000005
+352,20352,Fermoy Unit,Gayton Road,,,,,,,,yes,,52.756003799999995,0.4446888
+368,20368,Forth Valley Royal Hospital,Stirling Road,,,,,+44 1324 566 000,,,yes,,56.026514799999994,-3.8560955999999997
+372,20372,Friarage Hospital,,,,,,,,,yes,,54.341339000000005,-1.4315756000000002
+373,20373,Frimley Park Hospital,,,,,,,,,yes,,51.31940529999999,-0.7400125
+382,20382,Gilbert Bain Hospital,,,,,,,,,yes,,60.151261100000006,-1.1579258
+386,20386,Glasgow Royal Infirmary,,,,,,,,,yes,,55.8653113,-4.2301117999999995
+390,20390,Gloucestershire Royal Hospital,,,,,,,,,yes,,51.8663768,-2.2381746
+399,20399,Gosport War Memorial Minor Injuries Unit,Bury Road,,,,,+442392794753;+442392794754,,,yes,,50.7932592,-1.1476621
+404,20404,Great Western Hospital,,,,,,,,,yes,,51.536592,-1.7237599
+417,20417,Hairmyres Hospital,,,,,,,,,yes,,55.75915820000001,-4.2251772
+443,20443,Hereford County Hospital,,,,,,,,,yes,,52.057877000000005,-2.7051529
+447,20447,Hexham General Hospital,Corbridge Road,,,,,,,,yes,,54.9695343,-2.0959651999999998
+451,20451,Highgate Mental Health Centre,Dartmouth Park Hill,,,,,,,,yes,,51.5674869,-0.1416863
+454,20454,Hillingdon Hospital,Pield Heath Road,,,,,,,,yes,,51.5273101,-0.4627759
+462,20462,Homerton University Hospital,,,,,,,,,yes,,51.549356700000004,-0.0468395
+476,20476,Huddersfield Royal Infirmary,,,,,,,,,yes,,53.6566158,-1.8150224
+483,20483,Hythe Hospital,,,,,,,,,yes,,50.858372100000004,-1.4037304
+488,20488,Insch War Memorial Hospital,,,,,,,,,yes,,57.3405427,-2.6143097
+489,20489,Inverclyde Royal Hospital,,,,,,,,,yes,,55.9452764,-4.808362799999999
+492,20492,Ipswich Hospital,Heath Road,,,,,,,,yes,,52.0599444,1.1951678
+500,20500,John Radcliffe Hospital,,,,,,,,,yes,,51.7615504,-1.2187883999999998
+508,20508,Kelso Hospital (Inch Hosp.),,,,,,,,,yes,,55.6028762,-2.4352209
+510,20510,Kent and Canterbury Hospital,Ethelbert Road,,,,,,,,yes,,51.26688920000001,1.0854941
+512,20512,Kettering General Hospital,,,,,,,,,yes,,52.40225,-0.7372807
+523,20523,King's College Hospital,Denmark Hill,,,,,,,,yes,,51.467570200000004,-0.0957779
+526,20526,Kings Mill Hospital,Mansfield Road,,,,,,,,yes,,53.1331636,-1.2333662
+528,20528,Kingston Hospital,Galsworthy Road,,,,,,,,yes,,51.4128886,-0.28308490000000003
+543,20543,Lagan Valley Hospital,Hillsborough Road,,,,,028 9260 4643,,,yes,,54.5047144,-6.0477059
+553,20553,Leeds General Infirmary,,,,,,,,,yes,,53.8016262,-1.5555853000000002
+558,20558,Leicester Royal Infirmary,,,,,,,,,yes,,52.6271924,-1.1380936000000001
+568,20568,Lincoln County Hospital,,,,,,,,,yes,,53.23506479999999,-0.5240883
+569,20569,Liskeard Community Hospital,Clemo Road,,,,,,,,yes,,50.4617787,-4.4509258
+591,20591,Lorn and Islands Hospital,,,,,,,,,yes,,56.401225600000004,-5.476505599999999
+596,20596,Luton and Dunstable,,,,,,,,,yes,,51.8970119,-0.4745677
+597,20597,Luton and Dunstable Hospital,,,,,,,,,yes,,51.8958979,-0.4733898
+598,20598,Luton and Dunstable Hospital,,,,,,,,,yes,,51.897439,-0.4753562
+601,20601,Lymington New Forest Hospital,,,,,,,,,yes,,50.7697016,-1.5472941
+611,20611,Manchester Royal Infirmary,,,,,,,,,yes,,53.463155900000004,-2.2266928
+612,20612,Manchester University Hospitals (central site),,,,,,,,,yes,,53.462410600000005,-2.2293727999999997
+613,20613,Manor Hospital,,,,,,,,,yes,,52.5816506,-1.9970418
+623,20623,Mater Infirmorum Hospital,Crumlin Road,,,,,028 9074 1211,,,yes,,54.608550300000005,-5.9409790000000005
+630,20630,Medway Maritime Hospital,Windmill Road,,,,,+44 1634 830000,,,yes,,51.381811,0.5398967
+644,20644,Milton Keynes Hospital,Standing Way,,,,,,,,yes,,52.0286161,-0.7399241
+646,20646,Minor Injury and Illness Unit,,,,,,,,,yes,,54.888917000000006,-1.4314120000000001
+653,20653,Moorfields Eye Hospital (City Road campus),,,,,,,,,yes,,51.526776700000006,-0.09109600000000001
+668,20668,Mull & Iona Community Hospital,,,,,,,,,yes,,56.4798286,-5.7160547
+672,20672,Musgrove Park Hospital,Parkfield Drive,,,,,+44 1823 333444,,,yes,,51.011917600000004,-3.1239407000000003
+678,20678,Nairn Town and County Hospital,Cawdor Road,,,,,,,,yes,,57.57843270000001,-3.8716242999999997
+687,20687,New Cross Hospital,,,,,,,,,yes,,52.599633700000005,-2.0922560000000003
+700,20700,Ninewells Hospital,,,,,,,,,yes,,56.463356000000005,-3.0436136
+705,20705,North Devon District Hospital,,,,,,,,,yes,,51.092386499999996,-4.0519548
+708,20708,North Manchester General Hospital,,,,,,,,,yes,,53.518875,-2.2319204
+709,20709,North Middlesex University Hospital,,,,,,,,,yes,,51.614506899999995,-0.0724599
+716,20716,Northampton General Hospital,Cliftonville Road,,,,,,,,yes,,52.2346424,-0.8789896
+721,20721,Northumbria Specialist Emergency Care Hospital,Northumbria Way,,,,,,,,yes,,55.0778941,-1.5666298
+722,20722,Northwick Park Hospital,Watford Road,,,,,+44 20 8864 3232,,,yes,,51.5763945,-0.3216656
+755,20755,Ospadal Naomh Brianain,,,,,,,,,yes,,56.9516611,-7.4973130999999995
+782,20782,Perth Royal Infirmary,,,,,,,,,yes,,56.398391700000005,-3.4557482000000004
+783,20783,Peterborough City Hospital,Bretton Gate,,,,,,,,yes,,52.5875775,-0.2784728
+787,20787,Pilgrim Hospital,,,,,,,,,yes,,52.993533,-0.0128345
+788,20788,Pinderfields Hospital,,,,,,,,,yes,,53.6923593,-1.4854531000000002
+794,20794,Poole General Hospital,Longfleet Road,,,,,,,,yes,,50.7224936,-1.9722287
+804,20804,Prince Philip Hospital,,,,,,,,,yes,,51.6931734,-4.1355748
+807,20807,Princess Alexandra Hospital,,,,,,,,,yes,,51.7696283,0.0834007
+811,20811,Princess Royal Hospital,,,,,,,,,yes,,52.7139294,-2.5145602000000005
+812,20812,Princess Royal University Hospital,Farnborough Common,,,,,+44 1689 863000,,,yes,,51.3666812,0.060504499999999996
+823,20823,Queen Alexandra Hospital,,,,,,,,,yes,,50.8525718,-1.0711767
+826,20826,Queen Elizabeth Hospital,,,,,,,,,yes,,54.9404627,-1.5808389999999999
+827,20827,Queen Elizabeth II Hospital,,,,,,,,,yes,,51.782629299999996,-0.1871682
+828,20828,Queen Elizabeth The Queen Mother Hospital,,,,,,,,,yes,,51.3773664,1.3920788
+836,20836,Queens Hospital,,,,,,,,,yes,,51.5697914,0.1772675
+837,20837,Queens Medical Centre,Derby Road,,,,,,,,yes,,52.9450197,-1.1873897
+842,20842,Raigmore Hospital,,,,,,,,,yes,,57.473988799999994,-4.197490900000001
+868,20868,Ross Memorial Hospital,Ferry Road,,,,,,,,yes,,57.5942792,-4.4189823
+870,20870,Rotherham General Hospital,,,,,,+44 1709 820000,,,yes,,53.4165361,-1.3433016000000002
+875,20875,Royal Aberdeen Childrens' Hospital,,,,,,,,,yes,,57.154012699999996,-2.1360865
+879,20879,Royal Berkshire Hospital,,,,,,,,,yes,,51.4512636,-0.9603579
+882,20882,Royal Bournemouth Hospital,Castle Lane East,,,,,+44 1202 303626,,,yes,,50.7490355,-1.8226467
+886,20886,Royal Cornwall Hospital,,,,,,,,,yes,,50.2665494,-5.0948077000000005
+887,20887,Royal Derby Hospital,Uttoxeter Road,,,,,,,,yes,,52.910815,-1.5175535
+889,20889,Royal Devon & Exeter Hospital (Wonford),,,,,,,,,yes,,50.71543629999999,-3.5083266
+891,20891,Royal Eye Unit,,,,,,,,,yes,,51.4146443,-0.2815802
+894,20894,Royal Gwent Hospital,,,,,,,,,yes,,51.5784099,-2.9984642000000004
+899,20899,Royal Infirmary of Edinburgh (Little France),,,,,,,,,yes,,55.9245325,-3.1374028
+900,20900,Royal Lancaster Infirmary,,,,,,,,,yes,,54.04112859999999,-2.798539
+902,20902,Royal Liverpool University Hospital,,,,,,,,,yes,,53.41071379999999,-2.9625854
+903,20903,Royal London Hospital,,,,,,,,,yes,,51.5168488,-0.058420299999999994
+911,20911,Royal Shrewsbury Hospital,Mytton Oak Road,,,,,,,,yes,,52.709036700000006,-2.7973798999999997
+913,20913,Royal Stoke University Hospital,Newcastle Road,,,,,+44 1782 715444,,,yes,,53.004726899999994,-2.216797
+918,20918,Royal Victoria Infirmary,Queen Victoria Road,,,,,+44 191 233 6161,,,yes,,54.9793142,-1.6216169
+923,20923,Russells Hall Hospital,,,,,,,,,yes,,52.5021955,-2.1228932
+929,20929,Saint John's Hospital,,,,,,,,,yes,,55.894435200000004,-3.5209921000000004
+939,20939,Salisbury District Hospital,,,,,,,,,yes,,51.0433179,-1.7904897000000002
+941,20941,Sandwell General Hospital,,,,,,,,,yes,,52.5292088,-1.9896381999999997
+944,20944,Scarborough Hospital,Woodlands Drive,,,,,+44 1723 368111,,,yes,,54.28308440000001,-0.4389059
+946,20946,Scunthorpe General Hospital,Cliff Gardens,,,,,,,,yes,,53.5859046,-0.6695071
+967,20967,Solihull Hospital,,,,,,,,,yes,,52.4192901,-1.7744335999999998
+974,20974,South Tyneside District Hospital,Harton Lane,,,,,+44 191 404 1000,,,yes,,54.9692711,-1.4283639
+976,20976,South West Acute Hospital,Irvinestown Road,,,,,028 6638 2000,,,yes,,54.3663052,-7.641402
+978,20978,Southampton General Hospital,Tremona Road,,,,,,,,yes,,50.934633500000004,-1.4344881999999999
+981,20981,Southmead Hospital,Southmead Road,,,,,+44 117 9505050,,,yes,,51.4992178,-2.5946592999999996
+982,20982,Southport and Formby District General Hospital,,,,,,,,,yes,,53.63213270000001,-2.980438
+1025,21025,St George's Hospital,Blackshaw Road,,,,,,,,yes,,51.428740999999995,-0.1740975
+1045,21045,St Mary's Hospital,,,,,,,,,yes,,51.5171138,-0.17618029999999998
+1048,21048,St Mary’s NHS Treatment Centre,Milton Road,,,,,,,,yes,,50.7993335,-1.0623378
+1050,21050,St Michael's Hospital,,,,,,,,,yes,,51.4596705,-2.5985628
+1057,21057,St Peter's Hospital A&E,,,,,,,,,yes,,51.3772448,-0.5268394000000001
+1062,21062,St Thomas' Hospital,Westminster Bridge Road,,,,,+44 20 7188 7188,,,yes,,51.497562200000004,-0.1204921
+1069,21069,St. Helier Hospital,Wrythe Lane,,,,,+44 20 8296 2000,,,yes,,51.3822109,-0.18652
+1070,21070,St. James's University Hospital,,,,,,,,,yes,,53.8054927,-1.5213762
+1084,21084,Stoke Mandeville Hospital,,,,,,,,,yes,,51.7982138,-0.8052179
+1135,21135,The Duchy Hospital,,,,,,,,,yes,,50.2691512,-5.092971299999999
+1147,21147,The Maidstone Hospital,,,,,,,,,yes,,51.2768036,0.48150950000000003
+1170,21170,The Queen Elizabeth University Hospital Campus,,,,,,,,,yes,,55.8656765,-4.3393687000000005
+1173,21173,The Royal Hospitals,Grosvenor Road,,,,,028 9063 2250,,,yes,,54.590043200000004,-5.9605027
+1176,21176,The Royal Oldham Hospital,,,,,,,,,yes,,53.5500186,-2.1226097999999998
+1200,21200,Torbay Hospital,,,,,,,,,yes,,50.480892700000005,-3.5507388999999994
+1206,21206,Tunbridge Wells Hospital Pembury,Tonbridge Road,,,,,,,,yes,,51.1468261,0.3075739
+1211,21211,Tyrone and Fermanagh Hospital,Hospital Road,,,,,028 8283 3169,,,yes,,54.595175,-7.2702417
+1217,21217,Ulster Hospital,Upper Newtownards Road,,,,,028 9056 4875,,,yes,,54.5956297,-5.8071648
+1223,21223,University Hospital Coventry,,,,,,,,,yes,,52.420609000000006,-1.4453585
+1224,21224,University Hospital Lewisham,,,,,,,,,yes,,51.4520112,-0.017482
+1225,21225,University Hospital Monklands,Monkscourt Avenue,,,,,,,,yes,,55.866999899999996,-4.0037255
+1226,21226,University Hospital Wishaw,,,,,,,,,yes,,55.7720473,-3.9436948
+1230,21230,Vale of Leven District General Hospital,,,,,,,,,yes,,55.9933252,-4.5933446
+1232,21232,Victoria Hospital,Hayfield Road,,,,,+441592 643355,,,yes,,56.12310550000001,-3.1612815
+1252,21252,Warwick Hospital,,,,,,,,,yes,,52.290824799999996,-1.5861706
+1257,21257,Watford General,,,,,,,,,yes,,51.6483281,-0.40622709999999995
+1299,21299,William Harvey Hospital,,,,,,,,,yes,,51.1411326,0.9113421
+1323,21323,Worthing Hospital,Lyndhurst Road,,,,,,,,yes,,50.8173744,-0.3659406
+1337,21337,Ysbyty Bronglais / Bronglais Hospital,,,,,,,,,yes,,52.4158406,-4.0734191
+1341,21341,Ysbyty Glan Clwyd,Rhuddlan Road,,,,,,,,yes,,53.2687934,-3.4960972000000003
+1342,21342,Ysbyty Gwynedd,,,,,,,,,yes,,53.208038699999996,-4.1658869
+1346,21346,Ysbyty Ystrad Fawr,,,,,,,,,yes,,51.6346409,-3.2335317000000003

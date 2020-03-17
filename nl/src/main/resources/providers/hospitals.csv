@@ -1,0 +1,113 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,ADRZ,,,,,,+31 88 1250000,,,yes,,51.4844179,3.9076052000000003
+1,10001,Advent Hospital,Groot Davelaarweg,,,,,+5999 737 0611,,,,,12.120244,-68.90406850000001
+2,10002,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",,,,,,(078) 654 11 11,,,yes,,51.7912601,4.6794905
+3,10003,Alrijne Ziekenhuis,,,,,,,,,,,52.155349900000004,4.5408376
+4,10004,Alrijne Ziekenhuis,,,,,,,,,,,52.173622200000004,4.480721099999999
+5,10005,Amphia Ziekenhuis Locatie Molengracht,Molengracht,,,,,,,,,,51.5840617,4.7954843
+6,10006,"Amphia Ziekenhuis, Locatie Langedijk",Langendijk,,,,,+76 595 5000,,,,,51.5753425,4.764085400000001
+7,10007,"Amphia Ziekenhuis, Locatie Pasteurlaan",Pasteurlaan,,,,,,,,,,51.6476689,4.8711519999999995
+8,10008,Amsterdam UMC - locatie VUMC,De Boelelaan,,,,,,,,,,52.3368182,4.858402
+9,10009,Amsterdam UMC locatie AMC,Meibergdreef,,,,,,,,yes,,52.293864899999996,4.9497018
+10,10010,Basalt Revalidatiecentrum,,,,,,,,,,,52.1697278,4.4691982
+11,10011,Beatrixziekenhuis,,,,,,,,,,,51.840100299999996,4.955231700000001
+12,10012,Bernhoven,,,,,,,,,,,51.67208660000001,5.6060862
+13,10013,Bethesda,,,,,,,,,,,52.7273353,6.460551000000001
+14,10014,BovenIJ Ziekenhuis,,,,,,,,,,,52.40501810000001,4.9208111
+15,10015,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos,,,,,+31243657657,,,yes,,51.8186865,5.832653400000001
+16,10016,Catharina Ziekenhuis,Michelangelolaan,,,,,,,,yes,,51.4644195,5.4694144
+17,10017,Cruquiushoeve,,,,,,,,,no,,52.3302143,4.6482895
+18,10018,Curaçao Medical Center,J. H. J. Hamelbergweg,,,,,+599 9 745 0000,,,yes,,12.110434,-68.9426995
+19,10019,De Canha Physical Therapy,Dokter W. P. Maalweg,,,,,,,,,,12.1055343,-68.9041058
+20,10020,Delta Ziekenhuis,,,,,,,,,,,51.8464042,4.3917481
+21,10021,Deventer Ziekenhuis,Nico Bolkesteinlaan,,,,,+570 53 53 53,,,yes,,52.2627765,6.1893769999999995
+22,10022,Dijklander Ziekenhuis,Maelsonstraat,,,,,,,,yes,,52.647181200000006,5.0552318
+23,10023,Doornbos Fysio Groep,Abdijstraat,,,,,+31 76 572 00 57,,,no,,51.5987116,4.7956926
+24,10024,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard,,,,,+297 527 4000,,,yes,,12.5432798,-70.0602569
+25,10025,EHBO building,,,,,,,,,,,51.873475299999996,4.2556009
+26,10026,ETZ Elisabeth ziekenhuis,,,,,,,,,yes,,51.540021,5.101123
+27,10027,ETZ TweeSteden ziekenhuis,Doctor Deelenlaan,,,,,,,,,,51.5789916,5.056798000000001
+28,10028,Erasmus MC Daniel den Hoed,,,,,,,,,,,51.886109499999996,4.5034912
+29,10029,Erasmus Medisch Centrum,Dokter Molewaterplein,,,,,+31 107040704,,,yes,,51.9121723,4.466856900000001
+30,10030,Flevoziekenhuis,,,,,,,,,yes,,52.3681365,5.2228711
+31,10031,Fundashon Mariadal,Kaya Soeur Bartola,,,,,,,,yes,,12.154662199999999,-68.2749353
+32,10032,GGD Den Haag,Westeinde,,,,,14 070,,,,,52.07539129999999,4.3018915
+33,10033,GGZ Centraal / Fornhese,Horsterweg,,,,,,,,no,,52.3058205,5.609114099999999
+34,10034,GGZ Delfland,,,,,,,,,,,52.0202132,4.3608398
+35,10035,GGZ Rivierduinen,,,,,,,,,,,52.1720971,4.458043099999999
+36,10036,GGZ Rivierduinen,,,,,,,,,,,52.1753359,4.4664676
+37,10037,"Gelre Apeldoorn, Lukas",Albert Schweitzerlaan,,,,,055 581 81 81,,,,,52.1816343,5.944470099999999
+38,10038,Gelre Zutphen,,,,,,,,,,,52.1219588,6.216207499999999
+39,10039,Gezondheidscentrum Het Noorderdok,,,,,,,,,,,52.3892951,5.175039099999999
+40,10040,HMC Bronovo,Bronovolaan,,,,,070-3124141,,,yes,,52.101386299999994,4.318327200000001
+41,10041,HMC Westeinde,Lijnbaan,,,,,,,,yes,,52.07451270000001,4.2986074
+42,10042,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein,,,,,070 210 0000,,,yes,,52.0568138,4.2620612
+43,10043,Hearing Aid Screening,Wageningenstraat,,,,,,,,,,12.1005855,-68.91685340000001
+44,10044,Huisartsenpost Reuver,,,,,,,,,,,51.283044200000006,6.0813748
+45,10045,Huisartsenpost Zevenaar,,,,,,0900-1598,,,yes,,51.9430275,6.0696315
+46,10046,IJsselland Ziekenhuis,,,,,,,,,,,51.939303100000004,4.564447400000001
+47,10047,"IMSAN Dr, Rudy Engelbrecht Medical Center",,,,,,,,,,,12.4401075,-69.9161344
+48,10048,Ikazia Ziekenhuis,,,,,,,,,,,51.8869302,4.4935193
+49,10049,Isala,Dokter van Heesweg,,,,,+3138424500,,,yes,,52.5137535,6.1205668
+50,10050,Isala Diaconessenhuis,,,,,,,,,yes,,52.69135550000001,6.214955000000001
+51,10051,LUMC Curium,,,,,,,,,,,52.172850700000005,4.4577735999999994
+52,10052,Leids Universitair Medisch Centrum,Albinusdreef,,,,,+31 71 5269111,,,yes,,52.16708010000001,4.4744932
+53,10053,Lentis Zuidlaren,,,,,,,,,,,53.0888003,6.6656930999999995
+54,10054,Liduina,,,,,,,,,,,51.2873154,4.0511734
+55,10055,MCL Harlingen,,,,,,,,,,,53.1622772,5.4279888
+56,10056,MMC Meander Medisch Centrum,Maatweg,,,,,,,,,,52.1730851,5.369453900000001
+57,10057,MMC Veldhoven,De Run,,,,,040 888 8000,,,,,51.4067898,5.4148429
+58,10058,Maasstad Ziekenhuis,Maasstadweg,,,,,,,,yes,,51.877952,4.5350041
+59,10059,Maastricht UMC+,P. Debyelaan,,,,,+31 (0)43-3876543,,,,,50.8324448,5.7098035000000005
+60,10060,Make Me Smile Dentist,Kraayenhofstraat,,,,,,,,,,12.1127174,-68.9455486
+61,10061,Martini Ziekenhuis,Van Swietenplein,,,,,+31 050 524 5245,,,yes,,53.191022,6.5486747
+62,10062,Medisch Centrum Leeuwarden,,,,,,+31 58 2866666,,,yes,,53.190202899999996,5.8004441
+63,10063,Medisch Centrum Puttershoek,Standerdmolen,,,,,,,,no,,51.80076,4.5638078
+64,10064,Medisch Spectrum Twente,Koningsplein,,,,,+3153 487 2000,,,yes,,52.217195700000005,6.8904235
+65,10065,Máxima Medisch Centrum Eindhoven,,,,,,,,,no,,51.45608120000001,5.4896205
+66,10066,Nij Smellinghe,,,,,,,,,yes,,53.0980406,6.1094675
+67,10067,Noordwest Ziekenhuisgroep,Stationsplein,,,,,,,,,,52.6693789,4.8226999
+68,10068,Noordwest Ziekenhuisgroep,Huisduinerweg,,,,,,,,yes,,52.9585218,4.7448203
+69,10069,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan,,,,,,,,yes,,52.6264921,4.7347704
+70,10070,OLVG Locatie West,Jan Tooropstraat,,,,,,,,,,52.372352500000005,4.8388294
+71,10071,"OLVG, locatie Oost",,,,,,,,,,,52.3590655,4.9165856
+72,10072,Ommelander Ziekenhuis Groningen,,,,,,,,,,,53.1856664,6.9569542
+73,10073,Parnassia,,,,,,,,,,,52.043920899999996,4.204953400000001
+74,10074,Parnassia psycho-medisch centrum,,,,,,,,,,,52.0610335,4.247021599999999
+75,10075,Plexus Medical Center,Rotterdamweg,,,,,461 7790,,,,,12.095957,-68.9076913
+76,10076,Polikliniek,,,,,,,,,,,52.55177270000001,5.9191082999999995
+77,10077,PsyQ,,,,,,,,,no,,52.074212599999996,4.298743099999999
+78,10078,Reade (JBI),Dr. Jan van Breemenstraat,,,,,,,,,,52.3702008,4.8444895
+79,10079,Red Cross,Weg leidende naar Under the Hill,,,,,,,,,,17.4936409,-62.986776299999995
+80,10080,Rehabilitations,Kaminda Saliña,,,,,,,,,,12.1070292,-68.909001
+81,10081,Reinier de Graaf Diaconessenhuis,,,,,,,,,,,52.0610802,4.3513113
+82,10082,Reinier de Graaf Gasthuis,Reinier de Graafweg,,,,,+31 15 2603060,,,yes,,51.9983595,4.339429
+83,10083,Revalidatiecentrum De Vogellanden,,,,,,,,,,,52.50273120000001,6.1173665999999995
+84,10084,Rijnstate Arnhem,Wagnerlaan,,,,,+3188 055 8888,,,yes,,52.001929100000005,5.907910500000001
+85,10085,Rijnstate Ziekenhuis Zevenaar,Hunneveldweg,,,,,+3188 055 8887,,,,,51.9438021,6.068663900000001
+86,10086,Rode Kruis Ziekenhuis,,,,,,,,,yes,,52.478673,4.651764099999999
+87,10087,Röpcke-Zweers Ziekenhuis,,,,,,,,,yes,,52.5740127,6.6315538
+88,10088,Sinai Centrum,,,,,,,,,no,,52.2932477,4.8756974
+89,10089,Sint Antonius Ziekenhuis Nieuwegein,,,,,,,,,,,52.024423600000006,5.0785922
+90,10090,Sint Franciscus Gasthuis,Kleiweg,,,,,,,,,,51.944147799999996,4.4659297
+91,10091,Sophia revalidatie,,,,,,,,,,,52.040925200000004,4.2660989
+92,10092,Spaarne Gasthuis Haarlem-Noord,,,,,,,,,,,52.4225152,4.6487621
+93,10093,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan,,,,,+31 23 5453545,,,yes,,52.3674422,4.6488860999999995
+94,10094,Spaarne Gasthuis Heemstede (Dagziekenhuis),Händellaan,,,,,+31 23 8908900,,,,,52.3550914,4.6337768
+95,10095,Spaarne Gasthuis Hoofddorp,Spaarnepoort,,,,,+31 23 8908900,,,yes,,52.323922700000004,4.6496544
+96,10096,St Antonius Ziekenhuis,,,,,,088-3203000,,,yes,,52.1045929,5.0558132
+97,10097,St. Anna Ziekenhuis,,,,,,,,,,,51.4198141,5.5577363
+98,10098,Ter Schorre,,,,,,,,,,,51.31970820000001,3.8472663000000002
+99,10099,Treant Scheper,Boermarkeweg,,,,,+31591691911,,,yes,,52.787265000000005,6.9106726
+100,10100,Universitair Medisch Centrum Groningen,Hanzeplein,,,,,+315 0361 61 61,,,yes,,53.220414,6.5756466
+101,10101,Universitair Medisch Centrum Utrecht,Heidelberglaan,,,,,+31887555555,,,yes,,52.0878653,5.1781958
+102,10102,Veldwijk,,,,,,,,,,,52.3058433,5.6064997000000005
+103,10103,VieCuri,,,,,,,,,yes,,51.3551561,6.1521764
+104,10104,Windward Island Emergency Medical Services,Welegen Road,,,,,,,,,,18.0301079,-63.066226
+105,10105,Ziekenhuis Amstelland,Laan van de Helende Meesters,,,,,,,,,,52.2936895,4.872113099999999
+106,10106,Ziekenhuis Rijnstate Velp,President Kennedylaan,,,,,088-0058888,,,no,,51.986534899999995,5.978022599999999
+107,10107,Ziekenhuis Rivierenland,,,,,,,,,,,51.8913841,5.4168515
+108,10108,ZorgSaam Ziekenhuis - De Honte,,,,,,,,,yes,,51.3087402,3.8572841
+109,10109,Zorgpark Goes,,,,,,,,,,,51.485831899999994,3.9132467000000006
+110,10110,Zuyderland,,,,,,,,,,,50.8685633,5.9768915
+111,10111,Zuyderland,,,,,,,,,yes,,50.983434100000004,5.8424624000000005

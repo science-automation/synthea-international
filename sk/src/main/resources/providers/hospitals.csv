@@ -1,0 +1,90 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Detská fakultná nemocnica,,,,,,,,,,,48.7363959,21.2513748
+1,10001,Detská fakultná nemocnica Košice,,,,,,+421552354101,,,yes,,48.721642200000005,21.2391504
+2,10002,Detská fakultná nemocnica s poliklinikou Banská Bystrica,Námestie Ludvíka Svobodu,,,,,+421 48 472 65 11,,,yes,,48.7430887,19.1188485
+3,10003,"Diagnostické, preventívne a výskumné centrum VÚSCH",Ondavská,,,,,,,,no,,48.721491799999995,21.241174700000002
+4,10004,Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého Dolný Kubín,Nemocničná,,,,,,,,,,49.2152912,19.3011584
+5,10005,Fakultná nemocnica Nitra,Špitálska,,,,,,,,,,48.299147399999995,18.0856026
+6,10006,Fakultná nemocnica Trenčín,,,,,,,,,yes,,48.8838722,18.0272033
+7,10007,Fakultná nemocnica Trnava,Andreja Žarnova,,,,,,,,,,48.3699855,17.588124
+8,10008,Fakultná nemocnica s poliklinikou F.D. Roosevelta,Námestie Ludvíka Svobodu,,,,,,,,yes,,48.7452816,19.1138999
+9,10009,Fakultná nemocnica s poliklinikou J. A. Reimana Prešov,Jána Hollého,,,,,,,,,,48.998577000000004,21.251025100000003
+10,10010,Fakultná nemocnica s poliklinikou Nové Zámky,Slovenská,,,,,,,,,,47.993274299999996,18.1497035
+11,10011,"Fakultná nemocnica s poliklinikou Skalica, a. s.",,,,,,,,,,,48.8422693,17.228103100000002
+12,10012,Fakultná nemocnica s poliklinikou Žilina,,,,,,,,,yes,,49.2184185,18.7449224
+13,10013,Geriatrické centrum sv. Lukáša,Strojárenská,,,,,,,,,,48.72728920000001,21.249706200000002
+14,10014,Hornooravská nemocnica s poliklinikou Trstená,,,,,,,,,,,49.3583495,19.6003184
+15,10015,Kysucká nemocnica s poliklinikou Čadca,Palárikova,,,,,,,,yes,,49.4383154,18.774607
+16,10016,Lekárska služba prvej pomoci,,,,,,,,,yes,,48.7349378,21.253526
+17,10017,"Letecká vojenská nemocnica, a.s.",Murgašova,,,,,,,,,,48.718059100000005,21.254863600000004
+18,10018,Liečebňa pre dlhodobo chorých Štiavnička,,,,,,,,,,,49.0744005,19.342923499999998
+19,10019,Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu,Palúčanská,,,,,,,,yes,,49.085007,19.5990758
+20,10020,Medissimo,,,,,,,,,,,48.1026362,17.109164
+21,10021,Mestská poliklinika Dr. Jozefa Goldbergera,Kukorelliho,,,,,,,,no,,49.110953,21.5154785
+22,10022,Nemocnia Handlová - 2. súkromná nemocnica s.r.o.,,,,,,,,,,,48.7294427,18.7560577
+23,10023,"Nemocnica Alexandra Wintera, n.o.",Winterova,,,,,,,,,,48.588072,17.8376658
+24,10024,"Nemocnica Bánovce - 3. súkromná nemocnica, s.r.o.",Hviezdoslavova,,,,,,,,,,48.7206156,18.2580603
+25,10025,Nemocnica Dr. V. Alexandra,Hviezdoslavova,,,,,,,,no,,49.1327402,20.4280176
+26,10026,"Nemocnica Košice-Šaca a.s., 1. súkromná nemocnica",,,,,,,,,yes,,48.643964700000005,21.1724086
+27,10027,Nemocnica Krompachy spol. s r.o.,,,,,,,,,yes,,48.9055989,20.8722359
+28,10028,Nemocnica Levice s.r.o.,SNP,,,,,,,,,,48.223000299999995,18.613760199999998
+29,10029,Nemocnica Malacky,,,,,,,,,,,48.4402891,17.0313907
+30,10030,"Nemocnica Poprad, a. s.",,,,,,,,,,,49.0510906,20.3001441
+31,10031,Nemocnica Zlaté Moravce a.s.,Bernolákova,,,,,,,,yes,,48.3833885,18.397810500000002
+32,10032,Nemocnica Zvolen a. s.,,,,,,,,,,,48.5822089,19.1330622
+33,10033,"Nemocnica arm. generála L. Svobodu Svidník, a.s.",,,,,,,,,,,49.31092460000001,21.570042899999997
+34,10034,"Nemocnica s poliklinikou Brezno, n.o.",,,,,,,,,,,48.8099158,19.625084100000002
+35,10035,Nemocnica s poliklinikou Dunajská Streda a.s.,,,,,,,,,,,47.99973920000001,17.6078077
+36,10036,Nemocnica s poliklinikou Ilava,,,,,,,,,yes,,48.9941958,18.229785999999997
+37,10037,Nemocnica s poliklinikou Považská Bystrica,,,,,,,,,yes,,49.1045113,18.458003
+38,10038,Nemocnica s poliklinikou Prievidza so sídlom v Bojniciach,Nemocničná,,,,,+421 46 511 21 11,,,,,48.7857114,18.586895600000002
+39,10039,"Nemocnica s poliklinikou Spišská Nová Ves, a.s.",,,,,,,,,,,48.9572226,20.5657185
+40,10040,"Nemocnica s poliklinikou Sv. Jakuba, n.o., Bardejov",,,,,,,,,,,49.288150099999996,21.271604
+41,10041,"Nemocnica s poliklinikou Sv. Lukáša Galanta, a. s.",Hodská,,,,,,,,,,48.1952919,17.719399300000003
+42,10042,"Nemocnica s poliklinikou sv. Barbory Rožňava, a.s.",Špitálska,,,,,,,,,,48.6649963,20.5339312
+43,10043,Národný onkologický ústav,Klenová,,,,,,,,,,48.172767799999995,17.0907712
+44,10044,Národný ústav detských chorôb,Limbová,,,,,,,,,,48.16761029999999,17.089544699999998
+45,10045,"Odborný liečebný ústav psychiatrický, Predná Hora",,,,,,,,,no,,48.7719824,20.110831899999997
+46,10046,"Onkologický ústav sv. Alžbety, s.r.o.",Heydukova,,,,,,,,,,48.1474825,17.113374800000003
+47,10047,Poliklinika,,,,,,,,,no,,49.08703320000001,19.605272
+48,10048,Poliklinika,Poľovnícka,,,,,,,,no,,47.8500971,17.7629963
+49,10049,Poliklinika Janka Kráľa,Janka Kráľa,,,,,,,,,,48.6597667,20.5291487
+50,10050,Poliklinika Nad jazerom,Spišské námestie,,,,,,,,,,48.689436,21.284721700000002
+51,10051,Poliklinika Sever,,,,,,,,,,,48.732677100000004,21.2517046
+52,10052,Poliklinika U. S. Steel,,,,,,,,,no,,48.6249165,21.191652899999998
+53,10053,Poliklinika Východ,,,,,,,,,,,48.739930799999996,21.2827439
+54,10054,Poliklinika Západ,,,,,,,,,yes,,48.72245770000001,21.2377899
+55,10055,Psychiatrická nemocnica Hronovce,,,,,,,,,,,48.0020412,18.6563935
+56,10056,Psychiatrická nemocnica Philippa Pinela Pezinok,,,,,,,,,,,48.31781229999999,17.2511902
+57,10057,Psychiatrická nemocnica Veľké Zálužie,Rínok,,,,,,,,no,,48.302265000000006,17.942193399999997
+58,10058,"Regionálna nemocnica Sobrance, n.o.",,,,,,,,,,,48.7448275,22.184915300000004
+59,10059,"Stredoslovenský ústav srdcových a cievnych chorôb, a.s.",Cesta k nemocnici,,,,,,,,no,,48.7419552,19.160452199999998
+60,10060,"Svet zdravia Nemocnica Topoľčany, a.s.",,,,,,,,,,,48.5534277,18.1667499
+61,10061,"Univerzitná nemocnica - Nemocnica svätého Michala, a.s.,",Satinského,,,,,,,,,,48.1462555,17.1168533
+62,10062,Univerzitná nemocnica Bratislava - Nemocnica Staré Mesto,Mickiewiczova,,,,,,,,,,48.1515735,17.1169345
+63,10063,Univerzitná nemocnica Bratislava - Nemocnica akademika L. Dérera - Kramáre,Limbová,,,,,,,,,,48.1658008,17.0896277
+64,10064,Univerzitná nemocnica Bratislava - Nemocnica sv. Cyrila a Metoda,Antolská,,,,,,,,yes,,48.102315600000004,17.1156951
+65,10065,Univerzitná nemocnica Bratislava – Nemocnica Ružinov,,,,,,,,,,,48.1558897,17.151169699999997
+66,10066,Univerzitná nemocnica Bratislava – Špecializovaná geriatrická nemocnica,Krajinská,,,,,,,,,,48.1245915,17.207255800000002
+67,10067,Univerzitná nemocnica L. Pasteura,Rastislavova,,,,,,,,yes,,48.7092102,21.253869899999998
+68,10068,Univerzitná nemocnica Louisa Pasteura,Trieda SNP,,,,,,,,yes,,48.72422279999999,21.236527
+69,10069,Univerzitná nemocnica Martin,Kollárova,,,,,,,,,,49.0596403,18.9142442
+70,10070,Univerzitná nemocnica s poliklinikou Milosrdní bratia,Námestie Slovenského národného povstania,,,,,,,,,,48.145854799999995,17.1117674
+71,10071,Východoslovenský ústav srdcových a cievnych chorôb,,,,,,,,,yes,,48.721198,21.2408617
+72,10072,Všeobecná nemocnica Gelnica,,,,,,,,,,,48.8581818,20.933618300000003
+73,10073,Všeobecná nemocnica Komárno,Mederčská,,,,,,,,,,47.7664208,18.1257438
+74,10074,Všeobecná nemocnica Rimavská Sobota,,,,,,,,,yes,,48.3845488,20.024159
+75,10075,"Všeobecná nemocnica s poliklinikou Lučenec, n.o.",,,,,,,,,yes,,48.329618599999996,19.6579217
+76,10076,Zdravie,,,,,,,,,,,49.129713,18.323708399999997
+77,10077,Zdravotné stredisko,,,,,,,,,no,,48.411007,17.486389000000003
+78,10078,Zdravotné stredisko,,,,,,,,,,,48.254182,17.2843937
+79,10079,Zdravotné stredisko Svit,,,,,,,,,no,,49.0564703,20.203244
+80,10080,poliklinika,,,,,,,,,,,49.292587700000006,21.269546
+81,10081,Ústredná vojenská nemocnica SNP Ružomberok - FN,,,,,,,,,,,49.0763028,19.312434600000003
+82,10082,Ústredná vojenská nemocnica SNP Ružomberok - FN,,,,,,,,,,,49.0863791,19.297863
+83,10083,Územná poliklinika,,,,,,,,,,,48.70058529999999,18.9153688
+84,10084,"Ľubovnianska nemocnica, n.o.",Obrancov mieru,,,,,,,,,,49.2976998,20.688022399999998
+85,10085,"Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n. o.",Záhradnícka,,,,,,,,,,48.1538792,17.1298797
+86,10086,Špecializovaná nemocnica sv. Svorada,Kláštorská,,,,,,,,,,48.34587,18.093618
+87,10087,Železničná nemocnica a poliklinika,Šancová,,,,,,,,,,48.157916,17.1246318
+88,10088,Železničná nemocnica s poliklinikou Košice,,,,,,,,,yes,,48.7281181,21.2588677

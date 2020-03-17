@@ -1,0 +1,138 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Abromiškių reabilitacijos ligoninė,,,,,,,,,,,54.7670843,24.7082329
+1,10001,Akušerijos skyrius,,,,,,,,,,,55.7339799,24.365923600000002
+2,10002,Alytaus apskrities S. Kudirkos ligoninė,Ligoninės g.,,,,,,,,yes,,54.398918099999996,24.0406259
+3,10003,Alytaus tuberkuliozės ligoninė,,,,,,,,,,,54.413450600000004,24.041989800000003
+4,10004,Antakalnio poliklinika,Antakalnio g.,,,,,,,,,,54.7107186,25.317280899999997
+5,10005,Anykščių rajono savivaldybės ligoninė,,,,,,,,,,,55.5207958,25.1206266
+6,10006,Baisogalos ligoninė,,,,,,,,,,,55.6390219,23.721912699999997
+7,10007,Baltijos Amerikos klinika,Nemenčinės pl.,,,,,+37052342020,,,,,54.7352821,25.338530300000002
+8,10008,Birštono pirminės sveikatos priežiūros centras,Jaunimo g.,,,,,+37031967018,,,,,54.607220700000006,24.0255968
+9,10009,Biržų ligoninė,Vilniaus g.,,,,,,,,yes,,56.18838220000001,24.7585641
+10,10010,Dienos chirurgijos centras,Puodžių g.,,,,,,,,,,55.712495700000005,21.1274057
+11,10011,Druskininkų ligoninė,Sveikatos g.,,,,,,,,,,54.0166106,24.0083513
+12,10012,Eržvilko Pirminės Sveikatos Priežiuros Centras,Piliakalnio g.,,,,,,,,,,55.26045920000001,22.703761899999996
+13,10013,Grigiškių palaikomojo gydymo ir slaugos ligoninė,Mokyklos g.,,,,,,,,yes,,54.67190600000001,25.0902703
+14,10014,I. Kuprijaškino psichoterapinis kabinetas,I. Kanto g.,,,,,,,,no,,54.89553589999999,23.903454999999997
+15,10015,Infekcinių ligų ir tuberkuliozės ligoninė,Birutės g.,,,,,,,,,,54.6878577,25.248937100000003
+16,10016,J. Zikaro g.,,,,,,,,,,,54.930628799999994,23.7220523
+17,10017,J. Zikaro g.,,,,,,,,,,,54.9300963,23.721509899999997
+18,10018,Jonavos ligoninė,Žeimių g.,,,,,,,,,,55.0797331,24.270287699999997
+19,10019,Joniškėlio ligoninė,Vytauto g.,,,,,,,,yes,,56.026255400000004,24.1690884
+20,10020,Jurbarko ligoninė,,,,,,,,,yes,,55.0854936,22.7486134
+21,10021,Jurbarko šeimos klinika,,,,,,,,,,,55.0825659,22.7711514
+22,10022,Jūrininkų ligoninės Palangos skyrius,Klaipėdos pl.,,,,,,,,,,55.93666329999999,21.0862976
+23,10023,K. Griniaus slaugos ir palaikomojo gydymo ligoninė,,,,,,+370 37 346736,,,,,54.8855854,23.9792892
+24,10024,Kaišiadorių ligoninė,Beržyno g.,,,,,,,,,,54.85377020000001,24.4263935
+25,10025,Kalvarijos ligoninė,Vytauto g.,,,,,,,,,,54.4145663,23.2223543
+26,10026,Kardiolita,Laisvės pr.,,,,,,,,,,54.71717170000001,25.2303176
+27,10027,Kauno Kraujo donorystės centras,I. Kanto g.,,,,,,,,no,,54.89608199999999,23.9036931
+28,10028,Kauno Raudonojo Kryžiaus klinikinė ligoninė,Gedimino g.,,,,,,,,yes,,54.895666500000004,23.9218516
+29,10029,Kauno klinikinės ligoninės infekcinių ligų klinika,Baltijos g.,,,,,,,,,,54.917596200000006,23.860383
+30,10030,Kelmės ligoninė,Nepriklausomybės g.,,,,,,,,yes,,55.631141500000005,22.9467744
+31,10031,Klaipėdos medicininės slaugos ligoninė,K. Donelaičio g.,,,,,+370 46 410 071,,,,,55.715990299999994,21.1349302
+32,10032,Klaipėdos psichikos sveikatos centras,Galinio Pylimo g.,,,,,,,,,,55.70594870000001,21.1394533
+33,10033,Klaipėdos universitetinė ligoninė,,,,,,,,,yes,,55.7513834,21.1284329
+34,10034,Klaipėdos vaikų ligoninė,K. Donelaičio g.,,,,,+37046484144;+37046484120,,,yes,,55.715137600000006,21.135270600000002
+35,10035,Kražių ambulatorija,S. Dariaus ir S. Girėno g.,,,,,,,,yes,,55.6029106,22.689313600000002
+36,10036,Krekenavos pirminės sveikatos priežiūros centras,Maironio g.,,,,,,,,,,55.544912399999994,24.0914712
+37,10037,Kulautuvos reabilitacijos ligoninė,Akacijų al.,,,,,,,,,,54.942216099999996,23.6452557
+38,10038,Kuršėnų ligoninė,J. Basanavičiaus g.,,,,,+370 41 582 443,,,,,56.0035909,22.936877300000003
+39,10039,Kuršėnų palaikomojo gydymo ir slaugos skyrius,J. Basanavičiaus g.,,,,,+370 41 581 593,,,,,56.004334,22.937210399999998
+40,10040,Kėdainių ligoninė,,,,,,,,,,,55.3112726,23.9864905
+41,10041,LSMU Kauno klinikos,Eivenių g.,,,,,,,,,,54.916925799999994,23.925541100000004
+42,10042,LSMUL KK Akių klinika,Eivenių g.,,,,,+37037326558,,,,,54.91969279999999,23.9236395
+43,10043,LSMUL KK Endokrinologijos klinika,,,,,,+37037326154,,,,,54.921544999999995,23.9225937
+44,10044,LSMUL KK Suaugusiųjų Skubios Pagalbos Centras,,,,,,,,,,,54.917902100000006,23.9214829
+45,10045,LSMUL Kauno Klinikos,Eivenių g.,,,,,,,,yes,,54.918929399999996,23.919375
+46,10046,Likėnų g.,,,,,,,,,,,56.202275,24.628947399999998
+47,10047,Likėnų g.,,,,,,,,,,,56.2024571,24.6288718
+48,10048,Likėnų g.,,,,,,,,,,,56.2018171,24.629209799999998
+49,10049,"M. Marcinkevičiaus ligoninė, Subačiaus padalinys",Subačiaus g.,,,,,,,,,,54.676851600000006,25.2957567
+50,10050,Mažeikių ligoninė,,,,,,,,,,,56.3177674,22.3446965
+51,10051,Mažeikių pirminės sveikatos priežiūros centras,Naftininkų g.,,,,,,,,,,56.305722200000005,22.3394643
+52,10052,Meškuičių ambulatorija,,,,,,,,,,,56.0693645,23.480558600000002
+53,10053,Molėtų ligoninė,Graužinių g.,,,,,,,,,,55.22644449999999,25.4116535
+54,10054,Mykolo Marcinkevičiaus ligoninė,J. Jablonskio g.,,,,,,,,,,54.6730387,25.276417499999997
+55,10055,Mykolo Marcinkevičiaus ligoninė,Kauno g.,,,,,,,,,,54.6730642,25.276675199999996
+56,10056,Naujosios Akmenės ligoninė,Respublikos g.,,,,,,,,,,56.3189584,22.8667626
+57,10057,Neringos pirminės sveikatos priežiūros centras,Taikos g.,,,,,,,,yes,,55.302643,21.0033078
+58,10058,Onkologijos klinika,,,,,,,,,,,55.944107200000005,23.2897285
+59,10059,Onuškio palaikomojo gydymo ir slaugos ligoninė,K. Petrausko a.,,,,,,,,,,54.483343299999994,24.5927326
+60,10060,Pagėgių palaikomojo gydymo ir slaugos ligoninė,,,,,,,,,,,55.13275110000001,21.9147033
+61,10061,"Pagėgių palaikomojo gydymo, slaugos ir senelių globos ligoninė",Vytauto g.,,,,,,,,,,55.145068099999996,21.908737600000002
+62,10062,Pakruojo ligoninė,L. Giros g.,,,,,,,,,,55.9783593,23.8430102
+63,10063,Panevezio m. greitosios medicinos pagalbos stotis,Sietyno g.,,,,,,,,,,55.7298298,24.354342000000003
+64,10064,Panevėžio infekcinė ligoninė,Ramygalos g.,,,,,,,,no,,55.7243118,24.3623057
+65,10065,Panevėžio palaikomojo gydymo ir slaugos ligoninė,M. Tiškevičiaus g.,,,,,,,,,,55.731843000000005,24.3685596
+66,10066,Panevėžio respublikinė ligoninė,Smėlynės g.,,,,,,,,,,55.7341956,24.3679065
+67,10067,Pašilaičių šeimos medicinos centras,Žemynos g.,,,,,,,,,,54.7257293,25.225383899999997
+68,10068,Plungės ligoninė,J. Tumo-Vaižganto g.,,,,,,,,,,55.8991906,21.8291337
+69,10069,Prienų ligoninė,Pušyno g.,,,,,,,,,,54.6308532,23.9620815
+70,10070,Psichiatrijos ligoninė,S. Dariaus ir S. Girėno g.,,,,,,,,,,54.889711600000005,23.884337300000002
+71,10071,Raseinių ligoninė,Ligoninės g.,,,,,,,,,,55.384848,23.119674300000003
+72,10072,Raseinių pirminės sveikatos priežiūros centras,Žemaitės g.,,,,,,,,,,55.3839344,23.1192235
+73,10073,Raudonojo Kryžiaus ligoninė,Laisvės al.,,,,,,,,,,54.8968115,23.9227688
+74,10074,Raudonojo Kryžiaus ligoninės Traumatologijos punktas,Laisvės al.,,,,,,,,,,54.8968314,23.9221984
+75,10075,Respublikinė Klaipėdos ligoninė,S. Nėries g.,,,,,+370 46 410 688,,,yes,,55.7184174,21.1327333
+76,10076,Respublikinė Vilniaus psichiatrijos ligoninė,Parko g.,,,,,,,,,,54.6843998,25.4200161
+77,10077,Respublikinė Vilniaus universitetinė ligoninė,Šiltnamių g.,,,,,,,,yes,,54.66914379999999,25.2055004
+78,10078,"Respublikinė tuberkuliozės ir infekcinių ligų universitetinė ligoninė, Santariškių stacionaras",Santariškių g.,,,,,,,,,,54.7574073,25.278044100000002
+79,10079,Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai,Miško g.,,,,,,,,,,54.8935407,23.918076
+80,10080,"Respublikinės Kauno ligoninės filialas Krikščioniškieji gimdymo namai, Gimdymo skyrius",Miško g.,,,,,,,,,,54.8936846,23.9180853
+81,10081,Respublikinės Klaipėdos ligoninės Psichiatrijos filialas,Bangų g.,,,,,,,,,,55.7084306,21.143150100000003
+82,10082,Rokiškio psichiatrijos ligoninė,Vytauto g.,,,,,,,,,,55.9770775,25.5805428
+83,10083,Rokiškio rajono ligoninė,V. Lašo g.,,,,,,,,,,55.970935700000005,25.5809962
+84,10084,Romainių tuberkuliozės ligoninė,Šilainių pl.,,,,,+370 37 362625,,,,,54.922953899999996,23.831856600000002
+85,10085,Santariškių klinikų vaikų ligoninė,Santariškių g.,,,,,,,,yes,,54.75544620000001,25.281913
+86,10086,Skaidiškių ambulatorija,Rudaminos g.,,,,,,,,,,54.606854299999995,25.3846433
+87,10087,Skaudvilės slaugos ligoninė,,,,,,,,,,,55.405793700000004,22.5865227
+88,10088,Slaugos ir palaikomojo gydymo ligoninė,Švenčionių g.,,,,,,,,,,54.85262660000001,25.4716955
+89,10089,Tauragės apskrities ligoninė,,,,,,,,,,,55.2544947,22.2824828
+90,10090,Tauragės pirminės sveikatos priežiūros centras,Jūros g.,,,,,,,,,,55.2526872,22.2822013
+91,10091,Telšių apskrities ligoninė,Kalno g.,,,,,,,,,,55.9847659,22.2334449
+92,10092,Trakų ligoninė,Mindaugo g.,,,,,,,,,,54.63756600000001,24.9370113
+93,10093,Trakų pirminės sveikatos priežiūros centras,Mindaugo g.,,,,,,,,,,54.6373975,24.938992000000002
+94,10094,Troškūnų ambulatorija,,,,,,,,,,,55.5855803,24.884486300000003
+95,10095,Troškūnų palaikomojo gydymo ir slaugos ligoninė,Vytauto g.,,,,,,,,,,55.58684029999999,24.8745692
+96,10096,Tuberkuliozės ir plaučių ligų ligoninė,,,,,,,,,,,55.9419807,23.2987655
+97,10097,Tytuvėnų palaikomojo gydymo ir slaugos ligoninė,J. Basanavičiaus g.,,,,,,,,,,55.59799029999999,23.196691
+98,10098,Utenos ligoninė,,,,,,,,,,,55.5084744,25.5898788
+99,10099,V. Ivaščenko ambulatorija,Birutės g.,,,,,,,,,,55.2555656,22.297358199999998
+100,10100,VUVL filialas Vaiko raidos centras,Vytauto g.,,,,,,,,,,54.6883863,25.256394
+101,10101,Valakupių reabilitacijos centras,Vaidilutės g.,,,,,,,,,,54.7364456,25.2938543
+102,10102,Varnių pirminės sveikatos priežiūros centras,,,,,,,,,,,55.743294999999996,22.366521
+103,10103,Varnių slaugos ir palaikomojo gydymo ligoninė,,,,,,,,,,,55.743294999999996,22.366521
+104,10104,Veisiejų ambulatorija,Vilties g.,,,,,+37031856691,,,,,54.09629920000001,23.7018427
+105,10105,Ventos ambulatorija,Ventos g.,,,,,,,,,,56.1891178,22.6823843
+106,10106,Vilkaviškio ligoninė,Maironio g.,,,,,,,,,,54.6511654,23.025895499999997
+107,10107,Vilniaus Universiteto psichiatrijos klinika,,,,,,,,,,,54.6913919,25.3075391
+108,10108,Vilniaus gimdymo namai,Tyzenhauzų g.,,,,,,,,,,54.6674885,25.2925915
+109,10109,Vilniaus rajono centrinė poliklinika,Laisvės pr.,,,,,,,,,,54.7223591,25.236641100000003
+110,10110,Vilniaus universitetinė slaugos ir ilgalaikio gydymo ligoninė,Tyzenhauzų g.,,,,,,,,,,54.6682392,25.2914674
+111,10111,"Vilniaus universiteto ligoninės Santariškių klinikos, Fizinės medicinos ir reabilitacijos centras",Jono Kairiūkščio g.,,,,,,,,,,54.7580027,25.2702978
+112,10112,Vilniaus universiteto ligoninės Santariškių klinikų Centro filialas,Tilto g.,,,,,,,,,,54.688176,25.2846069
+113,10113,Visagino poliklinika,Taikos pr.,,,,,,,,,,55.6057044,26.4329673
+114,10114,VŠĮ Pakaunės PSPC,Lietuvių g.,,,,,,,,,,54.9022854,23.9238254
+115,10115,VŠĮ Valkininkų sanatorija,,,,,,,,,,,54.34907929999999,24.720866100000002
+116,10116,VšĮ Kupiškio Pirminės Sveikatos Priežiūros Centras,Krantinės g.,,,,,,,,yes,,55.836985600000006,24.9914702
+117,10117,VšĮ Radviliškio rajono pirminės sveikatos priežiūros centras,,,,,,,,,,,55.81042239999999,23.5416868
+118,10118,VšĮ Varėnos ligoninė,,,,,,,,,,,54.2184304,24.567535
+119,10119,VšĮ Vilkpėdės ligoninė,Vilkpėdės g.,,,,,,,,,,54.66563789999999,25.243650100000004
+120,10120,VšĮ Širvintų ligoninė,Vilniaus g.,,,,,,,,,,55.03857610000001,24.9625724
+121,10121,VšĮ „Kupiškio ligoninė“,Krantinės g.,,,,,,,,yes,,55.837394599999996,24.9876543
+122,10122,Všį Radviliškio ligoninė,Gedimino g.,,,,,,,,,,55.81098879999999,23.5411589
+123,10123,Zarasų ligoninė,Vilniaus g.,,,,,,,,,,55.7316816,26.2558229
+124,10124,Šakių Ligoninė,Bažnyčios g.,,,,,,,,,,54.955824,23.0330405
+125,10125,Šalčininkų r. savivaldybės ligoninė,Nepriklausomybės g.,,,,,,,,,,54.305751,25.3798854
+126,10126,Šiaulių ligoninė,,,,,,,,,,,55.944223,23.299926899999996
+127,10127,Šiaulių ligoninė 1 korpusas,V. Kudirkos g.,,,,,,,,,,55.942984100000004,23.3021473
+128,10128,Šiaulių ligoninė 2 korpusas,,,,,,,,,,,55.94239159999999,23.3004605
+129,10129,Šiaulių ligoninė chirurgijos korpusas,,,,,,,,,,,55.9440662,23.299477
+130,10130,Šiaulių priklausomybės ligų centras,Daubos g.,,,,,,,,,,55.90624570000001,23.3088765
+131,10131,Šiaulių psichiatrijos ligoninė,M. K. Čiurlionio g.,,,,,,,,,,55.94256529999999,23.297832500000002
+132,10132,Šumsko palaikomojo gydymo ir slaugos ligoninė,Vilniaus g.,,,,,,,,,,54.6039363,25.728433600000002
+133,10133,Šv. Roko ligoninė,Klinikų g.,,,,,,,,,,54.70883810000001,25.3144698
+134,10134,Švėkšnos psichiatrinė ligoninė,Aušros g.,,,,,,,,,,55.520966099999995,21.6246244
+135,10135,Žalgirio klinika,Žalgirio g.,,,,,,,,,,54.7051839,25.278878600000002
+136,10136,Žaslių PSPC,Vilniaus g.,,,,,+370 346 44316,,,,,54.865072899999994,24.590121

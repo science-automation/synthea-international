@@ -1,0 +1,104 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Akademiska sjukhuset,,,,,,,,,yes,,59.853306599999996,17.6390728
+1,10001,Alingsås lasarett,,,,,,,,,yes,,57.92811089999999,12.5193569
+2,10002,Ambulansstation (under construction),,,,,,,,,,,60.0271769,13.5858201
+3,10003,Berga Sjukhus,,,,,,,,,,,59.0824202,18.1343519
+4,10004,Blackebergs sjukhus,,,,,,,,,,,59.3409085,17.8814962
+5,10005,Blekingesjukhuset Karlskrona,,,,,,,,,yes,,56.1808907,15.6024515
+6,10006,Bollnäs sjukhus,,,,,,,,,yes,,61.35403879999999,16.3592098
+7,10007,Borlänge Sjukhus,,,,,,,,,,,60.5046902,15.464526800000002
+8,10008,Brinkåsen,,,,,,,,,,,58.3464421,12.3631637
+9,10009,Bromma sjukhus,Follingbogatan,,,,,+4686875000,,,,,59.359621700000005,17.8993198
+10,10010,Carlanderska sjukhus,Carlandersplatsen,,,,,,,,,,57.69292339999999,11.9889492
+11,10011,Centrallasarettet Växjö,,,,,,,,,yes,,56.8754926,14.8053606
+12,10012,Centralsjukhuset Kristianstad,J A Hedlunds väg,,,,,+46 44 3091000,,,yes,,56.02796039999999,14.1719418
+13,10013,Centralsjukhuset i Karlstad,,,,,,,,,yes,,59.3784825,13.480836100000001
+14,10014,Dalens Närsjukhus,,,,,,,,,,,59.2885986,18.0969141
+15,10015,Dalslands Sjukhus,,,,,,,,,yes,,58.799554500000006,12.159657000000001
+16,10016,Danderyds sjukhus,,,,,,,,,yes,,59.3929656,18.0347549
+17,10017,Ekbacken,,,,,,,,,,,57.169053399999996,14.5918323
+18,10018,Elisabethsjukhuset,Geijersgatan,,,,,+46 18 188800,,,,,59.862835499999996,17.620063000000002
+19,10019,Enköpings Lasarett,,,,,,,,,yes,,59.6290458,17.066826199999998
+20,10020,Ersta sjukhus,,,,,,,,,,,59.315916,18.0886925
+21,10021,Falu Lasarett,,,,,,,,,yes,,60.608794700000004,15.6408404
+22,10022,Filipstad vårdcentral,,,,,,,,,,,59.712841299999994,14.178175199999998
+23,10023,Finspångs Lasarett,,,,,,,,,,,58.70954690000001,15.7602316
+24,10024,Frölunda specialistsjukhus,,,,,,,,,,,57.650717799999995,11.9120228
+25,10025,Gällivare sjukhus,Källgatan,,,,,,,,yes,,67.13017190000001,20.6803771
+26,10026,Gävle Sjukhus ingång 25,,,,,,,,,,,60.6793361,17.11901
+27,10027,Habiliteringsmottagning Sundsvall,Kungsvägen,,,,,060-18 29 00,,,no,,62.3996292,17.313888100000003
+28,10028,Hallands sjukhus Varberg,,,,,,,,,yes,,57.09633620000001,12.2762308
+29,10029,Helix,,,,,,,,,,,59.21463370000001,17.930296300000002
+30,10030,Helsingborgs lasarett,,,,,,,,,yes,,56.044652600000006,12.703635199999999
+31,10031,Hudiksvalls sjukhus,,,,,,,,,yes,,61.7284921,17.0966634
+32,10032,Hässleholms Sjukhus,,,,,,,,,yes,,56.15993710000001,13.776326300000001
+33,10033,Höglandssjukhuset Eksjö,,,,,,,,,yes,,57.6654478,14.9693386
+34,10034,Höglandssjukhuset Eksjö-Nässjö,,,,,,,,,,,57.6542264,14.713204300000001
+35,10035,Högsbo sjukhus,,,,,,,,,,,57.6675791,11.930584399999999
+36,10036,Jakobsbergs sjukhus,,,,,,,,,,,59.4229976,17.8472524
+37,10037,Kalix sjukhus,,,,,,,,,yes,,65.85426890000001,23.154211899999996
+38,10038,Karlskoga Lasarett,,,,,,,,,yes,,59.3169402,14.5034747
+39,10039,Karolinska universitetssjukhuset,,,,,,,,,yes,,59.353624100000005,18.031354800000003
+40,10040,Karolinska universitetssjukhuset Huddinge,,,,,,,,,yes,,59.2248589,17.931353899999998
+41,10041,Karsuddens sjukhus,,,,,,,,,,,59.0164861,16.2074635
+42,10042,Karsuddens sjukhus,,,,,,,,,,,59.0177208,16.2047468
+43,10043,Knäred Vårdcentral,,,,,,,,,yes,,56.52093570000001,13.3160174
+44,10044,Kungälvs sjukhus,,,,,,,,,yes,,57.8791847,11.970073900000001
+45,10045,Landskrona lasarett,,,,,,,,,,,55.8782693,12.843176800000002
+46,10046,Lasarettet Trelleborg,,,,,,,,,yes,,55.3820195,13.1638935
+47,10047,Lasarettet i Motala,,,,,,,,,yes,,58.5455429,15.0271397
+48,10048,Lasarettet i Ystad,,,,,,,,,yes,,55.4362111,13.819168300000001
+49,10049,Lidingö Sjukhus,Högsätravägen,,,,,,,,,,59.3509691,18.1495998
+50,10050,Lycksele lasarett,,,,,,,,,yes,,64.5837282,18.6816453
+51,10051,Lysekils sjukhus,,,,,,,,,,,58.280256099999995,11.439802499999999
+52,10052,Länssjukhuset Sundsvall-Härnösand,,,,,,,,,yes,,62.405976100000004,17.3034485
+53,10053,Länssjukhuset i Kalmar,,,,,,,,,yes,,56.657941099999995,16.334526999999998
+54,10054,Löwenströmska sjukhuset,,,,,,,,,,,59.546361899999994,17.9054802
+55,10055,Mora lasarett,,,,,,,,,yes,,61.0173353,14.584180300000002
+56,10056,Mälarsjukhuset,,,,,,,,,yes,,59.363968299999996,16.5349165
+57,10057,Mölndals Sjukhus,,,,,,,,,yes,,57.662016799999996,12.0092939
+58,10058,Nacka sjukhus,,,,,,,,,yes,,59.3114132,18.1988271
+59,10059,Norra sjukhusområdet,,,,,,,,,,,56.237010700000006,12.859611
+60,10060,Norra Älvsborgs Länssjukhus,,,,,,,,,yes,,58.3169157,12.259692999999999
+61,10061,Norrlands universitetssjukhus,,,,,,,,,yes,,63.8155225,20.3032206
+62,10062,Norrtälje Sjukhus,,,,,,,,,yes,,59.757127100000005,18.686066600000004
+63,10063,Nyköpings lasarett,,,,,,,,,yes,,58.7585969,16.9963229
+64,10064,Oskarshamns Sjukhus,,,,,,,,,yes,,57.262836,16.4231328
+65,10065,Piteå Älvdals Sjukhus,,,,,,,,,yes,,65.3136389,21.4927767
+66,10066,Praktikertjänst Närsjukhus Strömstad,Västra Hamngatan,,,,,,,,,,58.9411553,11.1693155
+67,10067,Rosenlunds sjukhus,,,,,,,,,,,59.31142320000001,18.0631818
+68,10068,Roslagens Sjukhus,,,,,,,,,,,59.763310499999996,18.714100100000003
+69,10069,Rättspsykiatri Västmanland,,,,,,,,,no,,59.934627799999994,16.603772199999998
+70,10070,Rättspsykiatriska regionkliniken i Sundsvall,,,,,,,,,no,,62.392964799999994,17.2418457
+71,10071,Sahlgrenska Universitetssjukhuset,,,,,,,,,yes,,57.683063600000004,11.955489199999999
+72,10072,Saltsjöbadens sjukhus,Rösundavägen,,,,,,,,,,59.27391579999999,18.3057641
+73,10073,Sankt Eriks ögonsjukhus,,,,,,,,,,,59.3347154,18.0389373
+74,10074,Sankt Görans sjukhus,,,,,,,,,yes,,59.333684700000006,18.024499399999996
+75,10075,Simrishamns Sjukhus,,,,,,,,,,,55.5527252,14.3378546
+76,10076,Sjukhuset Arvika,,,,,,,,,yes,,59.6663965,12.6133587
+77,10077,Skaraborgs Sjukhus Falköping,,,,,,+46-515-87000,,,,,58.1916925,13.555059900000002
+78,10078,Skellefteå Lasarett,,,,,,,,,yes,,64.7547546,20.9460903
+79,10079,Skånes Universitetsjukhus Malmö,,,,,,,,,yes,,55.5920053,12.9982011
+80,10080,Sollefteå sjukhus,Lassarettsgatan,,,,,,,,yes,,63.1762201,17.2339234
+81,10081,Sophiahemmet,,,,,,,,,no,,59.344677000000004,18.076226100000003
+82,10082,Sophiahemmet,,,,,,,,,,,59.3486208,18.0793182
+83,10083,Stockholms sjukhem,,,,,,,,,,,59.3322001,18.0267361
+84,10084,Stortorpskliniken,Stortorpsvägen,,,,,,,,no,,59.2410914,18.128710899999998
+85,10085,Sunderby sjukhus,,,,,,,,,yes,,65.67205770000001,21.921573199999997
+86,10086,Södersjukhuset,,,,,,,,,yes,,59.3108115,18.052794100000003
+87,10087,Södertälje sjukhus,,,,,,,,,yes,,59.1999784,17.6335201
+88,10088,Södra sjukhusområdet,,,,,,,,,,,56.237329700000004,12.8497664
+89,10089,Torsby sjukhus,,,,,,,,,yes,,60.1372025,13.001383500000001
+90,10090,Uddevalla sjukhus,,,,,,,,,,,58.35645079999999,11.9264746
+91,10091,Universitetssjukhuset i Linköping,,,,,,,,,yes,,58.4002105,15.624518099999998
+92,10092,Universitetssjukhuset Örebro,Södra Grev Rosengatan,,,,,+46 19-6021000,,,yes,,59.2754291,15.2216943
+93,10093,Visby Lasarett,S:t Göransgatan,,,,,+46 498 269000,,,yes,,57.650211899999995,18.3009211
+94,10094,Värnamo sjukhus,,,,,,,,,yes,,57.1757549,14.0314829
+95,10095,Västerviks sjukhus,Östra Kyrkogatan,,,,,,,,yes,,57.7546007,16.6321999
+96,10096,Västerås Centrallasarett,,,,,,,,,yes,,59.6149082,16.5884702
+97,10097,Västmanlands sjukhus Fagersta,Floravägen,,,,,,,,,,59.99586239999999,15.8094664
+98,10098,Västmanlands sjukhus Sala,,,,,,,,,,,59.9244286,16.602520900000002
+99,10099,Vårdhem,,,,,,,,,no,,58.988460700000005,16.460607800000002
+100,10100,Älvgården,Älvgården,,,,,+46 10 453 70 00,,,no,,60.348605500000005,16.045482800000002
+101,10101,Örnsköldsviks sjukhus,,,,,,,,,yes,,63.300530599999995,18.7075338
+102,10102,Östersunds sjukhus,,,,,,,,,yes,,63.1835873,14.632821900000001

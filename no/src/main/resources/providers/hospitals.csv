@@ -1,0 +1,75 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10000,Aker universitetssykehus,,,,,,,,,,,59.9385162,10.797060400000001
+1,10001,Akershus universitetssykehus (AHUS),Sykehuseveien,,,,,+47 91502900,,,yes,,59.93267629999999,10.991811300000002
+2,10002,Alta helsesenter,,,,,,+47 78 48 39 00,,,,,69.968598,23.2736104
+3,10003,Ambulansesentral Stavanger,Frida Hansens vei,,,,,,,,ambulance_station,,58.95029670000001,5.741303299999999
+4,10004,Barentsburg Hospital,,,,,,,,,,,78.0617681,14.217449400000001
+5,10005,Betanien hospital,,,,,,,,,,,59.2088591,9.596578
+6,10006,Bjønnessåsen sykehjem,,,,,,,,,,,59.2153583,10.4258819
+7,10007,Bærum sykehus,,,,,,,,,yes,,59.8985754,10.5088813
+8,10008,Diakonhjemmet sykehus,,,,,,,,,,,59.9384833,10.7040525
+9,10009,Diakonhjemmet sykehus Vinderen,Forskningsveien,,,,,,,,,,59.94242020000001,10.7114431
+10,10010,Drammen sykehus,,,,,,,,,yes,,59.747971400000004,10.195967699999999
+11,10011,Gaustad sykehus,,,,,,,,,,,59.9524183,10.717898
+12,10012,Hammerfest sykehus,,,,,,,,,yes,,70.67306579999999,23.6695155
+13,10013,Harstad sykehus,,,,,,,,,yes,,68.79656209999999,16.5246577
+14,10014,Haugesund sykehus,,,,,,,,,yes,,59.4095895,5.276797
+15,10015,Haukeland Universitetssjukehus,,,,,,,,,yes,,60.372704799999994,5.3612387
+16,10016,Helgelandssykehuset Mo i Rana,,,,,,,,,yes,,66.3251659,14.187800699999999
+17,10017,Hjemmetjeneste sentral,,,,,,,,,,,59.2667009,10.423262300000001
+18,10018,Kjelleparken,,,,,,,,,,,59.285487399999994,10.3975786
+19,10019,Kleppheimen,Prestevegen,,,,,,,,,,58.771626600000005,5.6285443
+20,10020,Kragerø sykehus,,,,,,,,,,,58.88014079999999,9.4050493
+21,10021,Kristiansund sykehus,,,,,,,,,yes,,63.1085295,7.7257795
+22,10022,Kysthospitalet,,,,,,,,,no,,58.9883608,10.029376
+23,10023,LHL-sykehuset Gardermoen,,,,,,,,,,,60.1655699,11.1628979
+24,10024,Lier sykehus,,,,,,,,,,,59.79313739999999,10.264642199999999
+25,10025,Longyearbyen sykehus,,,,,,,,,yes,,78.2197781,15.644337300000002
+26,10026,Lærdal sjukehus,,,,,,+4757640000,,,,,61.1021218,7.519796400000001
+27,10027,Martina Hansens hospital,Dønskiveien,,,,,+47 06780,,,no,,59.8973164,10.509511900000001
+28,10028,Molde sjukehus,,,,,,+4771120000,,,yes,,62.7357395,7.138418499999999
+29,10029,Mosjøen sykehus,,,,,,,,,yes,,65.8314537,13.2127461
+30,10030,Narvik sykehus,,,,,,,,,yes,,68.4416343,17.411657199999997
+31,10031,Nordfjord sjukehus,,,,,,,,,,,61.9163312,5.9779942
+32,10032,Nordlandsykehuset,,,,,,,,,yes,,67.2840314,14.3964231
+33,10033,Nøtterøy helsesenter,,,,,,,,,,,59.240504,10.3962931
+34,10034,Oslo universitetssykehus (Rikshospitalet),,,,,,02770,,,yes,,59.9473315,10.717690600000001
+35,10035,Oslo universitetssykehus (Ullevål),,,,,,,,,yes,,59.939704299999995,10.746262300000001
+36,10036,Radiumhospitalet,,,,,,,,,,,59.9314134,10.6652211
+37,10037,Reinsvoll sykehus,,,,,,,,,,,60.682930500000005,10.6466351
+38,10038,Ringerike Sykehus,,,,,,,,,,,60.1472542,10.2572052
+39,10039,Ringerike Sykehus HF,Arnold Dybsjords vei,,,,,,,,yes,,60.149453599999994,10.253210000000001
+40,10040,Sanderud sykehus,,,,,,,,,,,60.780038100000006,11.1583621
+41,10041,Sem bo- og servicesenter,,,,,,,,,,,59.2839159,10.3273662
+42,10042,Ski sykehus,,,,,,,,,,,59.72624329999999,10.8435081
+43,10043,Smidsrød helsehus,,,,,,,,,,,59.2386863,10.4236298
+44,10044,Spesialsykehuset for epilepsi (SSE),,,,,,,,,no,,59.904617200000004,10.5331136
+45,10045,"St. Olavs, avdeling Orkdal",,,,,,,,,,,63.293484899999996,9.844705300000001
+46,10046,Stavanger Universitetssjukehus,,,,,,,,,yes,,58.9536493,5.729718599999999
+47,10047,Stokmarknes sykehus,,,,,,,,,yes,,68.55933370000001,14.9102092
+48,10048,Stord sjukehus,,,,,,,,,yes,,59.7932041,5.5114479
+49,10049,Sunnaas sykehus,,,,,,,,,,,59.8346439,10.6383239
+50,10050,Sykehuset Innlandet HF Elverum,,,,,,,,,yes,,60.877912800000004,11.5695765
+51,10051,Sykehuset Innlandet HF Gjøvik,,,,,,,,,,,60.803900799999994,10.6778687
+52,10052,Sykehuset Innlandet HF Lillehammer,,,,,,06200,,,yes,,61.1111473,10.473004300000001
+53,10053,Sykehuset Innlandet Tynset,,,,,,,,,,,62.270689600000004,10.7755758
+54,10054,Sykehuset Namsos,,,,,,,,,yes,,64.4718134,11.5046675
+55,10055,Sykehuset Telemark - Notodden,Henrik Wergelands gate,,,,,,,,,,59.56635920000001,9.2541306
+56,10056,"Sykehuset Telemark, Skien",,,,,,,,,yes,,59.1923384,9.588644500000001
+57,10057,"Sykehuset i Vestfold, DPS nord",Ørsnesalleen,,,,,,,,no,,59.2556667,10.4225446
+58,10058,"Sykehuset i Vestfold, DPS sør",,,,,,,,,,,59.0513463,10.040956300000001
+59,10059,"Sykehuset i Vestfold, DPS sør",,,,,,,,,,,59.133047399999995,10.2355804
+60,10060,"Sykehuset i Vestfold, Granli",,,,,,,,,,,59.29102389999999,10.3030672
+61,10061,"Sykehuset i Vestfold, Larvik",,,,,,,,,,,59.0537353,10.0346478
+62,10062,"Sykehuset i Vestfold, Tønsberg",Halfdan Wilhelmsens allé,,,,,+47 33342000,,,yes,,59.27229499999999,10.4157759
+63,10063,Sykehuset Østfold Kalnes,,,,,,,,,yes,,59.318167200000005,11.018015
+64,10064,Sørlandet Sykehus Arendal,,,,,,,,,yes,,58.467484899999995,8.7519258
+65,10065,Sørlandet sykehus Kristiansand,Egsveien,,,,,+47 906 10 600,,,yes,,58.162873600000005,7.979068300000001
+66,10066,Tretten Sjukeheim,,,,,,,,,,,61.3137172,10.3029898
+67,10067,Træleborg sykehjem,,,,,,,,,,,59.265766000000006,10.4240187
+68,10068,Universitetssykehuset Nord-Norge,,,,,,,,,yes,,69.6829833,18.9793753
+69,10069,Veum sykehus,,,,,,,,,no,,59.25122729999999,10.9337489
+70,10070,Volda Sjukehus,,,,,,,,,yes,,62.150455900000004,6.0910887
+71,10071,Voss sjukehus,,,,,,,,,,,60.633293,6.4203051
+72,10072,Ålesund sjukehus,,,,,,,,,yes,,62.4640169,6.311386799999999
+73,10073,Østmarka psykiatriske sykehus,,,,,,,,,,,63.4514201,10.449336

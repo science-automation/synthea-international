@@ -1,0 +1,58 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Akademiska sjukhuset,,,,,,,,,yes,,59.853306599999996,17.6390728
+1,20001,Alingsås lasarett,,,,,,,,,yes,,57.92811089999999,12.5193569
+5,20005,Blekingesjukhuset Karlskrona,,,,,,,,,yes,,56.1808907,15.6024515
+6,20006,Bollnäs sjukhus,,,,,,,,,yes,,61.35403879999999,16.3592098
+11,20011,Centrallasarettet Växjö,,,,,,,,,yes,,56.8754926,14.8053606
+12,20012,Centralsjukhuset Kristianstad,J A Hedlunds väg,,,,,+46 44 3091000,,,yes,,56.02796039999999,14.1719418
+13,20013,Centralsjukhuset i Karlstad,,,,,,,,,yes,,59.3784825,13.480836100000001
+15,20015,Dalslands Sjukhus,,,,,,,,,yes,,58.799554500000006,12.159657000000001
+16,20016,Danderyds sjukhus,,,,,,,,,yes,,59.3929656,18.0347549
+19,20019,Enköpings Lasarett,,,,,,,,,yes,,59.6290458,17.066826199999998
+21,20021,Falu Lasarett,,,,,,,,,yes,,60.608794700000004,15.6408404
+25,20025,Gällivare sjukhus,Källgatan,,,,,,,,yes,,67.13017190000001,20.6803771
+28,20028,Hallands sjukhus Varberg,,,,,,,,,yes,,57.09633620000001,12.2762308
+30,20030,Helsingborgs lasarett,,,,,,,,,yes,,56.044652600000006,12.703635199999999
+31,20031,Hudiksvalls sjukhus,,,,,,,,,yes,,61.7284921,17.0966634
+32,20032,Hässleholms Sjukhus,,,,,,,,,yes,,56.15993710000001,13.776326300000001
+33,20033,Höglandssjukhuset Eksjö,,,,,,,,,yes,,57.6654478,14.9693386
+37,20037,Kalix sjukhus,,,,,,,,,yes,,65.85426890000001,23.154211899999996
+38,20038,Karlskoga Lasarett,,,,,,,,,yes,,59.3169402,14.5034747
+39,20039,Karolinska universitetssjukhuset,,,,,,,,,yes,,59.353624100000005,18.031354800000003
+40,20040,Karolinska universitetssjukhuset Huddinge,,,,,,,,,yes,,59.2248589,17.931353899999998
+43,20043,Knäred Vårdcentral,,,,,,,,,yes,,56.52093570000001,13.3160174
+44,20044,Kungälvs sjukhus,,,,,,,,,yes,,57.8791847,11.970073900000001
+46,20046,Lasarettet Trelleborg,,,,,,,,,yes,,55.3820195,13.1638935
+47,20047,Lasarettet i Motala,,,,,,,,,yes,,58.5455429,15.0271397
+48,20048,Lasarettet i Ystad,,,,,,,,,yes,,55.4362111,13.819168300000001
+50,20050,Lycksele lasarett,,,,,,,,,yes,,64.5837282,18.6816453
+52,20052,Länssjukhuset Sundsvall-Härnösand,,,,,,,,,yes,,62.405976100000004,17.3034485
+53,20053,Länssjukhuset i Kalmar,,,,,,,,,yes,,56.657941099999995,16.334526999999998
+55,20055,Mora lasarett,,,,,,,,,yes,,61.0173353,14.584180300000002
+56,20056,Mälarsjukhuset,,,,,,,,,yes,,59.363968299999996,16.5349165
+57,20057,Mölndals Sjukhus,,,,,,,,,yes,,57.662016799999996,12.0092939
+58,20058,Nacka sjukhus,,,,,,,,,yes,,59.3114132,18.1988271
+60,20060,Norra Älvsborgs Länssjukhus,,,,,,,,,yes,,58.3169157,12.259692999999999
+61,20061,Norrlands universitetssjukhus,,,,,,,,,yes,,63.8155225,20.3032206
+62,20062,Norrtälje Sjukhus,,,,,,,,,yes,,59.757127100000005,18.686066600000004
+63,20063,Nyköpings lasarett,,,,,,,,,yes,,58.7585969,16.9963229
+64,20064,Oskarshamns Sjukhus,,,,,,,,,yes,,57.262836,16.4231328
+65,20065,Piteå Älvdals Sjukhus,,,,,,,,,yes,,65.3136389,21.4927767
+71,20071,Sahlgrenska Universitetssjukhuset,,,,,,,,,yes,,57.683063600000004,11.955489199999999
+74,20074,Sankt Görans sjukhus,,,,,,,,,yes,,59.333684700000006,18.024499399999996
+76,20076,Sjukhuset Arvika,,,,,,,,,yes,,59.6663965,12.6133587
+78,20078,Skellefteå Lasarett,,,,,,,,,yes,,64.7547546,20.9460903
+79,20079,Skånes Universitetsjukhus Malmö,,,,,,,,,yes,,55.5920053,12.9982011
+80,20080,Sollefteå sjukhus,Lassarettsgatan,,,,,,,,yes,,63.1762201,17.2339234
+85,20085,Sunderby sjukhus,,,,,,,,,yes,,65.67205770000001,21.921573199999997
+86,20086,Södersjukhuset,,,,,,,,,yes,,59.3108115,18.052794100000003
+87,20087,Södertälje sjukhus,,,,,,,,,yes,,59.1999784,17.6335201
+89,20089,Torsby sjukhus,,,,,,,,,yes,,60.1372025,13.001383500000001
+91,20091,Universitetssjukhuset i Linköping,,,,,,,,,yes,,58.4002105,15.624518099999998
+92,20092,Universitetssjukhuset Örebro,Södra Grev Rosengatan,,,,,+46 19-6021000,,,yes,,59.2754291,15.2216943
+93,20093,Visby Lasarett,S:t Göransgatan,,,,,+46 498 269000,,,yes,,57.650211899999995,18.3009211
+94,20094,Värnamo sjukhus,,,,,,,,,yes,,57.1757549,14.0314829
+95,20095,Västerviks sjukhus,Östra Kyrkogatan,,,,,,,,yes,,57.7546007,16.6321999
+96,20096,Västerås Centrallasarett,,,,,,,,,yes,,59.6149082,16.5884702
+101,20101,Örnsköldsviks sjukhus,,,,,,,,,yes,,63.300530599999995,18.7075338
+102,20102,Östersunds sjukhus,,,,,,,,,yes,,63.1835873,14.632821900000001

@@ -1,0 +1,15 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,20000,Bolnica Dr. Petra Držaja,Vodnikova cesta,,,,,,,,yes,,46.067997,14.4868755
+20,20020,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje,,,,,+386 5 6606 299,,,yes,,45.5449708,13.685145499999999
+21,20021,Splošna Bolnišnica Slovenj Gradec,,,,,,,,,yes,,46.5092984,15.0812473
+27,20027,Splošna bolnišnica Murska Sobota,Ulica dr. Vrbnjaka,,,,,,,,yes,,46.64845820000001,16.1856969
+28,20028,Splošna bolnišnica dr. Jožeta Potrča Ptuj,,,,,,,,,yes,,46.427924700000005,15.875754999999998
+29,20029,Splošna bolnišnica »Dr. Franca Derganca« Nova Gorica,Ulica padlih borcev,,,,,,,,yes,,45.933011,13.639598999999999
+31,20031,Univerzitetni klinični center Ljubljana,Zaloška cesta,,,,,,,,yes,,46.0548693,14.520292600000001
+32,20032,Univerzitetni klinični center Maribor,Ljubljanska ulica,,,,,+386 2 321 10 00,,,yes,,46.5510318,15.6492422
+50,20050,Zdravstveni dom Domžale,Mestni trg,,,,,,,,yes,,46.1398576,14.5963693
+52,20052,Zdravstveni dom Izola,Ulica oktobrske revolucije,,,,,,,,yes,,45.5345953,13.660446300000002
+54,20054,Zdravstveni dom Kamnik,Novi trg,,,,,,,,yes,,46.221668799999996,14.613075699999998
+57,20057,Zdravstveni dom Krško,Cesta Krških žrtev,,,,,,,,yes,,45.94309129999999,15.4832334
+62,20062,Zdravstveni dom Metelkova,Metelkova ulica,,,,,,,,yes,,46.056852,14.515028599999999
+65,20065,Zdravstveni dom Vrhnika,,,,,,,,,yes,,45.9629571,14.2933391
