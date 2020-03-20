@@ -1,12 +1,4 @@
 STATE,ST,TIMEZONE,TZ
-"Bruxelles-Capitale, Région de",BRU,Central European Time,CET
-Antwerpen,VAN,Central European Time,CET
-Vlaams Brabant,VBR,Central European Time,CET
-Limburg,VLI,Central European Time,CET
-Oost-Vlaanderen,VOV,Central European Time,CET
-West-Vlaanderen,VWV,Central European Time,CET
-Brabant wallon,WBR,Central European Time,CET
-Hainaut,WHT,Central European Time,CET
-Liège,WLG,Central European Time,CET
-Luxembourg,WLX,Central European Time,CET
-Namur,WNA,Central European Time,CET
+Bruxelles-Capitale,BRU,Central European Time,CET
+Vlaanderen,VLG,Central European Time,CET
+Wallonie,WAL,Central European Time,CET
