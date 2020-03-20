@@ -1,11 +1,11 @@
 ,USPS,ST,NAME,ZCTA5,LAT,LON
-0,Attard,01,Attard,ATD,35.8917,14.4319
-1,Balzan,02,Balzan,BZN,35.8972,14.4528
+0,Attard,,Attard,ATD,35.8917,14.4319
+1,Balzan,,Balzan,BZN,35.8972,14.4528
 2,Il-Birgu,,Birgu,BRG,35.8861,14.5242
-3,Birkirkara,04,Birkirkara,BKR,35.8972,14.4653
+3,Birkirkara,,Birkirkara,BKR,35.8972,14.4653
 4,Birżebbuġa,,Birżebbuġa,BBG,35.8222,14.5228
-5,Bormla,06,Bormla,BML,35.8806,14.5217
-6,Dingli,07,Dingli,DGL,35.8597,14.3833
+5,Bormla,,Bormla,BML,35.8806,14.5217
+6,Dingli,,Dingli,DGL,35.8597,14.3833
 7,Il-Fgura,,Fgura,FGR,35.8728,14.5203
 8,Il-Furjana,,Floriana,FRN,35.8917,14.5042
 9,Il-Fontana,,Fontana,FNT,36.0375,14.2361
@@ -28,44 +28,44 @@
 26,Il-Kalkara,,Kalkara,KKR,35.8911,14.5328
 27,Il-Kalkara,,Smart City,SCM,35.8911,14.5328
 28,Ta’ Kerċem,,Kerċem,KCM,36.0439,14.2161
-29,Kirkop,23,Kirkop,KKP,35.8442,14.4842
-30,Lija,24,Lija,LJA,35.9014,14.4422
-31,Luqa,25,Luqa,LQA,35.8597,14.4833
+29,Kirkop,,Kirkop,KKP,35.8442,14.4842
+30,Lija,,Lija,LJA,35.9014,14.4422
+31,Luqa,,Luqa,LQA,35.8597,14.4833
 32,Il-Marsa,,Marsa,MRS,35.8764,14.4922
 33,Il-Marsa,,MaltaPost,MTP,35.8764,14.4922
-34,Marsaskala,27,Marsaskala,MSK,35.8606,14.5592
-35,Marsaxlokk,28,Marsaxlokk,MXK,35.8417,14.5514
+34,Marsaskala,,Marsaskala,MSK,35.8606,14.5592
+35,Marsaxlokk,,Marsaxlokk,MXK,35.8417,14.5514
 36,Il-Mellieħa,,Mellieħa,MLH,35.9583,14.3514
 37,Il-Mosta,,Mosta,MST,35.9125,14.4208
 38,Il-Munxar,,Munxar,MXR,36.0292,14.2256
 39,Il-Munxar,,Xlendi,XLN,36.0292,14.2256
 40,In-Nadur,,Nadur,NDR,36.0486,14.2944
 41,In-Naxxar,,Naxxar,NXR,35.9333,14.4375
-42,Paola,39,Paola,PLA,35.8736,14.5061
-43,Pembroke,40,Pembroke,PBK,35.9306,14.4764
+42,Paola,,Paola,PLA,35.8736,14.5061
+43,Pembroke,,Pembroke,PBK,35.9306,14.4764
 44,Tal-Pietà,,Pietà,PTA,35.8925,14.4939
 45,Il-Qala,,Qala,QLA,36.0375,14.3167
-46,Qormi,43,Qormi,QRM,35.8792,14.4667
+46,Qormi,,Qormi,QRM,35.8792,14.4667
 47,Il-Qrendi,,Qrendi,QRD,35.8319,14.4514
 48,Ir-Rabat,,Rabat,RBT,35.8826,14.3978
-49,Victoria,VIC,Victoria,VCT,36.0453,14.2417
-50,Safi,SAF,Safi,SFI,35.8347,14.4917
-51,Safi,47,Safi,SFI,35.8347,14.4917
-52,Saint John,04,San Ġwann,SGN,35.9089,14.475
-53,Saint John,05,San Ġwann,SGN,35.9089,14.475
-54,Saint John,05,San Ġwann,SGN,35.9089,14.475
-55,Saint John,04,San Ġwann,SGN,35.9089,14.475
-56,Saint John,49,San Ġwann,SGN,35.9089,14.475
-57,Saint Julian's,48,Saint Julians,STJ,35.9172,14.4894
-58,Saint Lawrence,50,San Lawrenz,SLZ,36.0486,14.1978
+49,Victoria,,Victoria,VCT,36.0453,14.2417
+50,Safi,,Safi,SFI,35.8347,14.4917
+51,Safi,,Safi,SFI,35.8347,14.4917
+52,Saint John,,San Ġwann,SGN,35.9089,14.475
+53,Saint John,,San Ġwann,SGN,35.9089,14.475
+54,Saint John,,San Ġwann,SGN,35.9089,14.475
+55,Saint John,,San Ġwann,SGN,35.9089,14.475
+56,Saint John,,San Ġwann,SGN,35.9089,14.475
+57,Saint Julian's,,Saint Julians,STJ,35.9172,14.4894
+58,Saint Lawrence,,San Lawrenz,SLZ,36.0486,14.1978
 59,Saint Lucia,,Santa Luċija,SLC,35.8617,14.5064
 60,Saint Paul’s Bay,,Saint Paul's Bay,SPB,35.9375,14.3986
 61,Saint Venera,,Santa Venera,SVR,35.8903,14.4778
-62,Sannat,52,Sannat,SNT,36.0231,14.2514
+62,Sannat,,Sannat,SNT,36.0231,14.2514
 63,Is-Siġġiewi,,Siġġiewi,SGW,35.8486,14.4264
 64,Tas-Sliema,,Sliema,SLM,35.9125,14.5022
 65,Is-Swieqi,,Swieqi,SWQ,35.9217,14.4694
-66,Tarxien,59,Tarxien,TXN,35.8667,14.5131
+66,Tarxien,,Tarxien,TXN,35.8667,14.5131
 67,Ta’ Xbiex,,Ta' Xbiex,XBX,35.8994,14.4961
 68,Il-Belt Valletta,,Valletta,VLT,35.8983,14.5125
 69,Ix-Xagħra,,Xagħra,XRA,36.0542,14.2667
