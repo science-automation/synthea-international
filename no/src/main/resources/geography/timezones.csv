@@ -1,23 +1,12 @@
 STATE,ST,TIMEZONE,TZ
-Østfold,01,Central European Time,CET
-Akershus,02,Central European Time,CET
-Oslo,03,Central European Time,CET
-Hedmark,04,Central European Time,CET
-Oppland,05,Central European Time,CET
-Buskerud,06,Central European Time,CET
-Vestfold,07,Central European Time,CET
-Telemark,08,Central European Time,CET
-Aust-Agder,09,Central European Time,CET
-Vest-Agder,10,Central European Time,CET
-Rogaland,11,Central European Time,CET
-Hordaland,12,Central European Time,CET
-Sogn og Fjordane,14,Central European Time,CET
-Møre og Romsdal,15,Central European Time,CET
-Nordland,18,Central European Time,CET
-Troms,19,Central European Time,CET
-Finnmark,20,Central European Time,CET
-"Svalbard (Arctic Region) (See
-also country code SJ)",21,Central European Time,CET
-"Jan Mayen (Arctic Region) (See
-also country code SJ)",22,Central European Time,CET
-Trøndelag,50,Central European Time,CET
+Møre og Romsdal,08,Central European Time,CET
+Nordland,09,Central European Time,CET
+Oslo County,12,Central European Time,CET
+Rogaland,14,Central European Time,CET
+Trøndelag,21,Central European Time,CET
+Viken,30,Central European Time,CET
+Innlandet,34,Central European Time,CET
+Vestfold og Telemark,38,Central European Time,CET
+Agder,42,Central European Time,CET
+Vestland,46,Central European Time,CET
+Troms og Finnmark,54,Central European Time,CET
