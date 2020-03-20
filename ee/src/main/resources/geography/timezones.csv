@@ -1,16 +1,16 @@
 STATE,ST,TIMEZONE,TZ
-Harjumaa,37,Eastern European Time,EET
-Hiiumaa,39,Eastern European Time,EET
-Ida-Virumaa,44,Eastern European Time,EET
-Jõgevamaa,49,Eastern European Time,EET
-Järvamaa,51,Eastern European Time,EET
-Läänemaa,57,Eastern European Time,EET
-Lääne-Virumaa,59,Eastern European Time,EET
-Põlvamaa,65,Eastern European Time,EET
-Pärnumaa,67,Eastern European Time,EET
-Raplamaa,70,Eastern European Time,EET
-Saaremaa,74,Eastern European Time,EET
-Tartumaa,78,Eastern European Time,EET
-Valgamaa,82,Eastern European Time,EET
-Viljandimaa,84,Eastern European Time,EET
-Võrumaa,86,Eastern European Time,EET
+Harju maakond,01,Eastern European Time,EET
+Hiiu maakond,02,Eastern European Time,EET
+Ida-Viru maakond,03,Eastern European Time,EET
+Järva maakond,04,Eastern European Time,EET
+Jõgeva maakond,05,Eastern European Time,EET
+Lääne maakond,07,Eastern European Time,EET
+Lääne-Viru maakond,08,Eastern European Time,EET
+Pärnu maakond,11,Eastern European Time,EET
+Põlva maakond,12,Eastern European Time,EET
+Rapla maakond,13,Eastern European Time,EET
+Saare maakond,14,Eastern European Time,EET
+Tartu maakond,18,Eastern European Time,EET
+Valga maakond,19,Eastern European Time,EET
+Viljandi maakond,20,Eastern European Time,EET
+Võru maakond,21,Eastern European Time,EET
