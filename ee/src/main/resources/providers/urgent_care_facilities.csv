@@ -1,7 +1,7 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-2,20002,Hiiumaa Haigla,Rahu,,,,,,,,yes,,58.999592500000006,22.7548126
-3,20003,Ida-Tallinna Keskhaigla,Ravi,,,,,,,,yes,,59.428032200000004,24.755287699999997
-20,20020,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee,,,,,+372 617 1300,,,yes,,59.399837,24.702112
-26,20026,Rapla Haigla,Alu tee,,,,,,,,yes,,59.0074186,24.7928732
-27,20027,Tallinna Lastehaigla,Tervise,,,,,,,,yes,,59.39865989999999,24.7055012
-29,20029,Tartu Ülikooli Kliinikum,Ludvig Puusepa,,,,,,,,yes,,58.370266799999996,26.697912
+2,20002,Hiiumaa Haigla,Rahu 2,Hiiumaa vald,,,,,,,Yes,,58.9995925,22.7548126
+3,20003,Ida-Tallinna Keskhaigla,Ravi 18,Tallinn,,,,,,,Yes,,59.4280322,24.7552877
+20,20020,Põhja-Eesti Regionaalhaigla,Juhan Sütiste tee 19,Tallinn,,,,+372 617 1300,,,Yes,,59.399837,24.702112
+26,20026,Rapla Haigla,Alu tee 1,Rapla,,,,,,,Yes,,59.0074186,24.7928732
+27,20027,Tallinna Lastehaigla,Tervise 28,Tallinn,,,,,,,Yes,,59.3986599,24.7055012
+29,20029,Tartu Ülikooli Kliinikum,Ludvig Puusepa 8,Tartu,,,,,,,Yes,,58.3702668,26.697912

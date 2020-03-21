@@ -1,25 +1,25 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,20000,Ambulance,Istočna gomilica,,,,,,,,yes,,43.799743,15.642435800000001
-11,20011,Bolnica Sinj,Put Ruduše,,,,,,,,yes,,43.6997894,16.632329199999997
-12,20012,Bolnica za ortopediju i rehabilitaciju Prim. dr. Martin Horvat,Ulica Luigija Montija,,,,,,,,yes,,45.0981516,13.635620600000001
-15,20015,Dječja bolnica Kantrida,Istarska ulica,,,,,,,,yes,,45.3423575,14.3661869
-24,20024,Dom zdravlja Daruvar,,,,,,,,,yes,,45.59014570000001,17.2243599
-25,20025,Dom zdravlja Dugo Selo,,,,,,,,,yes,,45.8068975,16.236782
-30,20030,Dom zdravlja Osijek,Park kralja Petra Krešimira IV,,,,,,,,yes,,45.5594183,18.6902161
-33,20033,Dom zdravlja Slavonski Brod,Borovska,,,,,,,,yes,,45.159457,18.005999300000003
-34,20034,Dom zdravlja Slunj,Plitvička ulica,,,,,,,,yes,,45.112388700000004,15.583005800000002
-37,20037,Dom zdravlja Županja,Ulica dr. Franje Račkog,,,,,,,,yes,,45.0739739,18.7002599
-40,20040,KBC Rijeka,Krešimirova ulica,,,,,,,,yes,,45.330929499999996,14.428784
-43,20043,Klinika za dječje bolesti,Ulica Vjekoslava Klaića,,,,,01/4600-111,,,yes,,45.809251700000004,15.9643516
-47,20047,Klinika za traumatologiju,Ulica Janka Draškovića,,,,,+385 1 4697 000,,,yes,,45.8099031,15.9838758
-50,20050,Klinička bolnica Dubrava,,,,,,,,,yes,,45.831347799999996,16.034434599999997
-52,20052,Klinička bolnica Sveti Duh,,,,,,,,,yes,,45.8201508,15.938145
-53,20053,Klinički bolnički centar Sestre milosrdnice,Vinogradska cesta,,,,,+385 1 3787 111,,,yes,,45.8161275,15.953517600000001
-60,20060,"Opća bolnica ""Dr. Josip Benčević""",,,,,,,,,yes,,45.1545555,18.026946300000002
-63,20063,Opća bolnica Dr. Tomislav Bardek,Dr. Željka Selingera,,,,,+38548251000,,,yes,,46.1632187,16.836805
-64,20064,Opća bolnica Dubrovnik,Dr. Roka Mišetića,,,,,,,,yes,,42.649037799999995,18.076684399999998
-69,20069,Opća bolnica Varaždin,Ulica Ivana Meštrovića,,,,,,,,yes,,46.3015338,16.3249182
-74,20074,Opća županijska bolnica Pakrac,Bolnička,,,,,,,,yes,,45.4308902,17.1887587
-79,20079,Rebro,,,,,,,,,yes,,45.824852899999996,16.0032701
-81,20081,Specijalna bolnica za kronične bolesti dječje dobi,Bolnička ulica,,,,,01/3391-111,,,yes,,45.9168105,15.9040805
-90,20090,Županijska bolnica Čakovec,Ivana Gorana Kovačića,,,,,,,,yes,,46.3942602,16.4320657
+0,20000,Ambulance,Istočna gomilica 2,Tisno,,,,,,,Yes,,43.799743,15.6424358
+11,20011,Bolnica Sinj,Put Ruduše 26,Sinj,,,,,,,Yes,,43.6997894,16.6323292
+12,20012,Bolnica za ortopediju i rehabilitaciju Prim. dr. Martin Horvat,Ulica Luigija Montija nan,Rovinj,,,,,,,Yes,,45.0981516,13.6356206
+15,20015,Dječja bolnica Kantrida,Istarska ulica 43,Rijeka,,,,,,,Yes,,45.3423575,14.3661869
+24,20024,Dom zdravlja Daruvar,nan nan,Daruvar,,,,,,,Yes,,45.5901457,17.2243599
+25,20025,Dom zdravlja Dugo Selo,nan nan,Dugo Selo,,,,,,,Yes,,45.8068975,16.236782
+30,20030,Dom zdravlja Osijek,Park kralja Petra Krešimira IV 6,Osijek,,,,,,,Yes,,45.5594183,18.6902161
+33,20033,Dom zdravlja Slavonski Brod,Borovska 7,Slavonski Brod,,,,,,,Yes,,45.159457,18.0059993
+34,20034,Dom zdravlja Slunj,Plitvička ulica 18a,Slunj,,,,,,,Yes,,45.1123887,15.5830058
+37,20037,Dom zdravlja Županja,Ulica dr. Franje Račkog 32,Županja,,,,,,,Yes,,45.0739739,18.7002599
+40,20040,KBC Rijeka,Krešimirova ulica 42,Rijeka,,,,,,,Yes,,45.3309295,14.428784
+43,20043,Klinika za dječje bolesti,Ulica Vjekoslava Klaića 16,Zagreb,,,,01/4600-111,,,Yes,,45.8092517,15.9643516
+47,20047,Klinika za traumatologiju,Ulica Janka Draškovića 19,Zagreb,,,,+385 1 4697 000,,,Yes,,45.8099031,15.9838758
+50,20050,Klinička bolnica Dubrava,nan nan,Zagreb,,,,,,,Yes,,45.8313478,16.0344346
+52,20052,Klinička bolnica Sveti Duh,nan nan,Zagreb,,,,,,,Yes,,45.8201508,15.938145
+53,20053,Klinički bolnički centar Sestre milosrdnice,Vinogradska cesta 29,Zagreb,,,,+385 1 3787 111,,,Yes,,45.8161275,15.9535176
+60,20060,"Opća bolnica ""Dr. Josip Benčević""",nan nan,Slavonski Brod,,,,,,,Yes,,45.1545555,18.0269463
+63,20063,Opća bolnica Dr. Tomislav Bardek,Dr. Željka Selingera bb,Koprivnica,,,,+38548251000,,,Yes,,46.1632187,16.836805
+64,20064,Opća bolnica Dubrovnik,Dr. Roka Mišetića 2,Dubrovnik,,,,,,,Yes,,42.6490378,18.0766844
+69,20069,Opća bolnica Varaždin,Ulica Ivana Meštrovića 1,Varaždin,,,,,,,Yes,,46.3015338,16.3249182
+74,20074,Opća županijska bolnica Pakrac,Bolnička nan,Pakrac,,,,,,,Yes,,45.4308902,17.1887587
+79,20079,Rebro,nan nan,Zagreb,,,,,,,Yes,,45.8248529,16.0032701
+81,20081,Specijalna bolnica za kronične bolesti dječje dobi,Bolnička ulica 21,Bistra,,,,01/3391-111,,,Yes,,45.9168105,15.9040805
+90,20090,Županijska bolnica Čakovec,Ivana Gorana Kovačića 1E,Čakovec,,,,,,,Yes,,46.3942602,16.4320657

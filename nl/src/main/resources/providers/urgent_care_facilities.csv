@@ -1,41 +1,41 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,20000,ADRZ,,,,,,+31 88 1250000,,,yes,,51.4844179,3.9076052000000003
-2,20002,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",,,,,,(078) 654 11 11,,,yes,,51.7912601,4.6794905
-9,20009,Amsterdam UMC locatie AMC,Meibergdreef,,,,,,,,yes,,52.293864899999996,4.9497018
-15,20015,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos,,,,,+31243657657,,,yes,,51.8186865,5.832653400000001
-16,20016,Catharina Ziekenhuis,Michelangelolaan,,,,,,,,yes,,51.4644195,5.4694144
-18,20018,Curaçao Medical Center,J. H. J. Hamelbergweg,,,,,+599 9 745 0000,,,yes,,12.110434,-68.9426995
-21,20021,Deventer Ziekenhuis,Nico Bolkesteinlaan,,,,,+570 53 53 53,,,yes,,52.2627765,6.1893769999999995
-22,20022,Dijklander Ziekenhuis,Maelsonstraat,,,,,,,,yes,,52.647181200000006,5.0552318
-24,20024,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard,,,,,+297 527 4000,,,yes,,12.5432798,-70.0602569
-26,20026,ETZ Elisabeth ziekenhuis,,,,,,,,,yes,,51.540021,5.101123
-29,20029,Erasmus Medisch Centrum,Dokter Molewaterplein,,,,,+31 107040704,,,yes,,51.9121723,4.466856900000001
-30,20030,Flevoziekenhuis,,,,,,,,,yes,,52.3681365,5.2228711
-31,20031,Fundashon Mariadal,Kaya Soeur Bartola,,,,,,,,yes,,12.154662199999999,-68.2749353
-40,20040,HMC Bronovo,Bronovolaan,,,,,070-3124141,,,yes,,52.101386299999994,4.318327200000001
-41,20041,HMC Westeinde,Lijnbaan,,,,,,,,yes,,52.07451270000001,4.2986074
-42,20042,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein,,,,,070 210 0000,,,yes,,52.0568138,4.2620612
-45,20045,Huisartsenpost Zevenaar,,,,,,0900-1598,,,yes,,51.9430275,6.0696315
-49,20049,Isala,Dokter van Heesweg,,,,,+3138424500,,,yes,,52.5137535,6.1205668
-50,20050,Isala Diaconessenhuis,,,,,,,,,yes,,52.69135550000001,6.214955000000001
-52,20052,Leids Universitair Medisch Centrum,Albinusdreef,,,,,+31 71 5269111,,,yes,,52.16708010000001,4.4744932
-58,20058,Maasstad Ziekenhuis,Maasstadweg,,,,,,,,yes,,51.877952,4.5350041
-61,20061,Martini Ziekenhuis,Van Swietenplein,,,,,+31 050 524 5245,,,yes,,53.191022,6.5486747
-62,20062,Medisch Centrum Leeuwarden,,,,,,+31 58 2866666,,,yes,,53.190202899999996,5.8004441
-64,20064,Medisch Spectrum Twente,Koningsplein,,,,,+3153 487 2000,,,yes,,52.217195700000005,6.8904235
-66,20066,Nij Smellinghe,,,,,,,,,yes,,53.0980406,6.1094675
-68,20068,Noordwest Ziekenhuisgroep,Huisduinerweg,,,,,,,,yes,,52.9585218,4.7448203
-69,20069,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan,,,,,,,,yes,,52.6264921,4.7347704
-82,20082,Reinier de Graaf Gasthuis,Reinier de Graafweg,,,,,+31 15 2603060,,,yes,,51.9983595,4.339429
-84,20084,Rijnstate Arnhem,Wagnerlaan,,,,,+3188 055 8888,,,yes,,52.001929100000005,5.907910500000001
-86,20086,Rode Kruis Ziekenhuis,,,,,,,,,yes,,52.478673,4.651764099999999
-87,20087,Röpcke-Zweers Ziekenhuis,,,,,,,,,yes,,52.5740127,6.6315538
-93,20093,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan,,,,,+31 23 5453545,,,yes,,52.3674422,4.6488860999999995
-95,20095,Spaarne Gasthuis Hoofddorp,Spaarnepoort,,,,,+31 23 8908900,,,yes,,52.323922700000004,4.6496544
-96,20096,St Antonius Ziekenhuis,,,,,,088-3203000,,,yes,,52.1045929,5.0558132
-99,20099,Treant Scheper,Boermarkeweg,,,,,+31591691911,,,yes,,52.787265000000005,6.9106726
-100,20100,Universitair Medisch Centrum Groningen,Hanzeplein,,,,,+315 0361 61 61,,,yes,,53.220414,6.5756466
-101,20101,Universitair Medisch Centrum Utrecht,Heidelberglaan,,,,,+31887555555,,,yes,,52.0878653,5.1781958
-103,20103,VieCuri,,,,,,,,,yes,,51.3551561,6.1521764
-108,20108,ZorgSaam Ziekenhuis - De Honte,,,,,,,,,yes,,51.3087402,3.8572841
-111,20111,Zuyderland,,,,,,,,,yes,,50.983434100000004,5.8424624000000005
+0,20000,ADRZ,nan nan,,,,,+31 88 1250000,,,Yes,,51.4844179,3.9076052
+2,20002,"Albert Schweitzer Ziekenhuis, loc. Dordwijk",nan nan,Dordrecht,Dordrecht,3311 JA,,(078) 654 11 11,,,Yes,,51.7912601,4.6794905
+9,20009,Amsterdam UMC locatie AMC,Meibergdreef 9,Amsterdam,Amsterdam,1102,,,,,Yes,,52.2938649,4.9497018
+15,20015,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos 100,Nijmegen,Nijmegen,6532,,+31243657657,,,Yes,,51.8186865,5.8326534
+16,20016,Catharina Ziekenhuis,Michelangelolaan 2,Eindhoven,Eindhoven,5623 BA,,,,,Yes,,51.4644195,5.4694144
+18,20018,Curaçao Medical Center,J. H. J. Hamelbergweg nan,Curacao,,,,+599 9 745 0000,,,Yes,,12.110434,-68.9426995
+21,20021,Deventer Ziekenhuis,Nico Bolkesteinlaan 75,,,,,+570 53 53 53,,,Yes,,52.2627765,6.189377
+22,20022,Dijklander Ziekenhuis,Maelsonstraat 3,Hoorn,Hoorn,1621 JX,,,,,Yes,,52.6471812,5.0552318
+24,20024,Dr. Horacio Oduber Hospital,Dr Horacio Oduber Boulevard 1,,,,,+297 527 4000,,,Yes,,12.5432798,-70.0602569
+26,20026,ETZ Elisabeth ziekenhuis,nan nan,Tilburg,Tilburg,5018,,,,,Yes,,51.540021,5.101123
+29,20029,Erasmus Medisch Centrum,Dokter Molewaterplein 40,Rotterdam,Rotterdam,3012 VA,,+31 107040704,,,Yes,,51.9121723,4.4668569
+30,20030,Flevoziekenhuis,nan nan,Almere-Stad,Almere,1315,,,,,Yes,,52.3681365,5.2228711
+31,20031,Fundashon Mariadal,Kaya Soeur Bartola nan,Bonaire,,,,,,,Yes,,12.1546622,-68.2749353
+40,20040,HMC Bronovo,Bronovolaan 5,Den Haag,Den Haag,2596,,070-3124141,,,Yes,,52.1013863,4.3183272
+41,20041,HMC Westeinde,Lijnbaan 32,Den Haag,Den Haag,2511 AH,,,,,Yes,,52.0745127,4.2986074
+42,20042,HagaZiekenhuis locatie Leyweg,Els Borst-Eilersplein 275,Den Haag,Den Haag,2547 LE,,070 210 0000,,,Yes,,52.0568138,4.2620612
+45,20045,Huisartsenpost Zevenaar,nan nan,Zevenaar,Zevenaar,6901 HK,,0900-1598,,,Yes,,51.9430275,6.0696315
+49,20049,Isala,Dokter van Heesweg 2,Zwolle,Zwolle,8021 DB,,+3138424500,,,Yes,,52.5137535,6.1205668
+50,20050,Isala Diaconessenhuis,nan nan,Meppel,Meppel,7941 LT,,,,,Yes,,52.6913555,6.214955
+52,20052,Leids Universitair Medisch Centrum,Albinusdreef 2,Leiden,Leiden,2333,,+31 71 5269111,,,Yes,,52.1670801,4.4744932
+58,20058,Maasstad Ziekenhuis,Maasstadweg 21,Rotterdam,Rotterdam,3078,,,,,Yes,,51.877952,4.5350041
+61,20061,Martini Ziekenhuis,Van Swietenplein 1,Groningen,Groningen,9728 LV,,+31 050 524 5245,,,Yes,,53.191022,6.5486747
+62,20062,Medisch Centrum Leeuwarden,nan nan,Leeuwarden,Leeuwarden,8911,,+31 58 2866666,,,Yes,,53.1902029,5.8004441
+64,20064,Medisch Spectrum Twente,Koningsplein 1,Enschede,Enschede,7514,,+3153 487 2000,,,Yes,,52.2171957,6.8904235
+66,20066,Nij Smellinghe,nan nan,,,,,,,,Yes,,53.0980406,6.1094675
+68,20068,Noordwest Ziekenhuisgroep,Huisduinerweg 5,,,,,,,,Yes,,52.9585218,4.7448203
+69,20069,Noordwest Ziekenhuisgroep locatie Alkmaar,Wilhelminalaan 131,Alkmaar,Alkmaar,1811,,,,,Yes,,52.6264921,4.7347704
+82,20082,Reinier de Graaf Gasthuis,Reinier de Graafweg 5,Delft,Delft,2611 RV,,+31 15 2603060,,,Yes,,51.9983595,4.339429
+84,20084,Rijnstate Arnhem,Wagnerlaan 55,Arnhem,Arnhem,6811 JE,,+3188 055 8888,,,Yes,,52.0019291,5.9079105
+86,20086,Rode Kruis Ziekenhuis,nan nan,Beverwijk,Beverwijk,1941 HB,,,,,Yes,,52.478673,4.6517641
+87,20087,Röpcke-Zweers Ziekenhuis,nan nan,Hardenberg,Hardenberg,7772 CE,,,,,Yes,,52.5740127,6.6315538
+93,20093,Spaarne Gasthuis Haarlem-Zuid,Boerhaavelaan 22,Haarlem,Haarlem,2037,,+31 23 5453545,,,Yes,,52.3674422,4.6488861
+95,20095,Spaarne Gasthuis Hoofddorp,Spaarnepoort 1,Hoofddorp,Haarlemmermeer,2132,,+31 23 8908900,,,Yes,,52.3239227,4.6496544
+96,20096,St Antonius Ziekenhuis,nan nan,Utrecht,Utrecht,3543 AB,,088-3203000,,,Yes,,52.1045929,5.0558132
+99,20099,Treant Scheper,Boermarkeweg nan,Emmen,Emmen,7811,,+31591691911,,,Yes,,52.787265,6.9106726
+100,20100,Universitair Medisch Centrum Groningen,Hanzeplein 1,Groningen,Groningen,9711 KW,,+315 0361 61 61,,,Yes,,53.220414,6.5756466
+101,20101,Universitair Medisch Centrum Utrecht,Heidelberglaan 100,Utrecht,Utrecht,3584,,+31887555555,,,Yes,,52.0878653,5.1781958
+103,20103,VieCuri,nan nan,Venlo,Venlo,5911 GG,,,,,Yes,,51.3551561,6.1521764
+108,20108,ZorgSaam Ziekenhuis - De Honte,nan nan,Terneuzen,Terneuzen,4531 EB,,,,,Yes,,51.3087402,3.8572841
+111,20111,Zuyderland,nan nan,,,,,,,,Yes,,50.9834341,5.8424624

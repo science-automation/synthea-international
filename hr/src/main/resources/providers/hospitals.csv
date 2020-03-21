@@ -1,92 +1,92 @@
 ,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
-0,10000,Ambulance,Istočna gomilica,,,,,,,,yes,,43.799743,15.642435800000001
-1,10001,Ambulanta,,,,,,,,,,,42.9497015,17.1360949
-2,10002,Ambulanta,,,,,,,,,,,45.1926141,18.836997
-3,10003,Ambulanta,,,,,,,,,,,43.01719779999999,17.558709699999998
-4,10004,Ambulanta Bregana,,,,,,,,,,,45.837928399999996,15.688147
-5,10005,Ambulanta Hlebine,Bana Josipa Jelačića,,,,,+385 048 836 020,,,no,,46.1558381,16.9625699
-6,10006,Ambulanta Kukljica,,,,,,,,,,,44.0335293,15.2459486
-7,10007,Ambulanta Omišalj Dina,,,,,,,,,no,,45.1951609,14.558880199999999
-8,10008,Ambulanta Rakitje,,,,,,,,,no,,45.7989907,15.8141299
-9,10009,Bolnica Dubovac,Vladka Mačeka,,,,,,,,,,45.49190120000001,15.5412476
-10,10010,Bolnica Lipik,,,,,,,,,,,45.4142119,17.1613121
-11,10011,Bolnica Sinj,Put Ruduše,,,,,,,,yes,,43.6997894,16.632329199999997
-12,10012,Bolnica za ortopediju i rehabilitaciju Prim. dr. Martin Horvat,Ulica Luigija Montija,,,,,,,,yes,,45.0981516,13.635620600000001
-13,10013,Bolnica Švarča,,,,,,,,,,,45.4775616,15.5397013
-14,10014,Borovje,Zdeslava Turića,,,,,,,,no,,45.7884165,16.0091076
-15,10015,Dječja bolnica Kantrida,Istarska ulica,,,,,,,,yes,,45.3423575,14.3661869
-16,10016,Dječja bolnica Srebrnjak,,,,,,,,,,,45.8252371,15.9929114
-17,10017,Dom Zdravlja,Dr. Ante Starčevića,,,,,,,,,,42.6476032,18.0936937
-18,10018,Dom Zdravlja,,,,,,,,,,,45.763420200000006,18.1640176
-19,10019,Dom Zdravlja Buje - Ambulatorio Medico Buie,,,,,,,,,no,,45.4077391,13.661074
-20,10020,Dom za psihički bolesne odrasle osobe,,,,,,,,,,,46.1215726,16.067026600000002
-21,10021,Dom zdravlja,Kaštelanska,,,,,,,,,,45.547288200000004,18.7121001
-22,10022,Dom zdravlja,,,,,,,,,,,45.2692773,16.9075614
-23,10023,Dom zdravlja,,,,,,,,,,,45.5474653,18.7128297
-24,10024,Dom zdravlja Daruvar,,,,,,,,,yes,,45.59014570000001,17.2243599
-25,10025,Dom zdravlja Dugo Selo,,,,,,,,,yes,,45.8068975,16.236782
-26,10026,Dom zdravlja Glina,,,,,,,,,,,45.333692799999994,16.084778
-27,10027,Dom zdravlja Gunja,,,,,,,,,,,44.8844701,18.8396015
-28,10028,Dom zdravlja Labin,,,,,,,,,,,45.100683399999994,14.118485999999999
-29,10029,Dom zdravlja Metković,,,,,,,,,,,43.0538695,17.6470336
-30,10030,Dom zdravlja Osijek,Park kralja Petra Krešimira IV,,,,,,,,yes,,45.5594183,18.6902161
-31,10031,Dom zdravlja Popovača,,,,,,,,,,,45.5698848,16.626575199999998
-32,10032,Dom zdravlja Retfala,,,,,,,,,,,45.5638422,18.6528335
-33,10033,Dom zdravlja Slavonski Brod,Borovska,,,,,,,,yes,,45.159457,18.005999300000003
-34,10034,Dom zdravlja Slunj,Plitvička ulica,,,,,,,,yes,,45.112388700000004,15.583005800000002
-35,10035,Dom zdravlja Vinkovci,,,,,,,,,,,45.2925039,18.8167723
-36,10036,Dom zdravlja Zagreb - istok,Grižanska ulica,,,,,,,,,,45.8307401,16.052177
-37,10037,Dom zdravlja Županja,Ulica dr. Franje Račkog,,,,,,,,yes,,45.0739739,18.7002599
-38,10038,Hitna pomoć,,,,,,,,,,,45.661168200000006,18.416743
-39,10039,Jordanovac,Jordanovac,,,,,,,,,,45.82586,16.0020822
-40,10040,KBC Rijeka,Krešimirova ulica,,,,,,,,yes,,45.330929499999996,14.428784
-41,10041,KBC Split - Firule,,,,,,,,,,,43.5050658,16.459549900000003
-42,10042,KBC Split - Križine,Šoltanska,,,,,,,,,,43.506665000000005,16.4675765
-43,10043,Klinika za dječje bolesti,Ulica Vjekoslava Klaića,,,,,01/4600-111,,,yes,,45.809251700000004,15.9643516
-44,10044,Klinika za infektivne bolesti Dr. Fran Mihaljević,,,,,,,,,,,45.8292179,15.980128500000001
-45,10045,Klinika za ortopediju Lovran,,,,,,,,,,,45.299496399999995,14.277623499999999
-46,10046,Klinika za psihijatriju Vrapče,Bolnička cesta,,,,,+385 1 3780 666,,,,,45.8152381,15.894894699999998
-47,10047,Klinika za traumatologiju,Ulica Janka Draškovića,,,,,+385 1 4697 000,,,yes,,45.8099031,15.9838758
-48,10048,Klinika za tumore,Ilica,,,,,,,,,,45.813004299999996,15.9439086
-49,10049,Klinika za ženske bolesti i porode,,,,,,,,,,,45.8163585,15.9917497
-50,10050,Klinička bolnica Dubrava,,,,,,,,,yes,,45.831347799999996,16.034434599999997
-51,10051,Klinička bolnica Merkur,,,,,,,,,,,45.8210226,15.9980024
-52,10052,Klinička bolnica Sveti Duh,,,,,,,,,yes,,45.8201508,15.938145
-53,10053,Klinički bolnički centar Sestre milosrdnice,Vinogradska cesta,,,,,+385 1 3787 111,,,yes,,45.8161275,15.953517600000001
-54,10054,Klinički bolnički centar Šalata,,,,,,,,,no,,45.8179458,15.9824994
-55,10055,Kliničko bolnički centar Osijek,,,,,,,,,,,45.5584046,18.710874800000003
-56,10056,Kljake,,,,,,,,,no,,43.792804,16.3108375
-57,10057,Neuropsihijatrijska bolnica dr. Ivan Barbot,,,,,,,,,,,45.57657329999999,16.6379597
-58,10058,OB Gospić,,,,,,,,,,,44.5439948,15.3619315
-59,10059,Odjel za fizikalnu medicinu i rehabilitaciju,,,,,,,,,,,45.491528,16.3844493
-60,10060,"Opća bolnica ""Dr. Josip Benčević""",,,,,,,,,yes,,45.1545555,18.026946300000002
-61,10061,Opća bolnica ''Dr. Ivo Pedišić'',,,,,,,,,,,45.4775055,16.3699752
-62,10062,Opća bolnica Bjelovar,,,,,,,,,,,45.90236779999999,16.8480447
-63,10063,Opća bolnica Dr. Tomislav Bardek,Dr. Željka Selingera,,,,,+38548251000,,,yes,,46.1632187,16.836805
-64,10064,Opća bolnica Dubrovnik,Dr. Roka Mišetića,,,,,,,,yes,,42.649037799999995,18.076684399999998
-65,10065,Opća bolnica Hrvatski ponos,Ulica kralja Svetoslava Suronje;KRALJA SVETOSLAVA SURONJE 12,,,,,,,,no,,44.05241289999999,16.2148101
-66,10066,Opća bolnica Nova Gradiška,Ulica Josipa Jurja Strossmayera,,,,,035/217-900,,,no,,45.260626,17.3892436
-67,10067,Opća bolnica Pula,,,,,,,,,,,44.8681513,13.853581
-68,10068,"Opća bolnica Pula, Negrijeva",,,,,,,,,,,44.8610455,13.8344339
-69,10069,Opća bolnica Varaždin,Ulica Ivana Meštrovića,,,,,,,,yes,,46.3015338,16.3249182
-70,10070,Opća bolnica Virovitica,,,,,,,,,,,45.829114000000004,17.387482100000003
-71,10071,Opća bolnica Zabok,Bračak,,,,,049/204-000,,,,,46.0164309,15.939512099999998
-72,10072,Opća bolnica Zadar,,,,,,,,,,,44.1082975,15.232363399999999
-73,10073,Opća bolnica Šibenik,,,,,,,,,,,43.7328695,15.898700199999999
-74,10074,Opća županijska bolnica Pakrac,Bolnička,,,,,,,,yes,,45.4308902,17.1887587
-75,10075,Opća županijska bolnica Požega,Osječka ulica,,,,,+385 34 254 555,,,,,45.3444037,17.698007399999998
-76,10076,Opća županijska bolnica Vukovar,,,,,,,,,,,45.358281899999994,18.9930674
-77,10077,Psihijatrijska bolnica Rab,,,,,,,,,,,44.7805069,14.719100199999998
-78,10078,Psihijatrijska bolnica Ugljan,,,,,,,,,,,44.1127479,15.099885999999998
-79,10079,Rebro,,,,,,,,,yes,,45.824852899999996,16.0032701
-80,10080,Specijalna bolnica za kožna i reumatska oboljenja,,,,,,,,,,,45.706095399999995,16.385677100000002
-81,10081,Specijalna bolnica za kronične bolesti dječje dobi,Bolnička ulica,,,,,01/3391-111,,,yes,,45.9168105,15.9040805
-82,10082,Specijalna bolnica za medicinsku rehabilitaciju Kalos,,,,,,,,,,,42.9684115,16.712724800000004
-83,10083,Specijalna bolnica za medicinsku rehabilitaciju Krapinske Toplice,Ulica Ljudevita Gaja,,,,,+385 49 383 100,,,,,46.0950061,15.8370606
-84,10084,Specijalna bolnica za medicinsku rehabilitaciju Stubičke Toplice,Park Matije Gupca,,,,,+385 49 201 000,,,,,45.977480299999996,15.933928699999997
-85,10085,Specijalna bolnica za ortopediju,,,,,,,,,,,43.9484945,15.4469084
-86,10086,Specijalna bolnica za rehabilitaciju Bizovac,,,,,,,,,,,45.5836349,18.4608802
-87,10087,Sušačka bolnica,Tome Strižića,,,,,,,,,,45.326464200000004,14.469960999999998
-88,10088,Vuk Vrhovac,Dugi dol,,,,,+385 1 2353 800,,,,,45.820262899999996,15.996786499999999
-89,10089,dom zdravlja Brckovljani,,,,,,,,,no,,45.8228724,16.2898868
-90,10090,Županijska bolnica Čakovec,Ivana Gorana Kovačića,,,,,,,,yes,,46.3942602,16.4320657
+0,10000,Ambulance,Istočna gomilica 2,Tisno,,,,,,,Yes,,43.799743,15.6424358
+1,10001,Ambulanta,nan nan,Korčula,,,,,,,,,42.9497015,17.1360949
+2,10002,Ambulanta,nan nan,Privlaka,,,,,,,,,45.1926141,18.836997
+3,10003,Ambulanta,nan nan,Opuzen,,,,,,,,,43.0171978,17.5587097
+4,10004,Ambulanta Bregana,nan nan,Samobor,,,,,,,,,45.8379284,15.688147
+5,10005,Ambulanta Hlebine,Bana Josipa Jelačića 93B,Hlebine,,,,+385 048 836 020,,,No,,46.1558381,16.9625699
+6,10006,Ambulanta Kukljica,nan nan,Kukljica,,,,,,,,,44.0335293,15.2459486
+7,10007,Ambulanta Omišalj Dina,nan nan,Omišalj,,,,,,,No,,45.1951609,14.5588802
+8,10008,Ambulanta Rakitje,nan nan,Sveta Nedelja,,,,,,,No,,45.7989907,15.8141299
+9,10009,Bolnica Dubovac,Vladka Mačeka 48,Karlovac,,,,,,,,,45.4919012,15.5412476
+10,10010,Bolnica Lipik,nan nan,Lipik,,,,,,,,,45.4142119,17.1613121
+11,10011,Bolnica Sinj,Put Ruduše 26,Sinj,,,,,,,Yes,,43.6997894,16.6323292
+12,10012,Bolnica za ortopediju i rehabilitaciju Prim. dr. Martin Horvat,Ulica Luigija Montija nan,Rovinj,,,,,,,Yes,,45.0981516,13.6356206
+13,10013,Bolnica Švarča,nan nan,Karlovac,,,,,,,,,45.4775616,15.5397013
+14,10014,Borovje,Zdeslava Turića 1,Zagreb,,,,,,,No,,45.7884165,16.0091076
+15,10015,Dječja bolnica Kantrida,Istarska ulica 43,Rijeka,,,,,,,Yes,,45.3423575,14.3661869
+16,10016,Dječja bolnica Srebrnjak,nan nan,Zagreb,,,,,,,,,45.8252371,15.9929114
+17,10017,Dom Zdravlja,Dr. Ante Starčevića 1,Dubrovnik,,,,,,,,,42.6476032,18.0936937
+18,10018,Dom Zdravlja,nan nan,Donji Miholjac,,,,,,,,,45.7634202,18.1640176
+19,10019,Dom Zdravlja Buje - Ambulatorio Medico Buie,nan nan,Buje,,,,,,,No,,45.4077391,13.661074
+20,10020,Dom za psihički bolesne odrasle osobe,nan nan,Lobor,,,,,,,,,46.1215726,16.0670266
+21,10021,Dom zdravlja,Kaštelanska 32,Osijek,,,,,,,,,45.5472882,18.7121001
+22,10022,Dom zdravlja,nan nan,Jasenovac,,,,,,,,,45.2692773,16.9075614
+23,10023,Dom zdravlja,nan nan,Osijek,,,,,,,,,45.5474653,18.7128297
+24,10024,Dom zdravlja Daruvar,nan nan,Daruvar,,,,,,,Yes,,45.5901457,17.2243599
+25,10025,Dom zdravlja Dugo Selo,nan nan,Dugo Selo,,,,,,,Yes,,45.8068975,16.236782
+26,10026,Dom zdravlja Glina,nan nan,Glina,,,,,,,,,45.3336928,16.084778
+27,10027,Dom zdravlja Gunja,nan nan,Gunja,,,,,,,,,44.8844701,18.8396015
+28,10028,Dom zdravlja Labin,nan nan,Labin,,,,,,,,,45.1006834,14.118486
+29,10029,Dom zdravlja Metković,nan nan,Metković,,,,,,,,,43.0538695,17.6470336
+30,10030,Dom zdravlja Osijek,Park kralja Petra Krešimira IV 6,Osijek,,,,,,,Yes,,45.5594183,18.6902161
+31,10031,Dom zdravlja Popovača,nan nan,Popovača,,,,,,,,,45.5698848,16.6265752
+32,10032,Dom zdravlja Retfala,nan nan,Osijek,,,,,,,,,45.5638422,18.6528335
+33,10033,Dom zdravlja Slavonski Brod,Borovska 7,Slavonski Brod,,,,,,,Yes,,45.159457,18.0059993
+34,10034,Dom zdravlja Slunj,Plitvička ulica 18a,Slunj,,,,,,,Yes,,45.1123887,15.5830058
+35,10035,Dom zdravlja Vinkovci,nan nan,Vinkovci,,,,,,,,,45.2925039,18.8167723
+36,10036,Dom zdravlja Zagreb - istok,Grižanska ulica 4,Zagreb,,,,,,,,,45.8307401,16.052177
+37,10037,Dom zdravlja Županja,Ulica dr. Franje Račkog 32,Županja,,,,,,,Yes,,45.0739739,18.7002599
+38,10038,Hitna pomoć,nan nan,Valpovo,,,,,,,,,45.6611682,18.416743
+39,10039,Jordanovac,Jordanovac 104,Zagreb,,,,,,,,,45.82586,16.0020822
+40,10040,KBC Rijeka,Krešimirova ulica 42,Rijeka,,,,,,,Yes,,45.3309295,14.428784
+41,10041,KBC Split - Firule,nan nan,Split,,,,,,,,,43.5050658,16.4595499
+42,10042,KBC Split - Križine,Šoltanska 1,Split,,,,,,,,,43.506665,16.4675765
+43,10043,Klinika za dječje bolesti,Ulica Vjekoslava Klaića 16,Zagreb,,,,01/4600-111,,,Yes,,45.8092517,15.9643516
+44,10044,Klinika za infektivne bolesti Dr. Fran Mihaljević,nan nan,Zagreb,,,,,,,,,45.8292179,15.9801285
+45,10045,Klinika za ortopediju Lovran,nan nan,Lovran,,,,,,,,,45.2994964,14.2776235
+46,10046,Klinika za psihijatriju Vrapče,Bolnička cesta 32,Zagreb,,,,+385 1 3780 666,,,,,45.8152381,15.8948947
+47,10047,Klinika za traumatologiju,Ulica Janka Draškovića 19,Zagreb,,,,+385 1 4697 000,,,Yes,,45.8099031,15.9838758
+48,10048,Klinika za tumore,Ilica 197,Zagreb,,,,,,,,,45.8130043,15.9439086
+49,10049,Klinika za ženske bolesti i porode,nan nan,Zagreb,,,,,,,,,45.8163585,15.9917497
+50,10050,Klinička bolnica Dubrava,nan nan,Zagreb,,,,,,,Yes,,45.8313478,16.0344346
+51,10051,Klinička bolnica Merkur,nan nan,Zagreb,,,,,,,,,45.8210226,15.9980024
+52,10052,Klinička bolnica Sveti Duh,nan nan,Zagreb,,,,,,,Yes,,45.8201508,15.938145
+53,10053,Klinički bolnički centar Sestre milosrdnice,Vinogradska cesta 29,Zagreb,,,,+385 1 3787 111,,,Yes,,45.8161275,15.9535176
+54,10054,Klinički bolnički centar Šalata,nan nan,Zagreb,,,,,,,No,,45.8179458,15.9824994
+55,10055,Kliničko bolnički centar Osijek,nan nan,Osijek,,,,,,,,,45.5584046,18.7108748
+56,10056,Kljake,nan nan,Ružić,,,,,,,No,,43.792804,16.3108375
+57,10057,Neuropsihijatrijska bolnica dr. Ivan Barbot,nan nan,Popovača,,,,,,,,,45.5765733,16.6379597
+58,10058,OB Gospić,nan nan,Gospić,,,,,,,,,44.5439948,15.3619315
+59,10059,Odjel za fizikalnu medicinu i rehabilitaciju,nan nan,Sisak,,,,,,,,,45.491528,16.3844493
+60,10060,"Opća bolnica ""Dr. Josip Benčević""",nan nan,Slavonski Brod,,,,,,,Yes,,45.1545555,18.0269463
+61,10061,Opća bolnica ''Dr. Ivo Pedišić'',nan nan,Sisak,,,,,,,,,45.4775055,16.3699752
+62,10062,Opća bolnica Bjelovar,nan nan,Bjelovar,,,,,,,,,45.9023678,16.8480447
+63,10063,Opća bolnica Dr. Tomislav Bardek,Dr. Željka Selingera bb,Koprivnica,,,,+38548251000,,,Yes,,46.1632187,16.836805
+64,10064,Opća bolnica Dubrovnik,Dr. Roka Mišetića 2,Dubrovnik,,,,,,,Yes,,42.6490378,18.0766844
+65,10065,Opća bolnica Hrvatski ponos,Ulica kralja Svetoslava Suronje;KRALJA SVETOSLAVA SURONJE 12 12,Knin,,,,,,,No,,44.0524129,16.2148101
+66,10066,Opća bolnica Nova Gradiška,Ulica Josipa Jurja Strossmayera 15,Nova Gradiška,,,,035/217-900,,,No,,45.260626,17.3892436
+67,10067,Opća bolnica Pula,nan nan,Pula,,,,,,,,,44.8681513,13.853581
+68,10068,"Opća bolnica Pula, Negrijeva",nan nan,Pula,,,,,,,,,44.8610455,13.8344339
+69,10069,Opća bolnica Varaždin,Ulica Ivana Meštrovića 1,Varaždin,,,,,,,Yes,,46.3015338,16.3249182
+70,10070,Opća bolnica Virovitica,nan nan,Virovitica,,,,,,,,,45.829114,17.3874821
+71,10071,Opća bolnica Zabok,Bračak 8,Zabok,,,,049/204-000,,,,,46.0164309,15.9395121
+72,10072,Opća bolnica Zadar,nan nan,Zadar,,,,,,,,,44.1082975,15.2323634
+73,10073,Opća bolnica Šibenik,nan nan,Šibenik,,,,,,,,,43.7328695,15.8987002
+74,10074,Opća županijska bolnica Pakrac,Bolnička nan,Pakrac,,,,,,,Yes,,45.4308902,17.1887587
+75,10075,Opća županijska bolnica Požega,Osječka ulica 107,Požega,,,,+385 34 254 555,,,,,45.3444037,17.6980074
+76,10076,Opća županijska bolnica Vukovar,nan nan,Vukovar,,,,,,,,,45.3582819,18.9930674
+77,10077,Psihijatrijska bolnica Rab,nan nan,Rab,,,,,,,,,44.7805069,14.7191002
+78,10078,Psihijatrijska bolnica Ugljan,nan nan,Preko,,,,,,,,,44.1127479,15.099886
+79,10079,Rebro,nan nan,Zagreb,,,,,,,Yes,,45.8248529,16.0032701
+80,10080,Specijalna bolnica za kožna i reumatska oboljenja,nan nan,Ivanić-Grad,,,,,,,,,45.7060954,16.3856771
+81,10081,Specijalna bolnica za kronične bolesti dječje dobi,Bolnička ulica 21,Bistra,,,,01/3391-111,,,Yes,,45.9168105,15.9040805
+82,10082,Specijalna bolnica za medicinsku rehabilitaciju Kalos,nan nan,Vela Luka,,,,,,,,,42.9684115,16.7127248
+83,10083,Specijalna bolnica za medicinsku rehabilitaciju Krapinske Toplice,Ulica Ljudevita Gaja 2,Krapinske Toplice,,,,+385 49 383 100,,,,,46.0950061,15.8370606
+84,10084,Specijalna bolnica za medicinsku rehabilitaciju Stubičke Toplice,Park Matije Gupca 1,Stubičke Toplice,,,,+385 49 201 000,,,,,45.9774803,15.9339287
+85,10085,Specijalna bolnica za ortopediju,nan nan,Biograd na Moru,,,,,,,,,43.9484945,15.4469084
+86,10086,Specijalna bolnica za rehabilitaciju Bizovac,nan nan,Bizovac,,,,,,,,,45.5836349,18.4608802
+87,10087,Sušačka bolnica,Tome Strižića 3,Rijeka,,,,,,,,,45.3264642,14.469961
+88,10088,Vuk Vrhovac,Dugi dol 4a,Zagreb,,,,+385 1 2353 800,,,,,45.8202629,15.9967865
+89,10089,dom zdravlja Brckovljani,nan nan,Brckovljani,,,,,,,No,,45.8228724,16.2898868
+90,10090,Županijska bolnica Čakovec,Ivana Gorana Kovačića 1E,Čakovec,,,,,,,Yes,,46.3942602,16.4320657
