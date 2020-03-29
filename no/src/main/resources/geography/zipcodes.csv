@@ -529,7 +529,7 @@
 527,Nordland,09,Aldra,8732,66.3983,13.1014
 528,Nordland,09,Stuvland,8733,66.4266,13.042
 529,Nordland,09,Stokkvågen,8735,66.3312,13.0764
-530,Nordland,09,Nord-Solvær,8740,66.3668,12.6412
+530,Nordland,09,Nord-solvær,8740,66.3668,12.6412
 531,Nordland,09,Indre Kvarøy,8743,66.4849,12.9566
 532,Nordland,09,Tonnes,8750,66.5111,13.0186
 533,Nordland,09,Konsvikosen,8752,66.4879,13.1146
@@ -1439,7 +1439,7 @@
 1437,Rogaland,14,Byre,4168,59.1607,5.9766
 1438,Rogaland,14,Sørbokn,4169,59.1633,5.9499
 1439,Rogaland,14,Sjernarøy,4170,59.2525,5.8382
-1440,Rogaland,14,Nord-Hidle,4173,59.232,5.8894
+1440,Rogaland,14,Nord-hidle,4173,59.232,5.8894
 1441,Rogaland,14,Sjernarøy,4174,59.2525,5.8382
 1442,Rogaland,14,Skartveit,4182,59.1981,5.955
 1443,Rogaland,14,Ombo,4187,59.2655,5.9705
@@ -1588,7 +1588,7 @@
 1586,Rogaland,14,Jørpeland,4105,59.0217,6.0423
 1587,Rogaland,14,Tau,4120,59.0724,5.9569
 1588,Rogaland,14,Tau,4121,59.0724,5.9569
-1589,Rogaland,14,Sør-Hidle,4123,59.047,5.8238
+1589,Rogaland,14,Sør-hidle,4123,59.047,5.8238
 1590,Rogaland,14,Tau,4124,59.0724,5.9569
 1591,Rogaland,14,Jørpeland,4126,59.0217,6.0423
 1592,Rogaland,14,Hjelmeland,4130,59.2239,6.16
@@ -1874,7 +1874,7 @@
 1872,Trøndelag,21,Follafoss,7796,63.9674,10.9732
 1873,Trøndelag,21,Namdalseid,7750,64.2407,11.2064
 1874,Trøndelag,21,Namdalseid,7751,64.2219,11.2232
-1875,Trøndelag,21,Nord-Statland,7777,64.4665,11.1638
+1875,Trøndelag,21,Nord-statland,7777,64.4665,11.1638
 1876,Trøndelag,21,Namsos,7800,64.4689,11.4939
 1877,Trøndelag,21,Namsos,7801,64.4662,11.4957
 1878,Trøndelag,21,Namsos,7802,64.4701,11.4683
@@ -3212,10 +3212,10 @@
 3210,Innlandet,34,Nedre Heidal,2677,61.7106,9.4222
 3211,Innlandet,34,Sel,2678,61.8496,9.405
 3212,Innlandet,34,Heidal,2679,61.718,9.2461
-3213,Innlandet,34,Sør-Fron,2645,61.5405,9.9305
+3213,Innlandet,34,Sør-fron,2645,61.5405,9.9305
 3214,Innlandet,34,Gålå,2646,61.4918,9.7897
-3215,Innlandet,34,Sør-Fron,2647,61.5405,9.9305
-3216,Innlandet,34,Sør-Fron,2648,61.5405,9.9305
+3215,Innlandet,34,Sør-fron,2647,61.5405,9.9305
+3216,Innlandet,34,Sør-fron,2648,61.5405,9.9305
 3217,Innlandet,34,Espedalen,2658,61.3812,9.6215
 3218,Innlandet,34,Ringebu,2630,61.5412,10.1898
 3219,Innlandet,34,Ringebu,2631,61.5412,10.1898
@@ -3271,8 +3271,8 @@
 3269,Innlandet,34,Hov,2867,60.7053,10.3064
 3270,Innlandet,34,Odnes,2879,60.8018,10.206
 3271,Innlandet,34,Dokka,2870,60.8553,10.039
-3272,Innlandet,34,Nord-Torpa,2880,61.0621,9.8984
-3273,Innlandet,34,Aust-Torpa,2881,60.9919,10.1364
+3272,Innlandet,34,Nord-torpa,2880,61.0621,9.8984
+3273,Innlandet,34,Aust-torpa,2881,60.9919,10.1364
 3274,Innlandet,34,Dokka,2882,60.8553,10.039
 3275,Innlandet,34,Bagn,2929,60.7687,9.5085
 3276,Innlandet,34,Bagn,2930,60.8225,9.7256
@@ -3877,7 +3877,7 @@
 3875,Agder,42,Flekkefjord,4405,58.3022,6.6647
 3876,Agder,42,Flekkefjord,4406,58.3022,6.6647
 3877,Agder,42,Flekkefjord,4407,58.3022,6.6647
-3878,Agder,42,Åna-Sira,4420,58.2918,6.431
+3878,Agder,42,Åna-sira,4420,58.2918,6.431
 3879,Agder,42,Hidrasund,4432,58.2268,6.5622
 3880,Agder,42,Andabeløy,4434,58.2319,6.6703
 3881,Agder,42,Gyland,4436,58.4071,6.8151
@@ -4230,7 +4230,7 @@
 4228,Vestland,46,Rognaldsvåg,6915,61.565,4.8106
 4229,Vestland,46,Barekstad,6916,61.6744,4.8744
 4230,Vestland,46,Batalden,6917,61.6238,4.8262
-4231,Vestland,46,Sør-Skorpa,6918,61.5883,4.8113
+4231,Vestland,46,Sør-skorpa,6918,61.5883,4.8113
 4232,Vestland,46,Tansøy,6919,61.511,4.9487
 4233,Vestland,46,Eikefjord,6940,61.5828,5.4455
 4234,Vestland,46,Eikefjord,6941,61.5828,5.4455
@@ -4970,7 +4970,7 @@
 4968,Troms og Finnmark,54,Lyngseidet,9060,69.5657,20.2322
 4969,Troms og Finnmark,54,Furuflaten,9062,69.4395,20.1496
 4970,Troms og Finnmark,54,Svensby,9064,69.7322,19.9073
-4971,Troms og Finnmark,54,Nord-Lenangen,9068,69.8963,20.1491
+4971,Troms og Finnmark,54,Nord-lenangen,9068,69.8963,20.1491
 4972,Troms og Finnmark,54,Lyngseidet,9069,69.5657,20.2322
 4973,Troms og Finnmark,54,Oteren,9046,69.2783,19.9831
 4974,Troms og Finnmark,54,Skibotn,9142,69.3738,20.3005
@@ -5015,7 +5015,7 @@
 5013,Troms og Finnmark,54,Bergsfjord,9580,70.2533,21.7861
 5014,Troms og Finnmark,54,Nuvsvåg,9582,70.2596,22.1453
 5015,Troms og Finnmark,54,Langfjordhamn,9583,70.1399,21.8586
-5016,Troms og Finnmark,54,Sør-Tverrfjord,9584,70.217,21.7108
+5016,Troms og Finnmark,54,Sør-tverrfjord,9584,70.217,21.7108
 5017,Troms og Finnmark,54,Sandland,9585,70.2716,21.5858
 5018,Troms og Finnmark,54,Loppa,9586,70.3402,21.4459
 5019,Troms og Finnmark,54,Skavnakk,9587,70.236,21.4618

@@ -61,7 +61,7 @@
 59,Banskobystrický kraj,BC,Králiky,976 34,48.7348,19.0371
 60,Banskobystrický kraj,BC,Kordíky,976 34,48.7718,19.022
 61,Banskobystrický kraj,BC,Jabriková,976 34,48.7457,19.0653
-62,Banskobystrický kraj,BC,"Riečka, ulica Nevoľné",976 34,48.7495,19.0487
+62,Banskobystrický kraj,BC,"Riečka, Ulica Nevoľné",976 34,48.7495,19.0487
 63,Banskobystrický kraj,BC,Hrochoť,976 37,48.6557,19.3128
 64,Banskobystrický kraj,BC,Donovaly,976 39,48.7007,19.1721
 65,Banskobystrický kraj,BC,Strelníky,976 55,48.7229,19.3922
@@ -70,8 +70,8 @@
 68,Banskobystrický kraj,BC,Lučatín,976 61,48.7828,19.32
 69,Banskobystrický kraj,BC,Hiadeľ,976 61,48.8105,19.3156
 70,Banskobystrický kraj,BC,Brusno,976 62,48.7924,19.3822
-71,Banskobystrický kraj,BC,Brusno - kúpele,976 62,48.796,19.3841
-72,Banskobystrický kraj,BC,Ondrej nad Hronom,976 62,48.7996,19.3861
+71,Banskobystrický kraj,BC,Brusno - Kúpele,976 62,48.796,19.3841
+72,Banskobystrický kraj,BC,Ondrej Nad Hronom,976 62,48.7996,19.3861
 73,Banskobystrický kraj,BC,Pohronský Bukovec,976 62,48.796,19.3841
 74,Banskobystrický kraj,BC,Štiavnička,976 81,48.8042,19.5511
 75,Banskobystrický kraj,BC,Medzibrod,976 96,48.7943,19.3537
@@ -90,7 +90,7 @@
 88,Banskobystrický kraj,BC,Vysoká,969 01,48.412,18.7895
 89,Banskobystrický kraj,BC,Rychňava,969 01,48.4078,18.8673
 90,Banskobystrický kraj,BC,Kysihýbel,969 01,48.4078,18.8673
-91,Banskobystrický kraj,BC,Počúvadl.Jazero,969 01,48.4078,18.8673
+91,Banskobystrický kraj,BC,Počúvadl.jazero,969 01,48.4078,18.8673
 92,Banskobystrický kraj,BC,Svätý Anton,969 72,48.4192,18.9401
 93,Banskobystrický kraj,BC,Prenčov,969 73,48.3582,18.9247
 94,Banskobystrický kraj,BC,Štiavnické Bane,969 81,48.4394,18.8555
@@ -98,7 +98,7 @@
 96,Banskobystrický kraj,BC,Podhorie,969 82,48.5202,18.9327
 97,Banskobystrický kraj,BC,Teplá,969 82,48.4986,18.9191
 98,Banskobystrický kraj,BC,Žakýl,969 82,48.5202,18.9327
-99,Banskobystrický kraj,BC,Mýto pod Ďumbierom,976 44,48.7871,19.5587
+99,Banskobystrický kraj,BC,Mýto Pod Ďumbierom,976 44,48.7871,19.5587
 100,Banskobystrický kraj,BC,Osrblie,976 45,48.7561,19.5247
 101,Banskobystrický kraj,BC,Hronec,976 45,48.7976,19.5805
 102,Banskobystrický kraj,BC,Valaská,976 46,48.8076,19.571
@@ -114,7 +114,7 @@
 112,Banskobystrický kraj,BC,Medveďovo,976 52,48.7419,19.6687
 113,Banskobystrický kraj,BC,Biele Vody,976 53,48.6228,19.6313
 114,Banskobystrický kraj,BC,Sihla,976 53,48.6572,19.6466
-115,Banskobystrický kraj,BC,Lom nad Rimavicou,976 53,48.6415,19.6495
+115,Banskobystrický kraj,BC,Lom Nad Rimavicou,976 53,48.6415,19.6495
 116,Banskobystrický kraj,BC,Drábsko,976 53,48.6493,19.6554
 117,Banskobystrický kraj,BC,Javorina,976 53,48.6427,19.6457
 118,Banskobystrický kraj,BC,Vrchslatina,976 53,48.6427,19.6457
@@ -131,7 +131,7 @@
 129,Banskobystrický kraj,BC,Pôbišovo,976 64,48.8354,19.7584
 130,Banskobystrický kraj,BC,Polomka,976 66,48.8523,19.8525
 131,Banskobystrický kraj,BC,Hámor,976 66,48.55,19.85
-132,Banskobystrický kraj,BC,Závadka nad Hronom,976 67,48.8505,19.9115
+132,Banskobystrický kraj,BC,Závadka Nad Hronom,976 67,48.8505,19.9115
 133,Banskobystrický kraj,BC,Heľpa,976 68,48.861,19.9692
 134,Banskobystrický kraj,BC,Pohorelská Maša,976 69,48.8459,20.0336
 135,Banskobystrický kraj,BC,Nová Maša,976 69,48.8347,20.0506
@@ -175,21 +175,21 @@
 173,Banskobystrický kraj,BC,Vrchdobroč,962 05,48.5835,19.5724
 174,Banskobystrický kraj,BC,Horná Hriňová,962 05,48.5835,19.5724
 175,Banskobystrický kraj,BC,Krivec I,962 05,48.5835,19.5724
-176,Banskobystrický kraj,BC,Krivec II,962 05,48.5835,19.5724
+176,Banskobystrický kraj,BC,Krivec Ii,962 05,48.5835,19.5724
 177,Banskobystrický kraj,BC,Mangútovo,962 05,48.5835,19.5724
 178,Banskobystrický kraj,BC,Jasenovo,962 05,48.5835,19.5724
 179,Banskobystrický kraj,BC,Stožok,962 12,48.5292,19.358
 180,Banskobystrický kraj,BC,Iviny,962 12,48.6115,19.3986
 181,Banskobystrický kraj,BC,Pstruša,962 12,48.5454,19.3198
 182,Banskobystrický kraj,BC,Dúbravy,962 12,48.5868,19.3687
-183,Banskobystrický kraj,BC,Detva - sídlisko,962 12,48.5697,19.3864
+183,Banskobystrický kraj,BC,Detva - Sídlisko,962 12,48.5697,19.3864
 184,Banskobystrický kraj,BC,Detva,962 12,48.5608,19.4195
 185,Banskobystrický kraj,BC,Zapriechody,962 12,48.5697,19.3864
 186,Banskobystrický kraj,BC,Skliarovo,962 12,48.5843,19.454
 187,Banskobystrický kraj,BC,Želobudza,962 12,48.5697,19.3864
 188,Banskobystrický kraj,BC,Kostolná,962 12,48.5697,19.3864
 189,Banskobystrický kraj,BC,Krné,962 12,48.5697,19.3864
-190,Banskobystrický kraj,BC,Piešť II,962 12,48.5697,19.3864
+190,Banskobystrický kraj,BC,Piešť Ii,962 12,48.5697,19.3864
 191,Banskobystrický kraj,BC,Piešť I (časť),962 12,48.5697,19.3864
 192,Banskobystrický kraj,BC,Kalinka,962 25,48.4916,19.2942
 193,Banskobystrický kraj,BC,Vígľašská Huta,962 25,48.4901,19.2757
@@ -292,7 +292,7 @@
 290,Banskobystrický kraj,BC,Muľka,985 31,48.2791,19.7006
 291,Banskobystrický kraj,BC,Panické Dravce,985 32,48.2847,19.6531
 292,Banskobystrický kraj,BC,Šára,985 32,48.2173,19.4802
-293,Banskobystrický kraj,BC,Veľká nad Ipľom,985 32,48.0792,19.0877
+293,Banskobystrický kraj,BC,Veľká Nad Ipľom,985 32,48.0792,19.0877
 294,Banskobystrický kraj,BC,Veľké Dálovce,985 32,48.2173,19.4802
 295,Banskobystrický kraj,BC,Trenč,985 32,48.2238,19.5794
 296,Banskobystrický kraj,BC,Jelšovec,985 32,48.2816,19.6006
@@ -322,7 +322,7 @@
 320,Banskobystrický kraj,BC,Podrečany,985 54,48.4042,19.5986
 321,Banskobystrický kraj,BC,Gregorova Vieska,985 56,48.385,19.5791
 322,Banskobystrický kraj,BC,Tomášovce,985 56,48.3706,19.6214
-323,Banskobystrický kraj,BC,Nitra nad Ipľom,985 57,48.3182,19.7737
+323,Banskobystrický kraj,BC,Nitra Nad Ipľom,985 57,48.3182,19.7737
 324,Banskobystrický kraj,BC,Holiša,985 57,48.3081,19.7517
 325,Banskobystrický kraj,BC,Obručná,985 58,48.2171,19.8218
 326,Banskobystrický kraj,BC,Čakanovce,985 58,48.2132,19.8146
@@ -356,7 +356,7 @@
 354,Banskobystrický kraj,BC,Vaľkovo,985 03,48.4688,19.8242
 355,Banskobystrický kraj,BC,Salajka,985 03,48.5455,19.7534
 356,Banskobystrický kraj,BC,České Brezovo,985 03,48.482,19.8045
-357,Banskobystrický kraj,BC,Kokava nad Rimavicou,985 05,48.5689,19.8435
+357,Banskobystrický kraj,BC,Kokava Nad Rimavicou,985 05,48.5689,19.8435
 358,Banskobystrický kraj,BC,Utekáč,985 06,48.605,19.8041
 359,Banskobystrický kraj,BC,Ľubienka,985 07,48.5813,19.747
 360,Banskobystrický kraj,BC,Šoltýska,985 07,48.5813,19.747
@@ -479,7 +479,7 @@
 477,Banskobystrický kraj,BC,Tomášovce,980 21,48.393,20.153
 478,Banskobystrický kraj,BC,Žíp,980 21,48.3642,20.2033
 479,Banskobystrický kraj,BC,Dulovo,980 21,48.3741,20.1914
-480,Banskobystrický kraj,BC,Vieska nad Blhom,980 21,48.3511,20.1988
+480,Banskobystrický kraj,BC,Vieska Nad Blhom,980 21,48.3511,20.1988
 481,Banskobystrický kraj,BC,Uzovská Panica,980 22,48.417,20.1439
 482,Banskobystrický kraj,BC,Veľký Blh,980 22,48.4453,20.1165
 483,Banskobystrický kraj,BC,Budikovany,980 23,48.4884,20.0882
@@ -525,7 +525,7 @@
 523,Banskobystrický kraj,BC,Zádor,980 42,48.3212,20.2421
 524,Banskobystrický kraj,BC,Orávka,980 42,48.3137,20.2205
 525,Banskobystrický kraj,BC,Číž,980 43,48.3137,20.2804
-526,Banskobystrický kraj,BC,Číž - kúpele,980 43,48.3137,20.2804
+526,Banskobystrický kraj,BC,Číž - Kúpele,980 43,48.3137,20.2804
 527,Banskobystrický kraj,BC,Abovce,980 44,48.3187,20.3365
 528,Banskobystrický kraj,BC,Vlkyňa,980 44,48.2821,20.301
 529,Banskobystrický kraj,BC,Chanava,980 44,48.3361,20.2993
@@ -545,12 +545,12 @@
 543,Banskobystrický kraj,BC,Svetlá,980 52,48.45,19.9
 544,Banskobystrický kraj,BC,Hrachovo,980 52,48.4654,19.9513
 545,Banskobystrický kraj,BC,Kociha,980 52,48.4795,19.9465
-546,Banskobystrický kraj,BC,Vrbovce nad Rimavou,980 52,48.4626,19.9465
+546,Banskobystrický kraj,BC,Vrbovce Nad Rimavou,980 52,48.4626,19.9465
 547,Banskobystrický kraj,BC,Vyšný Skálnik,980 52,48.4642,19.9642
 548,Banskobystrický kraj,BC,Nižný Skálnik,980 52,48.4537,19.9707
 549,Banskobystrický kraj,BC,Rimavská Baňa,980 53,48.5121,19.9413
 550,Banskobystrický kraj,BC,Rimavské Zalužany,980 53,48.501,19.9353
-551,Banskobystrický kraj,BC,Lehota nad Rimavicou,980 53,48.5065,19.9383
+551,Banskobystrický kraj,BC,Lehota Nad Rimavicou,980 53,48.5065,19.9383
 552,Banskobystrický kraj,BC,Rimavské Brezovo,980 54,48.5381,19.9573
 553,Banskobystrický kraj,BC,Kyjatice,980 54,48.5299,20.0125
 554,Banskobystrický kraj,BC,Klenovec,980 55,48.5956,19.8907
@@ -627,10 +627,10 @@
 625,Banskobystrický kraj,BC,Veľká Čalomija,991 09,48.0692,19.2006
 626,Banskobystrický kraj,BC,Ipeľské Predmostie,991 10,48.0625,19.0559
 627,Banskobystrický kraj,BC,Sečianky,991 10,48.0951,19.0796
-628,Banskobystrický kraj,BC,Veľká Ves nad Ipľom,991 10,48.0792,19.0877
+628,Banskobystrický kraj,BC,Veľká Ves Nad Ipľom,991 10,48.0792,19.0877
 629,Banskobystrický kraj,BC,Kleňany,991 10,48.1174,19.0739
-630,Banskobystrický kraj,BC,Kosihy nad Ipľom,991 11,48.0769,19.1744
-631,Banskobystrický kraj,BC,Balog nad Ipľom,991 11,48.0778,19.1309
+630,Banskobystrický kraj,BC,Kosihy Nad Ipľom,991 11,48.0769,19.1744
+631,Banskobystrický kraj,BC,Balog Nad Ipľom,991 11,48.0778,19.1309
 632,Banskobystrický kraj,BC,Závada,991 21,48.2912,19.4879
 633,Banskobystrický kraj,BC,Pravica,991 21,48.317,19.4577
 634,Banskobystrický kraj,BC,Chrťany,991 21,48.2917,19.4605
@@ -684,7 +684,7 @@
 682,Banskobystrický kraj,BC,Lukavica,962 31,48.6421,19.2091
 683,Banskobystrický kraj,BC,Hájniky,962 31,48.6142,19.13
 684,Banskobystrický kraj,BC,Sampor,962 31,48.6288,19.2006
-685,Banskobystrický kraj,BC,Sliač - kúpele,962 31,48.6167,19.1372
+685,Banskobystrický kraj,BC,Sliač - Kúpele,962 31,48.6167,19.1372
 686,Banskobystrický kraj,BC,Rybáre,962 31,48.6119,19.1522
 687,Banskobystrický kraj,BC,Sliač,962 31,48.6167,19.1372
 688,Banskobystrický kraj,BC,Budča,962 33,48.5738,19.0694
@@ -718,7 +718,7 @@
 716,Banskobystrický kraj,BC,Hronská Breznica,966 11,48.5678,18.997
 717,Banskobystrický kraj,BC,Veľká Lehota,966 41,48.4608,18.5607
 718,Banskobystrický kraj,BC,Malá Lehota,966 42,48.4964,18.5673
-719,Banskobystrický kraj,BC,Rudno nad Hronom,966 51,48.4269,18.6857
+719,Banskobystrický kraj,BC,Rudno Nad Hronom,966 51,48.4269,18.6857
 720,Banskobystrický kraj,BC,Tekovská Breznica,966 52,48.3865,18.6187
 721,Banskobystrický kraj,BC,Orovnica,966 52,48.3882,18.5945
 722,Banskobystrický kraj,BC,Psiare,966 53,48.3289,18.5544
@@ -754,12 +754,12 @@
 752,Banskobystrický kraj,BC,Stará Kremnička,965 01,48.6053,18.8894
 753,Banskobystrický kraj,BC,Ladomerská Vieska,965 01,48.5892,18.8804
 754,Banskobystrický kraj,BC,Šášovské Podhradie,965 01,48.5763,18.8991
-755,Banskobystrický kraj,BC,Žiar nad Hronom,965 01,48.5918,18.8496
+755,Banskobystrický kraj,BC,Žiar Nad Hronom,965 01,48.5918,18.8496
 756,Banskobystrický kraj,BC,Horná Trnávka,966 01,48.579,18.7587
 757,Banskobystrický kraj,BC,Dolná Ždaňa,966 01,48.5465,18.762
-758,Banskobystrický kraj,BC,Hliník nad Hronom,966 01,48.5354,18.7873
+758,Banskobystrický kraj,BC,Hliník Nad Hronom,966 01,48.5354,18.7873
 759,Banskobystrický kraj,BC,Prestavlky,966 01,48.5871,18.7578
-760,Banskobystrický kraj,BC,Lehôtka pod Brehmi,966 01,48.5522,18.7567
+760,Banskobystrický kraj,BC,Lehôtka Pod Brehmi,966 01,48.5522,18.7567
 761,Banskobystrický kraj,BC,Bzenica,966 01,48.5295,18.7416
 762,Banskobystrický kraj,BC,Bukovina,966 01,48.536,18.7326
 763,Banskobystrický kraj,BC,Vyhne,966 02,48.5057,18.8014
@@ -819,7 +819,7 @@
 817,Bratislavský kraj,BL,Jakubov,900 63,48.4167,16.9333
 818,Bratislavský kraj,BL,Suchohrad,900 64,48.4,16.8667
 819,Bratislavský kraj,BL,Záhorská Ves,900 65,48.3833,16.85
-820,Bratislavský kraj,BL,Vysoká pri Morave,900 66,48.3294,16.9119
+820,Bratislavský kraj,BL,Vysoká Pri Morave,900 66,48.3294,16.9119
 821,Bratislavský kraj,BL,Láb,900 67,48.3667,16.9833
 822,Bratislavský kraj,BL,Plavecký Štvrtok,900 68,48.3751,16.9986
 823,Bratislavský kraj,BL,Vinohrádok,901 01,48.4185,16.9961
@@ -857,10 +857,10 @@
 855,Bratislavský kraj,BL,Malý Biel,900 24,48.2225,17.3641
 856,Bratislavský kraj,BL,Chorvátsky Grob,900 25,48.2279,17.2909
 857,Bratislavský kraj,BL,Bernolákovo,900 27,48.2007,17.3019
-858,Bratislavský kraj,BL,Ivanka pri Dunaji,900 28,48.1867,17.2554
+858,Bratislavský kraj,BL,Ivanka Pri Dunaji,900 28,48.1867,17.2554
 859,Bratislavský kraj,BL,Zálesie,900 28,48.1661,17.275
-860,Bratislavský kraj,BL,Dedinka pri Dunaji,900 29,48.1822,17.3521
-861,Bratislavský kraj,BL,Nová Ves pri Dunaji,900 29,48.1861,17.3563
+860,Bratislavský kraj,BL,Dedinka Pri Dunaji,900 29,48.1822,17.3521
+861,Bratislavský kraj,BL,Nová Ves Pri Dunaji,900 29,48.1861,17.3563
 862,Bratislavský kraj,BL,Nová Dedinka,900 29,48.1841,17.3542
 863,Bratislavský kraj,BL,Rovinka,900 41,48.0978,17.2363
 864,Bratislavský kraj,BL,Miloslavov,900 42,48.1059,17.3
@@ -876,9 +876,9 @@
 874,Bratislavský kraj,BL,Tomášov,900 44,48.1425,17.3357
 875,Bratislavský kraj,BL,Vlky,900 44,48.1424,17.354
 876,Bratislavský kraj,BL,Malinovo,900 45,48.1545,17.2968
-877,Bratislavský kraj,BL,Most pri Bratislave,900 46,48.142,17.2709
+877,Bratislavský kraj,BL,Most Pri Bratislave,900 46,48.142,17.2709
 878,Bratislavský kraj,BL,Studené,900 46,48.142,17.2709
-879,Bratislavský kraj,BL,Kráľová pri Senci,900 50,48.3541,17.0855
+879,Bratislavský kraj,BL,Kráľová Pri Senci,900 50,48.3541,17.0855
 880,Bratislavský kraj,BL,Blatné,900 82,48.2666,17.4192
 881,Bratislavský kraj,BL,Čataj,900 83,48.2705,17.4787
 882,Bratislavský kraj,BL,Igram,900 84,48.2854,17.4623
@@ -886,7 +886,7 @@
 884,Bratislavský kraj,BL,Hurbanova Ves,903 01,48.1529,17.4414
 885,Bratislavský kraj,BL,Senec,903 01,48.2195,17.4004
 886,Bratislavský kraj,BL,Tureň,903 01,48.1913,17.3894
-887,Bratislavský kraj,BL,Kostolná pri Dunaji,903 01,48.1854,17.4356
+887,Bratislavský kraj,BL,Kostolná Pri Dunaji,903 01,48.1854,17.4356
 888,Bratislavský kraj,BL,Nový Svet,903 01,48.1839,17.4175
 889,Bratislavský kraj,BL,Hrubý Šúr,903 01,48.1704,17.4209
 890,Bratislavský kraj,BL,Bodov,903 01,48.1839,17.4175
@@ -963,7 +963,7 @@
 961,Košický kraj,KI,Jaklovce,055 61,48.8717,20.988
 962,Košický kraj,KI,Prakovce,055 62,48.8159,20.8961
 963,Košický kraj,KI,Helcmanovce,055 63,48.8307,20.8677
-964,Košický kraj,KI,Mníšek nad Hnilcom,055 64,48.8041,20.8048
+964,Košický kraj,KI,Mníšek Nad Hnilcom,055 64,48.8041,20.8048
 965,Košický kraj,KI,Smolnícka Huta,055 65,48.7452,20.7736
 966,Košický kraj,KI,Úhorná,055 66,48.7059,20.6751
 967,Košický kraj,KI,Smolník,055 66,48.7294,20.7377
@@ -984,7 +984,7 @@
 982,Košický kraj,KI,Barca,040 17,48.6813,21.2618
 983,Košický kraj,KI,Šebastovce,040 17,48.6544,21.2677
 984,Košický kraj,KI,Krásna,040 18,48.67,21.3175
-985,Košický kraj,KI,Ľudvikov dvor,040 15,48.649,21.1813
+985,Košický kraj,KI,Ľudvikov Dvor,040 15,48.649,21.1813
 986,Košický kraj,KI,Baška,040 16,48.7067,21.184
 987,Košický kraj,KI,Vyšná Hutka,040 18,48.6759,21.3541
 988,Košický kraj,KI,Nižná Hutka,040 18,48.6574,21.3594
@@ -997,7 +997,7 @@
 995,Košický kraj,KI,Dvorníky,044 02,48.6011,20.8396
 996,Košický kraj,KI,Chorváty,044 02,48.5648,20.8735
 997,Košický kraj,KI,Včeláre,044 02,48.5889,20.8078
-998,Košický kraj,KI,Turňa nad Bodvou,044 02,48.6,20.8809
+998,Košický kraj,KI,Turňa Nad Bodvou,044 02,48.6,20.8809
 999,Košický kraj,KI,Hačava,044 02,48.6667,20.8333
 1000,Košický kraj,KI,Turnianska Nová Ves,044 02,48.5781,20.8898
 1001,Košický kraj,KI,Janík,044 05,48.5548,20.9688
@@ -1005,7 +1005,7 @@
 1003,Košický kraj,KI,Geča,044 10,48.6279,21.3099
 1004,Košický kraj,KI,Ždaňa,044 11,48.6013,21.3491
 1005,Košický kraj,KI,Skároš,044 11,48.5876,21.3761
-1006,Košický kraj,KI,Trstené pri Hornáde,044 11,48.5755,21.3343
+1006,Košický kraj,KI,Trstené Pri Hornáde,044 11,48.5755,21.3343
 1007,Košický kraj,KI,Hýľov,044 12,48.7303,21.106
 1008,Košický kraj,KI,Nižný Klátov,044 12,48.7292,21.142
 1009,Košický kraj,KI,Vyšný Klátov,044 12,48.7448,21.1246
@@ -1046,18 +1046,18 @@
 1044,Košický kraj,KI,Baňa Lucia,044 25,48.7216,20.9273
 1045,Košický kraj,KI,Nižný Medzev,044 25,48.7004,20.8937
 1046,Košický kraj,KI,Medzev,044 25,48.7004,20.8937
-1047,Košický kraj,KI,Štós - kúpele,044 26,48.7211,20.7912
+1047,Košický kraj,KI,Štós - Kúpele,044 26,48.7211,20.7912
 1048,Košický kraj,KI,Štós,044 26,48.7082,20.7909
 1049,Košický kraj,KI,Sokoľ,044 31,48.8127,21.2193
 1050,Košický kraj,KI,Malá Vieska,044 31,48.8055,21.245
 1051,Košický kraj,KI,Tepličany,044 31,48.797,21.2571
-1052,Košický kraj,KI,Kostoľany n/Hornádom,044 31,48.8051,21.2404
-1053,Košický kraj,KI,Družstevná pri Horn.,044 31,48.8051,21.2404
+1052,Košický kraj,KI,Kostoľany N/hornádom,044 31,48.8051,21.2404
+1053,Košický kraj,KI,Družstevná Pri Horn.,044 31,48.8051,21.2404
 1054,Košický kraj,KI,Malá Lodina,044 32,48.878,21.1333
 1055,Košický kraj,KI,Zdoba,044 41,48.7077,21.3315
 1056,Košický kraj,KI,Košická Polianka,044 41,48.7081,21.3418
 1057,Košický kraj,KI,Byster,044 41,48.7085,21.3521
-1058,Košický kraj,KI,Sady nad Torysou,044 41,48.7081,21.3418
+1058,Košický kraj,KI,Sady Nad Torysou,044 41,48.7081,21.3418
 1059,Košický kraj,KI,Rozhanovce,044 42,48.7503,21.3446
 1060,Košický kraj,KI,Hrašovík,044 42,48.7467,21.3213
 1061,Košický kraj,KI,Košické Oľšany,044 42,48.732,21.3446
@@ -1123,7 +1123,7 @@
 1121,Košický kraj,KI,Veľká Lodina,044 81,48.8453,21.2201
 1122,Košický kraj,KI,Obišovce,044 81,48.8453,21.2201
 1123,Košický kraj,KI,Debraď,045 01,48.6507,20.9778
-1124,Košický kraj,KI,Moldava nad Bodvou,045 01,48.6143,20.9996
+1124,Košický kraj,KI,Moldava Nad Bodvou,045 01,48.6143,20.9996
 1125,Košický kraj,KI,Budulov,045 01,48.5882,20.9924
 1126,Košický kraj,KI,Mokrance,045 01,48.596,21.0204
 1127,Košický kraj,KI,Topoľany,071 01,48.7745,21.8911
@@ -1137,7 +1137,7 @@
 1135,Košický kraj,KI,Suché,071 01,48.7653,21.8347
 1136,Košický kraj,KI,Žabany,071 01,48.763,21.877
 1137,Košický kraj,KI,Meďov,071 01,48.763,21.877
-1138,Košický kraj,KI,Petrovce n/Laborcom,071 01,48.763,21.877
+1138,Košický kraj,KI,Petrovce N/laborcom,071 01,48.763,21.877
 1139,Košický kraj,KI,Pozdišovce,072 01,48.7246,21.8546
 1140,Košický kraj,KI,Laškovce,072 01,48.7011,21.8513
 1141,Košický kraj,KI,Krásnovce,072 01,48.7211,21.8842
@@ -1147,9 +1147,9 @@
 1145,Košický kraj,KI,Tušická Nová Ves,072 02,48.7164,21.7546
 1146,Košický kraj,KI,Lučkovce,072 03,48.7187,21.7931
 1147,Košický kraj,KI,Moravany,072 03,48.7405,21.7851
-1148,Košický kraj,KI,Rakovec nad Ondavou,072 03,48.7687,21.7827
+1148,Košický kraj,KI,Rakovec Nad Ondavou,072 03,48.7687,21.7827
 1149,Košický kraj,KI,Trhovište,072 04,48.6982,21.8047
-1150,Košický kraj,KI,Bánovce nad Ondavou,072 04,48.6832,21.8124
+1150,Košický kraj,KI,Bánovce Nad Ondavou,072 04,48.6832,21.8124
 1151,Košický kraj,KI,Piesky,072 04,48.6667,21.8
 1152,Košický kraj,KI,Kačanov,072 05,48.6122,21.8443
 1153,Košický kraj,KI,Ložín,072 05,48.6596,21.8352
@@ -1161,7 +1161,7 @@
 1159,Košický kraj,KI,Markovce,072 06,48.5909,21.8427
 1160,Košický kraj,KI,Iňačovce,072 11,48.6973,22.0319
 1161,Košický kraj,KI,Čečehov,072 11,48.7248,21.9899
-1162,Košický kraj,KI,Jastrabie pri Michal,072 11,48.711,22.0109
+1162,Košický kraj,KI,Jastrabie Pri Michal,072 11,48.711,22.0109
 1163,Košický kraj,KI,Stretavka,072 13,48.6225,21.9872
 1164,Košický kraj,KI,Senné,072 13,48.6643,22.0231
 1165,Košický kraj,KI,Stretava,072 13,48.6434,22.0037
@@ -1170,8 +1170,8 @@
 1168,Košický kraj,KI,Dolný Les,072 13,48.647,22.0004
 1169,Košický kraj,KI,Ťahyňa,072 14,48.5976,22.0633
 1170,Košický kraj,KI,Ortov,072 14,48.5835,22.0973
-1171,Košický kraj,KI,Pavlovce nad Uhom,072 14,48.6109,22.069
-1172,Košický kraj,KI,Vysoká nad Uhom,072 14,48.6261,22.0913
+1171,Košický kraj,KI,Pavlovce Nad Uhom,072 14,48.6109,22.069
+1172,Košický kraj,KI,Vysoká Nad Uhom,072 14,48.6261,22.0913
 1173,Košický kraj,KI,Vysocký Dvor,072 14,48.6323,22.1003
 1174,Košický kraj,KI,Budkovce,072 15,48.6322,21.9306
 1175,Košický kraj,KI,Dúbravka,072 15,48.6359,21.8886
@@ -1193,11 +1193,11 @@
 1191,Košický kraj,KI,Oreské,072 23,48.8596,21.9046
 1192,Košický kraj,KI,Zbudza,072 23,48.8144,21.8932
 1193,Košický kraj,KI,Staré,072 23,48.8614,21.8755
-1194,Košický kraj,KI,Trnava pri Laborci,072 31,48.8179,21.9319
+1194,Košický kraj,KI,Trnava Pri Laborci,072 31,48.8179,21.9319
 1195,Košický kraj,KI,Vinné,072 31,48.8096,21.9676
 1196,Košický kraj,KI,Jovsa,072 32,48.8192,22.0908
 1197,Košický kraj,KI,Kusín,072 32,48.8158,22.0627
-1198,Košický kraj,KI,Poruba p/Vihorlatom,072 32,48.8175,22.0768
+1198,Košický kraj,KI,Poruba P/vihorlatom,072 32,48.8175,22.0768
 1199,Košický kraj,KI,Závadka,072 33,48.7661,22.0664
 1200,Košický kraj,KI,Hnojné,072 33,48.7784,22.0691
 1201,Košický kraj,KI,Lúčky,072 34,48.7669,22.0389
@@ -1283,7 +1283,7 @@
 1281,Košický kraj,KI,Lúčka,049 42,48.6354,20.6855
 1282,Košický kraj,KI,Drnava,049 42,48.6395,20.6567
 1283,Košický kraj,KI,Hrušov,049 43,48.5824,20.6354
-1284,Košický kraj,KI,Jablonov nad Turňou,049 43,48.5939,20.6745
+1284,Košický kraj,KI,Jablonov Nad Turňou,049 43,48.5939,20.6745
 1285,Košický kraj,KI,Silická Jablonica,049 43,48.5583,20.6086
 1286,Košický kraj,KI,Hrhov,049 44,48.6063,20.7507
 1287,Košický kraj,KI,Jovice,049 45,48.631,20.5497
@@ -1364,7 +1364,7 @@
 1362,Košický kraj,KI,Betlanovce,053 15,48.9756,20.4086
 1363,Košický kraj,KI,Lieskovany,053 21,48.9281,20.6047
 1364,Košický kraj,KI,Markušovce,053 21,48.9119,20.6307
-1365,Košický kraj,KI,Matejovce nad Hornádom,053 21,48.92,20.6177
+1365,Košický kraj,KI,Matejovce Nad Hornádom,053 21,48.92,20.6177
 1366,Košický kraj,KI,Odorín,053 22,48.9337,20.6346
 1367,Košický kraj,KI,Danišovce,053 22,48.9337,20.6346
 1368,Košický kraj,KI,Jamník,053 22,48.9337,20.6346
@@ -1387,7 +1387,7 @@
 1385,Košický kraj,KI,Žehra,053 61,48.8953,20.8594
 1386,Košický kraj,KI,Slatvina,053 61,48.8953,20.8594
 1387,Košický kraj,KI,Bystrany,053 62,48.9487,20.7598
-1388,Košický kraj,KI,Chrasť nad Hornádom,053 63,48.9266,20.6952
+1388,Košický kraj,KI,Chrasť Nad Hornádom,053 63,48.9266,20.6952
 1389,Košický kraj,KI,Trsťany,053 63,48.9339,20.7079
 1390,Košický kraj,KI,Spišský Hrušov,053 63,48.9475,20.7059
 1391,Košický kraj,KI,Vítkovce,053 63,48.9275,20.7225
@@ -1440,8 +1440,8 @@
 1438,Košický kraj,KI,Čeľovce,076 17,48.6022,21.628
 1439,Košický kraj,KI,Hriadky,076 22,48.6991,21.7089
 1440,Košický kraj,KI,Vojčice,076 22,48.6784,21.7158
-1441,Košický kraj,KI,Klin nad Bodrogom,076 31,48.3838,21.7253
-1442,Košický kraj,KI,Streda nad Bodrogom,076 31,48.3722,21.7542
+1441,Košický kraj,KI,Klin Nad Bodrogom,076 31,48.3838,21.7253
+1442,Košický kraj,KI,Streda Nad Bodrogom,076 31,48.3722,21.7542
 1443,Košický kraj,KI,Viničky,076 31,48.3988,21.7447
 1444,Košický kraj,KI,Borša,076 32,48.3944,21.7042
 1445,Košický kraj,KI,Veľká Bara,076 32,48.4256,21.7161
@@ -1454,7 +1454,7 @@
 1452,Košický kraj,KI,Zemplín,076 34,48.44,21.8101
 1453,Košický kraj,KI,Svätá Mária,076 35,48.4333,21.839
 1454,Košický kraj,KI,Pavlovo,076 35,48.439,21.8365
-1455,Košický kraj,KI,N.Vieska pri Bodrogu,076 35,48.4249,21.8278
+1455,Košický kraj,KI,N.vieska Pri Bodrogu,076 35,48.4249,21.8278
 1456,Košický kraj,KI,Véč,076 35,48.4249,21.8278
 1457,Košický kraj,KI,Somotor,076 35,48.4025,21.8079
 1458,Košický kraj,KI,Malý Kamenec,076 36,48.3522,21.7878
@@ -1468,7 +1468,7 @@
 1466,Košický kraj,KI,Kolónia,076 42,48.3954,22.0972
 1467,Košický kraj,KI,Malé Trakany,076 42,48.3994,22.1057
 1468,Košický kraj,KI,Boťany,076 43,48.4447,22.0926
-1469,Košický kraj,KI,Čierna nad Tisou,076 43,48.417,22.0887
+1469,Košický kraj,KI,Čierna Nad Tisou,076 43,48.417,22.0887
 1470,Košický kraj,KI,Čierna,076 43,48.417,22.0887
 1471,Košický kraj,KI,Pribeník,076 51,48.3929,22.003
 1472,Košický kraj,KI,Veľký Horeš,076 52,48.3846,21.909
@@ -1518,7 +1518,7 @@
 1516,Nitriansky kraj,NI,Nová Osada,945 01,47.7871,18.1086
 1517,Nitriansky kraj,NI,Veľký Harčáš,945 01,47.754,18.1567
 1518,Nitriansky kraj,NI,Hliník,945 01,47.812,18.0943
-1519,Nitriansky kraj,NI,Vrbová nad Váhom,945 01,47.8514,18.052
+1519,Nitriansky kraj,NI,Vrbová Nad Váhom,945 01,47.8514,18.052
 1520,Nitriansky kraj,NI,Čergov,945 01,47.8877,18.0177
 1521,Nitriansky kraj,NI,Lándor,945 01,47.7945,18.1288
 1522,Nitriansky kraj,NI,Zlatá Osada,945 01,47.8724,18.0555
@@ -1540,13 +1540,13 @@
 1538,Nitriansky kraj,NI,Částa,946 03,47.933,17.9831
 1539,Nitriansky kraj,NI,Horná Zlatná,946 12,47.7833,17.95
 1540,Nitriansky kraj,NI,Veľký Lél,946 12,47.757,17.9467
-1541,Nitriansky kraj,NI,Zlatná na Ostrove,946 12,47.7667,17.9667
+1541,Nitriansky kraj,NI,Zlatná Na Ostrove,946 12,47.7667,17.9667
 1542,Nitriansky kraj,NI,Štúrová,946 13,47.8303,17.9422
-1543,Nitriansky kraj,NI,Okoličná na Ostrove,946 13,47.8038,17.9209
+1543,Nitriansky kraj,NI,Okoličná Na Ostrove,946 13,47.8038,17.9209
 1544,Nitriansky kraj,NI,Lúky,946 14,47.8443,17.8736
 1545,Nitriansky kraj,NI,Zemianska Olča,946 14,47.8081,17.8665
 1546,Nitriansky kraj,NI,Bodzianske Lúky,946 14,47.8833,17.9
-1547,Nitriansky kraj,NI,Sokolce - lúky,946 14,47.8443,17.8736
+1547,Nitriansky kraj,NI,Sokolce - Lúky,946 14,47.8443,17.8736
 1548,Nitriansky kraj,NI,Lipové,946 14,47.8415,17.8542
 1549,Nitriansky kraj,NI,Tôň,946 15,47.8044,17.8375
 1550,Nitriansky kraj,NI,Bodza,946 16,47.8364,17.8292
@@ -1569,9 +1569,9 @@
 1567,Nitriansky kraj,NI,Mikulášov Sad,946 34,47.846,18.4351
 1568,Nitriansky kraj,NI,Bátorove Kosihy,946 34,47.8294,18.4202
 1569,Nitriansky kraj,NI,Búč,946 35,47.8076,18.4466
-1570,Nitriansky kraj,NI,Kravany nad Dunajom,946 36,47.7633,18.4832
+1570,Nitriansky kraj,NI,Kravany Nad Dunajom,946 36,47.7633,18.4832
 1571,Nitriansky kraj,NI,Moča,946 37,47.761,18.4079
-1572,Nitriansky kraj,NI,Radvaň nad Dunajom,946 38,47.7469,18.3661
+1572,Nitriansky kraj,NI,Radvaň Nad Dunajom,946 38,47.7469,18.3661
 1573,Nitriansky kraj,NI,Virt,946 38,47.7526,18.3212
 1574,Nitriansky kraj,NI,Žitava,946 38,47.745,18.3381
 1575,Nitriansky kraj,NI,Bystrička,946 38,47.7628,18.3612
@@ -1640,10 +1640,10 @@
 1638,Nitriansky kraj,NI,Podlužany,935 27,48.2544,18.606
 1639,Nitriansky kraj,NI,Hronské Kľačany,935 29,48.2401,18.5697
 1640,Nitriansky kraj,NI,Dolná Seč,935 31,48.1763,18.564
-1641,Nitriansky kraj,NI,Vyšné nad Hronom,935 31,48.1627,18.5845
+1641,Nitriansky kraj,NI,Vyšné Nad Hronom,935 31,48.1627,18.5845
 1642,Nitriansky kraj,NI,Horná Seč,935 31,48.1953,18.5445
 1643,Nitriansky kraj,NI,Kalnica,935 32,48.2099,18.5205
-1644,Nitriansky kraj,NI,Kalná nad Hronom,935 32,48.2039,18.5201
+1644,Nitriansky kraj,NI,Kalná Nad Hronom,935 32,48.2039,18.5201
 1645,Nitriansky kraj,NI,Kalná,935 32,48.1978,18.5198
 1646,Nitriansky kraj,NI,Šándorhalma,935 33,48.2295,18.4672
 1647,Nitriansky kraj,NI,Marušová,935 33,48.2358,18.5221
@@ -1661,7 +1661,7 @@
 1659,Nitriansky kraj,NI,Horný Pial,935 37,48.1554,18.4504
 1660,Nitriansky kraj,NI,Dolný Pial,935 37,48.1317,18.4619
 1661,Nitriansky kraj,NI,Lok,935 38,48.1836,18.4606
-1662,Nitriansky kraj,NI,Mochovce - elektráreň,935 39,48.1869,18.4739
+1662,Nitriansky kraj,NI,Mochovce - Elektráreň,935 39,48.1869,18.4739
 1663,Nitriansky kraj,NI,Tekovské Lužany,935 41,48.0986,18.5379
 1664,Nitriansky kraj,NI,Arma,935 41,48.1267,18.5577
 1665,Nitriansky kraj,NI,Medvecké,935 41,48.1548,18.5775
@@ -1677,10 +1677,10 @@
 1675,Nitriansky kraj,NI,Starý Hrádok,935 56,48.1508,18.6386
 1676,Nitriansky kraj,NI,Mýtne Ludany,935 56,48.1639,18.6643
 1677,Nitriansky kraj,NI,Dobogov,935 56,48.1574,18.6515
-1678,Nitriansky kraj,NI,Jur nad Hronom,935 57,48.1267,18.6296
+1678,Nitriansky kraj,NI,Jur Nad Hronom,935 57,48.1267,18.6296
 1679,Nitriansky kraj,NI,Žemliare,935 57,48.1483,18.6037
 1680,Nitriansky kraj,NI,Domaša,935 61,48.0063,18.659
-1681,Nitriansky kraj,NI,Vozokany nad Hronom,935 61,48.0121,18.6621
+1681,Nitriansky kraj,NI,Vozokany Nad Hronom,935 61,48.0121,18.6621
 1682,Nitriansky kraj,NI,Čajakovo,935 61,47.9967,18.6578
 1683,Nitriansky kraj,NI,Hronovce,935 61,48.005,18.6596
 1684,Nitriansky kraj,NI,Pohronský Ruskov,935 62,47.9736,18.6563
@@ -1700,7 +1700,7 @@
 1698,Nitriansky kraj,NI,Ipeľský Sokolec,935 75,48.0189,18.8058
 1699,Nitriansky kraj,NI,Kubáňovo,935 75,48.0587,18.8114
 1700,Nitriansky kraj,NI,Nový Dvor,935 77,48.089,18.86
-1701,Nitriansky kraj,NI,Vyškovce nad Ipľom,935 77,48.0557,18.8678
+1701,Nitriansky kraj,NI,Vyškovce Nad Ipľom,935 77,48.0557,18.8678
 1702,Nitriansky kraj,NI,Stredné Turovce,935 81,48.1099,18.9464
 1703,Nitriansky kraj,NI,Veľké Turovce,935 81,48.1118,18.9455
 1704,Nitriansky kraj,NI,Dolné Turovce,935 81,48.0998,18.9415
@@ -1721,7 +1721,7 @@
 1719,Nitriansky kraj,NI,Bory,935 87,48.1808,18.7517
 1720,Nitriansky kraj,NI,Malinovec,935 87,48.1491,18.7768
 1721,Nitriansky kraj,NI,Domadice,935 87,48.1764,18.7797
-1722,Nitriansky kraj,NI,Preseľany nad Ipľom,936 01,48.0712,18.9107
+1722,Nitriansky kraj,NI,Preseľany Nad Ipľom,936 01,48.0712,18.9107
 1723,Nitriansky kraj,NI,Tešmák,936 01,48.063,18.9842
 1724,Nitriansky kraj,NI,Šahy,936 01,48.0741,18.9495
 1725,Nitriansky kraj,NI,Hrkovce,936 01,48.0884,18.9027
@@ -1751,7 +1751,7 @@
 1749,Nitriansky kraj,NI,Horné Krškany,949 05,48.2842,18.0887
 1750,Nitriansky kraj,NI,Janíkovce,949 07,48.2846,18.1386
 1751,Nitriansky kraj,NI,Klokočina,949 11,48.3019,18.0725
-1752,Nitriansky kraj,NI,Nitrian.Hrnčiarovce,951 01,48.2686,18.1968
+1752,Nitriansky kraj,NI,Nitrian.hrnčiarovce,951 01,48.2686,18.1968
 1753,Nitriansky kraj,NI,Štitáre,951 01,48.2686,18.1968
 1754,Nitriansky kraj,NI,Pohranice,951 02,48.331,18.1791
 1755,Nitriansky kraj,NI,Hosťová,951 02,48.3377,18.2045
@@ -1767,7 +1767,7 @@
 1765,Nitriansky kraj,NI,Čechynce,951 07,48.2549,18.1596
 1766,Nitriansky kraj,NI,Malý Cetín,951 07,48.2397,18.1769
 1767,Nitriansky kraj,NI,Golianovo,951 08,48.2719,18.1919
-1768,Nitriansky kraj,NI,Ivanka pri Nitre,951 12,48.243,18.1162
+1768,Nitriansky kraj,NI,Ivanka Pri Nitre,951 12,48.243,18.1162
 1769,Nitriansky kraj,NI,Branč,951 13,48.2187,18.1442
 1770,Nitriansky kraj,NI,Veľká Ves,951 13,48.2187,18.1442
 1771,Nitriansky kraj,NI,Poľný Kesov,951 15,48.1651,18.0669
@@ -1817,7 +1817,7 @@
 1815,Nitriansky kraj,NI,Mechenice,951 46,48.376,18.1203
 1816,Nitriansky kraj,NI,Podhorany,951 46,48.386,18.1183
 1817,Nitriansky kraj,NI,Jarok,951 48,48.2754,17.9591
-1818,Nitriansky kraj,NI,Nová Ves nad Žitavou,951 51,48.2903,18.3231
+1818,Nitriansky kraj,NI,Nová Ves Nad Žitavou,951 51,48.2903,18.3231
 1819,Nitriansky kraj,NI,Babindol,951 53,48.2892,18.2381
 1820,Nitriansky kraj,NI,Klasov,951 53,48.2762,18.2594
 1821,Nitriansky kraj,NI,Veľké Chyndice,951 54,48.2908,18.2881
@@ -1827,9 +1827,9 @@
 1825,Nitriansky kraj,NI,Jelenec,951 73,48.3784,18.2235
 1826,Nitriansky kraj,NI,Žirany,951 74,48.3777,18.1751
 1827,Nitriansky kraj,NI,Kolíňany,951 78,48.3606,18.1969
-1828,Nitriansky kraj,NI,Vajka nad Žitavou,951 88,48.2172,18.2855
+1828,Nitriansky kraj,NI,Vajka Nad Žitavou,951 88,48.2172,18.2855
 1829,Nitriansky kraj,NI,Martinová,951 88,48.2015,18.2815
-1830,Nitriansky kraj,NI,Lúčnica nad Žitavou,951 88,48.2093,18.2835
+1830,Nitriansky kraj,NI,Lúčnica Nad Žitavou,951 88,48.2093,18.2835
 1831,Nitriansky kraj,NI,Tajná,952 01,48.265,18.3634
 1832,Nitriansky kraj,NI,Vráble,952 01,48.2437,18.3085
 1833,Nitriansky kraj,NI,Žitavce,952 01,48.2022,18.3008
@@ -1842,7 +1842,7 @@
 1840,Nitriansky kraj,NI,Ondrochov,941 02,48.1257,18.1824
 1841,Nitriansky kraj,NI,Lipová,941 02,48.1183,18.1779
 1842,Nitriansky kraj,NI,Mlynský Sek,941 02,48.1109,18.1733
-1843,Nitriansky kraj,NI,Úľany nad Žitavou,941 03,48.1059,18.237
+1843,Nitriansky kraj,NI,Úľany Nad Žitavou,941 03,48.1059,18.237
 1844,Nitriansky kraj,NI,Mojzesovo,941 04,48.1333,18.2333
 1845,Nitriansky kraj,NI,Černík,941 05,48.1522,18.2261
 1846,Nitriansky kraj,NI,Komjatice,941 06,48.157,18.1703
@@ -1860,7 +1860,7 @@
 1858,Nitriansky kraj,NI,Zemné,941 22,47.9836,17.9949
 1859,Nitriansky kraj,NI,Andovce,941 23,47.9934,18.1051
 1860,Nitriansky kraj,NI,Gúg,941 23,48.0063,18.097
-1861,Nitriansky kraj,NI,Dvory nad Žitavou,941 31,47.9895,18.2672
+1861,Nitriansky kraj,NI,Dvory Nad Žitavou,941 31,47.9895,18.2672
 1862,Nitriansky kraj,NI,Branovo,941 31,48.0232,18.308
 1863,Nitriansky kraj,NI,Čechy,941 32,48.0352,18.3733
 1864,Nitriansky kraj,NI,Semerovo,941 32,48.0113,18.3525
@@ -1888,7 +1888,7 @@
 1886,Nitriansky kraj,NI,Hurbanovce,941 50,48.0856,18.4158
 1887,Nitriansky kraj,NI,Dedinka,941 50,48.0656,18.4224
 1888,Nitriansky kraj,NI,Pozba,941 51,48.115,18.3869
-1889,Nitriansky kraj,NI,Michal nad Žitavou,941 62,48.1856,18.2838
+1889,Nitriansky kraj,NI,Michal Nad Žitavou,941 62,48.1856,18.2838
 1890,Nitriansky kraj,NI,Kmeťovo,941 62,48.1675,18.2798
 1891,Nitriansky kraj,NI,Šurany,942 01,48.0861,18.1845
 1892,Nitriansky kraj,NI,Kostolný Sek,942 01,48.0979,18.1864
@@ -1917,24 +1917,24 @@
 1915,Nitriansky kraj,NI,Nána,943 60,47.8136,18.6965
 1916,Nitriansky kraj,NI,Salka,943 61,47.8859,18.7565
 1917,Nitriansky kraj,NI,Malé Kosihy,943 61,47.9255,18.7501
-1918,Nitriansky kraj,NI,Kamenica nad Hronom,943 65,47.8311,18.728
+1918,Nitriansky kraj,NI,Kamenica Nad Hronom,943 65,47.8311,18.728
 1919,Nitriansky kraj,NI,Chľaba,943 65,47.8295,18.8259
 1920,Nitriansky kraj,NI,Leľa,943 65,47.8588,18.7727
 1921,Nitriansky kraj,NI,Bajtava,943 65,47.8559,18.7494
 1922,Nitriansky kraj,NI,Kováčov,943 65,47.846,18.7513
-1923,Nitriansky kraj,NI,Malá nad Hronom,943 65,47.8549,18.6807
+1923,Nitriansky kraj,NI,Malá Nad Hronom,943 65,47.8549,18.6807
 1924,Nitriansky kraj,NI,Horný Jatov,925 71,48.1544,17.9607
 1925,Nitriansky kraj,NI,Kľučiareň,925 71,48.1519,17.9459
-1926,Nitriansky kraj,NI,Trnovec nad Váhom,925 71,48.1493,17.931
+1926,Nitriansky kraj,NI,Trnovec Nad Váhom,925 71,48.1493,17.931
 1927,Nitriansky kraj,NI,Selice,925 72,48.0958,17.9643
 1928,Nitriansky kraj,NI,Diakovce,925 81,48.1345,17.8487
 1929,Nitriansky kraj,NI,Tešedíkovo,925 82,48.1061,17.8519
 1930,Nitriansky kraj,NI,Žihárec,925 83,48.0723,17.8867
 1931,Nitriansky kraj,NI,Vlčany,925 84,48.031,17.9521
 1932,Nitriansky kraj,NI,Neded,925 85,48.0212,17.9618
-1933,Nitriansky kraj,NI,Kráľová nad Váhom,925 91,48.1692,17.8422
+1933,Nitriansky kraj,NI,Kráľová Nad Váhom,925 91,48.1692,17.8422
 1934,Nitriansky kraj,NI,Hetméň,927 01,48.1719,17.8643
-1935,Nitriansky kraj,NI,Dlhá nad Váhom,927 05,48.1719,17.8643
+1935,Nitriansky kraj,NI,Dlhá Nad Váhom,927 05,48.1719,17.8643
 1936,Nitriansky kraj,NI,Gorazdov,951 31,48.1919,17.9566
 1937,Nitriansky kraj,NI,Močenok,951 31,48.2277,17.9308
 1938,Nitriansky kraj,NI,Horná Kráľová,951 32,48.2453,17.9131
@@ -1977,7 +1977,7 @@
 1975,Nitriansky kraj,NI,Obsolovce,956 08,48.5005,18.0147
 1976,Nitriansky kraj,NI,Bodok,956 08,48.3132,18.2105
 1977,Nitriansky kraj,NI,Ludanice,956 11,48.4956,18.116
-1978,Nitriansky kraj,NI,Dvorany nad Nitrou,956 11,48.4866,18.1187
+1978,Nitriansky kraj,NI,Dvorany Nad Nitrou,956 11,48.4866,18.1187
 1979,Nitriansky kraj,NI,Mýtna Nová Ves,956 11,48.4845,18.1067
 1980,Nitriansky kraj,NI,Kamanová,956 12,48.4752,18.102
 1981,Nitriansky kraj,NI,Belince,956 12,48.4597,18.1013
@@ -2003,7 +2003,7 @@
 2001,Nitriansky kraj,NI,Rajčany,956 32,48.61,18.2338
 2002,Nitriansky kraj,NI,Solčianky,956 38,48.6198,18.2021
 2003,Nitriansky kraj,NI,Norovce,956 38,48.6311,18.1812
-2004,Nitriansky kraj,NI,Vieska nad Žitavou,951 52,48.3183,18.3601
+2004,Nitriansky kraj,NI,Vieska Nad Žitavou,951 52,48.3183,18.3601
 2005,Nitriansky kraj,NI,Slepčany,951 52,48.3104,18.3396
 2006,Nitriansky kraj,NI,Nevidzany,951 62,48.2846,18.3776
 2007,Nitriansky kraj,NI,Sľažany,951 71,48.3837,18.3256
@@ -2014,12 +2014,12 @@
 2012,Nitriansky kraj,NI,Chrašťany,951 75,48.3441,18.2899
 2013,Nitriansky kraj,NI,Beladice,951 75,48.3441,18.2899
 2014,Nitriansky kraj,NI,Pustý Chotár,951 75,48.3441,18.2899
-2015,Nitriansky kraj,NI,Tesáre nad Žitavou,951 76,48.3333,18.3667
+2015,Nitriansky kraj,NI,Tesáre Nad Žitavou,951 76,48.3333,18.3667
 2016,Nitriansky kraj,NI,Choča,951 76,48.3568,18.3241
 2017,Nitriansky kraj,NI,Mlyňany,951 76,48.3341,18.3536
 2018,Nitriansky kraj,NI,Tesárske Mlyňany,951 76,48.3414,18.3481
 2019,Nitriansky kraj,NI,Ladice,951 77,48.3956,18.262
-2020,Nitriansky kraj,NI,Kostoľany p/Tribečom,951 77,48.3956,18.262
+2020,Nitriansky kraj,NI,Kostoľany P/tribečom,951 77,48.3956,18.262
 2021,Nitriansky kraj,NI,Nemčiňany,951 81,48.3087,18.4515
 2022,Nitriansky kraj,NI,Veľké Vozokany,951 82,48.3206,18.4121
 2023,Nitriansky kraj,NI,Červený Hrádok,951 82,48.3018,18.3867
@@ -2041,7 +2041,7 @@
 2039,Nitriansky kraj,NI,Žitavany,951 97,48.4376,18.3981
 2040,Nitriansky kraj,NI,Chyzerovce,953 01,48.3682,18.3896
 2041,Nitriansky kraj,NI,Čaradice,953 01,48.3589,18.5088
-2042,Nitriansky kraj,NI,Martin nad Žitavou,953 01,48.3636,18.4492
+2042,Nitriansky kraj,NI,Martin Nad Žitavou,953 01,48.3636,18.4492
 2043,Nitriansky kraj,NI,Prílepy,953 05,48.3595,18.4175
 2044,Nitriansky kraj,NI,Čierne Kľačany,953 05,48.3595,18.4175
 2045,Nitriansky kraj,NI,Tekovské Nemce,966 54,48.3561,18.5301
@@ -2154,7 +2154,7 @@
 2152,Prešovský kraj,PV,Lackovce,066 01,48.9406,21.9563
 2153,Prešovský kraj,PV,Humenné,066 01,48.9371,21.9163
 2154,Prešovský kraj,PV,Valaškovce,066 01,48.9251,22.1097
-2155,Prešovský kraj,PV,Hrabovec n/ Laborcom,067 01,49.1625,21.9376
+2155,Prešovský kraj,PV,Hrabovec N/ Laborcom,067 01,49.1625,21.9376
 2156,Prešovský kraj,PV,Ľubiša,067 11,49.0058,21.9476
 2157,Prešovský kraj,PV,Vyšné Ladičkovce,067 11,49.0398,21.8916
 2158,Prešovský kraj,PV,Nižné Ladičkovce,067 11,49.0233,21.902
@@ -2164,7 +2164,7 @@
 2162,Prešovský kraj,PV,Zbudské Dlhé,067 12,49.0769,21.9602
 2163,Prešovský kraj,PV,Jabloň,067 13,49.0665,21.9794
 2164,Prešovský kraj,PV,Slovenské Krivé,067 13,49.0714,22.0038
-2165,Prešovský kraj,PV,Rokytov pri Humennom,067 13,49.069,21.9916
+2165,Prešovský kraj,PV,Rokytov Pri Humennom,067 13,49.069,21.9916
 2166,Prešovský kraj,PV,Sopkovce,067 22,49.0156,21.8686
 2167,Prešovský kraj,PV,Slovenská Volová,067 22,48.9806,21.84
 2168,Prešovský kraj,PV,Gruzovce,067 22,48.9747,21.8658
@@ -2194,10 +2194,10 @@
 2192,Prešovský kraj,PV,Hudcovce,067 45,48.909,21.7891
 2193,Prešovský kraj,PV,Karná,067 45,48.9842,21.8064
 2194,Prešovský kraj,PV,Lieskovec,067 45,48.952,21.8168
-2195,Prešovský kraj,PV,Modra nad Cirochou,067 82,48.9599,22.0623
+2195,Prešovský kraj,PV,Modra Nad Cirochou,067 82,48.9599,22.0623
 2196,Prešovský kraj,PV,Kamienka,067 83,48.9062,22.001
-2197,Prešovský kraj,PV,Kamenica n/Cirochou,067 83,48.918,21.9807
-2198,Prešovský kraj,PV,Hažín nad Cirochou,067 83,48.9298,21.9605
+2197,Prešovský kraj,PV,Kamenica N/cirochou,067 83,48.918,21.9807
+2198,Prešovský kraj,PV,Hažín Nad Cirochou,067 83,48.9298,21.9605
 2199,Prešovský kraj,PV,Košarovce,094 06,49.0424,21.781
 2200,Prešovský kraj,PV,Vyšná Sitnica,094 07,49.0971,21.7888
 2201,Prešovský kraj,PV,Ruská Kajňa,094 07,49.1197,21.8397
@@ -2234,7 +2234,7 @@
 2232,Prešovský kraj,PV,Pikovce,059 72,49.0394,20.4611
 2233,Prešovský kraj,PV,Vrbov,059 72,49.0876,20.4253
 2234,Prešovský kraj,PV,Žakovce,059 73,49.0832,20.3977
-2235,Prešovský kraj,PV,Stráne pod Tatrami,059 76,49.1589,20.367
+2235,Prešovský kraj,PV,Stráne Pod Tatrami,059 76,49.1589,20.367
 2236,Prešovský kraj,PV,Mlynčeky,059 76,49.1672,20.384
 2237,Prešovský kraj,PV,Rakúsy,059 76,49.1884,20.3818
 2238,Prešovský kraj,PV,Veľká Franková,059 78,49.3383,20.2937
@@ -2253,7 +2253,7 @@
 2251,Prešovský kraj,PV,Kežmarok,060 01,49.1357,20.4335
 2252,Prešovský kraj,PV,Majere,061 01,49.3972,20.3768
 2253,Prešovský kraj,PV,Havka,061 01,49.3451,20.4067
-2254,Prešovský kraj,PV,Lysá nad Dunajcom,061 01,49.4002,20.3392
+2254,Prešovský kraj,PV,Lysá Nad Dunajcom,061 01,49.4002,20.3392
 2255,Prešovský kraj,PV,Spišská Stará Ves,061 01,49.383,20.3596
 2256,Prešovský kraj,PV,Spišský Hrhov,053 02,48.9998,20.6412
 2257,Prešovský kraj,PV,Roškovce,053 02,49.019,20.6464
@@ -2298,9 +2298,9 @@
 2296,Prešovský kraj,PV,Levočské Lúky,054 01,49.0288,20.5771
 2297,Prešovský kraj,PV,Volica,067 01,49.1557,21.9182
 2298,Prešovský kraj,PV,Valentovce,067 01,49.1783,21.9539
-2299,Prešovský kraj,PV,Radvaň nad Laborcom,067 01,49.1625,21.9376
+2299,Prešovský kraj,PV,Radvaň Nad Laborcom,067 01,49.1625,21.9376
 2300,Prešovský kraj,PV,Zbudská Belá,067 01,49.1534,21.9407
-2301,Prešovský kraj,PV,Brestov nad Laborcom,067 01,49.1625,21.9376
+2301,Prešovský kraj,PV,Brestov Nad Laborcom,067 01,49.1625,21.9376
 2302,Prešovský kraj,PV,Roškovce,067 02,49.2392,21.8477
 2303,Prešovský kraj,PV,Sukov,067 02,49.2191,21.8745
 2304,Prešovský kraj,PV,Čabiny,067 02,49.2291,21.8611
@@ -2325,7 +2325,7 @@
 2323,Prešovský kraj,PV,Kvetnica,058 01,49.0166,20.2843
 2324,Prešovský kraj,PV,Veľká,058 01,49.0654,20.2822
 2325,Prešovský kraj,PV,Poprad,058 01,49.0614,20.298
-2326,Prešovský kraj,PV,Stráže pod Tatrami,058 01,49.0578,20.3253
+2326,Prešovský kraj,PV,Stráže Pod Tatrami,058 01,49.0578,20.3253
 2327,Prešovský kraj,PV,Filice,058 01,49.0281,20.3184
 2328,Prešovský kraj,PV,Spišská Sobota,058 01,49.0649,20.3178
 2329,Prešovský kraj,PV,Gánovce,058 01,49.0301,20.3275
@@ -2462,7 +2462,7 @@
 2460,Prešovský kraj,PV,Salvátor,082 36,49.0479,20.9453
 2461,Prešovský kraj,PV,Šindliar,082 36,49.0396,20.9439
 2462,Prešovský kraj,PV,Lačnov,082 36,49.0703,20.9242
-2463,Prešovský kraj,PV,Lipovce - chaty,082 36,49.0535,20.9417
+2463,Prešovský kraj,PV,Lipovce - Chaty,082 36,49.0535,20.9417
 2464,Prešovský kraj,PV,Fričovce,082 37,49.0167,20.963
 2465,Prešovský kraj,PV,Široké,082 37,48.9979,20.9407
 2466,Prešovský kraj,PV,Pod Braniskom,082 37,49.0073,20.9518
@@ -2506,7 +2506,7 @@
 2504,Prešovský kraj,PV,Šarišské Michaľany,082 22,49.0679,21.1354
 2505,Prešovský kraj,PV,Hanigovce,082 56,49.1726,21.0179
 2506,Prešovský kraj,PV,Pečovská Nová Ves,082 56,49.1238,21.0437
-2507,Prešovský kraj,PV,Červenica pri Sabin.,082 56,49.1429,21.0257
+2507,Prešovský kraj,PV,Červenica Pri Sabin.,082 56,49.1429,21.0257
 2508,Prešovský kraj,PV,Jakubova Voľa,082 56,49.1323,21.0156
 2509,Prešovský kraj,PV,Ľutina,082 57,49.1676,21.0486
 2510,Prešovský kraj,PV,Olejníkov,082 57,49.1819,21.0652
@@ -2580,8 +2580,8 @@
 2578,Prešovský kraj,PV,Michajlov,067 73,48.9098,22.3441
 2579,Prešovský kraj,PV,Brezovec,067 73,48.9351,22.3864
 2580,Prešovský kraj,PV,Zemplínske Hámre,067 77,48.9193,22.334
-2581,Prešovský kraj,PV,Belá nad Cirochou,067 81,48.975,22.1076
-2582,Prešovský kraj,PV,Dlhé nad Cirochou,067 82,48.9599,22.0623
+2581,Prešovský kraj,PV,Belá Nad Cirochou,067 81,48.975,22.1076
+2582,Prešovský kraj,PV,Dlhé Nad Cirochou,067 82,48.9599,22.0623
 2583,Prešovský kraj,PV,Snina,069 01,48.9886,22.151
 2584,Prešovský kraj,PV,Pichne,069 01,49.0377,22.1214
 2585,Prešovský kraj,PV,Chmeľnica,064 01,49.2961,20.7295
@@ -2592,13 +2592,13 @@
 2590,Prešovský kraj,PV,Hniezdne,065 01,49.3026,20.6329
 2591,Prešovský kraj,PV,Nižné Ružbachy,065 02,49.2811,20.5775
 2592,Prešovský kraj,PV,Vyšné Ružbachy,065 02,49.3039,20.5656
-2593,Prešovský kraj,PV,Ružbachy - kúpele,065 02,49.2925,20.5715
+2593,Prešovský kraj,PV,Ružbachy - Kúpele,065 02,49.2925,20.5715
 2594,Prešovský kraj,PV,Podolínec,065 03,49.2587,20.536
 2595,Prešovský kraj,PV,Lomnička,065 03,49.2497,20.5696
 2596,Prešovský kraj,PV,Nová Ľubovňa,065 11,49.2702,20.6835
 2597,Prešovský kraj,PV,Kolačkov,065 11,49.2609,20.6288
 2598,Prešovský kraj,PV,Jakubany,065 12,49.2481,20.6959
-2599,Prešovský kraj,PV,Mníšek nad Popradom,065 22,49.414,20.7163
+2599,Prešovský kraj,PV,Mníšek Nad Popradom,065 22,49.414,20.7163
 2600,Prešovský kraj,PV,Kače,065 22,49.4146,20.7363
 2601,Prešovský kraj,PV,Kremná,065 22,49.3585,20.6996
 2602,Prešovský kraj,PV,Medzibrodie,065 22,49.3996,20.7553
@@ -2620,7 +2620,7 @@
 2618,Prešovský kraj,PV,Podpílie,065 41,49.2387,20.8798
 2619,Prešovský kraj,PV,Čirč,065 42,49.2787,20.9242
 2620,Prešovský kraj,PV,Obručné,065 42,49.303,20.9817
-2621,Prešovský kraj,PV,Ruská Voľa n/Popr.,065 42,49.2909,20.9529
+2621,Prešovský kraj,PV,Ruská Voľa N/popr.,065 42,49.2909,20.9529
 2622,Prešovský kraj,PV,Andrejovka,065 43,49.2876,20.8973
 2623,Prešovský kraj,PV,Orlov,065 43,49.2847,20.8696
 2624,Prešovský kraj,PV,Plaveč,065 44,49.2627,20.8423
@@ -2670,7 +2670,7 @@
 2668,Prešovský kraj,PV,Nižná Olšava,090 32,49.1433,21.6342
 2669,Prešovský kraj,PV,Kručov,090 32,49.1146,21.6063
 2670,Prešovský kraj,PV,Bžany,090 33,49.0914,21.6383
-2671,Prešovský kraj,PV,Turany nad Ondavou,090 33,49.0997,21.6565
+2671,Prešovský kraj,PV,Turany Nad Ondavou,090 33,49.0997,21.6565
 2672,Prešovský kraj,PV,Lomné,090 33,49.1058,21.6333
 2673,Prešovský kraj,PV,Tokajík,090 34,49.1063,21.708
 2674,Prešovský kraj,PV,Mrázovce,090 34,49.1152,21.6742
@@ -2693,7 +2693,7 @@
 2691,Prešovský kraj,PV,Želmanovce,086 44,49.1182,21.4283
 2692,Prešovský kraj,PV,Kuková,086 44,49.1095,21.4549
 2693,Prešovský kraj,PV,Dukovce,086 44,49.1217,21.4168
-2694,Prešovský kraj,PV,Lužany pri Topli,087 01,49.1202,21.4926
+2694,Prešovský kraj,PV,Lužany Pri Topli,087 01,49.1202,21.4926
 2695,Prešovský kraj,PV,Kračúnovce,087 01,49.0952,21.488
 2696,Prešovský kraj,PV,Giraltovce,087 01,49.114,21.5173
 2697,Prešovský kraj,PV,Lúčka,087 01,49.1041,21.4786
@@ -2770,7 +2770,7 @@
 2768,Prešovský kraj,PV,Kamenná Poruba,093 03,48.8476,21.6491
 2769,Prešovský kraj,PV,Tovarné,094 01,48.9132,21.7585
 2770,Prešovský kraj,PV,Štefanovce,094 01,48.9598,21.7731
-2771,Prešovský kraj,PV,Tovarnian.Polianka,094 01,48.9367,21.7584
+2771,Prešovský kraj,PV,Tovarnian.polianka,094 01,48.9367,21.7584
 2772,Prešovský kraj,PV,Ondavské Matiašovce,094 01,48.937,21.7435
 2773,Prešovský kraj,PV,Slovenská Kajňa,094 02,48.9661,21.7009
 2774,Prešovský kraj,PV,Malá Domaša,094 02,48.9711,21.7111
@@ -2821,19 +2821,19 @@
 2819,Prešovský kraj,PV,Remeniny,094 31,49.0354,21.5531
 2820,Prešovský kraj,PV,Prosačov,094 31,49.0436,21.5349
 2821,Prešovský kraj,PV,Ruská Voľa,094 31,49.0968,21.5895
-2822,Prešovský kraj,PV,Hanušovce nad Topľou,094 31,49.0269,21.5041
+2822,Prešovský kraj,PV,Hanušovce Nad Topľou,094 31,49.0269,21.5041
 2823,Prešovský kraj,PV,Zlatník,094 33,48.9667,21.5422
 2824,Prešovský kraj,PV,Vyšný Žipov,094 33,48.9847,21.5878
 2825,Prešovský kraj,PV,Petkovce,094 33,49.0021,21.6002
 2826,Prešovský kraj,PV,Skrabské,094 33,49.0073,21.5785
-2827,Prešovský kraj,PV,Hermanovce n/ Topľou,094 34,49.0041,21.5551
-2828,Prešovský kraj,PV,Čierne nad Topľou,094 34,48.997,21.5673
+2827,Prešovský kraj,PV,Hermanovce N/ Topľou,094 34,49.0041,21.5551
+2828,Prešovský kraj,PV,Čierne Nad Topľou,094 34,48.997,21.5673
 2829,Prešovský kraj,PV,Bystré,094 34,49.0113,21.5429
 2830,Prešovský kraj,PV,Hlinné,094 35,48.9507,21.5788
 2831,Prešovský kraj,PV,Soľ,094 35,48.9278,21.5995
 2832,Prešovský kraj,PV,Rudlov,094 35,48.9231,21.5726
 2833,Prešovský kraj,PV,Čaklov,094 35,48.9075,21.6299
-2834,Prešovský kraj,PV,Jastrabie nad Topľou,094 35,48.9273,21.5952
+2834,Prešovský kraj,PV,Jastrabie Nad Topľou,094 35,48.9273,21.5952
 2835,Trnavský kraj,TA,Pataš,929 01,47.8754,17.6523
 2836,Trnavský kraj,TA,Mliečany,929 01,47.9717,17.6046
 2837,Trnavský kraj,TA,Malé Blahovo,929 01,48,17.6167
@@ -2862,7 +2862,7 @@
 2860,Trnavský kraj,TA,Kostolné Kračany,930 03,47.9735,17.5734
 2861,Trnavský kraj,TA,Kynceľove Kračany,930 03,47.97,17.5595
 2862,Trnavský kraj,TA,Kľúčiarove Kračany,930 03,47.9674,17.5402
-2863,Trnavský kraj,TA,Lúč na Ostrove,930 03,47.9775,17.5535
+2863,Trnavský kraj,TA,Lúč Na Ostrove,930 03,47.9775,17.5535
 2864,Trnavský kraj,TA,Lesné Kračany,930 03,47.9941,17.565
 2865,Trnavský kraj,TA,Moravské Kračany,930 03,47.969,17.5623
 2866,Trnavský kraj,TA,Amadeho Kračany,930 03,47.9775,17.5535
@@ -2870,7 +2870,7 @@
 2868,Trnavský kraj,TA,Jastrabie Kračany,930 03,48.0024,17.5465
 2869,Trnavský kraj,TA,Etreho Kračany,930 03,47.9775,17.5535
 2870,Trnavský kraj,TA,Jurová,930 04,47.9336,17.5228
-2871,Trnavský kraj,TA,Trstená na Ostrove,930 04,47.9178,17.4995
+2871,Trnavský kraj,TA,Trstená Na Ostrove,930 04,47.9178,17.4995
 2872,Trnavský kraj,TA,Baka,930 04,47.9076,17.5217
 2873,Trnavský kraj,TA,Gabčíkovo,930 05,47.8921,17.5788
 2874,Trnavský kraj,TA,Ňárad,930 06,47.8336,17.6125
@@ -2881,7 +2881,7 @@
 2879,Trnavský kraj,TA,Baloň,930 08,47.8259,17.6779
 2880,Trnavský kraj,TA,Čiližská Radvaň,930 08,47.8345,17.6961
 2881,Trnavský kraj,TA,Dolný Štál,930 10,47.9333,17.7167
-2882,Trnavský kraj,TA,Jánošíkovo na Ostrov,930 10,47.9333,17.7167
+2882,Trnavský kraj,TA,Jánošíkovo Na Ostrov,930 10,47.9333,17.7167
 2883,Trnavský kraj,TA,Topoľníky,930 11,47.9675,17.7902
 2884,Trnavský kraj,TA,Ohrady,930 12,47.9833,17.7
 2885,Trnavský kraj,TA,Horné Mýto,930 13,48.0112,17.751
@@ -2891,17 +2891,17 @@
 2889,Trnavský kraj,TA,Vydrany,930 16,48.0181,17.5859
 2890,Trnavský kraj,TA,Dunajský Klátov,930 21,48.0331,17.6957
 2891,Trnavský kraj,TA,Jahodná,930 21,48.053,17.7074
-2892,Trnavský kraj,TA,Nekyje na Ostrove,930 25,47.9429,17.6011
+2892,Trnavský kraj,TA,Nekyje Na Ostrove,930 25,47.9429,17.6011
 2893,Trnavský kraj,TA,Vrakúň,930 25,47.9429,17.6011
 2894,Trnavský kraj,TA,Okoč,930 28,47.8876,17.8087
 2895,Trnavský kraj,TA,Opatovský Sokolec,930 28,47.8998,17.8078
 2896,Trnavský kraj,TA,Kyselica,930 30,47.9877,17.389
 2897,Trnavský kraj,TA,Báč,930 30,48.0026,17.3742
 2898,Trnavský kraj,TA,Rohovce,930 30,47.9961,17.4114
-2899,Trnavský kraj,TA,Vojka nad Dunajom,930 31,47.9735,17.3815
+2899,Trnavský kraj,TA,Vojka Nad Dunajom,930 31,47.9735,17.3815
 2900,Trnavský kraj,TA,Dobrohošť,930 31,47.9827,17.3656
 2901,Trnavský kraj,TA,Bodíky,930 31,47.9232,17.4595
-2902,Trnavský kraj,TA,Blatná na Ostrove,930 32,48.0084,17.4426
+2902,Trnavský kraj,TA,Blatná Na Ostrove,930 32,48.0084,17.4426
 2903,Trnavský kraj,TA,Macov,930 32,48.0203,17.4305
 2904,Trnavský kraj,TA,Trnávka,930 32,48.0138,17.4048
 2905,Trnavský kraj,TA,Horný Bar,930 33,47.9483,17.4627
@@ -2915,7 +2915,7 @@
 2913,Trnavský kraj,TA,Veľká Budafa,930 34,47.9991,17.4825
 2914,Trnavský kraj,TA,Kostolná Gala,930 34,47.9991,17.4825
 2915,Trnavský kraj,TA,Kolónia,930 35,48.0367,17.4414
-2916,Trnavský kraj,TA,Michal na Ostrove,930 35,48.0367,17.4414
+2916,Trnavský kraj,TA,Michal Na Ostrove,930 35,48.0367,17.4414
 2917,Trnavský kraj,TA,Horná Potôň,930 36,48.0389,17.4904
 2918,Trnavský kraj,TA,Benkova Potôň,930 36,48.041,17.5022
 2919,Trnavský kraj,TA,Masníkovo,930 36,48.041,17.4768
@@ -2939,7 +2939,7 @@
 2937,Trnavský kraj,TA,Zlaté Klasy,930 39,48.1062,17.4179
 2938,Trnavský kraj,TA,Búštelek,930 39,48.1062,17.4179
 2939,Trnavský kraj,TA,Čakany,930 40,48.118,17.3662
-2940,Trnavský kraj,TA,Štvrtok na Ostrove,930 40,48.0992,17.3539
+2940,Trnavský kraj,TA,Štvrtok Na Ostrove,930 40,48.0992,17.3539
 2941,Trnavský kraj,TA,Hviezdoslavov,930 41,48.0679,17.3479
 2942,Trnavský kraj,TA,Mierovo,930 41,48.0615,17.343
 2943,Trnavský kraj,TA,Kvetoslavov,930 41,48.0552,17.3382
@@ -2948,7 +2948,7 @@
 2946,Trnavský kraj,TA,Čukárska Paka,930 51,48.0331,17.3879
 2947,Trnavský kraj,TA,Bellova Ves,930 52,48.0908,17.5131
 2948,Trnavský kraj,TA,Potônske Lúky,930 52,48.0908,17.5131
-2949,Trnavský kraj,TA,Orechová Potôň-Lúky,930 52,48.0908,17.5131
+2949,Trnavský kraj,TA,Orechová Potôň-lúky,930 52,48.0908,17.5131
 2950,Trnavský kraj,TA,Blahová,930 52,48.0908,17.5131
 2951,Trnavský kraj,TA,Horná Potôň - Lúky,930 52,48.0908,17.5131
 2952,Trnavský kraj,TA,Mliečno,931 01,48.0179,17.3351
@@ -2995,7 +2995,7 @@
 2993,Trnavský kraj,TA,Pusté Sady,925 54,48.3134,17.8295
 2994,Trnavský kraj,TA,Zemianske Sady,925 54,48.33,17.8199
 2995,Trnavský kraj,TA,Šalgočka,925 54,48.3362,17.8133
-2996,Trnavský kraj,TA,Vinohrady nad Váhom,925 55,48.2855,17.8151
+2996,Trnavský kraj,TA,Vinohrady Nad Váhom,925 55,48.2855,17.8151
 2997,Trnavský kraj,TA,Váhovce,925 62,48.2492,17.7854
 2998,Trnavský kraj,TA,Dolná Streda,925 63,48.2691,17.7499
 2999,Trnavský kraj,TA,Paľovce,925 92,48.1639,17.8077
@@ -3054,7 +3054,7 @@
 3052,Trnavský kraj,TA,Trebatice,922 10,48.5965,17.7515
 3053,Trnavský kraj,TA,Pustá Ves,922 11,48.6374,17.6335
 3054,Trnavský kraj,TA,Prašník,922 11,48.6515,17.6873
-3055,Trnavský kraj,TA,Moravany nad Váhom,922 21,48.6012,17.8583
+3055,Trnavský kraj,TA,Moravany Nad Váhom,922 21,48.6012,17.8583
 3056,Trnavský kraj,TA,Hubina,922 21,48.6179,17.8847
 3057,Trnavský kraj,TA,Ducové,922 21,48.6096,17.8715
 3058,Trnavský kraj,TA,Sokolovce,922 31,48.5356,17.8436
@@ -3082,7 +3082,7 @@
 3080,Trnavský kraj,TA,Šajdíkove Humence,906 07,48.6543,17.2676
 3081,Trnavský kraj,TA,Podhorie,906 11,48.6741,17.4415
 3082,Trnavský kraj,TA,Prietrž,906 11,48.6741,17.4415
-3083,Trnavský kraj,TA,Hradište pod Vrátnom,906 12,48.627,17.4876
+3083,Trnavský kraj,TA,Hradište Pod Vrátnom,906 12,48.627,17.4876
 3084,Trnavský kraj,TA,Osuské,906 12,48.6242,17.44
 3085,Trnavský kraj,TA,Hlboké,906 31,48.6592,17.4068
 3086,Trnavský kraj,TA,Jablonica,906 32,48.606,17.4217
@@ -3094,7 +3094,7 @@
 3092,Trnavský kraj,TA,Štefanov,906 45,48.6792,17.201
 3093,Trnavský kraj,TA,Kúty,908 01,48.66,17.0282
 3094,Trnavský kraj,TA,Šaštín,908 41,48.6362,17.1502
-3095,Trnavský kraj,TA,Stráže nad Myjavou,908 41,48.6483,17.1384
+3095,Trnavský kraj,TA,Stráže Nad Myjavou,908 41,48.6483,17.1384
 3096,Trnavský kraj,TA,Šaštín - Stráže,908 41,48.6422,17.1443
 3097,Trnavský kraj,TA,Smolinské,908 42,48.6752,17.1302
 3098,Trnavský kraj,TA,Čáry,908 43,48.6551,17.0913
@@ -3133,8 +3133,8 @@
 3131,Trnavský kraj,TA,Brodské,908 85,48.6909,17.0145
 3132,Trnavský kraj,TA,Skalica,909 01,48.8449,17.2264
 3133,Trnavský kraj,TA,Modranka,917 05,48.3494,17.609
-3134,Trnavský kraj,TA,Suchá nad Parnou,919 01,48.411,17.487
-3135,Trnavský kraj,TA,Ružová dolina,919 01,48.4121,17.4714
+3134,Trnavský kraj,TA,Suchá Nad Parnou,919 01,48.411,17.487
+3135,Trnavský kraj,TA,Ružová Dolina,919 01,48.4121,17.4714
 3136,Trnavský kraj,TA,Košolná,919 01,48.4246,17.4648
 3137,Trnavský kraj,TA,Dlhá,919 01,48.4121,17.4275
 3138,Trnavský kraj,TA,Zvončín,919 01,48.4007,17.5065
@@ -3149,12 +3149,12 @@
 3147,Trnavský kraj,TA,Klčovany,919 08,48.4543,17.5036
 3148,Trnavský kraj,TA,Boleráz,919 08,48.4681,17.4948
 3149,Trnavský kraj,TA,Šelpice,919 09,48.4312,17.5313
-3150,Trnavský kraj,TA,Bohdanovce n/Trnavou,919 09,48.4312,17.5313
+3150,Trnavský kraj,TA,Bohdanovce N/trnavou,919 09,48.4312,17.5313
 3151,Trnavský kraj,TA,Buková,919 10,48.5432,17.397
 3152,Trnavský kraj,TA,Zeleneč,919 21,48.329,17.5954
 3153,Trnavský kraj,TA,Majcichov,919 22,48.2846,17.6303
 3154,Trnavský kraj,TA,Vlčkovce,919 23,48.317,17.6497
-3155,Trnavský kraj,TA,Križovany n/Dudváhom,919 24,48.359,17.6742
+3155,Trnavský kraj,TA,Križovany N/dudváhom,919 24,48.359,17.6742
 3156,Trnavský kraj,TA,Varov Šúr,919 25,48.3381,17.7317
 3157,Trnavský kraj,TA,Šúrovce,919 25,48.3312,17.7186
 3158,Trnavský kraj,TA,Zavar,919 26,48.3528,17.6738
@@ -3168,10 +3168,10 @@
 3166,Trnavský kraj,TA,Radošovce,919 30,48.4973,17.634
 3167,Trnavský kraj,TA,Jaslovce,919 30,48.4699,17.6541
 3168,Trnavský kraj,TA,Jaslovské Bohunice,919 30,48.4755,17.6474
-3169,Trnavský kraj,TA,Jas.Bohunice-At.el.,919 31,48.4406,17.6369
+3169,Trnavský kraj,TA,Jas.bohunice-at.el.,919 31,48.4406,17.6369
 3170,Trnavský kraj,TA,Opoj,919 32,48.3021,17.6438
 3171,Trnavský kraj,TA,Biely Kostol,919 34,48.3675,17.5304
-3172,Trnavský kraj,TA,Hrnčiarovce n/Parnou,919 35,48.4406,17.6369
+3172,Trnavský kraj,TA,Hrnčiarovce N/parnou,919 35,48.4406,17.6369
 3173,Trnavský kraj,TA,Pavlice,919 42,48.2579,17.5766
 3174,Trnavský kraj,TA,Slovenská Nová Ves,919 42,48.2922,17.5338
 3175,Trnavský kraj,TA,Voderady,919 42,48.277,17.5594
@@ -3207,7 +3207,7 @@
 3205,Trenčiansky kraj,TC,Veľké Hoste,956 38,48.6255,18.1917
 3206,Trenčiansky kraj,TC,Pochabany,956 38,48.6255,18.1917
 3207,Trenčiansky kraj,TC,Uhrovec,956 41,48.532,18.0794
-3208,Trenčiansky kraj,TC,Závada p/Čier.vrchom,956 41,48.532,18.0794
+3208,Trenčiansky kraj,TC,Závada P/Čier.vrchom,956 41,48.532,18.0794
 3209,Trenčiansky kraj,TC,Uhrovské Podhradie,956 41,48.532,18.0794
 3210,Trenčiansky kraj,TC,Žitná,956 41,48.532,18.0794
 3211,Trenčiansky kraj,TC,Omastiná,956 41,48.532,18.0794
@@ -3219,10 +3219,10 @@
 3217,Trenčiansky kraj,TC,Timoradza,956 52,48.532,18.0794
 3218,Trenčiansky kraj,TC,Podlužany,956 52,48.532,18.0794
 3219,Trenčiansky kraj,TC,Krásna Ves,956 53,48.532,18.0794
-3220,Trenčiansky kraj,TC,Slatinka n/Bebravou,956 53,48.532,18.0794
+3220,Trenčiansky kraj,TC,Slatinka N/bebravou,956 53,48.532,18.0794
 3221,Trenčiansky kraj,TC,Čierna Lehota,956 53,48.532,18.0794
 3222,Trenčiansky kraj,TC,Trebichava,956 53,48.532,18.0794
-3223,Trenčiansky kraj,TC,Slatina nad Bebravou,956 53,48.532,18.0794
+3223,Trenčiansky kraj,TC,Slatina Nad Bebravou,956 53,48.532,18.0794
 3224,Trenčiansky kraj,TC,Šípkov,956 53,48.532,18.0794
 3225,Trenčiansky kraj,TC,Kochnáč,956 54,48.532,18.0794
 3226,Trenčiansky kraj,TC,Veľké Držkovce,956 54,48.532,18.0794
@@ -3248,7 +3248,7 @@
 3246,Trenčiansky kraj,TC,Vlčkovo,957 03,48.4084,18.1537
 3247,Trenčiansky kraj,TC,Dežerice,957 03,48.4084,18.1537
 3248,Trenčiansky kraj,TC,Dubnička,957 03,48.4084,18.1537
-3249,Trenčiansky kraj,TC,Malé Košec.Podhradie,018 31,49.1135,18.2144
+3249,Trenčiansky kraj,TC,Malé Košec.podhradie,018 31,49.1135,18.2144
 3250,Trenčiansky kraj,TC,Veľké Košecké Podhra,018 31,49.1135,18.2144
 3251,Trenčiansky kraj,TC,Košecké Podhradie,018 31,49.1135,18.2144
 3252,Trenčiansky kraj,TC,Kopec,018 31,49.1135,18.2144
@@ -3256,7 +3256,7 @@
 3254,Trenčiansky kraj,TC,Zliechov,018 32,49.1135,18.2144
 3255,Trenčiansky kraj,TC,Horná Poruba,018 35,49.1135,18.2144
 3256,Trenčiansky kraj,TC,Prejta,018 41,49.1135,18.2144
-3257,Trenčiansky kraj,TC,Dubnica nad Váhom,018 41,49.1135,18.2144
+3257,Trenčiansky kraj,TC,Dubnica Nad Váhom,018 41,49.1135,18.2144
 3258,Trenčiansky kraj,TC,Nová Dubnica,018 51,48.9348,18.1463
 3259,Trenčiansky kraj,TC,Malý Kolačín,018 51,48.9348,18.1463
 3260,Trenčiansky kraj,TC,Veľký Kolačín,018 51,48.9348,18.1463
@@ -3286,7 +3286,7 @@
 3284,Trenčiansky kraj,TC,Ilava,019 01,49.2088,18.6786
 3285,Trenčiansky kraj,TC,Vrbovce,906 06,48.7196,17.3468
 3286,Trenčiansky kraj,TC,Chvojnica,906 06,48.7196,17.3468
-3287,Trenčiansky kraj,TC,Brezová pod Bradlom,906 13,48.6418,17.4564
+3287,Trenčiansky kraj,TC,Brezová Pod Bradlom,906 13,48.6418,17.4564
 3288,Trenčiansky kraj,TC,Hurbanova Dolina,906 13,48.6418,17.4564
 3289,Trenčiansky kraj,TC,Bukovec,906 14,48.6418,17.4564
 3290,Trenčiansky kraj,TC,Košariská,906 15,48.6418,17.4564
@@ -3315,9 +3315,9 @@
 3313,Trenčiansky kraj,TC,Haluzice,913 07,48.8511,17.9228
 3314,Trenčiansky kraj,TC,Zemianske Podhradie,913 07,48.8511,17.9228
 3315,Trenčiansky kraj,TC,Bošáca,913 07,48.8511,17.9228
-3316,Trenčiansky kraj,TC,Trenč.Bohuslavice,913 07,48.8511,17.9228
+3316,Trenčiansky kraj,TC,Trenč.bohuslavice,913 07,48.8511,17.9228
 3317,Trenčiansky kraj,TC,Nová Bošáca,913 08,48.8511,17.9228
-3318,Trenčiansky kraj,TC,Nové Mesto nad Váhom,915 01,48.7576,17.8309
+3318,Trenčiansky kraj,TC,Nové Mesto Nad Váhom,915 01,48.7576,17.8309
 3319,Trenčiansky kraj,TC,Jazviny,916 01,48.7559,17.7094
 3320,Trenčiansky kraj,TC,Stará Turá,916 01,48.7559,17.7094
 3321,Trenčiansky kraj,TC,Paprad,916 01,48.7559,17.7094
@@ -3326,7 +3326,7 @@
 3324,Trenčiansky kraj,TC,Topolecká,916 01,48.7559,17.7094
 3325,Trenčiansky kraj,TC,Hrubá Strana,916 11,48.7559,17.7094
 3326,Trenčiansky kraj,TC,Rybníky,916 11,48.7559,17.7094
-3327,Trenčiansky kraj,TC,Bzince pod Javorinou,916 11,48.7559,17.7094
+3327,Trenčiansky kraj,TC,Bzince Pod Javorinou,916 11,48.7559,17.7094
 3328,Trenčiansky kraj,TC,Cetuna,916 11,48.7559,17.7094
 3329,Trenčiansky kraj,TC,Hrušové,916 11,48.7559,17.7094
 3330,Trenčiansky kraj,TC,Hrnčiarové,916 12,48.7559,17.7094
@@ -3343,15 +3343,15 @@
 3341,Trenčiansky kraj,TC,Brunovce,916 25,48.7559,17.7094
 3342,Trenčiansky kraj,TC,Potvorice,916 25,48.7559,17.7094
 3343,Trenčiansky kraj,TC,Vieska,916 26,48.7559,17.7094
-3344,Trenčiansky kraj,TC,Kríž nad Váhom,916 26,48.7559,17.7094
+3344,Trenčiansky kraj,TC,Kríž Nad Váhom,916 26,48.7559,17.7094
 3345,Trenčiansky kraj,TC,Považany,916 26,48.7559,17.7094
 3346,Trenčiansky kraj,TC,Mošovce,916 26,48.7559,17.7094
 3347,Trenčiansky kraj,TC,Častkovce,916 27,48.7559,17.7094
-3348,Trenčiansky kraj,TC,Nová Ves nad Váhom,916 31,48.7667,17.8833
+3348,Trenčiansky kraj,TC,Nová Ves Nad Váhom,916 31,48.7667,17.8833
 3349,Trenčiansky kraj,TC,Beckovská Vieska,916 31,48.7667,17.8833
 3350,Trenčiansky kraj,TC,Rakoľuby,916 31,48.7667,17.8833
 3351,Trenčiansky kraj,TC,Kočovce,916 31,48.7667,17.8833
-3352,Trenčiansky kraj,TC,Hôrka nad Váhom,916 32,48.7559,17.7094
+3352,Trenčiansky kraj,TC,Hôrka Nad Váhom,916 32,48.7559,17.7094
 3353,Trenčiansky kraj,TC,Hrádok,916 33,48.7451,17.5354
 3354,Trenčiansky kraj,TC,Lúka,916 33,48.7451,17.5354
 3355,Trenčiansky kraj,TC,Modrovka,916 35,48.7559,17.7094
@@ -3394,7 +3394,7 @@
 3392,Trenčiansky kraj,TC,Veľký Klíž,958 45,48.4084,18.1537
 3393,Trenčiansky kraj,TC,Ješkova Ves,958 45,48.4084,18.1537
 3394,Trenčiansky kraj,TC,Klíž,958 45,48.4084,18.1537
-3395,Trenčiansky kraj,TC,Žabokreky nad Nitrou,958 52,48.4084,18.1537
+3395,Trenčiansky kraj,TC,Žabokreky Nad Nitrou,958 52,48.4084,18.1537
 3396,Trenčiansky kraj,TC,Skačany,958 53,48.4084,18.1537
 3397,Trenčiansky kraj,TC,Hradište,958 54,48.4084,18.1537
 3398,Trenčiansky kraj,TC,Sverepec,017 01,49.2088,18.6786
@@ -3447,11 +3447,11 @@
 3445,Trenčiansky kraj,TC,Čelkova Lehota,018 16,49.1135,18.2144
 3446,Trenčiansky kraj,TC,Kardošova Vieska,018 16,49.1135,18.2144
 3447,Trenčiansky kraj,TC,Jasenica,018 17,49.1135,18.2144
-3448,Trenčiansky kraj,TC,Lieskov-Hor. Lieskov,018 21,49.1135,18.2144
+3448,Trenčiansky kraj,TC,Lieskov-hor. Lieskov,018 21,49.1135,18.2144
 3449,Trenčiansky kraj,TC,Slopná,018 21,49.1135,18.2144
 3450,Trenčiansky kraj,TC,Horný Lieskov,018 21,49.1135,18.2144
 3451,Trenčiansky kraj,TC,Dolný Lieskov,018 21,49.1135,18.2144
-3452,Trenčiansky kraj,TC,Lieskov-Dol. Lieskov,018 21,49.1135,18.2144
+3452,Trenčiansky kraj,TC,Lieskov-dol. Lieskov,018 21,49.1135,18.2144
 3453,Trenčiansky kraj,TC,Lieskov - Tŕstie,018 22,49.1135,18.2144
 3454,Trenčiansky kraj,TC,Podskalie,018 22,49.1135,18.2144
 3455,Trenčiansky kraj,TC,Pružina,018 22,49.1135,18.2144
@@ -3464,17 +3464,17 @@
 3462,Trenčiansky kraj,TC,Malá Čausa,971 01,48.7357,19.4638
 3463,Trenčiansky kraj,TC,Cigeľ,971 01,48.7357,19.4638
 3464,Trenčiansky kraj,TC,Veľká Čausa,971 01,48.7357,19.4638
-3465,Trenčiansky kraj,TC,Necpaly-Prievid. III,971 01,48.7357,19.4638
-3466,Trenčiansky kraj,TC,Kopanice-Priev. IV,971 01,48.7357,19.4638
-3467,Trenčiansky kraj,TC,Staré Mesto-Priev.,971 01,48.7357,19.4638
+3465,Trenčiansky kraj,TC,Necpaly-prievid. Iii,971 01,48.7357,19.4638
+3466,Trenčiansky kraj,TC,Kopanice-priev. Iv,971 01,48.7357,19.4638
+3467,Trenčiansky kraj,TC,Staré Mesto-priev.,971 01,48.7357,19.4638
 3468,Trenčiansky kraj,TC,Štvrte - Prievidza V,971 01,48.7357,19.4638
-3469,Trenčiansky kraj,TC,Píly - Prievidza II,971 01,48.7357,19.4638
+3469,Trenčiansky kraj,TC,Píly - Prievidza Ii,971 01,48.7357,19.4638
 3470,Trenčiansky kraj,TC,Kúty,971 01,48.7357,19.4638
 3471,Trenčiansky kraj,TC,Dubnica,972 01,48.9348,18.1463
 3472,Trenčiansky kraj,TC,Šutovce,972 01,48.9348,18.1463
 3473,Trenčiansky kraj,TC,Bojnice,972 01,48.9348,18.1463
-3474,Trenčiansky kraj,TC,Bojnice - kúpele,972 01,48.9348,18.1463
-3475,Trenčiansky kraj,TC,Opatovce nad Nitrou,972 02,48.9348,18.1463
+3474,Trenčiansky kraj,TC,Bojnice - Kúpele,972 01,48.9348,18.1463
+3475,Trenčiansky kraj,TC,Opatovce Nad Nitrou,972 02,48.9348,18.1463
 3476,Trenčiansky kraj,TC,Kocurany,972 02,48.9348,18.1463
 3477,Trenčiansky kraj,TC,Sebedražie,972 05,48.9348,18.1463
 3478,Trenčiansky kraj,TC,Poruba,972 11,49.0355,18.8879
@@ -3495,14 +3495,14 @@
 3493,Trenčiansky kraj,TC,Nitrianske Sučany,972 21,49.0355,18.8879
 3494,Trenčiansky kraj,TC,Nitrica,972 22,49.0355,18.8879
 3495,Trenčiansky kraj,TC,Račice,972 22,49.0355,18.8879
-3496,Trenčiansky kraj,TC,Dvorníky n/ Nitricou,972 22,49.0355,18.8879
+3496,Trenčiansky kraj,TC,Dvorníky N/ Nitricou,972 22,49.0355,18.8879
 3497,Trenčiansky kraj,TC,Horné Vestenice,972 22,49.0355,18.8879
 3498,Trenčiansky kraj,TC,Dolné Vestenice,972 23,49.0355,18.8879
 3499,Trenčiansky kraj,TC,Vrbany,972 24,49.0355,18.8879
 3500,Trenčiansky kraj,TC,Diviacka Nová Ves,972 24,49.0355,18.8879
-3501,Trenčiansky kraj,TC,Diviaky nad Nitricou,972 25,49.0355,18.8879
+3501,Trenčiansky kraj,TC,Diviaky Nad Nitricou,972 25,49.0355,18.8879
 3502,Trenčiansky kraj,TC,Mačov,972 25,49.0355,18.8879
-3503,Trenčiansky kraj,TC,Ješkova Ves n/N.,972 25,49.0355,18.8879
+3503,Trenčiansky kraj,TC,Ješkova Ves N/n.,972 25,49.0355,18.8879
 3504,Trenčiansky kraj,TC,Somorova Ves,972 25,49.0355,18.8879
 3505,Trenčiansky kraj,TC,Banky,972 25,49.0355,18.8879
 3506,Trenčiansky kraj,TC,Nitrianske Rudno,972 26,49.0355,18.8879
@@ -3532,12 +3532,12 @@
 3530,Trenčiansky kraj,TC,Koš,972 41,49.0355,18.8879
 3531,Trenčiansky kraj,TC,Šajby,972 41,49.0355,18.8879
 3532,Trenčiansky kraj,TC,Malá Lehota,972 42,49.0355,18.8879
-3533,Trenčiansky kraj,TC,Lehota pod Vtáčnikom,972 42,49.0355,18.8879
+3533,Trenčiansky kraj,TC,Lehota Pod Vtáčnikom,972 42,49.0355,18.8879
 3534,Trenčiansky kraj,TC,Veľká Lehota,972 42,49.0355,18.8879
 3535,Trenčiansky kraj,TC,Podhradie,972 42,49.0355,18.8879
 3536,Trenčiansky kraj,TC,Dolné Lelovce,972 43,49.0355,18.8879
 3537,Trenčiansky kraj,TC,Zemianske Kostoľany,972 43,49.0355,18.8879
-3538,Trenčiansky kraj,TC,Kamenec pod Vtáč.,972 44,49.0355,18.8879
+3538,Trenčiansky kraj,TC,Kamenec Pod Vtáč.,972 44,49.0355,18.8879
 3539,Trenčiansky kraj,TC,Vieska,972 45,49.0355,18.8879
 3540,Trenčiansky kraj,TC,Chalmová,972 45,49.0355,18.8879
 3541,Trenčiansky kraj,TC,Bystričany,972 45,49.0355,18.8879
@@ -3583,9 +3583,9 @@
 3581,Trenčiansky kraj,TC,Dolinky,020 53,49.1969,18.1537
 3582,Trenčiansky kraj,TC,Dešná,020 54,49.208,18.1639
 3583,Trenčiansky kraj,TC,Strelenka,020 54,49.1859,18.1436
-3584,Trenčiansky kraj,TC,Lysá pod Makytou,020 54,49.1969,18.1537
+3584,Trenčiansky kraj,TC,Lysá Pod Makytou,020 54,49.1969,18.1537
 3585,Trenčiansky kraj,TC,Dubková,020 55,49.1969,18.1537
-3586,Trenčiansky kraj,TC,Lazy pod Makytou,020 55,49.1969,18.1537
+3586,Trenčiansky kraj,TC,Lazy Pod Makytou,020 55,49.1969,18.1537
 3587,Trenčiansky kraj,TC,Horná Breznica,020 61,49.1969,18.1537
 3588,Trenčiansky kraj,TC,Lednické Rovne,020 61,49.1969,18.1537
 3589,Trenčiansky kraj,TC,Horenická Hôrka,020 61,49.1969,18.1537
@@ -3618,12 +3618,12 @@
 3616,Trenčiansky kraj,TC,Ivanovce,913 05,48.8511,17.9228
 3617,Trenčiansky kraj,TC,Melčice,913 05,48.8511,17.9228
 3618,Trenčiansky kraj,TC,Štvrtok,913 05,48.8511,17.9228
-3619,Trenčiansky kraj,TC,Lieskové-Zem.Liesk.,913 05,48.8511,17.9228
+3619,Trenčiansky kraj,TC,Lieskové-zem.liesk.,913 05,48.8511,17.9228
 3620,Trenčiansky kraj,TC,Malé Bierovce,913 05,48.8511,17.9228
 3621,Trenčiansky kraj,TC,Sedličná,913 11,48.8446,17.9944
 3622,Trenčiansky kraj,TC,Veľké Bierovce,913 11,48.8524,17.983
 3623,Trenčiansky kraj,TC,Opatovce,913 11,48.8485,17.9887
-3624,Trenčiansky kraj,TC,Trenč.Stankovce,913 11,48.8485,17.9887
+3624,Trenčiansky kraj,TC,Trenč.stankovce,913 11,48.8485,17.9887
 3625,Trenčiansky kraj,TC,Krivosúd - Bodovka,913 11,48.8485,17.9887
 3626,Trenčiansky kraj,TC,Rozvadze,913 11,48.8485,17.9887
 3627,Trenčiansky kraj,TC,Veľké Stankovce,913 11,48.8485,17.9887
@@ -3633,7 +3633,7 @@
 3631,Trenčiansky kraj,TC,Mníchova Lehota,913 21,48.85,17.9492
 3632,Trenčiansky kraj,TC,Trenčianska Turná,913 21,48.85,17.9492
 3633,Trenčiansky kraj,TC,Zemianske Mitice,913 22,48.85,17.9492
-3634,Trenčiansky kraj,TC,Trenč.Jastrabie,913 22,48.85,17.9492
+3634,Trenčiansky kraj,TC,Trenč.jastrabie,913 22,48.85,17.9492
 3635,Trenčiansky kraj,TC,Rožňové Mitice,913 22,48.85,17.9492
 3636,Trenčiansky kraj,TC,Trenčianske Mitice,913 22,48.85,17.9492
 3637,Trenčiansky kraj,TC,Kostolné Mitice,913 22,48.85,17.9492
@@ -3653,7 +3653,7 @@
 3651,Trenčiansky kraj,TC,Peťovka,913 26,48.85,17.9492
 3652,Trenčiansky kraj,TC,Skala,913 31,48.85,17.9492
 3653,Trenčiansky kraj,TC,Újazd,913 31,48.85,17.9492
-3654,Trenčiansky kraj,TC,Skalka nad Váhom,913 31,48.85,17.9492
+3654,Trenčiansky kraj,TC,Skalka Nad Váhom,913 31,48.85,17.9492
 3655,Trenčiansky kraj,TC,Skalská Nová Ves,913 31,48.85,17.9492
 3656,Trenčiansky kraj,TC,Dolná Súča,913 32,48.85,17.9492
 3657,Trenčiansky kraj,TC,Hrabovka,913 32,48.85,17.9492
@@ -3679,7 +3679,7 @@
 3677,Trenčiansky kraj,TC,Omšenie,914 43,48.4793,17.612
 3678,Trenčiansky kraj,TC,Trenčianske Teplice,914 51,48.4793,17.612
 3679,Trenčiansky kraj,TC,Trenčín,911 08,48.8945,18.0444
-3680,Trenčiansky kraj,TC,Bánovce nad Bebravou,957 04,48.4084,18.1537
+3680,Trenčiansky kraj,TC,Bánovce Nad Bebravou,957 04,48.4084,18.1537
 3681,Trenčiansky kraj,TC,Partizánske,958 01,48.4084,18.1537
 3682,Trenčiansky kraj,TC,Partizánske,958 06,48.4084,18.1537
 3683,Žilinský kraj,ZI,Maršová,013 51,49.1899,18.5224
@@ -3715,9 +3715,9 @@
 3713,Žilinský kraj,ZI,Žarnov,013 62,49.32,18.5608
 3714,Žilinský kraj,ZI,Pšurnovice,014 01,49.2414,18.5165
 3715,Žilinský kraj,ZI,Veľká Bytča,014 01,49.2167,18.5667
-3716,Žilinský kraj,ZI,Hlboké nad Váhom,014 01,49.2138,18.5373
+3716,Žilinský kraj,ZI,Hlboké Nad Váhom,014 01,49.2138,18.5373
 3717,Žilinský kraj,ZI,Beňov,014 01,49.1874,18.4862
-3718,Žilinský kraj,ZI,Hliník nad Váhom,014 01,49.2341,18.5759
+3718,Žilinský kraj,ZI,Hliník Nad Váhom,014 01,49.2341,18.5759
 3719,Žilinský kraj,ZI,Malá Bytča,014 01,49.2109,18.5241
 3720,Žilinský kraj,ZI,Mikšová,014 01,49.1912,18.5045
 3721,Žilinský kraj,ZI,Bytča,014 01,49.224,18.5588
@@ -3744,12 +3744,12 @@
 3742,Žilinský kraj,ZI,Husarik,022 04,49.3759,18.6156
 3743,Žilinský kraj,ZI,Ladunkov,022 04,49.3759,18.6156
 3744,Žilinský kraj,ZI,Oščadnica,023 01,49.4357,18.8819
-3745,Žilinský kraj,ZI,Krásno nad Kysucou,023 02,49.3957,18.8343
+3745,Žilinský kraj,ZI,Krásno Nad Kysucou,023 02,49.3957,18.8343
 3746,Žilinský kraj,ZI,Kalinov,023 02,49.3776,18.8337
 3747,Žilinský kraj,ZI,Dunajov,023 02,49.362,18.8214
 3748,Žilinský kraj,ZI,Zákysučie,023 02,49.3776,18.8337
 3749,Žilinský kraj,ZI,Blažkov,023 02,49.375,18.8454
-3750,Žilinský kraj,ZI,Zborov nad Bystricou,023 03,49.3797,18.8866
+3750,Žilinský kraj,ZI,Zborov Nad Bystricou,023 03,49.3797,18.8866
 3751,Žilinský kraj,ZI,Lány,023 04,49.3403,18.9274
 3752,Žilinský kraj,ZI,Stará Bystrica,023 04,49.3474,18.9491
 3753,Žilinský kraj,ZI,Klubina,023 04,49.3544,18.8935
@@ -3783,7 +3783,7 @@
 3781,Žilinský kraj,ZI,Hrubý Buk,023 52,49.4236,18.6762
 3782,Žilinský kraj,ZI,Olešná,023 52,49.4236,18.6762
 3783,Žilinský kraj,ZI,Staškov,023 53,49.421,18.6869
-3784,Žilinský kraj,ZI,Dlhá nad Kysucou,023 54,49.3507,18.6782
+3784,Žilinský kraj,ZI,Dlhá Nad Kysucou,023 54,49.3507,18.6782
 3785,Žilinský kraj,ZI,Predmier,023 54,49.1985,18.5327
 3786,Žilinský kraj,ZI,Turzovka,023 54,49.4043,18.6226
 3787,Žilinský kraj,ZI,Hlinené,023 54,49.3507,18.6782
@@ -3791,7 +3791,7 @@
 3789,Žilinský kraj,ZI,Vyšný Koniec,023 54,49.3507,18.6782
 3790,Žilinský kraj,ZI,Turkov,023 54,49.3667,18.6074
 3791,Žilinský kraj,ZI,Nižný Kelčov,023 55,49.3975,18.4904
-3792,Žilinský kraj,ZI,Vysoká nad Kysucou,023 55,49.3785,18.5441
+3792,Žilinský kraj,ZI,Vysoká Nad Kysucou,023 55,49.3785,18.5441
 3793,Žilinský kraj,ZI,Vrchrieka,023 55,49.3628,18.5475
 3794,Žilinský kraj,ZI,Semeteš,023 55,49.3587,18.5784
 3795,Žilinský kraj,ZI,Zátoka,023 55,49.3744,18.5401
@@ -3811,7 +3811,7 @@
 3809,Žilinský kraj,ZI,Srňacie,026 01,49.2014,19.3654
 3810,Žilinský kraj,ZI,Beňova Lehota,026 01,49.2314,19.2628
 3811,Žilinský kraj,ZI,Osádka,026 01,49.1846,19.3885
-3812,Žilinský kraj,ZI,Medzibrodie n/Oravou,026 01,49.2069,19.3221
+3812,Žilinský kraj,ZI,Medzibrodie N/oravou,026 01,49.2069,19.3221
 3813,Žilinský kraj,ZI,Bziny,026 01,49.2274,19.3232
 3814,Žilinský kraj,ZI,Pokryváč,026 01,49.2029,19.394
 3815,Žilinský kraj,ZI,Vyšný Kubín,026 01,49.1844,19.317
@@ -3846,7 +3846,7 @@
 3844,Žilinský kraj,ZI,Veličná,027 54,49.207,19.2473
 3845,Žilinský kraj,ZI,Zábrež,027 54,49.1943,19.2647
 3846,Žilinský kraj,ZI,Oravská Poruba,027 54,49.2071,19.251
-3847,Žilinský kraj,ZI,Dlhá nad Oravou,027 55,49.2667,19.45
+3847,Žilinský kraj,ZI,Dlhá Nad Oravou,027 55,49.2667,19.45
 3848,Žilinský kraj,ZI,Chlebnice,027 55,49.2321,19.4624
 3849,Žilinský kraj,ZI,Sedliacka Dubová,027 55,49.2605,19.4299
 3850,Žilinský kraj,ZI,Krivá,027 55,49.2835,19.4798
@@ -3859,10 +3859,10 @@
 3857,Žilinský kraj,ZI,Kysucký Lieskovec,023 34,49.3388,18.8161
 3858,Žilinský kraj,ZI,Lodno,023 34,49.3346,18.8678
 3859,Žilinský kraj,ZI,Ochodnica,023 35,49.3489,18.7896
-3860,Žilinský kraj,ZI,Lopuš.Pažite-Pažite,023 36,49.2866,18.8144
+3860,Žilinský kraj,ZI,Lopuš.pažite-pažite,023 36,49.2866,18.8144
 3861,Žilinský kraj,ZI,Radoľa,023 36,49.2942,18.7924
 3862,Žilinský kraj,ZI,Budatínska Lehota,023 36,49.2977,18.8003
-3863,Žilinský kraj,ZI,Lopuš.Pažite-Lopušná,023 36,49.2866,18.8144
+3863,Žilinský kraj,ZI,Lopuš.pažite-lopušná,023 36,49.2866,18.8144
 3864,Žilinský kraj,ZI,Pažite,023 36,49.2746,18.8379
 3865,Žilinský kraj,ZI,Lopušná,023 36,49.28,18.827
 3866,Žilinský kraj,ZI,Nesluša,023 41,49.3177,18.7415
@@ -3979,7 +3979,7 @@
 3977,Žilinský kraj,ZI,Žabokreky,038 40,49.0243,18.9238
 3978,Žilinský kraj,ZI,Trnovo,038 41,49.0158,18.8586
 3979,Žilinský kraj,ZI,Turčiansky Peter,038 41,49.0315,18.8888
-3980,Žilinský kraj,ZI,Košťany nad Turcom,038 41,49.0299,18.9044
+3980,Žilinský kraj,ZI,Košťany Nad Turcom,038 41,49.0299,18.9044
 3981,Žilinský kraj,ZI,Trebostovo,038 41,49.0246,18.8609
 3982,Žilinský kraj,ZI,Ležiachov,038 42,48.9794,18.8582
 3983,Žilinský kraj,ZI,Rakovo,038 42,48.9888,18.882
@@ -3991,7 +3991,7 @@
 3989,Žilinský kraj,ZI,Turčiansky Ďur,038 43,48.9667,18.8409
 3990,Žilinský kraj,ZI,Slovany,038 43,48.9722,18.823
 3991,Žilinský kraj,ZI,Lazany,038 43,48.9801,18.7938
-3992,Žilinský kraj,ZI,Kláštor pod Znievom,038 43,48.9762,18.8026
+3992,Žilinský kraj,ZI,Kláštor Pod Znievom,038 43,48.9762,18.8026
 3993,Žilinský kraj,ZI,Valentová,038 43,48.9643,18.8811
 3994,Žilinský kraj,ZI,Laskár,038 43,48.9566,18.8779
 3995,Žilinský kraj,ZI,Turč.Štiavnička,038 51,49.1149,19.0617
@@ -4058,13 +4058,13 @@
 4056,Žilinský kraj,ZI,Ludrová,034 71,49.05,19.3333
 4057,Žilinský kraj,ZI,Liptovská Lúžna,034 72,48.941,19.3238
 4058,Žilinský kraj,ZI,Liptovská Osada,034 73,48.9496,19.2618
-4059,Žilinský kraj,ZI,Korytnica - kúpele,034 73,48.9496,19.2618
+4059,Žilinský kraj,ZI,Korytnica - Kúpele,034 73,48.9496,19.2618
 4060,Žilinský kraj,ZI,Stredná Revúca,034 74,48.9206,19.1777
 4061,Žilinský kraj,ZI,Liptovské Revúce,034 74,48.9206,19.1798
 4062,Žilinský kraj,ZI,Vyšná Revúca,034 74,48.9094,19.1661
 4063,Žilinský kraj,ZI,Nižná Revúca,034 74,48.9327,19.2093
 4064,Žilinský kraj,ZI,Lisková,034 81,49.0902,19.3537
-4065,Žilinský kraj,ZI,Lúčky - kúpele,034 82,49.1273,19.4088
+4065,Žilinský kraj,ZI,Lúčky - Kúpele,034 82,49.1273,19.4088
 4066,Žilinský kraj,ZI,Kalameny,034 82,49.1252,19.4153
 4067,Žilinský kraj,ZI,Lúčky,034 82,49.1294,19.4023
 4068,Žilinský kraj,ZI,Madočany,034 83,49.1098,19.4092
@@ -4139,11 +4139,11 @@
 4137,Žilinský kraj,ZI,Tvrdošín,027 44,49.337,19.556
 4138,Žilinský kraj,ZI,Medvedzie,027 44,49.3303,19.5451
 4139,Žilinský kraj,ZI,Horný Štefanov,027 44,49.3621,19.5133
-4140,Žilinský kraj,ZI,Štefanov nad Oravou,027 44,49.3432,19.541
+4140,Žilinský kraj,ZI,Štefanov Nad Oravou,027 44,49.3432,19.541
 4141,Žilinský kraj,ZI,Krásna Hôrka,027 44,49.3245,19.5461
 4142,Žilinský kraj,ZI,Zábiedovo,028 01,49.3214,19.6081
 4143,Žilinský kraj,ZI,Trstená,028 01,49.361,19.6125
-4144,Žilinský kraj,ZI,Ústie nad Priehradou,028 01,49.3796,19.5837
+4144,Žilinský kraj,ZI,Ústie Nad Priehradou,028 01,49.3796,19.5837
 4145,Žilinský kraj,ZI,Brezovica,028 01,49.3419,19.6526
 4146,Žilinský kraj,ZI,Celulózka,010 01,49.2053,18.7809
 4147,Žilinský kraj,ZI,Mojš,010 01,49.1992,18.8215
@@ -4164,7 +4164,7 @@
 4162,Žilinský kraj,ZI,Bytčica,010 09,49.1855,18.7353
 4163,Žilinský kraj,ZI,Vranie,010 14,49.2584,18.7413
 4164,Žilinský kraj,ZI,Brodno,010 14,49.2561,18.7605
-4165,Žilinský kraj,ZI,Teplička nad Váhom,013 01,49.2243,18.7999
+4165,Žilinský kraj,ZI,Teplička Nad Váhom,013 01,49.2243,18.7999
 4166,Žilinský kraj,ZI,Gbeľany,013 02,49.2122,18.8445
 4167,Žilinský kraj,ZI,Nededza,013 02,49.2216,18.8356
 4168,Žilinský kraj,ZI,Kotrčiná Lúčka,013 02,49.2503,18.839

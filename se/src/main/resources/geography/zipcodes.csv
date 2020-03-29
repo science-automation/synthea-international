@@ -1530,9 +1530,9 @@
 1528,Stockholm,AB,Johanneshov,121 22,59.3333,18.05
 1529,Stockholm,AB,Johanneshov,121 23,59.3333,18.05
 1530,Stockholm,AB,Johanneshov,121 24,59.3333,18.05
-1531,Stockholm,AB,Stockholm-Globen,121 26,59.3332,18.0525
-1532,Stockholm,AB,Stockholm-Globen,121 27,59.3332,18.0525
-1533,Stockholm,AB,Stockholm-Globen,121 28,59.3332,18.0525
+1531,Stockholm,AB,Stockholm-globen,121 26,59.3332,18.0525
+1532,Stockholm,AB,Stockholm-globen,121 27,59.3332,18.0525
+1533,Stockholm,AB,Stockholm-globen,121 28,59.3332,18.0525
 1534,Stockholm,AB,Stockholm,121 29,59.3326,18.0649
 1535,Stockholm,AB,Enskededalen,121 30,59.3333,18.05
 1536,Stockholm,AB,Enskededalen,121 31,59.3333,18.05
@@ -1564,7 +1564,7 @@
 1562,Stockholm,AB,Johanneshov,121 77,59.3333,18.05
 1563,Stockholm,AB,Johanneshov,121 86,59.3333,18.05
 1564,Stockholm,AB,Enskededalen,121 87,59.3333,18.05
-1565,Stockholm,AB,Stockholm-Globen,121 88,59.3333,18.05
+1565,Stockholm,AB,Stockholm-globen,121 88,59.3333,18.05
 1566,Stockholm,AB,Johanneshov,121 89,59.3333,18.05
 1567,Stockholm,AB,Enskede,122 00,59.2833,18.0667
 1568,Stockholm,AB,Enskede,122 03,59.2833,18.0667
@@ -2269,7 +2269,7 @@
 2267,Stockholm,AB,Nacka,131 47,59.3105,18.1637
 2268,Stockholm,AB,Nacka,131 48,59.3105,18.1637
 2269,Stockholm,AB,Nacka,131 49,59.3105,18.1637
-2270,Stockholm,AB,Saltsjö-Duvnäs,131 50,59.3,18.2
+2270,Stockholm,AB,Saltsjö-duvnäs,131 50,59.3,18.2
 2271,Stockholm,AB,Nacka,131 51,59.3105,18.1637
 2272,Stockholm,AB,Nacka Strand,131 52,59.3134,18.1481
 2273,Stockholm,AB,Nacka,131 57,59.3105,18.1637
@@ -2285,36 +2285,36 @@
 2283,Stockholm,AB,Nacka Strand,131 86,59.3216,18.1143
 2284,Stockholm,AB,Nacka Strand,131 87,59.3216,18.1143
 2285,Stockholm,AB,Nacka Strand,131 90,59.3179,18.1308
-2286,Stockholm,AB,Saltsjö-Boo,132 00,59.3173,18.255
-2287,Stockholm,AB,Saltsjö-Boo,132 02,59.3173,18.255
-2288,Stockholm,AB,Saltsjö-Boo,132 04,59.3173,18.255
-2289,Stockholm,AB,Saltsjö-Boo,132 21,59.3173,18.255
-2290,Stockholm,AB,Saltsjö-Boo,132 22,59.3173,18.255
-2291,Stockholm,AB,Saltsjö-Boo,132 23,59.3173,18.255
-2292,Stockholm,AB,Saltsjö-Boo,132 25,59.3173,18.255
-2293,Stockholm,AB,Saltsjö-Boo,132 26,59.3173,18.255
-2294,Stockholm,AB,Saltsjö-Boo,132 27,59.3173,18.255
-2295,Stockholm,AB,Saltsjö-Boo,132 30,59.3173,18.255
-2296,Stockholm,AB,Saltsjö-Boo,132 31,59.3173,18.255
-2297,Stockholm,AB,Saltsjö-Boo,132 32,59.3173,18.255
-2298,Stockholm,AB,Saltsjö-Boo,132 33,59.3173,18.255
-2299,Stockholm,AB,Saltsjö-Boo,132 34,59.3173,18.255
-2300,Stockholm,AB,Saltsjö-Boo,132 35,59.3173,18.255
-2301,Stockholm,AB,Saltsjö-Boo,132 36,59.3173,18.255
-2302,Stockholm,AB,Saltsjö-Boo,132 37,59.3173,18.255
-2303,Stockholm,AB,Saltsjö-Boo,132 38,59.3173,18.255
-2304,Stockholm,AB,Saltsjö-Boo,132 39,59.3173,18.255
-2305,Stockholm,AB,Saltsjö-Boo,132 40,59.3173,18.255
-2306,Stockholm,AB,Saltsjö-Boo,132 41,59.3173,18.255
-2307,Stockholm,AB,Saltsjö-Boo,132 42,59.3173,18.255
-2308,Stockholm,AB,Saltsjö-Boo,132 43,59.3173,18.255
-2309,Stockholm,AB,Saltsjö-Boo,132 44,59.3173,18.255
-2310,Stockholm,AB,Saltsjö-Boo,132 45,59.3173,18.255
-2311,Stockholm,AB,Saltsjö-Boo,132 46,59.3173,18.255
-2312,Stockholm,AB,Saltsjö-Boo,132 47,59.3173,18.255
-2313,Stockholm,AB,Saltsjö-Boo,132 48,59.3173,18.255
-2314,Stockholm,AB,Saltsjö-Boo,132 52,59.3173,18.255
-2315,Stockholm,AB,Saltsjö-Boo,132 81,59.3173,18.255
+2286,Stockholm,AB,Saltsjö-boo,132 00,59.3173,18.255
+2287,Stockholm,AB,Saltsjö-boo,132 02,59.3173,18.255
+2288,Stockholm,AB,Saltsjö-boo,132 04,59.3173,18.255
+2289,Stockholm,AB,Saltsjö-boo,132 21,59.3173,18.255
+2290,Stockholm,AB,Saltsjö-boo,132 22,59.3173,18.255
+2291,Stockholm,AB,Saltsjö-boo,132 23,59.3173,18.255
+2292,Stockholm,AB,Saltsjö-boo,132 25,59.3173,18.255
+2293,Stockholm,AB,Saltsjö-boo,132 26,59.3173,18.255
+2294,Stockholm,AB,Saltsjö-boo,132 27,59.3173,18.255
+2295,Stockholm,AB,Saltsjö-boo,132 30,59.3173,18.255
+2296,Stockholm,AB,Saltsjö-boo,132 31,59.3173,18.255
+2297,Stockholm,AB,Saltsjö-boo,132 32,59.3173,18.255
+2298,Stockholm,AB,Saltsjö-boo,132 33,59.3173,18.255
+2299,Stockholm,AB,Saltsjö-boo,132 34,59.3173,18.255
+2300,Stockholm,AB,Saltsjö-boo,132 35,59.3173,18.255
+2301,Stockholm,AB,Saltsjö-boo,132 36,59.3173,18.255
+2302,Stockholm,AB,Saltsjö-boo,132 37,59.3173,18.255
+2303,Stockholm,AB,Saltsjö-boo,132 38,59.3173,18.255
+2304,Stockholm,AB,Saltsjö-boo,132 39,59.3173,18.255
+2305,Stockholm,AB,Saltsjö-boo,132 40,59.3173,18.255
+2306,Stockholm,AB,Saltsjö-boo,132 41,59.3173,18.255
+2307,Stockholm,AB,Saltsjö-boo,132 42,59.3173,18.255
+2308,Stockholm,AB,Saltsjö-boo,132 43,59.3173,18.255
+2309,Stockholm,AB,Saltsjö-boo,132 44,59.3173,18.255
+2310,Stockholm,AB,Saltsjö-boo,132 45,59.3173,18.255
+2311,Stockholm,AB,Saltsjö-boo,132 46,59.3173,18.255
+2312,Stockholm,AB,Saltsjö-boo,132 47,59.3173,18.255
+2313,Stockholm,AB,Saltsjö-boo,132 48,59.3173,18.255
+2314,Stockholm,AB,Saltsjö-boo,132 52,59.3173,18.255
+2315,Stockholm,AB,Saltsjö-boo,132 81,59.3173,18.255
 2316,Stockholm,AB,Saltsjöbaden,133 00,59.2833,18.3
 2317,Stockholm,AB,Saltsjöbaden,133 02,59.2833,18.3
 2318,Stockholm,AB,Saltsjöbaden,133 04,59.2833,18.3
@@ -3023,9 +3023,9 @@
 3021,Stockholm,AB,Stockholm,131 89,59.3326,18.0649
 3022,Stockholm,AB,Nacka,131 92,59.3105,18.1637
 3023,Stockholm,AB,Nacka,131 93,59.3105,18.1637
-3024,Stockholm,AB,Saltsjö-Boo,132 03,59.3173,18.255
-3025,Stockholm,AB,Saltsjö-Boo,132 05,59.3173,18.255
-3026,Stockholm,AB,Saltsjö-Boo,132 85,59.3173,18.255
+3024,Stockholm,AB,Saltsjö-boo,132 03,59.3173,18.255
+3025,Stockholm,AB,Saltsjö-boo,132 05,59.3173,18.255
+3026,Stockholm,AB,Saltsjö-boo,132 85,59.3173,18.255
 3027,Stockholm,AB,Saltsjöbaden,133 20,59.2833,18.3
 3028,Stockholm,AB,Saltsjöbaden,133 39,59.2833,18.3
 3029,Stockholm,AB,Gustavsberg,134 20,59.3268,18.3898
@@ -4041,7 +4041,7 @@
 4039,Norrbotten,BD,Kalix,952 36,65.853,23.1565
 4040,Norrbotten,BD,Kalix,952 41,65.853,23.1565
 4041,Norrbotten,BD,Kalix,952 42,65.853,23.1565
-4042,Norrbotten,BD,Kalix-Nyborg,952 50,65.853,23.1565
+4042,Norrbotten,BD,Kalix-nyborg,952 50,65.853,23.1565
 4043,Norrbotten,BD,Kalix,952 51,65.853,23.1565
 4044,Norrbotten,BD,Kalix,952 61,65.853,23.1565
 4045,Norrbotten,BD,Kalix,952 62,65.853,23.1565
@@ -5292,7 +5292,7 @@
 5290,Södermanland,D,Eskilstuna,635 13,59.3666,16.5077
 5291,Södermanland,D,Eskilstuna,635 14,59.3666,16.5077
 5292,Södermanland,D,Näshulta,635 17,59.2333,16.35
-5293,Södermanland,D,Husby-Rekarne,635 18,59.3476,16.4852
+5293,Södermanland,D,Husby-rekarne,635 18,59.3476,16.4852
 5294,Södermanland,D,Eskilstuna,635 19,59.3666,16.5077
 5295,Södermanland,D,Eskilstuna,635 20,59.3666,16.5077
 5296,Södermanland,D,Stora Sundby,635 33,59.3667,16.4917
@@ -7658,7 +7658,7 @@
 7656,Blekinge,K,Jämjö,373 00,56.1833,15.8167
 7657,Blekinge,K,Ramdala,373 02,56.1833,15.7667
 7658,Blekinge,K,Drottningskär,373 64,56.1167,15.5667
-7659,Blekinge,K,Bräkne-Hoby,370 10,56.2333,15.1167
+7659,Blekinge,K,Bräkne-hoby,370 10,56.2333,15.1167
 7660,Blekinge,K,Backaryd,370 11,56.3333,15.1833
 7661,Blekinge,K,Eringsboda,370 17,56.4333,15.35
 7662,Blekinge,K,Nättraby,370 24,56.2,15.5167
@@ -8333,7 +8333,7 @@
 8331,Skåne,M,Oxie,238 42,55.5333,13.1
 8332,Skåne,M,Oxie,238 43,55.5333,13.1
 8333,Skåne,M,Dalby,240 10,55.6667,13.3333
-8334,Skåne,M,Torna-Hällestad,240 12,55.6333,13.4
+8334,Skåne,M,Torna-hällestad,240 12,55.6333,13.4
 8335,Skåne,M,Genarp,240 13,55.6,13.3833
 8336,Skåne,M,Veberöd,240 14,55.6333,13.4833
 8337,Skåne,M,Södra Sandby,247 01,55.7167,13.3333
@@ -8552,7 +8552,7 @@
 8550,Skåne,M,Påarp,260 33,56.0333,12.8167
 8551,Skåne,M,Mörarp,260 34,56.0667,12.8667
 8552,Skåne,M,Ödåkra,260 35,56.1,12.7333
-8553,Skåne,M,Ödåkra-Väla,260 36,56.0786,12.8
+8553,Skåne,M,Ödåkra-väla,260 36,56.0786,12.8
 8554,Skåne,M,Kattarp,260 38,56.15,12.7667
 8555,Skåne,M,Ekeby,260 51,56,12.9667
 8556,Skåne,M,Nyhamnsläge,260 41,56.2436,12.5419
@@ -8929,15 +8929,15 @@
 8927,Skåne,M,Ängelholm,262 95,56.2428,12.8622
 8928,Skåne,M,Ängelholm,262 96,56.2428,12.8622
 8929,Skåne,M,Hjärnarp,266 07,56.3167,12.9167
-8930,Skåne,M,Munka-Ljungby,266 21,56.25,12.9667
-8931,Skåne,M,Munka-Ljungby,266 31,56.25,12.9667
-8932,Skåne,M,Munka-Ljungby,266 32,56.25,12.9667
-8933,Skåne,M,Munka-Ljungby,266 33,56.25,12.9667
+8930,Skåne,M,Munka-ljungby,266 21,56.25,12.9667
+8931,Skåne,M,Munka-ljungby,266 31,56.25,12.9667
+8932,Skåne,M,Munka-ljungby,266 32,56.25,12.9667
+8933,Skåne,M,Munka-ljungby,266 33,56.25,12.9667
 8934,Skåne,M,Hjärnarp,266 75,56.3167,12.9167
-8935,Skåne,M,Munka-Ljungby,266 91,56.25,12.9667
-8936,Skåne,M,Munka-Ljungby,266 92,56.25,12.9667
-8937,Skåne,M,Munka-Ljungby,266 93,56.25,12.9667
-8938,Skåne,M,Munka-Ljungby,266 94,56.25,12.9667
+8935,Skåne,M,Munka-ljungby,266 91,56.25,12.9667
+8936,Skåne,M,Munka-ljungby,266 92,56.25,12.9667
+8937,Skåne,M,Munka-ljungby,266 93,56.25,12.9667
+8938,Skåne,M,Munka-ljungby,266 94,56.25,12.9667
 8939,Skåne,M,Hjärnarp,266 97,56.3167,12.9167
 8940,Skåne,M,Hjärnarp,266 98,56.3167,12.9167
 8941,Skåne,M,Tjörnarp,240 40,56,13.6167
@@ -9985,7 +9985,7 @@
 9983,Halland,N,Oskarström,313 92,56.8,12.9667
 9984,Halland,N,Sennan,313 94,56.7667,12.9833
 9985,Halland,N,Åled,313 95,56.75,12.9333
-9986,Halland,N,Munka-Ljungby,266 95,56.25,12.9667
+9986,Halland,N,Munka-ljungby,266 95,56.25,12.9667
 9987,Halland,N,Skånes Fagerhult,280 40,56.3667,13.4833
 9988,Halland,N,Knäred,310 20,56.5333,13.3167
 9989,Halland,N,Hishult,310 21,56.4333,13.3
@@ -10322,8 +10322,8 @@
 10320,Västra Götaland,O,Hönö,430 91,57.6897,11.6497
 10321,Västra Götaland,O,Fotö,430 92,57.6667,11.6583
 10322,Västra Götaland,O,Hälsö,430 93,57.7333,11.65
-10323,Västra Götaland,O,Bohus-Björkö,430 94,57.7249,11.6401
-10324,Västra Götaland,O,Källö-Knippla,430 95,57.75,11.65
+10323,Västra Götaland,O,Bohus-björkö,430 94,57.7249,11.6401
+10324,Västra Götaland,O,Källö-knippla,430 95,57.75,11.65
 10325,Västra Götaland,O,Hyppeln,430 96,57.75,11.6
 10326,Västra Götaland,O,Rörö,430 97,57.7761,11.6167
 10327,Västra Götaland,O,Stenungsund,444 00,58.0705,11.8181
@@ -10456,7 +10456,7 @@
 10454,Västra Götaland,O,Hälleviksstrand,474 95,58.125,11.45
 10455,Västra Götaland,O,Nösund,474 96,58.1,11.5167
 10456,Västra Götaland,O,Smögen,450 43,58.3559,11.2241
-10457,Västra Götaland,O,Bohus-Malmön,450 45,58.4268,11.2813
+10457,Västra Götaland,O,Bohus-malmön,450 45,58.4268,11.2813
 10458,Västra Götaland,O,Hunnebostrand,450 46,58.4413,11.3032
 10459,Västra Götaland,O,Bovallstrand,450 47,58.4833,11.3167
 10460,Västra Götaland,O,Kungshamn,456 01,58.3631,11.2594
@@ -14573,17 +14573,17 @@
 14571,Västmanland,U,Heby,744 20,59.9381,16.8622
 14572,Västmanland,U,Fjärdhundra,749 70,59.7833,16.9333
 14573,Dalarna,W,Vansbro,780 50,60.5089,14.2246
-14574,Dalarna,W,Dala-Järna,780 51,60.55,14.35
+14574,Dalarna,W,Dala-järna,780 51,60.55,14.35
 14575,Dalarna,W,Nås,780 53,60.45,14.4833
-14576,Dalarna,W,Dala-Järna,786 02,60.55,14.35
+14576,Dalarna,W,Dala-järna,786 02,60.55,14.35
 14577,Dalarna,W,Vansbro,786 21,60.5089,14.2246
 14578,Dalarna,W,Vansbro,786 31,60.5089,14.2246
 14579,Dalarna,W,Vansbro,786 32,60.5089,14.2246
 14580,Dalarna,W,Vansbro,786 33,60.5089,14.2246
-14581,Dalarna,W,Dala-Järna,786 71,60.55,14.35
-14582,Dalarna,W,Dala-Järna,786 72,60.55,14.35
+14581,Dalarna,W,Dala-järna,786 71,60.55,14.35
+14582,Dalarna,W,Dala-järna,786 72,60.55,14.35
 14583,Dalarna,W,Vansbro,786 91,60.5089,14.2246
-14584,Dalarna,W,Dala-Järna,786 92,60.55,14.35
+14584,Dalarna,W,Dala-järna,786 92,60.55,14.35
 14585,Dalarna,W,Nås,786 93,60.45,14.4833
 14586,Dalarna,W,Äppelbo,780 54,60.4833,14
 14587,Dalarna,W,Öje,780 61,60.8167,13.85
@@ -14607,9 +14607,9 @@
 14605,Dalarna,W,Äppelbo,786 94,60.4833,14
 14606,Dalarna,W,Mockfjärd,780 40,60.5,14.9667
 14607,Dalarna,W,Gagnef,780 41,60.5986,15.0774
-14608,Dalarna,W,Dala-Floda,780 44,60.4833,14.7833
+14608,Dalarna,W,Dala-floda,780 44,60.4833,14.7833
 14609,Dalarna,W,Björbo,780 45,60.45,14.7
-14610,Dalarna,W,Dala-Floda,786 95,60.4833,14.7833
+14610,Dalarna,W,Dala-floda,786 95,60.4833,14.7833
 14611,Dalarna,W,Björbo,786 97,60.45,14.7
 14612,Dalarna,W,Djura,790 31,60.6167,15
 14613,Dalarna,W,Leksand,793 01,60.7329,15.0018
@@ -14924,8 +14924,8 @@
 14922,Dalarna,W,Hedemora,776 92,60.2797,15.9886
 14923,Dalarna,W,Hedemora,776 93,60.2797,15.9886
 14924,Dalarna,W,Vikmanshyttan,776 95,60.2833,15.8167
-14925,Dalarna,W,Dala-Husby,776 96,60.3799,16.0009
-14926,Dalarna,W,Dala-Husby,776 97,60.3799,16.0009
+14925,Dalarna,W,Dala-husby,776 96,60.3799,16.0009
+14926,Dalarna,W,Dala-husby,776 97,60.3799,16.0009
 14927,Dalarna,W,Garpenberg,776 98,60.3167,16.2
 14928,Dalarna,W,Stora Skedvi,783 93,60.4,15.8
 14929,Dalarna,W,Avesta,774 01,60.1454,16.1679
@@ -15352,10 +15352,10 @@
 15350,Gävleborg,X,Storvik,812 30,60.5833,16.5333
 15351,Gävleborg,X,Storvik,812 31,60.5833,16.5333
 15352,Gävleborg,X,Kungsgården,812 40,60.6,16.6167
-15353,Gävleborg,X,Gästrike-Hammarby,812 41,60.6,16.6167
+15353,Gävleborg,X,Gästrike-hammarby,812 41,60.6,16.6167
 15354,Gävleborg,X,Åshammar,812 51,60.65,16.5333
 15355,Gävleborg,X,Storvik,812 90,60.5833,16.5333
-15356,Gävleborg,X,Gästrike-Hammarby,812 92,60.6111,16.5611
+15356,Gävleborg,X,Gästrike-hammarby,812 92,60.6111,16.5611
 15357,Gävleborg,X,Kungsgården,812 93,60.6,16.6167
 15358,Gävleborg,X,Åshammar,812 94,60.65,16.5333
 15359,Gävleborg,X,Forsbacka,818 43,60.6167,16.8833
@@ -16359,17 +16359,17 @@
 16357,,,Handen,136 38,59.1681,18.138
 16358,,,Segersäng,148 40,58.9802,17.9374
 16359,,,Stockholm-arlanda,190 40,59.6352,17.9125
-16360,,,Stockholm-Arlanda,190 45,59.6352,17.9125
-16361,,,Stockholm-Arlanda,190 46,59.6352,17.9125
-16362,,,Stockholm-Arlanda,190 47,59.6352,17.9125
-16363,,,Stockholm-Arlanda,190 50,59.6352,17.9125
-16364,,,Stockholm-Arlanda,190 60,59.6352,17.9125
+16360,,,Stockholm-arlanda,190 45,59.6352,17.9125
+16361,,,Stockholm-arlanda,190 46,59.6352,17.9125
+16362,,,Stockholm-arlanda,190 47,59.6352,17.9125
+16363,,,Stockholm-arlanda,190 50,59.6352,17.9125
+16364,,,Stockholm-arlanda,190 60,59.6352,17.9125
 16365,,,Arlandastad,195 05,59.6083,17.8583
 16366,,,Arlandastad,195 60,59.6068,17.8585
 16367,,,Arlandastad,195 61,59.6068,17.8585
 16368,,,Stockholm,195 87,59.3326,18.0649
 16369,,,Vintrie,218 45,55.55,12.9667
-16370,,,Malmö-Sturup,230 32,55.5708,13.0667
+16370,,,Malmö-sturup,230 32,55.5708,13.0667
 16371,,,Bara,230 40,55.5833,13.2
 16372,,,Klågerup,230 41,55.6,13.25
 16373,,,Alnarp,230 53,55.6583,13.0833
