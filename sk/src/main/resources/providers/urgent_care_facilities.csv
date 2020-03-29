@@ -4,12 +4,12 @@
 2,20002,Detská fakultná nemocnica s poliklinikou Banská Bystrica,Námestie Ludvíka Svobodu 4,Banská Bystrica,Banská Bystrica,974 01,,+421 48 472 65 11,,,Yes,,48.7430887,19.1188485
 3,20003,"Diagnostické, preventívne a výskumné centrum VÚSCH",Ondavská 8,Košice,Košice,040 11,,,,,No,,48.7214918,21.2411747
 4,20004,Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého Dolný Kubín,Nemocničná 1944/10,Dolný Kubín,Dolný Kubín,026 01,,,,,,,49.2152912,19.3011584
-5,20005,Fakultná nemocnica Nitra,Špitálska 6,Nitra,Nitriansky kraj,949 01,,,,,,,48.2991474,18.0856026
+5,20005,Fakultná nemocnica Nitra,Špitálska 6,Nitra,Nitra,949 01,,,,,,,48.2991474,18.0856026
 6,20006,Fakultná nemocnica Trenčín,,Trenčín,Trenčín,911 01,,,,,Yes,,48.8838722,18.0272033
 7,20007,Fakultná nemocnica Trnava,Andreja Žarnova 11,Trnava,Trnava,917 02,,,,,,,48.3699855,17.588124
 8,20008,Fakultná nemocnica s poliklinikou F.D. Roosevelta,Námestie Ludvíka Svobodu 1,Banská Bystrica,Banská Bystrica,974 01,,,,,Yes,,48.7452816,19.1138999
 9,20009,Fakultná nemocnica s poliklinikou J. A. Reimana Prešov,Jána Hollého 14,Prešov,Prešov,080 01,,,,,,,48.998577,21.2510251
-10,20010,Fakultná nemocnica s poliklinikou Nové Zámky,Slovenská 11A,Nové Zámky,Nitriansky kraj,940 02,,,,,,,47.9932743,18.1497035
+10,20010,Fakultná nemocnica s poliklinikou Nové Zámky,Slovenská 11A,Nové Zámky,Nové Zámky,940 02,,,,,,,47.9932743,18.1497035
 11,20011,"Fakultná nemocnica s poliklinikou Skalica, a. s.",,Skalica,Skalica,909 01,,,,,,,48.8422693,17.2281031
 12,20012,Fakultná nemocnica s poliklinikou Žilina,Vojtecha Spanyola 43,Žilina,Žilina,010 01,,,,,Yes,,49.2184185,18.7449224
 13,20013,Geriatrické centrum sv. Lukáša,Strojárenská 13,Košice,Košice,040 01,,,,,,,48.7272892,21.2497062
@@ -23,14 +23,14 @@
 21,20021,Mestská poliklinika Dr. Jozefa Goldbergera,Kukorelliho 337/16,Giraltovce,Svidník,087 01,,,,,No,,49.110953,21.5154785
 22,20022,Nemocnia Handlová - 2. súkromná nemocnica s.r.o.,,Handlová,Prievidza,972 51,,,,,,,48.7294427,18.7560577
 23,20023,"Nemocnica Alexandra Wintera, n.o.",Winterova 66,Piešťany,Piešťany,921 01,,,,,,,48.588072,17.8376658
-24,20024,"Nemocnica Bánovce - 3. súkromná nemocnica, s.r.o.",Hviezdoslavova 23/3,Bánovce nad Bebravou,Bánovce nad Bebravou,957 01,,,,,,,48.7206156,18.2580603
+24,20024,"Nemocnica Bánovce - 3. súkromná nemocnica, s.r.o.",Hviezdoslavova 23/3,Bánovce nad Bebravou,Bánovce Nad Bebravou,957 01,,,,,,,48.7206156,18.2580603
 25,20025,Nemocnica Dr. V. Alexandra,Hviezdoslavova nan,Kežmarok,Kežmarok,060 01,,,,,No,,49.1327402,20.4280176
 26,20026,"Nemocnica Košice-Šaca a.s., 1. súkromná nemocnica",,Košice,Košice,040 11,,,,,Yes,,48.6439647,21.1724086
 27,20027,Nemocnica Krompachy spol. s r.o.,,Krompachy,Spišská Nová Ves,053 42,,,,,Yes,,48.9055989,20.8722359
-28,20028,Nemocnica Levice s.r.o.,SNP 19,Levice,Nitriansky kraj,934 01,,,,,,,48.2230003,18.6137602
+28,20028,Nemocnica Levice s.r.o.,SNP 19,Levice,Levice,934 01,,,,,,,48.2230003,18.6137602
 29,20029,Nemocnica Malacky,Duklianskych hrdinov 34,Malacky,Malacky,901 01,,,,,,,48.4402891,17.0313907
 30,20030,"Nemocnica Poprad, a. s.",Banícka 28,Poprad,Poprad,058 01,,,,,,,49.0510906,20.3001441
-31,20031,Nemocnica Zlaté Moravce a.s.,Bernolákova 4,Zlaté Moravce,Nitriansky kraj,953 01,,,,,Yes,,48.3833885,18.3978105
+31,20031,Nemocnica Zlaté Moravce a.s.,Bernolákova 4,Zlaté Moravce,Zlaté Moravce,953 01,,,,,Yes,,48.3833885,18.3978105
 32,20032,Nemocnica Zvolen a. s.,Kuzmányho nábrežie 28,Zvolen,Zvolen,960 01,,,,,,,48.5822089,19.1330622
 33,20033,"Nemocnica arm. generála L. Svobodu Svidník, a.s.",,Svidník,Svidník,089 01,,,,,,,49.3109246,21.5700429
 34,20034,"Nemocnica na okraji mesta, n.o.",,Malé Kršteňany,Partizánske,958 03,,,,,,,48.6331764,18.4022882
@@ -55,12 +55,12 @@
 53,20053,Poliklinika U. S. Steel,,Košice,Košice,040 11,,,,,No,,48.6249165,21.1916529
 54,20054,Poliklinika Východ,,Košice,Košice,040 22,,,,,,,48.7399308,21.2827439
 55,20055,Poliklinika Západ,,Košice,Košice,040 11,,,,,Yes,,48.7224577,21.2377899
-56,20056,Psychiatrická nemocnica Hronovce,,Hronovce,Nitriansky kraj,935 61,,,,,,,48.0020412,18.6563935
+56,20056,Psychiatrická nemocnica Hronovce,,Hronovce,Levice,935 61,,,,,,,48.0020412,18.6563935
 57,20057,Psychiatrická nemocnica Philippa Pinela Pezinok,,Pezinok,Pezinok,902 01,,,,,,,48.3178123,17.2511902
-58,20058,Psychiatrická nemocnica Veľké Zálužie,Rínok 334,Veľké Zálužie,Nitriansky kraj,951 35,,,,,No,,48.302265,17.9421934
+58,20058,Psychiatrická nemocnica Veľké Zálužie,Rínok 334,Veľké Zálužie,Nitra,951 35,,,,,No,,48.302265,17.9421934
 59,20059,"Regionálna nemocnica Sobrance, n.o.",Mieru 12,Sobrance,Sobrance,073 01,,,,,,,48.7448275,22.1849153
 60,20060,"Stredoslovenský ústav srdcových a cievnych chorôb, a.s.",Cesta k nemocnici 5600/61,Banská Bystrica,Banská Bystrica,974 01,,,,,No,,48.7419552,19.1604522
-61,20061,"Svet zdravia Nemocnica Topoľčany, a.s.",,Topoľčany,Nitriansky kraj,955 01,,,,,,,48.5534277,18.1667499
+61,20061,"Svet zdravia Nemocnica Topoľčany, a.s.",,Topoľčany,Topoľčany,955 01,,,,,,,48.5534277,18.1667499
 62,20062,"Univerzitná nemocnica - Nemocnica svätého Michala, a.s.,",Satinského 1,Bratislava,Bratislava,811 08,,,,,,,48.1462555,17.1168533
 63,20063,Univerzitná nemocnica Bratislava - Nemocnica Staré Mesto,Mickiewiczova 13,Bratislava,Bratislava,811 07,,,,,,,48.1515735,17.1169345
 64,20064,Univerzitná nemocnica Bratislava - Nemocnica akademika L. Dérera - Kramáre,Limbová 5,Bratislava,Bratislava,831 03,,,,,,,48.1658008,17.0896277
@@ -73,7 +73,7 @@
 71,20071,Univerzitná nemocnica s poliklinikou Milosrdní bratia,Námestie Slovenského národného povstania 10,Bratislava,Bratislava,811 06,,,,,,,48.1458548,17.1117674
 72,20072,Východoslovenský ústav srdcových a cievnych chorôb,,Košice,Košice,040 11,,,,,Yes,,48.721198,21.2408617
 73,20073,Všeobecná nemocnica Gelnica,,Gelnica,Gelnica,056 01,,,,,,,48.8581818,20.9336183
-74,20074,Všeobecná nemocnica Komárno,Mederčská 39,Komárno,Nitriansky kraj,945 01,,,,,,,47.7664208,18.1257438
+74,20074,Všeobecná nemocnica Komárno,Mederčská 39,Komárno,Komárno,945 01,,,,,,,47.7664208,18.1257438
 75,20075,Všeobecná nemocnica Rimavská Sobota,,Rimavská Sobota,Rimavská Sobota,979 01,,,,,Yes,,48.3845488,20.024159
 76,20076,"Všeobecná nemocnica s poliklinikou Lučenec, n.o.",Námestie Republiky 15,Lučenec,Lučenec,984 01,,,,,Yes,,48.3296186,19.6579217
 77,20077,Zdravie,Pod Lachovcom 55,Púchov,Púchov,020 01,,,,,,,49.129713,18.3237084
@@ -83,19 +83,19 @@
 81,20081,poliklinika,,Bardejov,Bardejov,085 01,,,,,,,49.2925877,21.269546
 82,20082,Ústredná vojenská nemocnica SNP Ružomberok - FN,,Ružomberok,Ružomberok,034 01,,,,,,,49.0763028,19.3124346
 83,20083,Ústredná vojenská nemocnica SNP Ružomberok - FN,,Ružomberok,Ružomberok,034 01,,,,,,,49.0863791,19.297863
-84,20084,Územná poliklinika,,Kremnica,Žiar nad Hronom,967 01,,,,,,,48.7005853,18.9153688
+84,20084,Územná poliklinika,,Kremnica,Žiar Nad Hronom,967 01,,,,,,,48.7005853,18.9153688
 85,20085,"Ľubovnianska nemocnica, n.o.",Obrancov mieru 3,Stará Ľubovňa,Stará Ľubovňa,064 01,,,,,,,49.2976998,20.6880224
 86,20086,"Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n. o.",Záhradnícka 42,Bratislava,Bratislava,821 03,,,,,,,48.1538792,17.1298797
-87,20087,Špecializovaná nemocnica sv. Svorada,Kláštorská 134,Nitra,Nitriansky kraj,949 01,,,,,,,48.34587,18.093618
+87,20087,Špecializovaná nemocnica sv. Svorada,Kláštorská 134,Nitra,Nitra,949 01,,,,,,,48.34587,18.093618
 88,20088,Železničná nemocnica a poliklinika,Šancová 110,Bratislava,Bratislava,831 03,,,,,,,48.157916,17.1246318
 89,20089,Železničná nemocnica s poliklinikou Košice,,Košice,Košice,040 01,,,,,Yes,,48.7281181,21.2588677
 90,20090,BARI group,29. augusta 9/9,Galanta,Galanta,924 01,,,,,,,48.1868332,17.7225026
-91,20091,BEA MED s.r.o.,Moyzesova 980/7,Topoľčany,Nitriansky kraj,955 01,,,,,,,48.5608116,18.1686557
+91,20091,BEA MED s.r.o.,Moyzesova 980/7,Topoľčany,Topoľčany,955 01,,,,,,,48.5608116,18.1686557
 92,20092,Bozpo - ambulancia pracovného lekárstva,Šumperská 2776/44,Prievidza,Prievidza,971 01,,,,,,,48.7727344,18.6160609
-93,20093,Chirurgia,Bernolákova 491/6,Zlaté Moravce,Nitriansky kraj,953 01,,,,,,,48.3832847,18.3986105
+93,20093,Chirurgia,Bernolákova 491/6,Zlaté Moravce,Zlaté Moravce,953 01,,,,,,,48.3832847,18.3986105
 94,20094,Chirurgické centrum,Kozia 17,Bratislava,Bratislava,811 06,,,,,,,48.1465988,17.1023003
 95,20095,Horská služa,,Banská Bystrica,Banská Bystrica,974 01,,,,,,,48.7355937,19.0148572
-96,20096,Infekčné oddelenie,Bernolákova 502/8,Zlaté Moravce,Nitriansky kraj,953 01,,,,,,,48.3834244,18.3994125
+96,20096,Infekčné oddelenie,Bernolákova 502/8,Zlaté Moravce,Zlaté Moravce,953 01,,,,,,,48.3834244,18.3994125
 97,20097,Medicínske centrum,,Bratislava,Bratislava,821 03,,,,,,,48.1620679,17.1450418
 98,20098,Medicínske centrum KrasMedika,,Sereď,Galanta,926 01,,,,,,,48.2926996,17.7379799
 99,20099,Medicínske centrum Retia,Cukrová 3,Bratislava,Bratislava,811 06,,,,,,,48.1486153,17.1187515
@@ -112,17 +112,17 @@
 110,20110,Zdravotné stredisko,Krátka 548/2,Vysoká pri Morave,Malacky,900 66,,,,,,,48.3242766,16.9130441
 111,20111,Zdravotné stredisko,,Veľké Úľany,Galanta,925 22,,,,,,,48.1629602,17.5760908
 112,20112,Zdravotné stredisko,Gagarinova 773/5,Nová Dubnica,Ilava,018 51,,,,,,,48.9334616,18.1451436
-113,20113,Zdravotné stredisko,Cesta kráľa IV. Bélu 257,Zlatná na Ostrove,Nitriansky kraj,946 12,,,,,,,47.7688179,17.9734282
+113,20113,Zdravotné stredisko,Cesta kráľa IV. Bélu 257,Zlatná na Ostrove,Komárno,946 12,,,,,,,47.7688179,17.9734282
 114,20114,Zdravotné stredisko,,Šoporňa,Galanta,925 52,,,,,,,48.2537437,17.8190604
 115,20115,Zdravotné stredisko,,Ružomberok,Ružomberok,034 01,,,,,,,49.074538,19.3171084
 116,20116,Zdravotné stredisko,SNP 9,Sliač,Zvolen,962 31,,+421455429902,,,,,48.6147925,19.1412618
-117,20117,Zdravotné stredisko,nan 126,Nová Dedina,Nitriansky kraj,935 25,,,,,,,48.2797638,18.6407269
-118,20118,Zdravotné stredisko,,Trnovec nad Váhom,Nitriansky kraj,925 71,,,,,,,48.1508448,17.9272598
-119,20119,Zdravotné stredisko,nan 256,Iža,Nitriansky kraj,946 39,,,,,,,47.7503356,18.2252818
-120,20120,Zdravotné stredisko,,Zlaté Moravce,Nitriansky kraj,953 01,,,,,,,48.387571,18.3840249
+117,20117,Zdravotné stredisko,nan 126,Nová Dedina,Levice,935 25,,,,,,,48.2797638,18.6407269
+118,20118,Zdravotné stredisko,,Trnovec nad Váhom,Šaľa,925 71,,,,,,,48.1508448,17.9272598
+119,20119,Zdravotné stredisko,nan 256,Iža,Komárno,946 39,,,,,,,47.7503356,18.2252818
+120,20120,Zdravotné stredisko,,Zlaté Moravce,Zlaté Moravce,953 01,,,,,,,48.387571,18.3840249
 121,20121,Zdravotné stredisko Lamač,Malokarpatské námestie 6543/2,Bratislava,Bratislava,841 03,,,,,,,48.1951632,17.052229
 122,20122,Zdravotné stredisko POLIMED,,Brezno,Brezno,977 01,,,,,,,48.8031417,19.6428149
 123,20123,Zdravotné stredisko VW,Jána Jonáša nan,Bratislava,Bratislava,841 07,,,,,,,48.2257522,16.9919041
-124,20124,Zdravotné stredisko Šurany,Družstevná 2788/5,Šurany,Nitriansky kraj,942 01,,,,,,,48.0875191,18.1934105
+124,20124,Zdravotné stredisko Šurany,Družstevná 2788/5,Šurany,Nové Zámky,942 01,,,,,,,48.0875191,18.1934105
 125,20125,ambulancia MUDr. Marianna Maršálková - Pediater,1. mája 111,Malacky,Malacky,901 01,,,,,,,48.4396852,17.016734
 126,20126,lekárska služba prvej pomoci,Malinovského 2616/2A,Brezno,Brezno,977 01,,,,,,,48.805319,19.6405123

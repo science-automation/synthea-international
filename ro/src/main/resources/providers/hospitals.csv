@@ -205,9 +205,9 @@
 203,10203,Spital,,Câmpulung Moldovenesc,Suceava,725100,,,,,,,47.5317054,25.5439058
 204,10204,Spital,,Tilișca,Sibiu,557280,,,,,,,45.8013537,23.8412233
 205,10205,Spital Azuga,Strada Victoriei 2,Azuga,Prahova,105100,,+40244322051,,,No,,45.4276826,25.5541617
-206,10206,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-Năsăud,425100,,,,,,,47.184443,24.1847276
-207,10207,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-Năsăud,425100,,,,,,,47.1833841,24.1851713
-208,10208,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-Năsăud,425100,,,,,,,47.1841093,24.1863074
+206,10206,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.184443,24.1847276
+207,10207,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.1833841,24.1851713
+208,10208,Spital Beclean,Strada 1 Decembrie 1918 nan,Beclean,Bistrița-năsăud,425100,,,,,,,47.1841093,24.1863074
 209,10209,Spital Brezoi,,Brezoi,Vâlcea,245500,,,,,,,45.3425876,24.2455709
 210,10210,Spital Budești,,Budești,Vâlcea,247055,,,,,,,45.0643391,24.3877742
 211,10211,Spital CFR,,Constanța,Constanța,900317,,,,,,,44.1673143,28.583522
@@ -312,7 +312,7 @@
 310,10310,"Spitalul Județean de Urgență Pitești, Pavilion Secția Oncologie",Bulevardul I. C. Brătianu 62,Pitești,Argeș,110117,,,,,Yes,,44.8618744,24.8700457
 311,10311,"Spitalul Județean de Urgență Pitești, Secția Boli Infecțioase",Bulevardul I. C. Brătianu 56,Pitești,Argeș,110121,,,,,Yes,,44.8611094,24.8695372
 312,10312,"Spitalul Județean de Urgență Pitești, Secțiile Oftalmologie, Psihiatrie și Pneumologie",Strada Negru Vodă 53,Pitești,Argeș,110065,,,,,Yes,,44.866299,24.8590499
-313,10313,Spitalul Județean de Urgență Reșița,,Reșița,Caraș-Severin,,,,,,,,45.3253823,21.8803262
+313,10313,Spitalul Județean de Urgență Reșița,,Reșița,Caraș-severin,,,,,,,,45.3253823,21.8803262
 314,10314,Spitalul Județean de Urgență Slatina,,Slatina,Olt,230027,,,,,,,44.432149,24.3681746
 315,10315,Spitalul Județean de urgență Sf. Spiridon,,Brăila,Brăila,810249,,,,,Yes,,45.2578616,27.9529593
 316,10316,Spitalul Maria Sklodowska Curie (de copii) - Budimex,Bulevardul Constantin Brâncoveanu nan,București,București,041406,,,,,Yes,,44.3896324,26.1089945
@@ -360,7 +360,7 @@
 358,10358,Spitalul Municipal Turda,,Turda,Cluj,401174,,,,,,,46.579649,23.7763439
 359,10359,Spitalul Municipal Târgoviște,,Târgoviște,Dâmbovița,130007,,,,,,,44.9199663,25.4575916
 360,10360,Spitalul Municipal Urziceni,Strada Teilor 3,Urziceni,Ialomița,925300,,,,,,,44.7115072,26.6485576
-361,10361,Spitalul Municipal de Urgență,,Caransebeș,Caraș-Severin,325400,,,,,,,45.4121002,22.227349
+361,10361,Spitalul Municipal de Urgență,,Caransebeș,Caraș-severin,325400,,,,,,,45.4121002,22.227349
 362,10362,Spitalul Municipla Codlea,,Codlea,Brașov,505100,,,,,,,45.7024076,25.4469717
 363,10363,Spitalul Mârzescu,,Brașov,Brașov,500030,,,,,,,45.6521855,25.5965809
 364,10364,Spitalul Ocna Mureș,,Ocna Mureș,Alba,515700,,,,,,,46.3794467,23.8604145
@@ -368,7 +368,7 @@
 366,10366,Spitalul Orășenesc,nan 35,Târgu Neamț,Neamț,615200,,,,,,,47.2071905,26.3578738
 367,10367,Spitalul Orășenesc,,Drăgășani,Vâlcea,245700,,,,,No,,44.6594166,24.2611988
 368,10368,Spitalul Orășenesc,,Făget,Timiș,305300,,,,,,,45.8451529,22.1689169
-369,10369,Spitalul Orășenesc,Strada Sfânta Varvara 1,Moldova Nouă,Caraș-Severin,325550,,,,,,,44.7267676,21.6226628
+369,10369,Spitalul Orășenesc,Strada Sfânta Varvara 1,Moldova Nouă,Caraș-severin,325550,,,,,,,44.7267676,21.6226628
 370,10370,Spitalul Orășenesc,Bulevardul Carpați nan,Corabia,Olt,235300,,,,,,,43.7735992,24.5091982
 371,10371,Spitalul Orășenesc Balș,,Balș,Olt,235100,,,,,,,44.3476232,24.1144018
 372,10372,Spitalul Orășenesc Cugir,,Cugir,Alba,515600,,,,,,,45.8368809,23.3625885
@@ -409,7 +409,7 @@
 407,10407,Spitalul de Boli Infecțioase,,Lugoj,Timiș,305500,,,,,,,45.6904245,21.8873927
 408,10408,Spitalul de Boli Psihice Cronice Borșa,,Borșa,Cluj,407110,,,,,,,46.9328793,23.6558411
 409,10409,Spitalul de Boli infecțioase (copii),,Sibiu,Sibiu,550009,,,,,,,45.7907001,24.1396102
-410,10410,Spitalul de Bătrâni,,Teaca,Bistrița-Năsăud,427345,,,,,,,46.911615,24.5048595
+410,10410,Spitalul de Bătrâni,,Teaca,Bistrița-năsăud,427345,,,,,,,46.911615,24.5048595
 411,10411,Spitalul de Chimilogie,,Muereasca,Vâlcea,247411,,,,,No,,45.2001425,24.2956288
 412,10412,Spitalul de Copii Sfântul Nicolae,,Bârlad,Vaslui,731126,,,,,,,46.2406856,27.6705296
 413,10413,Spitalul de Neurologie și Psihiatrie Carol Davila,FIXME 1-3,Alba Iulia,Alba,510009,,,,,,,46.0694495,23.5693592
@@ -473,7 +473,7 @@
 471,10471,Cabinete medicale individuale,,Iași,Iași,700321,,,,,,,47.1614104,27.6157733
 472,10472,Centrul Medical Cardiomed,,Iași,Iași,700687,,,,,,,47.1359392,27.5714699
 473,10473,Centrul de plasament Iași,,Iași,Iași,700349,,,,,,,47.160078,27.6117546
-474,10474,Centul Medical Sanovil,Strada 1 Decembrie 1918 12,Beclean,Bistrița-Năsăud,425100,,,,,,,47.1814964,24.1819892
+474,10474,Centul Medical Sanovil,Strada 1 Decembrie 1918 12,Beclean,Bistrița-năsăud,425100,,,,,,,47.1814964,24.1819892
 475,10475,Clinica Pedilife & Sanoptic,,Iași,Iași,700313,,,,,,,47.1591447,27.6025583
 476,10476,Clinică,,Deva,Hunedoara,330088,,,,,,,45.8748211,22.9111083
 477,10477,Complex Hidroterapeutic Baia Sărată,,Deva,Hunedoara,330088,,,,,,,45.8927698,22.8995401
@@ -490,7 +490,7 @@
 488,10488,Dispensar Loamneș,,Loamneș,Sibiu,557124,,,,,,,45.9323116,24.0742223
 489,10489,Dispensar Mila 23,,Nufăru,Tulcea,827171,,,,,,,45.2290043,29.2478511
 490,10490,Dispensar Muereasca,,Muereasca,Vâlcea,247405,,,,,,,45.18695,24.3175237
-491,10491,Dispensar Ohaba-Mâtnic,,Copăcele,Caraș-Severin,327101,,,,,,,45.470284,22.0776293
+491,10491,Dispensar Ohaba-Mâtnic,,Copăcele,Caraș-severin,327101,,,,,,,45.470284,22.0776293
 492,10492,Dispensar Sânpaul (1963),,Sânpaul,Cluj,407530,,,,,,,46.8699342,23.4120394
 493,10493,Dispensar TBC,,Brăila,Brăila,810022,,,,,,,45.2726398,27.9779736
 494,10494,Dispensar clinic uman,,Noșlac,Alba,517515,,,,,,,46.4050244,23.9330714

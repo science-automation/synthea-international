@@ -16,11 +16,11 @@
 14,6 Szpital Wojskowy z Przychodnią,Szpitalna 2,Dęblin,Powiat Rycki,08-530,261 518 530,51.5544396,21.8561291,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10014
 15,7 Szpital Marynarki Wojennej,,Gdańsk,Gdańsk,80-307,+48 58 552 63 18,54.391905,18.5650018,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10015
 16,Angelius,,Katowice,Katowice,40-022,,50.2166537,18.9840343,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016
-17,Apteka,Książęca 4,Bojszowy,Powiat Bieruńsko-Lędziński,43-220,,50.0569879,19.0966361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
+17,Apteka,Książęca 4,Bojszowy,Powiat Bieruńsko-lędziński,43-220,,50.0569879,19.0966361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017
 18,Arion ZOZ,,Tarnogród,Powiat Biłgorajski,23-420,,50.3605341,22.7427566,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10018
 19,Arion ZOZ,Doktora Stanisława Pojaska nan,Biłgoraj,Powiat Biłgorajski,23-400,,50.5300021,22.7126673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019
-20,Beskidzkie Centrum Medyczne,Młodzieżowa 21,Bielsko-Biała,Bielsko-Biała,43-300,+48 33 82 63 400,49.7852242,19.0311845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
-21,Beskidzkie Centrum Onkologii im. Jana Pawła II,,Bielsko-Biała,Bielsko-Biała,43-300,+48 33 498 4001,49.8237033,19.0566707,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
+20,Beskidzkie Centrum Medyczne,Młodzieżowa 21,Bielsko-Biała,Bielsko-biała,43-300,+48 33 82 63 400,49.7852242,19.0311845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10020
+21,Beskidzkie Centrum Onkologii im. Jana Pawła II,,Bielsko-Biała,Bielsko-biała,43-300,+48 33 498 4001,49.8237033,19.0566707,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10021
 22,Białostockie Centrum Onkologii im. Marii Skłodowskiej - Curie,,Białystok,Białystok,15-007,,53.1354418,23.1677438,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022
 23,Bieszczadzkie Wodne Ochotnicze Pogotowie Ratunkowe,,Solina,Powiat Leski,38-612,,49.382042,22.4483314,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10023
 24,Brzeskie Centrum Medyczne,Nysańska 4-6,Brzeg,Powiat Brzeski,49-300,,50.8523726,17.4756819,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10024
@@ -64,21 +64,21 @@
 62,Dom Pomocy Społecznej,,Wielgie,Powiat Lipnowski,87-603,,52.7498767,19.2339524,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10062
 63,Domowy Szpital,Spółdzielcza 5,Biała Podlaska,Biała Podlaska,21-500,,52.0341791,23.1104192,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10063
 64,Dziecięcy Szpital Uzdrowiskowy „Mieszko”,Wojska Polskiego 4,Szczawno-Zdrój,Powiat Wałbrzyski,58-310,,50.804922,16.2549841,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10064
-65,Esculap,,Bielsko-Biała,Bielsko-Biała,43-300,,49.8073872,18.9731649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
+65,Esculap,,Bielsko-Biała,Bielsko-biała,43-300,,49.8073872,18.9731649,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10065
 66,EuroMediCare,,Wrocław,Wrocław,54-144,,51.1421892,16.9560493,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10066
 67,Euromedic,Tadeusza Kościuszki 92,Katowice,Katowice,40-022,,50.2452523,19.0119544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10067
 68,Filia Domu Pomocy Społecznej Nr 1,,Tomaszów Mazowiecki,Powiat Tomaszowski,97-200,,51.5345777,19.9992428,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068
 69,Filia Wielkopolskiego Centrum Onkologii,Kaszubska 12,Kalisz,Kalisz,62-800,,51.7692528,18.1018641,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10069
 70,Fundacja Hospicjum dla Dzieci,Lwowska 132,Rzeszów,Rzeszów,35-074,17 853 48 18,50.0377121,22.0633016,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10070
 71,GAMETA,Rudzka 34/36,Rzgów,Powiat Łódzki Wschodni,95-030,+48 42 645 77 77,51.6737683,19.478558,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10071
-72,Galen Ortopedia,Jerzego 6,Bieruń,Powiat Bieruńsko-Lędziński,43-155,,50.0925548,19.0904836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
-73,Galena,,Bielsko-Biała,Bielsko-Biała,43-300,,49.8103258,19.0559899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
+72,Galen Ortopedia,Jerzego 6,Bieruń,Powiat Bieruńsko-lędziński,43-155,,50.0925548,19.0904836,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10072
+73,Galena,,Bielsko-Biała,Bielsko-biała,43-300,,49.8103258,19.0559899,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10073
 74,Geo Medical,Wita Stwosza 41,Katowice,Katowice,40-022,,50.2457373,19.0133727,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10074
 75,Ginekologiczno-Położniczy Szpital Kliniczny,Polna 33,Poznań,Poznań,60-584,+48 61 841 92 24,52.410091,16.8963007,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10075
 76,Gliwickie Centrum Medyczne Sp. z o.o.,Tadeusza Kościuszki 29,Gliwice,Gliwice,44-100,324613201,50.2944524,18.6529806,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10076
 77,Gminna Przychodnia SZOZ,Bydgoska 38,Dąbrowa Chełmińska,Powiat Bydgoski,86-070,,53.1772024,18.2998435,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10077
 78,Gminny Ośrodek Zdrowia,Powstańców Śląskich 7,Przystajń,Powiat Kłobucki,42-141,,50.8831648,18.6872297,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10078
-79,Gminny Zakład Opieki Zdrowotnej,Jana nan,Bojszowy,Powiat Bieruńsko-Lędziński,43-220,,50.0574498,19.0965943,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
+79,Gminny Zakład Opieki Zdrowotnej,Jana nan,Bojszowy,Powiat Bieruńsko-lędziński,43-220,,50.0574498,19.0965943,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10079
 80,Górnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II,Medyków 16,Katowice,Katowice,40-022,+48 32 2071800,50.2238509,18.949552,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10080
 81,Głogowski Szpital Powiatowy,Tadeusza Kościuszki 15,Głogów,Powiat Głogowski,67-200,,51.6548096,16.074964,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10081
 82,Hospicjum,Szpitalna 1C,Miechów,Powiat Miechowski,32-200,,50.3552426,20.0355248,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10082
@@ -117,9 +117,9 @@
 115,"Klinika Dermatologii, Wenerologii i Dermatologii Dziecięcej",Radziwiłłowska 13,Lublin,Lublin,20-115,,51.2497035,22.558396,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10115
 116,Klinika Ort-Medica Centeum Medyczne,Brzozowa 7,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,51.6274169,17.8049814,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10116
 117,Klinika Pro Bono,,Poznań,Poznań,60-122,,52.3772308,16.8805224,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10117
-118,Klinika św. Łukasza,Bystrzańska 94b,Bielsko-Biała,Bielsko-Biała,43-300,,49.7825107,19.0667834,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
-119,Kolejowy Szpital Uzdrowiskowy,Gabriela Narutowicza 12,,Bielsko-Biała,,,52.880236,18.6898415,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
-120,Kolejowy Szpital Uzdrowiskowy,Zdrojowa 17,,Bielsko-Biała,,,52.8772621,18.7895421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
+118,Klinika św. Łukasza,Bystrzańska 94b,Bielsko-Biała,Bielsko-biała,43-300,,49.7825107,19.0667834,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10118
+119,Kolejowy Szpital Uzdrowiskowy,Gabriela Narutowicza 12,,Bielsko-biała,,,52.880236,18.6898415,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10119
+120,Kolejowy Szpital Uzdrowiskowy,Zdrojowa 17,,Bielsko-biała,,,52.8772621,18.7895421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10120
 121,Krakowska Poradnia Opieki Paliatywnej,Wielicka nan,Kraków,Kraków,30-864,,50.0101323,20.0059805,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10121
 122,Krakowski Szpital Reumatologii i Rehabilitacji,Aleja Marszałka Ferdynanda Focha 33,Kraków,Kraków,30-233,,50.0575056,19.9134477,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10122
 123,Krakowskie Centrum Rehabilitacji,,Kraków,Kraków,30-233,,50.0635596,19.8658621,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10123
@@ -186,7 +186,7 @@
 184,Nowy Szpital,,Szprotawa,Powiat Żagański,67-300,,51.5666949,15.5519833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10184
 185,Nowy Szpital,,Świecie,Powiat Świecki,86-100,,53.4135904,18.4652544,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10185
 186,Nowy Szpital Olkusz,1000-lecia nan,Olkusz,Powiat Olkuski,32-300,,50.2695531,19.5674073,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10186
-187,ODDZIAŁ MEDYCYNY PALIATYWNEJ SZPITALA OGÓLNEGO im. dr Edmunda Wojtyły w Bielsku-Białej,Emilii Plater 17,Bielsko-Biała,Bielsko-Biała,43-300,,49.8205913,19.0239195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
+187,ODDZIAŁ MEDYCYNY PALIATYWNEJ SZPITALA OGÓLNEGO im. dr Edmunda Wojtyły w Bielsku-Białej,Emilii Plater 17,Bielsko-Biała,Bielsko-biała,43-300,,49.8205913,19.0239195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10187
 188,Oddział Dzienny Psychiatryczny Ogólny Świętokrzyskiego Centrum Psychiatrii,Janusza Kusocińskiego 59,Kielce,Kielce,25-525,+48 41 366 97 71,50.8540784,20.5983963,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10188
 189,"Oddział Pulmonologii, Diagnostyki i Leczenia Raka Płuca",Wieniecka 49,Włocławek,Włocławek,87-816,,52.6592899,19.0320254,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10189
 190,Oddział Ratunkowy,Korczyńska 57,Krosno,Krosno,38-400,+48134364110,49.7012565,21.7834387,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10190
@@ -429,7 +429,7 @@
 427,Szpital Barlinek sp. z o.o.,ulica Szpitalna 10,Barlinek,Powiat Myśliborski,74-320,,52.9976806,15.2238067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10427
 428,Szpital Barska,,Włocławek,Włocławek,87-800,,52.6506765,19.0922702,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10428
 429,Szpital Bielański,Cegłowska 80,Warszawa,Warszawa,01-834,,52.2862057,20.9521796,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10429
-430,Szpital Chirurgii Małoinwazjnej i Rekonstrukcyjnej,,Bielsko-Biała,Bielsko-Biała,43-300,,49.7851035,19.0301854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10430
+430,Szpital Chirurgii Małoinwazjnej i Rekonstrukcyjnej,,Bielsko-Biała,Bielsko-biała,43-300,,49.7851035,19.0301854,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10430
 431,Szpital Chirurgii Urazowej,Bytomska 62,Piekary Śląskie,Piekary Śląskie,41-940,,50.3719431,18.9470183,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10431
 432,Szpital Chorób Płuc,Dworcowa 20,Orzesze,Powiat Mikołowski,43-187,+48 32 2213661,50.1527347,18.7727436,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10432
 433,Szpital Chorób Płuc im. K. Dłuskiego,,Wrocław,Wrocław,53-229,,51.1020157,17.0069466,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10433
@@ -437,7 +437,7 @@
 435,Szpital Czerniakowski,ulica Stępińska 19,Warszawa,Warszawa,00-739,,52.205929,21.0369934,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10435
 436,Szpital Dziecięcy Polanki,Polanki 119,,Warszawa,,,54.3951194,18.5595638,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10436
 437,Szpital Dziecięcy im. Bolesława Krysiewicza,,Poznań,Poznań,61-758,,52.404163,16.9294335,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10437
-438,Szpital Dziecięcy im. J. Korczaka,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,49.9602288,18.573874,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10438
+438,Szpital Dziecięcy im. J. Korczaka,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-zdrój,44-335,,49.9602288,18.573874,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10438
 439,Szpital Dziecięcy imienia profesora doktora Jana Bogdanowicza,,Warszawa,Warszawa,04-158,,52.2350116,21.0615426,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10439
 440,Szpital ESKULAP,Koperkowa 2,Osielsko,Powiat Bydgoski,86-031,+48523265800,53.1772909,18.0616861,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10440
 441,Szpital Geriatryczny im. Jana Pawła II w Katowicach,,Katowice,Katowice,40-022,,50.2678355,19.0928538,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10441
@@ -487,8 +487,8 @@
 485,Szpital Neuropsychiatryczny imienia Doktora Józefa Babińskiego,,Kraków,Kraków,30-394,,50.0054078,19.8878965,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10485
 486,Szpital Obserwacyjno Zakaźny i Hepatologii Zakaźnej,,Bytom,Bytom,41-902,,50.3535226,18.9122842,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10486
 487,Szpital Ogólny,Szpitalna 5,Wysokie Mazowieckie,Powiat Wysokomazowiecki,18-200,,52.9156947,22.5214749,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10487
-488,Szpital Ogólny im. dr Edmunda Wojtyły,,Bielsko-Biała,Bielsko-Biała,43-300,,49.82274,19.033113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10488
-489,Szpital Pediatryczny,,Bielsko-Biała,Bielsko-Biała,43-300,,49.819438,19.0266807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10489
+488,Szpital Ogólny im. dr Edmunda Wojtyły,,Bielsko-Biała,Bielsko-biała,43-300,,49.82274,19.033113,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10488
+489,Szpital Pediatryczny,,Bielsko-Biała,Bielsko-biała,43-300,,49.819438,19.0266807,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10489
 490,Szpital Powiatowy,Jana III Sobieskiego 9,Lubliniec,Powiat Lubliniecki,42-700,+48 34 350 63 80,50.6650156,18.6818683,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10490
 491,Szpital Powiatowy,Jana Kochanowskiego 2,Lesko,Powiat Leski,38-600,,49.4749346,22.3340372,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10491
 492,Szpital Powiatowy,,Dzierżoniów,Powiat Dzierżoniowski,58-200,,50.7287569,16.6569057,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10492
@@ -534,7 +534,7 @@
 532,Szpital Powiatowy w Połczynie Zdroju,,Połczyn-Zdrój,Powiat Świdwiński,78-320,94 366 18 07,53.7638725,16.0908042,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10532
 533,Szpital Powiatowy w Pszczynie,,Pszczyna,Powiat Pszczyński,43-200,,49.9736401,18.9384724,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10533
 534,Szpital Powiatowy w Radomsku,,Radomsko,Powiat Radomszczański,97-500,,51.0574863,19.4568294,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10534
-535,Szpital Powiatowy w Ropczycach,,Ropczyce,Powiat Ropczycko-Sędziszowski,39-100,,50.0583934,21.6157441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10535
+535,Szpital Powiatowy w Ropczycach,,Ropczyce,Powiat Ropczycko-sędziszowski,39-100,,50.0583934,21.6157441,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10535
 536,Szpital Powiatowy w Rykach,,Ryki,Powiat Rycki,08-500,,51.6220994,21.9292169,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10536
 537,Szpital Powiatowy w Strzyżowie,,Strzyżów,Powiat Strzyżowski,38-100,,49.8696942,21.784034,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10537
 538,Szpital Powiatowy w Sławnie,,Sławno,Powiat Sławieński,76-100,,54.3700839,16.6783058,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10538
@@ -611,11 +611,11 @@
 609,Szpital Wojewódzki im. M. Kopernika,ulica Tytusa Chałubińskiego 7,Koszalin,Koszalin,75-581,,54.1993557,16.2111011,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10609
 610,Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego,,Sieradz,Powiat Sieradzki,98-200,,51.5826827,18.7104774,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10610
 611,Szpital Wojewódzki im. dr. Ludwika Rydygiera w Suwałkach,,Suwałki,Suwałki,16-400,,54.117928,22.9270175,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10611
-612,Szpital Wojewódzki w Bielsku-Białej,,Bielsko-Biała,Bielsko-Biała,43-300,,49.7901228,19.0431546,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10612
+612,Szpital Wojewódzki w Bielsku-Białej,,Bielsko-Biała,Bielsko-biała,43-300,,49.7901228,19.0431546,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10612
 613,Szpital Wolski im. doktor Anny Gostyńskiej,Marcina Kasprzaka 17,Warszawa,Warszawa,01-171,,52.2271566,20.9710687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10613
 614,Szpital Zakonu Bonifatrów pw. Aniołów Stróżów,Leopolda Markiefki 87,Katowice,Katowice,40-022,32 357-62-00,50.2686218,19.0408817,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10614
 615,Szpital Zakonu Bonifratrów św. Jana Bożego,Kosynierów Gdyńskich 61,Łódź,Łódź,93-357,+48 42 685 51 30,51.71778,19.4703379,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10615
-616,Szpital Zespolony,,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-Kozielski,47-200,,50.3324067,18.1500595,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10616
+616,Szpital Zespolony,,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-kozielski,47-200,,50.3324067,18.1500595,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10616
 617,Szpital dla Nerwowo i Psychicznie Chorych im. Stanisława Kryzana,Skarszewska 7,Starogard Gdański,Powiat Starogardzki,83-200,,53.9767348,18.5076719,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10617
 618,Szpital dla Przewlekle Chorych Dzieci z Rehabilitacją,3 Maja 35,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,51.6364594,17.8124985,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10618
 619,Szpital im. Henryka Jordana,ulica Przyrodnicza 7,Łódź,Łódź,91-480,,51.8026661,19.4535886,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10619
@@ -662,7 +662,7 @@
 660,Szpital św. Wojciecha,,Poznań,Poznań,61-304,+48 61 623 31 11,52.362602,16.9926794,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10660
 661,Szpital świętej Elżbiety,Seweryna Goszczyńskiego 1,Warszawa,Warszawa,02-626,,52.1955159,21.0201984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10661
 662,Szpitalny Oddział Ratunkowy,,Zawiercie,Powiat Zawierciański,42-400,,50.481391,19.4087415,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10662
-663,ULTRAMEDIC Centrum Medyczne,Władysława Broniewskiego 48,Bielsko-Biała,Bielsko-Biała,43-300,,49.8160822,19.0502748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10663
+663,ULTRAMEDIC Centrum Medyczne,Władysława Broniewskiego 48,Bielsko-Biała,Bielsko-biała,43-300,,49.8160822,19.0502748,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10663
 664,Ujastek Grupa Neomedic,,Kraków,Kraków,31-109,,50.0819687,20.069107,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10664
 665,Uniwersytecka Klinika Stomatologiczna,Montelupich 4,Kraków,Kraków,31-141,,50.07372,19.9406579,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10665
 666,Uniwersytecki Szpital Dziecięcy,,Kraków,Kraków,30-688,+48 12 658 20 11,50.0135884,19.9997597,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10666
@@ -734,9 +734,9 @@
 732,Wojewódzki Szpital Rehabilitacyjny dla Dzieci w Ameryce,,Olsztynek,Powiat Olsztyński,11-015,,53.6170489,20.3148356,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10732
 733,Wojewódzki Szpital Rehabilitacyjny im. dr. S. Jasińskiego w Zakopanem,,Zakopane,Powiat Tatrzański,34-500,,49.3125494,19.9613435,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10733
 734,Wojewódzki Szpital Specjalistyczny,,Biała Podlaska,Biała Podlaska,21-500,,52.0473592,23.1098975,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10734
-735,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,49.9597902,18.5737308,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10735
-736,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,,49.959572,18.5740457,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10736
-737,Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych,,,Jastrzębie-Zdrój,,,52.1472212,15.4101815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10737
+735,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-zdrój,44-335,,49.9597902,18.5737308,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10735
+736,Wojewódzki Szpital Specjalistyczny Nr 2 - Oddział pediatryczny,Ignacego Krasickiego 21,Jastrzębie-Zdrój,Jastrzębie-zdrój,44-335,,49.959572,18.5740457,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10736
+737,Wojewódzki Szpital Specjalistyczny dla Nerwowo i Psychicznie Chorych,,,Jastrzębie-zdrój,,,52.1472212,15.4101815,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10737
 738,Wojewódzki Szpital Specjalistyczny im. Fryderyka Chopina,Fryderyka Szopena nan,Rzeszów,Rzeszów,35-074,,50.0348841,22.0084508,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10738
 739,Wojewódzki Szpital Specjalistyczny im. J. Gromkowskiego,,Wrocław,Wrocław,51-143,,51.1439634,17.0678492,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10739
 740,Wojewódzki Szpital Specjalistyczny im. J. Korczaka,,Słupsk,Słupsk,76-200,,54.4509957,17.0605403,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10740
@@ -831,7 +831,7 @@
 829,Alamed,Mikołaja Kopernika 8a,Grójec,Powiat Grójecki,05-600,,51.8640024,20.875298,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10829
 830,Aldemed Centrum Medyczne,Towarowa 20,Zielona Góra,Zielona Góra,65-052,,51.948144,15.5142583,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10830
 831,Aldemed Centrum Medyczne,Aleja Niepodległości 1,Zielona Góra,Zielona Góra,65-052,,51.9401852,15.506883,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10831
-832,Alfa,Grażyny 9,Bielsko-Biała,Bielsko-Biała,43-300,,49.8113864,19.0351067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10832
+832,Alfa,Grażyny 9,Bielsko-Biała,Bielsko-biała,43-300,,49.8113864,19.0351067,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10832
 833,Alfa,,Sieradz,Powiat Sieradzki,98-200,,51.5909858,18.7383833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10833
 834,Alina Gruszka Lekarz Specjalista Chorób Oczu,Wiejska 12,Gorzyce,Powiat Wodzisławski,44-362,,49.9902377,18.3293799,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10834
 835,Allmedica,Aleja Tysiąclecia 111,Nowy Targ,Powiat Nowotarski,34-400,,49.4775812,20.0513988,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10835
@@ -869,11 +869,11 @@
 867,Centrum Fizjoterapii MAXMED 1,Budowlanych 4,Konin,Konin,62-500,,52.2274586,18.2776543,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10867
 868,Centrum Kultury Higieny i Zdrowia Psychicznego,Księdza Ignacego Skorupki 2,Bydgoszcz,Bydgoszcz,85-023,,53.1175048,17.9904339,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10868
 869,Centrum Leczniczo-Usługowe im. św. Anny,Jana Kochanowskiego 22A,Płock,Płock,09-402,24 367 33 10,52.5536261,19.7005522,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10869
-870,Centrum Madyczne Cztery Pory Roku,Władysława Broniewskiego 39,Bielsko-Biała,Bielsko-Biała,43-300,,49.8139062,19.0512383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10870
+870,Centrum Madyczne Cztery Pory Roku,Władysława Broniewskiego 39,Bielsko-Biała,Bielsko-biała,43-300,,49.8139062,19.0512383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10870
 871,Centrum Medi Partner Kielce,,Kielce,Kielce,25-525,+48 500 900 800,50.8521093,20.6313668,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10871
 872,Centrum Medycne Spychalscy,Strzelecka 33,Środa Wielkopolska,Powiat Średzki,63-000,,52.2374666,17.2751171,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10872
 873,Centrum Medycyny Sportowej OLIMP,Urszuli 10,Zielona Góra,Zielona Góra,65-052,+48 68 458 05 76,51.95238,15.52262,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10873
-874,Centrum Medyczne,,Lędziny,Powiat Bieruńsko-Lędziński,43-140,,50.130897,19.1071959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10874
+874,Centrum Medyczne,,Lędziny,Powiat Bieruńsko-lędziński,43-140,,50.130897,19.1071959,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10874
 875,Centrum Medyczne,Wojska Polskiego 59,Łomża,Łomża,18-400,,53.1784962,22.0628786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10875
 876,Centrum Medyczne,Ogrodowa 11a,Rakoniewice,Powiat Grodziski,62-067,,52.1391507,16.2678845,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10876
 877,Centrum Medyczne,Byłych Więźniów Politycznych 3,Rybnik,Rybnik,44-200,+48324329444,50.0987855,18.5524335,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10877
@@ -902,7 +902,7 @@
 900,Centrum Medyczne Jaktorów,Warszawska 24,Jaktorów,Powiat Grodziski,96-313,,52.0865192,20.5552314,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10900
 901,Centrum Medyczne Kamionki,Platanowa 18,Kórnik,Powiat Poznański,62-023,,52.291627,16.9814932,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10901
 902,Centrum Medyczne Kopernik,Wielkiej Niedźwiedzicy 4,Gliwice,Gliwice,44-100,,50.3208741,18.6548954,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10902
-903,Centrum Medyczne Laser Med,,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-Kozielski,47-200,,50.3570184,18.2558172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10903
+903,Centrum Medyczne Laser Med,,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-kozielski,47-200,,50.3570184,18.2558172,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10903
 904,"Centrum Medyczne Lucyna, Andrzej Dymek",Ludwika Waryńskiego 4,Zawadzkie,Powiat Strzelecki,47-120,,50.6121952,18.4753526,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10904
 905,Centrum Medyczne Marki,Kasztanowa 8,Marki,Powiat Wołomiński,05-270,,52.3421457,21.1174558,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10905
 906,Centrum Medyczne Marmedicam Sp. z o.o. Sp. k.,Nadbrzeżna 12,Jaworzno,Jaworzno,43-602,,50.2491939,19.2535572,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10906
@@ -954,7 +954,7 @@
 952,Dar Serca,Jana Bażyńskiego 2,Elbląg,Elbląg,82-300,,54.1678062,19.4097456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10952
 953,Diagen,Świętego Wojciecha 7,Szczecin,Szczecin,70-560,+48 518 939595,53.4280969,14.5485237,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10953
 954,Diagmed,Majora Henryka Sucharskiego 5,Dąbrowa Tarnowska,Powiat Dąbrowski,33-200,+48 14 642 43 40,50.1783,20.9818655,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10954
-955,Diagmed,Komorowicka 23,Bielsko-Biała,Bielsko-Biała,43-300,,49.8268386,19.0522342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10955
+955,Diagmed,Komorowicka 23,Bielsko-Biała,Bielsko-biała,43-300,,49.8268386,19.0522342,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10955
 956,Diamed,Jana Kochanowskiego 4,Czechowice-Dziedzice,Powiat Bielski,43-502,,49.9170155,19.001395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10956
 957,"Dom Medyczny ""Otomińska""",Otomińska 74,Gdańsk,Gdańsk,80-298,,54.339487,18.5084252,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10957
 958,Domowa Opieka Nad Chorymi,,Lwówek Śląski,Powiat Lwówecki,59-600,,51.1079706,15.5932389,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10958
@@ -970,7 +970,7 @@
 968,Eskulap,,Radziejów,Powiat Radziejowski,88-200,,52.6264429,18.5241952,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10968
 969,Euromedicus Sp. z o.o.,Czechosłowacka 3,Gdynia,Gdynia,81-364,,54.5333351,18.5176786,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10969
 970,Evomed,Stanisława Dubois 27,Szczecin,Szczecin,70-560,+48 91 81 40 202,53.4383161,14.5762407,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10970
-971,FAMILIA-MED,,Bieruń,Powiat Bieruńsko-Lędziński,43-155,,50.0856026,19.0871318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10971
+971,FAMILIA-MED,,Bieruń,Powiat Bieruńsko-lędziński,43-155,,50.0856026,19.0871318,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10971
 972,FIZJOFIT,Szparagowa 19,Gliwice,Gliwice,44-100,,50.2512314,18.6573608,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10972
 973,Familia Medica,Tadeusza Kościuszki 15,Ostrów Wielkopolski,Powiat Ostrowski,63-400,,51.6427331,17.81195,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10973
 974,Familia. NZOZ. Praktyka rodzinna i specjalistyczna,Henryka Sienkiewicza 9,Pruszcz Gdański,Powiat Gdański,83-000,,54.2649971,18.6585549,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10974
@@ -1010,7 +1010,7 @@
 1008,Górniczy Zakład Lecznictwa Ambulatoryjnego,,Ruda Śląska,Ruda Śląska,41-710,,50.2550433,18.9043907,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11008
 1009,Hadmedica,Płochocińska 111,Warszawa,Warszawa,03-002,,52.3412327,21.0278766,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11009
 1010,Hipokrates,,Tychy,Tychy,43-100,,50.1093876,19.005339,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11010
-1011,Indywidualna praktyka lekarska Małecka - Holerek ginekolog,Łuczników 13,Bielsko-Biała,Bielsko-Biała,43-300,,49.7978063,19.0121054,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11011
+1011,Indywidualna praktyka lekarska Małecka - Holerek ginekolog,Łuczników 13,Bielsko-Biała,Bielsko-biała,43-300,,49.7978063,19.0121054,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11011
 1012,Instytut Gruźlicy i Chorób Płuc  Oddział Terenowy im. Jana i Ireny Rudników w Rabce-Zdrój,Profesora Rudnika 3b,Rabka-Zdrój,Powiat Nowotarski,34-700,,49.6042006,19.9674673,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11012
 1013,Instytut Psychosomatyczny,Tucholska 12,Warszawa,Warszawa,01-551,,52.2705051,20.9886973,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11013
 1014,Instytut Zdrowia Medicall,Wojska Polskiego 77,Piotrków Trybunalski,Piotrków Trybunalski,97-300,,51.4127038,19.6862421,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11014
@@ -1039,7 +1039,7 @@
 1037,LuxMed,,Kozienice,Powiat Kozienicki,26-900,,51.6737618,21.4614136,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11037
 1038,MED5,Zadole 30,Katowice,Katowice,40-022,,50.2193532,18.9752102,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11038
 1039,MEDAX,,Łódź,Łódź,90-563,,51.7703619,19.4469414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11039
-1040,MEDICOR,,Bieruń,Powiat Bieruńsko-Lędziński,43-155,,50.085428,19.0865943,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11040
+1040,MEDICOR,,Bieruń,Powiat Bieruńsko-lędziński,43-155,,50.085428,19.0865943,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11040
 1041,MEDICUS. NZOZ. Zespol Lekarski,Generała Stanisława Pruszyńskiego 10,Wąbrzeźno,Powiat Wąbrzeski,87-200,+48566870887,53.276089,18.9479534,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11041
 1042,Malwita,Romualda Traugutta 30,Grodzisk Mazowiecki,Powiat Grodziski,05-825,,52.1152414,20.6209413,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11042
 1043,Marmed sp.j,Henryka Sienkiewicza 36,Gorlice,Powiat Gorlicki,38-300,,49.6536529,21.1687001,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11043
@@ -1096,10 +1096,10 @@
 1094,MiniMed,,Brańsk,Powiat Bielski,17-120,,52.7418117,22.8410872,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11094
 1095,"Moja Przychodnia J. Bugajska, M. Krzemińska",Lubicka 11,Lubicz,Powiat Toruński,87-122,+48 56 6550864,53.0544786,18.724489,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11095
 1096,Monieckie Centrum Medyczno-Finansowe,Aleja Niepodległości 11b,Mońki,Powiat Moniecki,19-100,,53.4065347,22.8045701,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11096
-1097,Multimed,Granitowa 22,Bieruń,Powiat Bieruńsko-Lędziński,43-155,,50.0823106,19.1607623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11097
+1097,Multimed,Granitowa 22,Bieruń,Powiat Bieruńsko-lędziński,43-155,,50.0823106,19.1607623,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11097
 1098,"Multimedica , Słuchmed",Świętego Rocha 3,Białystok,Białystok,15-007,,53.1337125,23.1453735,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11098
 1099,NFOZ,Główna 70,Oborniki Śląskie,Powiat Trzebnicki,55-124,,51.2479261,16.9337044,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11099
-1100,NFZ,nan 259,Wielopole Skrzyńskie,Powiat Ropczycko-Sędziszowski,39-110,,49.9448179,21.611663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11100
+1100,NFZ,nan 259,Wielopole Skrzyńskie,Powiat Ropczycko-sędziszowski,39-110,,49.9448179,21.611663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11100
 1101,NFZ. Pomorski Oddział Wojewódzki,Marynarki Polskiej 148A,Gdańsk,Gdańsk,80-873,,54.3768759,18.6295178,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11101
 1102,"NSZOZ ""Salus""",Szpitalna 48,Kutno,Powiat Kutnowski,99-300,,52.235244,19.3767003,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11102
 1103,NSZOZ Art&Med,Winiarska 12,Kalisz,Kalisz,62-800,,51.7644345,18.1021313,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11103
@@ -1169,7 +1169,7 @@
 1167,NZOZ Multi Cordis,aleja Powstańców Wielkopolskich nan,Szczecin,Szczecin,70-560,,53.4065599,14.5293127,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11167
 1168,NZOZ Nasza Poradnia,Młodzieżowa 33,Chorzów,Chorzów,41-506,,50.2902643,18.9621651,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11168
 1169,NZOZ Nasza Przychodnia,Aleja Wolności 46,Częstochowa,Częstochowa,42-217,,50.8042098,19.1163629,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11169
-1170,"NZOZ Niepubliczny Zakład Opieki Zdrowotnej „Nasz Medyk”, filia w Radominie",nan 28,Radomin,Powiat Golubsko-Dobrzyński,87-404,+48 56 683 75 20,53.0871525,19.1873612,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11170
+1170,"NZOZ Niepubliczny Zakład Opieki Zdrowotnej „Nasz Medyk”, filia w Radominie",nan 28,Radomin,Powiat Golubsko-dobrzyński,87-404,+48 56 683 75 20,53.0871525,19.1873612,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11170
 1171,NZOZ Nowy Fordon,Jana Kleina 1,Bydgoszcz,Bydgoszcz,85-023,,53.1502164,18.1293766,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11171
 1172,NZOZ Oko Med,Adama Mickiewicza 47,Grudziądz,Grudziądz,86-300,,53.4905392,18.7564353,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11172
 1173,NZOZ Olsztyńscy Ortopedzi Sp. z o.o.,Johanna Gottfrieda Herdera 10,Olsztyn,Olsztyn,10-118,+48895239090,53.7400537,20.5078686,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11173
@@ -1187,7 +1187,7 @@
 1185,NZOZ Poradnia Zdrowia,Rynek 25,Turobin,Powiat Biłgorajski,23-465,,50.8217927,22.7463507,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11185
 1186,NZOZ Połomia,,Mszana,Powiat Wodzisławski,44-323,,49.9908879,18.5622732,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11186
 1187,NZOZ Primamed,Polskiej Organizacji Wojskowej 27a,Sieradz,Powiat Sieradzki,98-200,,51.5943146,18.7226383,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11187
-1188,NZOZ Pro Cordi,Stanisława Wyspiańskiego 8,Jastrzębie-Zdrój,Jastrzębie-Zdrój,44-335,+48324734809,49.9637106,18.5719793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11188
+1188,NZOZ Pro Cordi,Stanisława Wyspiańskiego 8,Jastrzębie-Zdrój,Jastrzębie-zdrój,44-335,+48324734809,49.9637106,18.5719793,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11188
 1189,NZOZ Pro Familia,nan 946,Trzebownisko,Powiat Rzeszowski,36-001,,50.0780801,22.0375798,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11189
 1190,NZOZ Pro Femina,Krośnieńska 1,Będzin,Powiat Będziński,42-500,(32) 267 41 50; 884 974 150,50.3329053,19.1148395,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11190
 1191,NZOZ Profilaktyka medyczna,Kardynała Stefana Wyszyńskiego 14,Kutno,Powiat Kutnowski,99-300,,52.2296388,19.3664476,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11191
@@ -1230,7 +1230,7 @@
 1228,NZOZ Zdrowa Rodzina,Marynarzy 11,Knurów,Powiat Gliwicki,44-190,,50.2382128,18.6582134,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11228
 1229,NZOZ Zdrowie,nan 106,Godziszów,Powiat Janowski,23-306,,50.8137153,22.5292976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11229
 1230,NZOZ Zdrowie,Ludomira Różyckiego 2c,Mysłowice,Mysłowice,41-400,,50.2393488,19.1289734,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11230
-1231,NZOZ Zdrowie S.C. St. i K. Ptak,Ignacego Krasickiego 12a,Bielsko-Biała,Bielsko-Biała,43-300,,49.8074755,19.057992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11231
+1231,NZOZ Zdrowie S.C. St. i K. Ptak,Ignacego Krasickiego 12a,Bielsko-Biała,Bielsko-biała,43-300,,49.8074755,19.057992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11231
 1232,NZOZ Zdrowie s. c.,Jana Pawła II 5,Janów Lubelski,Powiat Janowski,23-300,,50.7049431,22.4173687,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11232
 1233,NZOZ Zespół Lekarzy Rodzinnych,Konińska 15,Kramsk,Powiat Koniński,62-511,,52.2631652,18.4221695,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11233
 1234,NZOZ Złota Jesień,,Kraków,Kraków,31-836,,50.0926647,20.0227663,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11234
@@ -1373,7 +1373,7 @@
 1371,Ośrodek Zdrowia PRONUS,Władysława Jagiełły 41,Pobiedziska,Powiat Poznański,62-010,,52.47625,17.2823042,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11371
 1372,Ośrodek Zdrowia Rosochate Kościelne,Wierzbowa 10,Czyżew,Powiat Wysokomazowiecki,18-220,,52.8628427,22.3482178,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11372
 1373,Ośrodek Zdrowia W Wandowie,nan 59,Gardeja,Powiat Kwidzyński,82-520,,53.6734677,19.0535992,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11373
-1374,Ośrodek Zdrowia w Brzezinach,,Wielopole Skrzyńskie,Powiat Ropczycko-Sędziszowski,39-111,,49.9311172,21.5536182,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11374
+1374,Ośrodek Zdrowia w Brzezinach,,Wielopole Skrzyńskie,Powiat Ropczycko-sędziszowski,39-111,,49.9311172,21.5536182,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11374
 1375,Ośrodek Zdrowia w Brzostku,,Brzostek,Powiat Dębicki,39-230,,49.8816275,21.4131029,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11375
 1376,Ośrodek Zdrowia w Chełmcach,,Kruszwica,Powiat Inowrocławski,88-150,,52.6107546,18.4399942,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11376
 1377,Ośrodek Zdrowia w Choczni Duo-Met s.c. POZ,Główna 4,Wadowice,Powiat Wadowicki,34-100,33 873 03 17,49.8735681,19.4541463,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11377
@@ -1399,7 +1399,7 @@
 1397,Ośrodek zdrowia,,Żyraków,Powiat Dębicki,39-204,,50.0835413,21.3913976,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11397
 1398,Ośrodek zdrowia,Szkolna 1,,Powiat Dębicki,,,49.8473366,19.1429569,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11398
 1399,Ośrodek zdrowia,,Kurzętnik,Powiat Nowomiejski,13-306,,53.3856903,19.467764,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11399
-1400,Ośrodek zdrowia,Piotra Skargi 2,Imielin,Powiat Bieruńsko-Lędziński,41-407,,50.1426803,19.1823787,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11400
+1400,Ośrodek zdrowia,Piotra Skargi 2,Imielin,Powiat Bieruńsko-lędziński,41-407,,50.1426803,19.1823787,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11400
 1401,Ośrodek zdrowia,Lecznicza 272,Jaworze,Powiat Bielski,43-384,,49.7943871,18.9458148,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11401
 1402,Ośrodek zdrowia,Henryka Sienkiewicza 37,Wierzbica,Powiat Radomski,26-680,,51.2465225,21.0679507,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11402
 1403,Ośrodek zdrowia,Wrocławska 8,Długołęka,Powiat Wrocławski,55-095,,51.2337379,17.1209436,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11403
@@ -1431,7 +1431,7 @@
 1429,Pawilon sanatoryjny Wrzos,Uzdrowiskowa 52,Goczałkowice-Zdrój,Powiat Pszczyński,43-230,,49.9377653,18.979028,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11429
 1430,"Pediatryczno-Internistyczny NZOZ ""Parkowa""",Parkowa 7,Gryfino,Powiat Gryfiński,74-100,,53.2549246,14.4907053,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11430
 1431,Piastowskie Centrum Terapii i Profilaktyki Zdrowia Psychicznego,,Poznań,Poznań,61-131,8773961,52.3889037,16.9458908,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11431
-1432,Polfra-Med Laboratorium Analityczne,Wita Stwosza 31,Bielsko-Biała,Bielsko-Biała,43-300,,49.8260445,19.0274414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11432
+1432,Polfra-Med Laboratorium Analityczne,Wita Stwosza 31,Bielsko-Biała,Bielsko-biała,43-300,,49.8260445,19.0274414,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11432
 1433,Poliklinika,,Wałcz,Powiat Wałecki,78-600,,53.2829542,16.4588833,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11433
 1434,Polskie Centrum Zdrowia,,Wrocław,Wrocław,50-381,,51.1166991,17.0530388,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11434
 1435,Porad-Med Sp. Z o.o,Hutnicza 8,Świętochłowice,Świętochłowice,41-605,,50.2895807,18.9159751,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11435
@@ -1465,7 +1465,7 @@
 1463,Poradnia Ziołolecznicza Konwentu Bonifratrów,ulica Kosynierów Gdyńskich 61,Łódź,Łódź,93-357,,51.7173221,19.4718344,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11463
 1464,Poradnia w Hutkach,,Konopiska,Powiat Częstochowski,42-274,,50.6814992,19.006701,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11464
 1465,Poradnia Żeromskiego,Stefana Żeromskiego 33,Warszawa,Warszawa,01-834,,52.2765197,20.9464289,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11465
-1466,Poradnie Specjalistyczne,Michała Drzymały 55,Imielin,Powiat Bieruńsko-Lędziński,41-407,,50.1478388,19.1764456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11466
+1466,Poradnie Specjalistyczne,Michała Drzymały 55,Imielin,Powiat Bieruńsko-lędziński,41-407,,50.1478388,19.1764456,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11466
 1467,"Poradnie Specjalistyczne ""Medicus"" s.c.",Aleja Wolności 1a,Ostrzeszów,Powiat Ostrzeszowski,63-500,,51.4252527,17.9276412,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11467
 1468,Poradnie i POZ,Juliana Fałata 2a,,Powiat Ostrzeszowski,,,49.7648738,19.0720961,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11468
 1469,Poradnie lekarskie,Główna 1a,Przytoczna,Powiat Międzyrzecki,66-340,,52.5765705,15.6738997,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11469
@@ -1550,7 +1550,7 @@
 1548,Przychodnia Grabiszyn,Stalowa 50,Wrocław,Wrocław,53-229,,51.0981378,17.0014197,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11548
 1549,Przychodnia Górzyskowo sp. z o. o.,Juliusza Kossaka 48,Bydgoszcz,Bydgoszcz,85-023,,53.1140364,17.986647,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11549
 1550,Przychodnia Hipokrates,Generała Władysława Sikorskiego 19,Głogów,Powiat Głogowski,67-200,,51.6653374,16.075055,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11550
-1551,Przychodnia IS-MED,Zwycięstwa nan,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-Kozielski,47-200,,50.3543092,18.2641685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11551
+1551,Przychodnia IS-MED,Zwycięstwa nan,Kędzierzyn-Koźle,Powiat Kędzierzyńsko-kozielski,47-200,,50.3543092,18.2641685,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11551
 1552,Przychodnia Internistyczna,Gilarska 23,Warszawa,Warszawa,03-556,+48226795354,52.2772236,21.0606005,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11552
 1553,Przychodnia JOLOKO,Feliksa Wolskiego 5,Zamość,Zamość,22-400,,50.7065462,23.2871504,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11553
 1554,Przychodnia Jurajska,Legionów Polskich 11a,Krzeszowice,Powiat Krakowski,32-065,,50.1376568,19.6375361,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11554
@@ -1636,7 +1636,7 @@
 1634,Przychodnia Rejonowa nr 1,Fabryczna 1,Piaseczno,Powiat Piaseczyński,05-500,,52.0763854,21.0249103,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11634
 1635,Przychodnia Rejonowa nr 1,Błonie 5,Sanok,Powiat Sanocki,38-500,,49.5586308,22.2096984,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11635
 1636,Przychodnia Rejonowa nr 1,Lipińskiego 10,Sanok,Powiat Sanocki,38-500,,49.553136,22.2080792,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11636
-1637,Przychodnia Rejonowa nr 2,Goławiecka 40,Lędziny,Powiat Bieruńsko-Lędziński,43-140,,50.1067259,19.1551047,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11637
+1637,Przychodnia Rejonowa nr 2,Goławiecka 40,Lędziny,Powiat Bieruńsko-lędziński,43-140,,50.1067259,19.1551047,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11637
 1638,Przychodnia Rejonowa nr 2,Patriotów 170,Warszawa,Warszawa,04-834,,52.1852786,21.1893349,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11638
 1639,Przychodnia Rejonowa nr 5,Marszałka Józefa Piłsudskiego 5,Piekary Śląskie,Piekary Śląskie,41-940,,50.3794166,18.9416934,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11639
 1640,Przychodnia Rejonowa w Skale,Słomnicka 69,Skała,Powiat Krakowski,32-043,"12 389 10 05, 12 389 10 56",50.2315341,19.8597324,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11640
