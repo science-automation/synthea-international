@@ -4,7 +4,7 @@
 2,Region Sjælland,20,Orø,4305,55.7718,11.8163
 3,Region Sjælland,20,Agersø,4244,55.2149,11.1854
 4,Region Sjælland,20,Omø,4245,55.162,11.159
-5,Region Sjælland,20,Askø Og Lilleø,4942,54.8969,11.495
+5,Region Sjælland,20,Askø og Lilleø,4942,54.8969,11.495
 6,Region Sjælland,20,Femø,4945,54.9758,11.5352
 7,Region Syddanmark,21,Lyø,5601,55.0439,10.1473
 8,Region Syddanmark,21,Avernakø,5602,55.0187,10.2845
@@ -98,7 +98,7 @@
 96,Region Nordjylland,81,Brønderslev,9700,57.2702,9.941
 97,Region Nordjylland,81,Aalborg,9000,57.048,9.9187
 98,Region Nordjylland,81,Aalborg,9100,57.048,9.9187
-99,Region Nordjylland,81,Aalborg Sv,9200,56.9733,9.9233
+99,Region Nordjylland,81,Aalborg SV,9200,56.9733,9.9233
 100,Region Nordjylland,81,Aalborg SØ,9210,56.9733,9.9233
 101,Region Nordjylland,81,Aalborg Øst,9220,56.9733,9.9233
 102,Region Nordjylland,81,Svenstrup J,9230,56.9733,9.9233
@@ -215,7 +215,7 @@
 213,Region Midtjylland,82,Langå,8870,56.3903,9.8949
 214,Region Midtjylland,82,Thorsø,8881,56.2995,9.7892
 215,Region Midtjylland,82,Fårvang,8882,56.2675,9.7278
-216,Region Midtjylland,82,Randers Sv,8940,56.4893,10.262
+216,Region Midtjylland,82,Randers SV,8940,56.4893,10.262
 217,Region Midtjylland,82,Randers SØ,8960,56.4422,10.3635
 218,Region Midtjylland,82,Odder,8300,55.9731,10.153
 219,Region Midtjylland,82,Malling,8340,56.0363,10.1963
@@ -224,9 +224,9 @@
 222,Region Midtjylland,82,Ulstrup,8860,56.3899,9.7935
 223,Region Midtjylland,82,Langå,8870,56.3903,9.8949
 224,Region Midtjylland,82,Randers C,8900,56.4893,10.262
-225,Region Midtjylland,82,Randers Nv,8920,56.4893,10.262
+225,Region Midtjylland,82,Randers NV,8920,56.4893,10.262
 226,Region Midtjylland,82,Randers NØ,8930,56.4893,10.262
-227,Region Midtjylland,82,Randers Sv,8940,56.4893,10.262
+227,Region Midtjylland,82,Randers SV,8940,56.4893,10.262
 228,Region Midtjylland,82,Randers SØ,8960,56.4422,10.3635
 229,Region Midtjylland,82,Havndal,8970,56.6525,10.1967
 230,Region Midtjylland,82,Spentrup,8981,56.537,10.0379
@@ -413,11 +413,11 @@
 411,Region Syddanmark,83,Odense C,5000,55.3959,10.3883
 412,Region Syddanmark,83,Odense C,5100,55.3959,10.3883
 413,Region Syddanmark,83,Odense V,5200,55.3902,10.5201
-414,Region Syddanmark,83,Odense Nv,5210,55.3902,10.5201
+414,Region Syddanmark,83,Odense NV,5210,55.3902,10.5201
 415,Region Syddanmark,83,Odense SØ,5220,55.3902,10.5201
 416,Region Syddanmark,83,Odense M,5230,55.3902,10.5201
 417,Region Syddanmark,83,Odense NØ,5240,55.3902,10.5201
-418,Region Syddanmark,83,Odense Sv,5250,55.3902,10.5201
+418,Region Syddanmark,83,Odense SV,5250,55.3902,10.5201
 419,Region Syddanmark,83,Odense S,5260,55.3902,10.5201
 420,Region Syddanmark,83,Odense N,5270,55.3902,10.5201
 421,Region Syddanmark,83,Agedrup,5320,55.4324,10.4888
@@ -536,7 +536,7 @@
 534,Region Syddanmark,83,Padborg,6330,54.8266,9.3625
 535,Region Syddanmark,83,Kruså,6340,54.851,9.4013
 536,Region Syddanmark,83,Tinglev,6360,54.931,9.2524
-537,Region Syddanmark,83,Bylderup-bov,6372,54.9387,9.0857
+537,Region Syddanmark,83,Bylderup-Bov,6372,54.9387,9.0857
 538,Region Syddanmark,83,Bolderslev,6392,54.9925,9.284
 539,Region Syddanmark,83,Agerskov,6534,55.1289,9.1355
 540,Region Syddanmark,83,Fredericia,7000,55.5657,9.7526
@@ -1017,8 +1017,8 @@
 1015,Region Hovedstaden,84,Nordhavn,2150,55.6759,12.5655
 1016,Region Hovedstaden,84,København N,2200,55.6759,12.5655
 1017,Region Hovedstaden,84,København S,2300,55.6759,12.5655
-1018,Region Hovedstaden,84,København Nv,2400,55.6759,12.5655
-1019,Region Hovedstaden,84,København Sv,2450,55.6759,12.5655
+1018,Region Hovedstaden,84,København NV,2400,55.6759,12.5655
+1019,Region Hovedstaden,84,København SV,2450,55.6759,12.5655
 1020,Region Hovedstaden,84,Valby,2500,55.6581,12.5241
 1021,Region Hovedstaden,84,Rødovre,2610,55.6806,12.4537
 1022,Region Hovedstaden,84,Brønshøj,2700,55.7057,12.4964
