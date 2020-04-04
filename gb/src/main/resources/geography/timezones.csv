@@ -47,22 +47,22 @@ Cheshire,,Greenwich Mean Time,GMT
 Berkshire,,Greenwich Mean Time,GMT
 Bedfordshire,,Greenwich Mean Time,GMT
 Denbighshire,DEN,Greenwich Mean Time,GMT
-Dumfries And Galloway,DGY,Greenwich Mean Time,GMT
+Dumfries And Galloway,,Greenwich Mean Time,GMT
 Flintshire,FLN,Greenwich Mean Time,GMT
 Monmouthshire,MON,Greenwich Mean Time,GMT
 Powys,POW,Greenwich Mean Time,GMT
 Scottish Borders,SCB,Greenwich Mean Time,GMT
-Wrexham,,Greenwich Mean Time,GMT
+Wrexham,WRX,Greenwich Mean Time,GMT
 Guernsey Channel Islands,,Greenwich Mean Time,GMT
 Hereford And Worcester,,Greenwich Mean Time,GMT
 Belfast,BFS,Greenwich Mean Time,GMT
 Belfast Greater,,Greenwich Mean Time,GMT
-County Down,,Greenwich Mean Time,GMT
-County Antrim,,Greenwich Mean Time,GMT
+County Down,DOW,Greenwich Mean Time,GMT
+County Antrim,ANT,Greenwich Mean Time,GMT
 County Londonderry,,Greenwich Mean Time,GMT
-County Armagh,,Greenwich Mean Time,GMT
+County Armagh,ARM,Greenwich Mean Time,GMT
 County Tyrone,,Greenwich Mean Time,GMT
-County Fermanagh,,Greenwich Mean Time,GMT
+County Fermanagh,FER,Greenwich Mean Time,GMT
 Aberdeenshire,ABD,Greenwich Mean Time,GMT
 Argyll And Bute,AGB,Greenwich Mean Time,GMT
 Angus,ANS,Greenwich Mean Time,GMT
