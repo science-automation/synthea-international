@@ -46,9 +46,9 @@ Greater Manchester,,Greenwich Mean Time,GMT
 Cheshire,,Greenwich Mean Time,GMT
 Berkshire,,Greenwich Mean Time,GMT
 Bedfordshire,,Greenwich Mean Time,GMT
-Denbighshire,,Greenwich Mean Time,GMT
+Denbighshire,DEN,Greenwich Mean Time,GMT
 Dumfries And Galloway,DGY,Greenwich Mean Time,GMT
-Flintshire,,Greenwich Mean Time,GMT
+Flintshire,FLN,Greenwich Mean Time,GMT
 Monmouthshire,,Greenwich Mean Time,GMT
 Powys,POW,Greenwich Mean Time,GMT
 Scottish Borders,,Greenwich Mean Time,GMT
@@ -96,21 +96,21 @@ West Dunbart,,Greenwich Mean Time,GMT
 Western Isles,,Greenwich Mean Time,GMT
 Orkney,,Greenwich Mean Time,GMT
 Isle Of Barra,,Greenwich Mean Time,GMT
-Bridgend,,Greenwich Mean Time,GMT
+Bridgend,BGE,Greenwich Mean Time,GMT
 Blaenau Gwent,BGW,Greenwich Mean Time,GMT
-Caerphilly,,Greenwich Mean Time,GMT
-Ceredigion,,Greenwich Mean Time,GMT
-Carmarthenshire,,Greenwich Mean Time,GMT
-Cardiff,,Greenwich Mean Time,GMT
+Caerphilly,CAY,Greenwich Mean Time,GMT
+Ceredigion,CGN,Greenwich Mean Time,GMT
+Carmarthenshire,CMN,Greenwich Mean Time,GMT
+Cardiff,CRF,Greenwich Mean Time,GMT
 Conwy,CWY,Greenwich Mean Time,GMT
 Gwynedd,GWN,Greenwich Mean Time,GMT
 Merthyr Tydfil,,Greenwich Mean Time,GMT
-Neath Port Talbot,,Greenwich Mean Time,GMT
+Neath Port Talbot,NTL,Greenwich Mean Time,GMT
 Newport,,Greenwich Mean Time,GMT
 Pembrokeshire,,Greenwich Mean Time,GMT
-Swansea,,Greenwich Mean Time,GMT
-Torfaen,,Greenwich Mean Time,GMT
-Vale Of Glamorgan,,Greenwich Mean Time,GMT
+Swansea,SWA,Greenwich Mean Time,GMT
+Torfaen,TOF,Greenwich Mean Time,GMT
+Vale Of Glamorgan,VGL,Greenwich Mean Time,GMT
 Rhondda Cynon Taff,,Greenwich Mean Time,GMT
 Isle Of Anglesey,,Greenwich Mean Time,GMT
 Isle Of Man,,Greenwich Mean Time,GMT
