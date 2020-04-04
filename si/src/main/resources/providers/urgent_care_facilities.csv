@@ -15,21 +15,21 @@
 13,20013,Leonišče,,Ljubljana,Ljubljana,1000,,,,,,,46.0532416,14.5233779
 14,20014,Oddelek za pljučne bolezni,Slivniško Pohorje 7,Hoče-Slivnica,Maribor,2312,,,,,,,46.4831385,15.576683
 15,20015,Očesna klinika Ljubljana,Grablovičeva ulica 46,Ljubljana,Ljubljana,1000,,,,,,,46.0552459,14.529164
-16,20016,Pivnica Donat,Zdraviliški trg nan,Rogaška Slatina,,3250,,,,,,,46.2389391,15.640403
+16,20016,Pivnica Donat,Zdraviliški trg nan,Rogaška Slatina,Šmarje Pri Jelšah,3250,,,,,,,46.2389391,15.640403
 17,20017,Psihiatrična klinika Ljubljana,,Ljubljana,Ljubljana,1000,,,,,,,46.0518964,14.5693615
 18,20018,Specialistični pregledi,Derčeva ulica 35,Ljubljana,Ljubljana,1000,,,,,,,46.0713751,14.4828394
 19,20019,Splošna Ambulanta Poljčane,Bistriška cesta 62,Poljčane,Slovenska Bistrica,2319,,,,,,,46.3130359,15.5780869
 20,20020,Splošna Bolnišnica Izola - Ospedale Generale Isola,Polje 40,Izola,,6310,,+386 5 6606 299,,,Yes,,45.5449708,13.6851455
 21,20021,Splošna Bolnišnica Slovenj Gradec,,Slovenj Gradec,Slovenj Gradec,2380,,,,,Yes,,46.5092984,15.0812473
 22,20022,Splošna bolnišnica,,Slovenj Gradec,Slovenj Gradec,2380,,,,,,,46.5084666,15.0821904
-23,20023,Splošna bolnišnica,Šmihelska cesta 1,Novo mesto,,8000,,,,,,,45.8001691,15.1630882
+23,20023,Splošna bolnišnica,Šmihelska cesta 1,Novo mesto,Novo Mesto,8000,,,,,,,45.8001691,15.1630882
 24,20024,Splošna bolnišnica Brežice,Černelčeva cesta 15,Brežice,Brežice,8250,,,,,,,45.9089144,15.5937925
 25,20025,Splošna bolnišnica Celje,Oblakova ulica nan,Celje,Celje,3000,,,,,,,46.2324647,15.260609
 26,20026,Splošna bolnišnica Jesenice,,Jesenice,Jesenice,4270,,,,,,,46.4434432,14.0378893
 27,20027,Splošna bolnišnica Murska Sobota,Ulica dr. Vrbnjaka 6,Murska Sobota,Murska Sobota,9000,,,,,Yes,,46.6484582,16.1856969
 28,20028,Splošna bolnišnica dr. Jožeta Potrča Ptuj,,Ptuj,Ptuj,2250,,,,,Yes,,46.4279247,15.875755
 29,20029,Splošna bolnišnica »Dr. Franca Derganca« Nova Gorica,Ulica padlih borcev 13A,Šempeter-Vrtojba,Nova Gorica,5290,,,,,Yes,,45.933011,13.639599
-30,20030,Terapija,Zdraviliški trg 9,Rogaška Slatina,,3250,,,,,,,46.2388383,15.6408477
+30,20030,Terapija,Zdraviliški trg 9,Rogaška Slatina,Šmarje Pri Jelšah,3250,,,,,,,46.2388383,15.6408477
 31,20031,Univerzitetni klinični center Ljubljana,Zaloška cesta 7,Ljubljana,Ljubljana,1000,,,,,Yes,,46.0548693,14.5202926
 32,20032,Univerzitetni klinični center Maribor,Ljubljanska ulica 5,Maribor,Maribor,2000,,+386 2 321 10 00,,,Yes,,46.5510318,15.6492422
 33,20033,Univerzitetni rehabilitacijski inštitut Republike Slovenije - Soča,Linhartova cesta 51,Ljubljana,Ljubljana,1000,,,,,,,46.0680333,14.5243584
@@ -42,9 +42,9 @@
 40,20040,Zdrastveni dom Kranj,Gosposvetska ulica 10,Kranj,Kranj,4000,,,,,,,46.2487383,14.3531117
 41,20041,Zdravstveni Dom,,Slovenj Gradec,Slovenj Gradec,2380,,,,,,,46.5069207,15.0817966
 42,20042,Zdravstveni Dom Koper,,Koper,Koper,6000,,,,,,,45.5396937,13.7322074
-43,20043,Zdravstveni dom,,Novo mesto,,8000,,,,,,,45.8014829,15.1622176
+43,20043,Zdravstveni dom,,Novo mesto,Novo Mesto,8000,,,,,,,45.8014829,15.1622176
 44,20044,Zdravstveni dom,Kržičeva ulica 10,Ljubljana,Ljubljana,1000,,,,,,,46.0647107,14.5109652
-45,20045,Zdravstveni dom,Celjska cesta 10,Rogaška Slatina,,3250,,,,,,,46.2393506,15.6340617
+45,20045,Zdravstveni dom,Celjska cesta 10,Rogaška Slatina,Šmarje Pri Jelšah,3250,,,,,,,46.2393506,15.6340617
 46,20046,Zdravstveni dom Bled,,Bled,Radovljica,4260,,,,,,,46.3715951,14.1087336
 47,20047,Zdravstveni dom Celje,,Celje,Celje,3000,,,,,,,46.2320416,15.2629202
 48,20048,Zdravstveni dom Cerknica,Cesta 4. maja 17,Cerknica,Cerknica,1380,,,,,,,45.7915497,14.3656569
@@ -76,7 +76,7 @@
 74,20074,Ambulanta Cerkvenjak,Cerkvenjak 30a,Cerkvenjak,Lenart,2236,,+386 8 2056340,,,,,46.5653323,15.9427518
 75,20075,Ambulanta Cirkovce,Cirkovce 50,Kidričevo,Ptuj,2326,,,,,,,46.394582,15.7284403
 76,20076,Ambulanta Razkrižje,Šafarsko 24A,Razkrižje,Ljutomer,9246,,,,,,,46.5200713,16.2867838
-77,20077,Dermis specialistična Dermatološko Alergološka ambulanta d.o.o.,Košenice 13,Novo mesto,,8000,,+386 7 334 71 70,,,,,45.7849341,15.1613005
+77,20077,Dermis specialistična Dermatološko Alergološka ambulanta d.o.o.,Košenice 13,Novo mesto,Novo Mesto,8000,,+386 7 334 71 70,,,,,45.7849341,15.1613005
 78,20078,Medico - Kirurški center,Levstikova ulica 17,Moravske Toplice,Murska Sobota,9226,,,,,,,46.6858384,16.2165497
 79,20079,Nacionalni verinarski inštitut MS,Noršinska ulica 35,Murska Sobota,Murska Sobota,9000,,+386 2 5211991,,,,,46.664549,16.192888
 80,20080,Postaja Sprostitve,Ulica Vinka Vodopivca 28,Nova Gorica,Nova Gorica,5000,,,,,,,45.9581313,13.6599219
@@ -125,10 +125,10 @@
 123,20123,Zdravstveni dom Rogašovci,nan 14a,Rogašovci,Murska Sobota,9262,,,,,,,46.8052519,16.0361288
 124,20124,Zdravstveni dom Tišina,Tišina 30,Tišina,Murska Sobota,9251,,,,,,,46.6535596,16.0868922
 125,20125,Zdravstveni dom Trebnje,Goliev trg 3,Trebnje,Trebnje,8210,,,,,,,45.9085546,15.0064517
-126,20126,Zdravstveni dom Zagorje,,Zagorje ob Savi,,1410,,+386 3 5655000,,,,,46.1338532,14.9952134
+126,20126,Zdravstveni dom Zagorje,,Zagorje ob Savi,Zagorje Ob Savi,1410,,+386 3 5655000,,,,,46.1338532,14.9952134
 127,20127,Zdravstveni dom Zgornja Polskava,Mladinska ulica 12,Slovenska Bistrica,Slovenska Bistrica,2314,,,,,,,46.4270827,15.610972
 128,20128,Zdravstveni dom dr. Adolfa Drolca Maribor,,Maribor,Maribor,2000,,+386 2 228 6200,,,,,46.5599937,15.6524807
-129,20129,zdravstveni dom,Bistrica ob Sotli 3,Bistrica ob Sotli,,3256,,,,,,,46.056571,15.6608759
+129,20129,zdravstveni dom,Bistrica ob Sotli 3,Bistrica ob Sotli,Šmarje Pri Jelšah,3256,,,,,,,46.056571,15.6608759
 130,20130,zdravstveni dom Dobrovnik,Dobrovnik 297a,Dobrovnik,Lendava,9223,,,,,,,46.6517755,16.3512932
-131,20131,zdravstveni dom ravne na koroškem,Ob Suhi 11,Ravne na Koroškem,,2390,,,,,,,46.5431553,14.9678296
+131,20131,zdravstveni dom ravne na koroškem,Ob Suhi 11,Ravne na Koroškem,Ravne Na Koroškem,2390,,,,,,,46.5431553,14.9678296
 132,20132,Železniški zdravstveni dom,Celovška cesta 4,Ljubljana,Ljubljana,1000,,,,,,,46.0572521,14.5015128

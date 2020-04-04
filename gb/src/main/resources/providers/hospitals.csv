@@ -87,7 +87,7 @@
 85,10085,Belfast City Hospital,,Belfast,County Antrim,BT2 7,,,,,Yes,,54.5880997,-5.9391059
 86,10086,Belhaven Hospital,,Dunbar,East Lothian,EH42 1,,,,,,,55.9958859,-2.5382611
 87,10087,Bellsdyke Hospital,Bellsdyke Road nan,Larbert,,FK5 3,,,,,No,,56.0341274,-3.8194223
-88,10088,Bensham Hospital,Saltwell Road nan,Gateshead,,NE8 4,,+44 191 482 0000,,,,,54.9459266,-1.6153528
+88,10088,Bensham Hospital,Saltwell Road nan,Gateshead,Tyne And Wear,NE8 4,,+44 191 482 0000,,,,,54.9459266,-1.6153528
 89,10089,Berkshire Independent Hospital,,Reading,Berkshire,RG1 4,,,,,,,51.4442226,-0.9899374
 90,10090,Bernard Reiss Centre,,Cambridge,Cambridgeshire,CB3 9,,,,,,,52.1978656,0.1535417
 91,10091,Berwick Infirmary,,Berwick-upon-Tweed,Northumberland,TD15 1,,,,,,,55.7729148,-2.0054244
@@ -147,7 +147,7 @@
 145,10145,Broadway Nursing Home,,Liverpool,Merseyside,L3 8,,,,,,,53.4388199,-2.9333297
 146,10146,Bromsgove Private Hospital,,Bromsgrove,Worcestershire,B60 2,,,,,No,,52.3322773,-2.0070678
 147,10147,Bromyard Community Hospital,Highwell Lane nan,Bromyard,Herefordshire,HR7 4,,+44 1885 485700,,,No,,52.1866066,-2.5072295
-148,10148,Brooke House,Hetton Road nan,Houghton le Spring,,DH5 8,,+44 191 584 2717,,,,,54.83669,-1.4685045
+148,10148,Brooke House,Hetton Road nan,Houghton le Spring,Tyne And Wear,DH5 8,,+44 191 584 2717,,,,,54.83669,-1.4685045
 149,10149,Brookfields Hospital,Mill Road 351,Cambridge,Cambridgeshire,CB3 9,,,,,,,52.1977821,0.1517133
 150,10150,Brooklands Health Centre,,Milton Keynes,Buckinghamshire,MK10 0,,,,,,,52.046342,-0.6766979
 151,10151,Broomfield Hospital,Court Road nan,Chelmsford,Essex,CM1 7,,+44 1245 443673,,,Yes,,51.7777333,0.460072
@@ -170,7 +170,7 @@
 168,10168,Camden Day Hospital,Camden Mews 5,London,,NW1 1,,,,,No,,51.5441057,-0.135342
 169,10169,Cameron Hospital,,Leven,Fife,KY8 5,,,,,No,,56.185252,-3.0546497
 170,10170,Campbeltown Hospital,,Campbeltown,,PA28 6,,,,,Yes,,55.4205534,-5.6057015
-171,10171,Campus for Ageing and Vitality,Westgate Road nan,Newcastle upon Tyne,,NE4 5,,+44 191 233 6161,,,,,54.9784678,-1.6428059
+171,10171,Campus for Ageing and Vitality,Westgate Road nan,Newcastle upon Tyne,Tyne And Wear,NE4 5,,+44 191 233 6161,,,,,54.9784678,-1.6428059
 172,10172,Car Park A,,Southampton,Hampshire,SO15 2,,,,,,,50.9127613,-1.3983418
 173,10173,Car Park D (staff),,Southampton,Hampshire,SO15 2,,,,,,,50.9126892,-1.3996982
 174,10174,Car Park E,,Southampton,Hampshire,SO15 2,,,,,,,50.9126628,-1.3979322
@@ -233,7 +233,7 @@
 231,10231,Clock View Hospital,,Liverpool,Merseyside,L3 8,,,,,,,53.4525239,-2.9676276
 232,10232,Coalville Community Hospital,Broom Leys Road nan,Coalville,Leicestershire,LE67 3,,,,,,,52.7247335,-1.3493389
 233,10233,Coathill Hospital,Hospital Street nan,Coatbridge,,ML5 1,,,,,No,,55.849018,-4.0238728
-234,10234,Cobalt Treatment Centre,The Silverlink North nan,,,,,+44 191 283 5856,,,No,,55.0280947,-1.5112157
+234,10234,Cobalt Treatment Centre,The Silverlink North nan,,Tyne And Wear,,,+44 191 283 5856,,,No,,55.0280947,-1.5112157
 235,10235,Cobholm and Lichfield Health and Resource Centre,,Great Yarmouth,Norfolk,NR29 4,,,,,No,,52.6054111,1.7189923
 236,10236,Coggeshall Surgery,,Colchester,Essex,CO6 1,,,,,Yes,,51.8724122,0.6840484
 237,10237,Colchester General Hospital,,Colchester,Essex,CO4 5,,,,,Yes,,51.9075839,0.8972589
@@ -306,11 +306,11 @@
 304,10304,Dumfries and Galloway Royal Infirmary,Cargenbridge nan,,Dunbartonshire,DG2 8,,,,,Yes,,55.0608846,-3.6617144
 305,10305,Dunbar Hospital,,Thurso,,KW14 7,,,,,,,58.5835269,-3.5410263
 306,10306,Duncan Macmillan House,Porchester Road nan,Nottingham,Nottinghamshire,NG1 7,,,,,No,,52.9784086,-1.1267307
-307,10307,Dunston Hill Hospital,Dunston Hill nan,Gateshead,,NE11 9,,+44 191 482 0000,,,,,54.9467287,-1.6579839
+307,10307,Dunston Hill Hospital,Dunston Hill nan,Gateshead,Tyne And Wear,NE11 9,,+44 191 482 0000,,,,,54.9467287,-1.6579839
 308,10308,Dykebar Hospital,,Paisley,Renfrewshire,PA3 2,,,,,No,,55.8245212,-4.394023
 309,10309,Eaglestone View,Chadwick Drive nan,Milton Keynes,Buckinghamshire,MK6 5,,,,,,,52.0273631,-0.7400872
 310,10310,Ealing Hospital NHS Trust,,Southall,,UB1 3,,+44 20 8967 5000,,,,,51.5085666,-0.346476
-311,10311,Earl Mountbatten Hospice,Halberry Lane nan,,,,,,,,,,50.7078825,-1.2814021
+311,10311,Earl Mountbatten Hospice,Halberry Lane nan,,Isle Of Wight,,,,,,,,50.7078825,-1.2814021
 312,10312,East Ayrshire Community Hospital,,Cumnock,,KA18 1,,,,,,,55.451707,-4.2731345
 313,10313,East Cleveland Hospital,,Saltburn by the Sea,,TS12 2,,,,,,,54.5643022,-0.9376069
 314,10314,East Lothian Community Hospital,,Haddington,East Lothian,EH41 3,,,,,,,55.9562454,-2.7994481
@@ -357,7 +357,7 @@
 355,10355,Finchley Memorial Hospital,,London,,N12 8,,,,,No,,51.6053928,-0.1775976
 356,10356,Firbeck Hospital,,Worksop,Nottinghamshire,S81 8,,,,,,,53.3939411,-1.1515777
 357,10357,First Avenue Surgery,"First Avenue 2, 2A",Dagenham,Essex,RM10 8,,,,,,,51.529799,0.1567983
-358,10358,Flagg Court Primary Care Centre,Flagg Court nan,South Shields,,NE33 1,,+44 191 283 2000,,,No,,54.9992016,-1.4267418
+358,10358,Flagg Court Primary Care Centre,Flagg Court nan,South Shields,Tyne And Wear,NE33 1,,+44 191 283 2000,,,No,,54.9992016,-1.4267418
 359,10359,Flatts Lane Centre,,,North Yorkshire,TS6 0,,,,,No,,54.5455981,-1.1479395
 360,10360,Fleet Community Hospital,,Fleet,Hampshire,GU51 3,,,,,,,51.2877649,-0.8489018
 361,10361,Fleming Hospital,,Aberlour,,AB38 9,,,,,,,57.4687494,-3.2237597
@@ -367,7 +367,7 @@
 365,10365,Forster Green Hospital,,Belfast,County Antrim,BT2 7,,,,,No,,54.5634009,-5.9069648
 366,10366,Forth Valley Royal Hospital,Stirling Road nan,Larbert,,FK5 4,,+44 1324 566 000,,,Yes,,56.0265148,-3.8560956
 367,10367,Fraserburgh Hospital,,Fraserburgh,Aberdeenshire,AB43 9,,,,,,,57.6881085,-2.0205295
-368,10368,Freeman Hospital,,Newcastle upon Tyne,,NE7 7,,,,,,,55.0037879,-1.5893236
+368,10368,Freeman Hospital,,Newcastle upon Tyne,Tyne And Wear,NE7 7,,,,,,,55.0037879,-1.5893236
 369,10369,Frenchay Brain Injury Rehabilitation Centre,,Bristol,,BS1 6,,,,,,,51.4992794,-2.5221187
 370,10370,Friarage Hospital,,Northallerton,North Yorkshire,DL6 1,,,,,Yes,,54.341339,-1.4315756
 371,10371,Frimley Park Hospital,Portsmouth Road nan,Camberley,Surrey,GU15 2,,,,,Yes,,51.3220083,-0.7423318
@@ -455,7 +455,7 @@
 453,10453,Hinckley & Market Bosworth Community Hospital,,Hinckley,Leicestershire,LE10 1,,,,,No,,52.5617412,-1.3696458
 454,10454,Hinckley Hospital,,Hinckley,Leicestershire,LE10 1,,,,,,,52.5392792,-1.368882
 455,10455,Hindmoor Manor,,,Surrey,GU26 6,,,,,,,51.1052166,-0.7342556
-456,10456,Holmeside and Parkway Medical Groups,,Newcastle upon Tyne,,NE15 9,,,,,No,,54.9961988,-1.7166157
+456,10456,Holmeside and Parkway Medical Groups,,Newcastle upon Tyne,Tyne And Wear,NE15 9,,,,,No,,54.9961988,-1.7166157
 457,10457,Holy Cross Hospital,Hindhead Road nan,Haslemere,Surrey,GU27 1,,+44 1428 643311,,,No,,51.0908767,-0.7393275
 458,10458,Holywell Hospital,,Antrim,County Antrim,BT41 4,,,,,No,,54.7306198,-6.202807
 459,10459,Homerton University Hospital,,London,,E9 6,,,,,Yes,,51.5493567,-0.0468395
@@ -468,8 +468,8 @@
 466,10466,Hospital of St Cross,,Rugby,Warwickshire,CV22 5,,,,,No,,52.3624649,-1.2582887
 467,10467,Hospital of St John and St Elizabeth,Grove End Road 60,London,,NW8 6,,,,,,,51.5332819,-0.1742662
 468,10468,Houghton Close Surgery,,Bedford,Bedfordshire,MK45 2,,,,,,,52.026086,-0.4926808
-469,10469,Houghton Day Unit,Hetton Road nan,Houghton le Spring,,DH5 8,,,,,,,54.8370598,-1.468839
-470,10470,Houghton Primary Care Centre,,Houghton le Spring,,DH5 8,,,,,No,,54.8435675,-1.4768323
+469,10469,Houghton Day Unit,Hetton Road nan,Houghton le Spring,Tyne And Wear,DH5 8,,,,,,,54.8370598,-1.468839
+470,10470,Houghton Primary Care Centre,,Houghton le Spring,Tyne And Wear,DH5 8,,,,,No,,54.8435675,-1.4768323
 471,10471,Hove Polyclinic,Nevill Avenue nan,Hove,East Sussex,BN3 7,,,,,,,50.8422682,-0.1900208
 472,10472,Hoylake Cottage Care Home,Birkenhead Road nan,Wirral,Merseyside,CH47 0,,,,,,,53.3982963,-3.1713917
 473,10473,Huddersfield Royal Infirmary,,Huddersfield,West Yorkshire,HD3 3,,,,,Yes,,53.6566158,-1.8150224
@@ -642,10 +642,10 @@
 640,10640,Millway Medical Practice,Hartley Avenue nan,London,,NW7 3,,,,,No,,51.6155417,-0.2442659
 641,10641,Milton Keynes Hospital,Standing Way nan,Milton Keynes,Buckinghamshire,MK6 5,,,,,Yes,,52.0286161,-0.7399241
 642,10642,Minehead Community Hospital,Luttrell Way nan,Minehead,Somerset,TA24 6,,,,,,,51.1980512,-3.4637684
-643,10643,Minor Injury and Illness Unit,,Sunderland,,SR1 3,,,,,Yes,,54.888917,-1.431412
+643,10643,Minor Injury and Illness Unit,,Sunderland,Tyne And Wear,SR1 3,,,,,Yes,,54.888917,-1.431412
 644,10644,Moffat Hospital,,Moffat,,DG10 9,,,,,,,55.3320285,-3.4307035
-645,10645,Molineux Street NHS Centre,Molineux Street nan,Newcastle upon Tyne,,NE6 5,,+44 191 275 5740,,,No,,54.9777282,-1.5829092
-646,10646,Monkwearmouth Hospital,,Sunderland,,SR1 3,,,,,,,54.924572,-1.3876937
+645,10645,Molineux Street NHS Centre,Molineux Street nan,Newcastle upon Tyne,Tyne And Wear,NE6 5,,+44 191 275 5740,,,No,,54.9777282,-1.5829092
+646,10646,Monkwearmouth Hospital,,Sunderland,Tyne And Wear,SR1 3,,,,,,,54.924572,-1.3876937
 647,10647,Monmouth Court Nursing Home,Monmouth Close nan,Ipswich,Suffolk,IP1 2,,,,,,,52.0368924,1.1452264
 648,10648,Montagu Hospital,,Mexborough,South Yorkshire,S64 9,,,,,,,53.5013453,-1.2867807
 649,10649,Montfield Hospital,,,Shetland Islands,,,,,,No,,60.1537978,-1.1512976
@@ -710,7 +710,7 @@
 708,10708,North Staffordshire Nuffield Hospital,Clayton Road nan,Newcastle,Staffordshire,ST5 4,,,,,,,52.9877534,-2.2240026
 709,10709,North Tees Hospital,,Stockton-on-Tees,,TS19 8,,,,,,,54.5812099,-1.3482246
 710,10710,North Thoresby Practice,,Grimsby,,DN36 5,,,,,No,,53.4650809,-0.05516
-711,10711,North Tyneside General Hospital,Rake Lane nan,North Shields,,NE30 1,,+44 344 811 8111,,,,,55.0268552,-1.4656395
+711,10711,North Tyneside General Hospital,Rake Lane nan,North Shields,Tyne And Wear,NE30 1,,+44 344 811 8111,,,,,55.0268552,-1.4656395
 712,10712,"North West Independent Hospital, Ballykelly",Main Street nan,Limavady,County Londonderry,BT49 9,,+44 28 77763090,,,No,,55.0462895,-7.014972
 713,10713,Northampton General Hospital,Cliftonville Road nan,Northampton,Northamptonshire,NN1 5,,,,,Yes,,52.2346424,-0.8789896
 714,10714,Northern General Hospital,,Sheffield,South Yorkshire,S1 2,,,,,,,53.412629,-1.459318
@@ -728,7 +728,7 @@
 726,10726,Nuffield Health Cambridge Hospital,Trumpington Road 2-4,Cambridge,Cambridgeshire,CB3 9,,01223 370 922,,,No,,52.1904322,0.124051
 727,10727,Nuffield Health Derby Hospital,Rykneld Road nan,Derby,Derbyshire,DE23 4,,,,,,,52.893579,-1.5320257
 728,10728,Nuffield Health Glasgow Hospital,,Glasgow,,G12 0,,,,,,,55.8853428,-4.3071797
-729,10729,Nuffield Health Newcastle Hospital,Clayton Road nan,Newcastle upon Tyne,,NE2 2,,,,,No,,54.9863726,-1.6053942
+729,10729,Nuffield Health Newcastle Hospital,Clayton Road nan,Newcastle upon Tyne,Tyne And Wear,NE2 2,,,,,No,,54.9863726,-1.6053942
 730,10730,Nuffield Health Wessex Hospital,,Eastleigh,Hampshire,SO53 2,,,,,No,,50.9967244,-1.3608013
 731,10731,Nuffield Health Woking Hospital,Shores Road nan,Woking,Surrey,GU21 4,,+44 1483 378996,,,No,,51.3317027,-0.5617435
 732,10732,Nuffield Hospital,,Cheltenham,Gloucestershire,GL51 6,,,,,No,,51.8921878,-2.13028
@@ -747,11 +747,11 @@
 745,10745,Olive Mount Hospital,,Liverpool,Merseyside,L3 8,,,,,,,53.4012728,-2.9131441
 746,10746,One Hatfield Hospital,Hatfield Avenue 3,Hatfield,Hertfordshire,AL10 0,,,,,,,51.7715425,-0.236697
 747,10747,One-Life Middlesbrough,,Middlesbrough,,TS1 3,,,,,,,54.5660984,-1.2405383
-748,10748,Orchard Private Hospital,Fairlee Road 189,,,,,,,,No,,50.7117588,-1.280154
+748,10748,Orchard Private Hospital,Fairlee Road 189,,Isle Of Wight,,,,,,No,,50.7117588,-1.280154
 749,10749,Ormskirk District General Hospital,,Ormskirk,Lancashire,L39 3,,,,,,,53.5649403,-2.8698417
 750,10750,Orpington Hospital,,Orpington,Kent,BR6 0,,,,,,,51.3620724,0.0942426
 751,10751,Orsborne House  NHS Substance Misuse Services,,Birmingham,West Midlands,B19 2,,,,,,,52.5013004,-1.9220096
-752,10752,Ospadal Naomh Brianain,,Castlebay,,HS9 5,,,,,Yes,,56.9516611,-7.4973131
+752,10752,Ospadal Naomh Brianain,,Castlebay,Isle Of Barra,HS9 5,,,,,Yes,,56.9516611,-7.4973131
 753,10753,Ospadal Uibhist agus Bharraigh,,Isle of Benbecula,,HS7 5,,+44 1870 603 600,,,,,57.4743529,-7.3852341
 754,10754,Ospadal nan Eilean,,,,,,,,,,,58.2204571,-6.3860019
 755,10755,Oswestry Minor Injuries Unit,,Oswestry,Shropshire,SY11 1,,,,,,,52.8622477,-3.0477456
@@ -759,7 +759,7 @@
 757,10757,Outwood Site,,Burton upon Trent,Staffordshire,DE13 0,,,,,,,52.8191323,-1.6595989
 758,10758,Pages Lane Surgery,,Birmingham,West Midlands,B43 5,,,,,,,52.5455215,-1.9382563
 759,10759,Paignton Hospital,,Paignton,Devon,TQ3 2,,,,,,,50.4369505,-3.5694721
-760,10760,Palmer Community Hospital,Wear Street nan,Jarrow,,NE32 3,,+44 191 402 8000,,,No,,54.9804039,-1.4920417
+760,10760,Palmer Community Hospital,Wear Street nan,Jarrow,Tyne And Wear,NE32 3,,+44 191 402 8000,,,No,,54.9804039,-1.4920417
 761,10761,Park Attwood Clinic,,,Worcestershire,DY12 1,,,,,No,,52.4140649,-2.3001102
 762,10762,Park House Nursing Home,,Liverpool,Merseyside,L23 5,,,,,,,53.4766148,-3.0215906
 763,10763,Park Lee Hospital,,Blackburn,Lancashire,BB1 5,,,,,,,53.7344861,-2.4804059
@@ -799,7 +799,7 @@
 797,10797,Potters Bar Community Hospital,Barnet Road nan,Potters Bar,Hertfordshire,EN6 5,,,,,,,51.6869385,-0.1782543
 798,10798,Presentation Sisters Care Centre - former Convent School,Chesterfield Road nan,Matlock,Derbyshire,DE4 3,,,,,,,53.1423103,-1.5440842
 799,10799,Prestwich Hospital,,Manchester,Lancashire,M3 3,,,,,,,53.5297398,-2.3026841
-800,10800,Primrose Hill Community Hospital,Primrose Terrace nan,Jarrow,,NE32 3,,+44 191 451 6375,,,,,54.9676966,-1.4835527
+800,10800,Primrose Hill Community Hospital,Primrose Terrace nan,Jarrow,Tyne And Wear,NE32 3,,+44 191 451 6375,,,,,54.9676966,-1.4835527
 801,10801,Prince Philip Hospital,,Llanelli,,SA14 8,,,,,Yes,,51.6931734,-4.1355748
 802,10802,Princes House,London Road 73a,Reading,Berkshire,RG1 4,,,,,,,51.4516397,-0.959317
 803,10803,Princess Alexandra Eye Pavilion,,Edinburgh,Midlothian,EH2 3,,,,,,,55.9441519,-3.1986692
@@ -820,7 +820,7 @@
 818,10818,Prospect Park Hospital,,Reading,Berkshire,RG1 4,,,,,No,,51.4501591,-1.0135426
 819,10819,Purley War Memorial Hospital,Brighton Road 856,Purley,Surrey,CR8 2,,+44 20 8401 3000,,,,,51.3400462,-0.1145764
 820,10820,Queen Alexandra Hospital,,Portsmouth,Hampshire,PO1 4,,,,,Yes,,50.8525718,-1.0711767
-821,10821,Queen Elizabeth Hospital,,Gateshead,,NE10 9,,,,,Yes,,54.9404627,-1.580839
+821,10821,Queen Elizabeth Hospital,,Gateshead,Tyne And Wear,NE10 9,,,,,Yes,,54.9404627,-1.580839
 822,10822,Queen Elizabeth Hospital,,King's Lynn,Norfolk,PE30 2,,,,,,,52.7592611,0.4437854
 823,10823,Queen Elizabeth Hospital,Stadium Road nan,London,,SW1A 2,,,,,,,51.4760992,0.0474751
 824,10824,Queen Elizabeth II Hospital,,Welwyn Garden City,Hertfordshire,AL8 6,,,,,Yes,,51.7826293,-0.1871682
@@ -915,7 +915,7 @@
 913,10913,Royal United Hospital,Combe Park nan,Bath,,BA1 2,,,,,,,51.3902046,-2.3914026
 914,10914,Royal Victoria Hospital,,Dundee,Angus,DD1 3,,,,,No,,56.46142,-3.0165467
 915,10915,Royal Victoria Hospital and Folkestone Minor Injury Unit,,Folkestone,Kent,CT19 5,,,,,No,,51.0858433,1.1709519
-916,10916,Royal Victoria Infirmary,Queen Victoria Road nan,Newcastle upon Tyne,,NE1 4,,+44 191 233 6161,,,Yes,,54.9793142,-1.6216169
+916,10916,Royal Victoria Infirmary,Queen Victoria Road nan,Newcastle upon Tyne,Tyne And Wear,NE1 4,,+44 191 233 6161,,,Yes,,54.9793142,-1.6216169
 917,10917,Royston Hospital,,Royston,Hertfordshire,SG8 7,,,,,,,52.0407395,-0.0216602
 918,10918,Runcorn Road Dialysis Unit,,Birmingham,West Midlands,B5 7,,,,,No,,52.4558381,-1.8839642
 919,10919,Rush Court,,,Oxfordshire,OX10 8,,,,,,,51.6191003,-1.1306668
@@ -959,7 +959,7 @@
 957,10957,Shire Hill Hospital,,Glossop,Derbyshire,SK13 8,,,,,,,53.4534595,-1.9390958
 958,10958,Shirley Oaks Hospital,Poppy Lane nan,Croydon,Surrey,CR0 1,,,,,,,51.3816705,-0.0571947
 959,10959,Shotley Bridge Hospital,,Consett,,DH8 5,,,,,,,54.8694643,-1.8422611
-960,10960,Sir GB Hunter Memorial Hospital,The Green nan,Wallsend,,NE28 8,,+44 191 2205968,,,,,54.9964189,-1.5315239
+960,10960,Sir GB Hunter Memorial Hospital,The Green nan,Wallsend,Tyne And Wear,NE28 8,,+44 191 2205968,,,,,54.9964189,-1.5315239
 961,10961,Sir Robert Peel,Plantation Lane nan,Tamworth,Staffordshire,B78 3,,,,,,,52.6202237,-1.7236358
 962,10962,Skegness Hospital,,Skegness,Lincolnshire,PE25 2,,,,,,,53.1453901,0.3318822
 963,10963,Sleaford Medical Group,,Sleaford,Lincolnshire,NG34 7,,,,,No,,52.9976108,-0.4064676
@@ -971,7 +971,7 @@
 969,10969,South Liverpool NHS Treatment Centre,,Liverpool,Merseyside,L19 2,,,,,,,53.3553414,-2.895925
 970,10970,South Pembrokeshire Hospital,,Pembroke Dock,,SA72 6,,,,,,,51.6936521,-4.9591172
 971,10971,South Petherton Hospital,,South Petherton,Somerset,TA13 5,,,,,No,,50.9527512,-2.7995832
-972,10972,South Tyneside District Hospital,Harton Lane nan,South Shields,,NE34 0,,+44 191 404 1000,,,Yes,,54.9692711,-1.4283639
+972,10972,South Tyneside District Hospital,Harton Lane nan,South Shields,Tyne And Wear,NE34 0,,+44 191 404 1000,,,Yes,,54.9692711,-1.4283639
 973,10973,South Tyrone Hospital,Carland Road nan,Dungannon,County Tyrone,BT70 1,,+44 2887 722821,,,,,54.5088397,-6.7674555
 974,10974,South West Acute Hospital,Irvinestown Road 124,,County Fermanagh,BT74 6,,028 6638 2000,,,Yes,,54.3663052,-7.641402
 975,10975,South West Regional Laboratories,,Bristol,,BS2 8,,,,,,,51.4599627,-2.600902
@@ -1000,7 +1000,7 @@
 998,10998,Spire Nottingham Hospital,Tollerton Lane nan,,Nottinghamshire,NG12 4,,,,,No,,52.9185025,-1.0821379
 999,10999,Spire Southampton Hospital,,Southampton,Hampshire,SO15 2,,,,,No,,50.9300195,-1.4337051
 1000,11000,Spire Southbank Hospital,Bath Road nan,Worcester,Worcestershire,WR1 2,,,,,No,,52.1815766,-2.2173451
-1001,11001,Spire Washington Hospital,Picktree Lane nan,Washington,,NE38 9,,,,,,,54.8798109,-1.5594497
+1001,11001,Spire Washington Hospital,Picktree Lane nan,Washington,Tyne And Wear,NE38 9,,,,,,,54.8798109,-1.5594497
 1002,11002,Springdene Nursing Home,Oakleigh Park North 55,London,,N20 9,,,,,,,51.6345967,-0.1681892
 1003,11003,Springfield Hospital,Lawn Lane nan,Chelmsford,Essex,CM2 6,,+44 1245 952741,,,No,,51.7527105,0.4845615
 1004,11004,Springfield University Hospital,,London,,SW1A 2,,,,,,,51.4347323,-0.1742543
@@ -1063,7 +1063,7 @@
 1061,11061,St Vincents,,Aviemore,,PH22 1,,,,,No,,57.084594,-4.0559486
 1062,11062,St Winefride's Hospice,,Holywell,,CH8 7,,,,,,,53.2749628,-3.2236337
 1063,11063,St Woolos Hospital,,Newport,,NP19 8,,,,,No,,51.5826573,-3.001325
-1064,11064,St. Benedict’s Hospice and Centre for Specialist Palliative Care,St. Benedict’s Way nan,Sunderland,,SR2 0,,+44 191 5128400,,,,,54.8618181,-1.3677877
+1064,11064,St. Benedict’s Hospice and Centre for Specialist Palliative Care,St. Benedict’s Way nan,Sunderland,Tyne And Wear,SR2 0,,+44 191 5128400,,,,,54.8618181,-1.3677877
 1065,11065,St. Cadoc's Hospital,Lodge Road nan,Newport,,NP18 3,,,,,No,,51.6116924,-2.9687832
 1066,11066,St. Ebba's Hospital,,London,,SW1A 2,,,,,,,51.3516018,-0.2710574
 1067,11067,St. Helier Hospital,Wrythe Lane nan,,Surrey,,,+44 20 8296 2000,,,Yes,,51.3822109,-0.18652
@@ -1094,9 +1094,9 @@
 1092,11092,Sue Ryder Duchess of Kent Hospice,,Reading,Berkshire,RG1 4,,,,,,,51.4493819,-1.0032293
 1093,11093,Summerfield Primary Care Centre,Heath Street nan,Birmingham,West Midlands,B18 4,,,,,,,52.4874531,-1.9376272
 1094,11094,Summerlands,,Yeovil,Somerset,BA21 3,,,,,,,50.9458555,-2.6482877
-1095,11095,Sunderland Children's Centre,,Sunderland,,SR1 3,,,,,,,54.8935435,-1.4054232
-1096,11096,Sunderland Eye Infirmary,,Sunderland,,SR1 3,,,,,,,54.8893205,-1.3819392
-1097,11097,Sunderland Royal Hospital,,Sunderland,,SR4 7,,,,,,,54.900602,-1.4095309
+1095,11095,Sunderland Children's Centre,,Sunderland,Tyne And Wear,SR1 3,,,,,,,54.8935435,-1.4054232
+1096,11096,Sunderland Eye Infirmary,,Sunderland,Tyne And Wear,SR1 3,,,,,,,54.8893205,-1.3819392
+1097,11097,Sunderland Royal Hospital,,Sunderland,Tyne And Wear,SR4 7,,,,,,,54.900602,-1.4095309
 1098,11098,Surbiton Hospital,,Surbiton,Surrey,KT6 4,,,,,No,,51.3905312,-0.2989571
 1099,11099,Sussex Orthopaedic Treatment Centre,,Haywards Heath,West Sussex,RH16 4,,,,,,,50.9915691,-0.0934413
 1100,11100,Sutton General Hospital,Cotswold Road nan,Sutton,Surrey,SM1 2,,+44 20 8296 2000,,,No,,51.3477592,-0.1937069
@@ -1240,7 +1240,7 @@
 1238,11238,Villa Street Medical Centre,,London,,SE17 2,,,,,,,51.4864649,-0.0882319
 1239,11239,Vincent Square Clinic,,London,,SW1P 3,,,,,,,51.4913564,-0.1345466
 1240,11240,Waldron Health Centre,Stanley Street nan,London,,SE8 3,,,,,No,,51.477516,-0.0314471
-1241,11241,Walkergate Park Hospital,Benfield Road nan,Newcastle upon Tyne,,NE6 4,,+44 191 287 5000,,,No,,54.9887319,-1.5606424
+1241,11241,Walkergate Park Hospital,Benfield Road nan,Newcastle upon Tyne,Tyne And Wear,NE6 4,,+44 191 287 5000,,,No,,54.9887319,-1.5606424
 1242,11242,Wallingford Community Hospital,,Wallingford,Oxfordshire,OX10 0,,,,,No,,51.5945239,-1.1289929
 1243,11243,Walton Hospital,,Chesterfield,Derbyshire,S41 7,,,,,,,53.2228553,-1.4413473
 1244,11244,Walton Manor,,Liverpool,Merseyside,L5 7,,,,,,,53.4350928,-2.9715541
@@ -1250,7 +1250,7 @@
 1248,11248,Warneford Hospital,,Oxford,Oxfordshire,OX1 3,,,,,No,,51.7504566,-1.224542
 1249,11249,Warrington Hospital,,Warrington,Cheshire,WA5 1,,,,,,,53.3939208,-2.6118747
 1250,11250,Warwick Hospital,,Warwick,Warwickshire,CV34 5,,,,,Yes,,52.2908248,-1.5861706
-1251,11251,Washington Primary Care Centre,Parkway nan,Washington,,NE38 7,,+44 191 502 7569,,,,,54.8979106,-1.5278755
+1251,11251,Washington Primary Care Centre,Parkway nan,Washington,Tyne And Wear,NE38 7,,+44 191 502 7569,,,,,54.8979106,-1.5278755
 1252,11252,Washwood Heath Urgent Care Centre,Clodeshall Road nan,Birmingham,West Midlands,B8 3,,,,,,,52.4877039,-1.8492888
 1253,11253,Waterloo EMI Day Hospital,,Liverpool,Merseyside,L23 5,,,,,,,53.47687,-3.0208023
 1254,11254,Waterloo Manor Independent Hospital,Selby Road nan,Leeds,West Yorkshire,LS1 5,,,,,,,53.7877262,-1.4121356
@@ -1451,7 +1451,7 @@
 1449,11449,Astonia House,,Baldock,Hertfordshire,SG7 6,,,,,No,,51.9850058,-0.1836439
 1450,11450,Athena Medical Centre,,London,,E5 9,,,,,,,51.55521,-0.052726
 1451,11451,Atherley House Surgery,,Southampton,Hampshire,SO15 2,,,,,,,50.9132782,-1.4217487
-1452,11452,Atkinson Road Clinic,St James Crescent nan,Newcastle upon Tyne,,NE1 8,,,,,,,54.9700218,-1.6617189
+1452,11452,Atkinson Road Clinic,St James Crescent nan,Newcastle upon Tyne,Tyne And Wear,NE1 8,,,,,,,54.9700218,-1.6617189
 1453,11453,Attwood Green Health Centre,Bath Row 30,Birmingham,West Midlands,B15 3,,,,,,,52.4727491,-1.9079624
 1454,11454,Auchinairn Medical Practice,,Glasgow,,G64 2,,,,,,,55.8980274,-4.2147388
 1455,11455,Auchtermuchty Health Centre,,Cupar,Fife,KY14 7,,,,,,,56.2896568,-3.2316589
@@ -1499,14 +1499,14 @@
 1497,11497,Bathampton Surgery,Holcombe Lane 29,Bath,,BA2 6,,,,,,,51.3932873,-2.3211274
 1498,11498,Batheaston Medical Centre,,Bath,,BA1 7,,,,,,,51.4060826,-2.3174568
 1499,11499,Battersea Fields Practice,Thessaly House 115,London,,SW8 2,,+442076277100,,,,,51.4767311,-0.138732
-1500,11500,Battle Hill Health Center,Belmont Close nan,Wallsend,,NE28 8,,+44 191 2958520,,,,,55.005719,-1.5173418
+1500,11500,Battle Hill Health Center,Belmont Close nan,Wallsend,Tyne And Wear,NE28 8,,+44 191 2958520,,,,,55.005719,-1.5173418
 1501,11501,Bayfield Surgery,High Street nan,King's Lynn,Norfolk,PE31 8,,,,,,,52.90035,0.6314482
 1502,11502,Beacon Medical,,Cleethorpes,,DN35 8,,,,,,,53.5571139,-0.037261
 1503,11503,Beacon Medical Centre,Sedemuda Road nan,Sidmouth,Devon,EX10 9,,+44 1395 512601,,,,,50.6997667,-3.2469157
 1504,11504,Beacon Surgery,,Crowborough,East Sussex,TN6 2,,,,,,,51.059975,0.1596612
 1505,11505,Beaconsfield Surgery,,Widnes,Cheshire,WA8 7,,,,,,,53.379794,-2.7246591
 1506,11506,Beauchamp House Surgery,Baddow Road 37,Chelmsford,Essex,CM2 6,,,,,,,51.7301697,0.4769645
-1507,11507,Beaumont Park Medical Group,Hepscott Drive nan,Whitley Bay,,NE26 1,,+44 191 251 4548,,,,,55.0476156,-1.474139
+1507,11507,Beaumont Park Medical Group,Hepscott Drive nan,Whitley Bay,Tyne And Wear,NE26 1,,+44 191 251 4548,,,,,55.0476156,-1.474139
 1508,11508,Beccles Medical Centre,St Mary's Road nan,Beccles,Suffolk,NR34 9,,+44 1502 712662,,,,,52.4533843,1.5624999
 1509,11509,Beckington Surgery,St. Luke’s Road nan,Frome,Somerset,BA11 6,,,,,,,51.267012,-2.2815444
 1510,11510,Bedford Hill Family Practice,Bedford Hill 120,London,,SW12 9,,,,,,,51.441005,-0.149246
@@ -1516,7 +1516,7 @@
 1514,11514,Beech House Surgery,Ash Tree Road 1,Knaresborough,North Yorkshire,HG5 0,,,,,,,54.0109392,-1.464955
 1515,11515,Beech House Surgery,Vale Street 69,Denbigh,,LL16 3,,,,,,,53.185566,-3.4152886
 1516,11516,Beeches Road Medical Practice,,Shrewsbury,Shropshire,SY3 0,,,,,,,52.6741444,-2.7722238
-1517,11517,Beechgrove Surgery,,,,,,+44 1983407775,,,,,50.6785653,-1.14417
+1517,11517,Beechgrove Surgery,,,Isle Of Wight,,,+44 1983407775,,,,,50.6785653,-1.14417
 1518,11518,Beechwood Medical Centre,,Leeds,West Yorkshire,LS1 5,,,,,,,53.797027,-1.6213202
 1519,11519,Beechwood Park Surgery,,Newport,,NP19 8,,,,,,,51.5884396,-2.964358
 1520,11520,Beechwood Surgery,Victoria Road East 155,Thornton Cleveleys,Lancashire,FY5 5,,,,,,,53.8716234,-3.0099087
@@ -1542,7 +1542,7 @@
 1540,11540,Beulah Wing,,Thornton Heath,Surrey,CR7 7,,,,,,,51.402423,-0.1012372
 1541,11541,Beverley & Molescroft Surgery,,Beverley,,HU17 8,,,,,,,53.8562513,-0.4330648
 1542,11542,Beversbrook,,Calne,Wiltshire,SN11 0,,,,,,,51.4464118,-2.0138737
-1543,11543,Bewicke Medical Centre,Tynemouth Road nan,Wallsend,,NE28 8,,,,,,,54.9965102,-1.5009108
+1543,11543,Bewicke Medical Centre,Tynemouth Road nan,Wallsend,Tyne And Wear,NE28 8,,,,,,,54.9965102,-1.5009108
 1544,11544,Biggar Health Centre,South Croft Road nan,Biggar,,ML12 6,,,,,,,55.6226614,-3.519829
 1545,11545,Bilbrook Medical Centre,Brookfield Road nan,Wolverhampton,West Midlands,WV8 1,,,,,,,52.6249414,-2.1814794
 1546,11546,Bilston Health Centre,,Bilston,West Midlands,WV14 0,,,,,,,52.5682843,-2.0756986
@@ -1640,7 +1640,7 @@
 1638,11638,Brownhill Surgery,Whalley New Road 790,Blackburn,Lancashire,BB1 5,,,,,,,53.7755986,-2.4787697
 1639,11639,Brownley Green Medical Centre,,Manchester,Lancashire,M23 0,,,,,,,53.3875785,-2.2548657
 1640,11640,Brune Medical Centre,,Gosport,Hampshire,PO12 1,,,,,,,50.8131359,-1.1598025
-1641,11641,Brunton Park Health Centre,Princes Road nan,Newcastle upon Tyne,,NE1 8,,+44 191 236 3338,,,,,55.0271026,-1.6270814
+1641,11641,Brunton Park Health Centre,Princes Road nan,Newcastle upon Tyne,Tyne And Wear,NE1 8,,+44 191 236 3338,,,,,55.0271026,-1.6270814
 1642,11642,Bruntsfield Medical Practice,,Edinburgh,Midlothian,EH10 6,,+44 131 228 6081,,,,,55.93588,-3.2072422
 1643,11643,Brynmeddyg,,Llanybydder,,SA40 9,,,,,,,52.0739944,-4.1519443
 1644,11644,Brynteg Surgery,,Ammanford,,SA18 3,,,,,,,51.7973021,-3.9924558
@@ -1878,7 +1878,7 @@
 1876,11876,Cramlington Medical Group,,Cramlington,Northumberland,NE23 6,,,,,,,55.0845132,-1.5920268
 1877,11877,Cramond Medical Practice,,Edinburgh,Midlothian,EH4 7,,,,,,,55.9756268,-3.2990839
 1878,11878,Cranleigh Gardens Medical Centre,,Bridgwater,Somerset,TA6 7,,,,,,,51.12666,-2.995756
-1879,11879,Crawcrook Medical Centre,Pattinson Drive nan,Ryton,,NE40 4,,+44 191 413 5473,,,,,54.9663277,-1.7873186
+1879,11879,Crawcrook Medical Centre,Pattinson Drive nan,Ryton,Tyne And Wear,NE40 4,,+44 191 413 5473,,,,,54.9663277,-1.7873186
 1880,11880,Crawley Road Medical Centre,,London,,E10 5,,,,,,,51.5657694,-0.0108183
 1881,11881,Crawley Road Medical Centre,,London,,E10 5,,,,,,,51.56595,-0.0107468
 1882,11882,Crayford Town Surgery,,Dartford,Kent,DA1 4,,,,,,,51.4501166,0.180282
@@ -1947,7 +1947,7 @@
 1945,11945,Deepcar Medical Centre,,Sheffield,South Yorkshire,S36 2,,,,,,,53.4804233,-1.5788387
 1946,11946,Deepings Pratice,,Peterborough,Cambridgeshire,PE6 8,,,,,,,52.6840667,-0.3160845
 1947,11947,Deer Park Surgery,,Sheffield,South Yorkshire,S6 6,,,,,,,53.3924268,-1.5312221
-1948,11948,Deerness Park Medical Centre,,Sunderland,,SR2 8,,,,,,,54.900245,-1.3728763
+1948,11948,Deerness Park Medical Centre,,Sunderland,Tyne And Wear,SR2 8,,,,,,,54.900245,-1.3728763
 1949,11949,Dene Drive Primary Care Centre,Dene Drive nan,Winsford,Cheshire,CW7 1,,+44 1606 544644;+44 1606 544000;+44 1606 544130,,,,,53.1904238,-2.5314055
 1950,11950,Denmead Health Centre,,Waterlooville,Hampshire,PO7 6,,,,,,,50.9044184,-1.0675762
 1951,11951,Denny Cross Medical Centre,,Denny,,FK6 5,,,,,,,56.0226807,-3.9088459
@@ -1993,7 +1993,7 @@
 1991,11991,Downham Market Health Centre,,Downham Market,Norfolk,PE38 9,,,,,,,52.6040376,0.3746149
 1992,11992,Downsfield Medical Centre,Sheldon Heath Road 315,Birmingham,West Midlands,B25 8,,,,,,,52.4664109,-1.7790787
 1993,11993,Downton Surgery,,Salisbury,Wiltshire,SP5 3,,,,,,,50.990607,-1.7425708
-1994,11994,Dr A P Dove & Partners,Westbourne Terrace nan,Whitley Bay,,NE25 0,,,,,,,55.0691302,-1.5148235
+1994,11994,Dr A P Dove & Partners,Westbourne Terrace nan,Whitley Bay,Tyne And Wear,NE25 0,,,,,,,55.0691302,-1.5148235
 1995,11995,Dr Ashok Ayurvedic Clinic & Panchakarma centre,Portland Road 9,Birmingham,West Midlands,B15 3,,,,,,,52.4729757,-1.9379208
 1996,11996,Dr Bhandra's Surgery,Romford Road 778,London,,E12 6,,,,,,,51.553438,0.0557633
 1997,11997,"Dr Booth, Martonside Way",,Middlesbrough,,TS1 3,,,,,,,54.5521706,-1.2196531
@@ -2039,7 +2039,7 @@
 2037,12037,Easdale Medical Practice,,Oban,,PA34 4,,+441852300223,,,,,56.3013884,-5.5975783
 2038,12038,East Bank Medical Centre,,Sheffield,South Yorkshire,S1 2,,,,,,,53.3592764,-1.4390253
 2039,12039,East Cliff Practice,Dumpton Park Drive nan,Ramsgate,Kent,CT11 8,,,,,,,51.3398834,1.4279814
-2040,12040,East Cowes Medical Centre,,,,,,,,,,,50.7588676,-1.287227
+2040,12040,East Cowes Medical Centre,,,Isle Of Wight,,,,,,,,50.7588676,-1.287227
 2041,12041,East Harling Surgery,,Norwich,Norfolk,NR16 2,,,,,,,52.4380946,0.9323927
 2042,12042,East Hoathly Medical Centre,,Lewes,East Sussex,BN8 6,,,,,,,50.9235257,0.161943
 2043,12043,East Leake Medical Group,Orchard Close 45,Loughborough,Leicestershire,LE12 5,,,,,,,52.8154242,-1.2433507
@@ -2122,7 +2122,7 @@
 2120,12120,Fordingbridge  Surgery,Bartons Road nan,Fordingbridge,Hampshire,SP6 1,,,,,,,50.9278978,-1.7937488
 2121,12121,Forest End Medical Center,,Bracknell,Berkshire,RG42 1,,,,,,,51.3934955,-0.7422809
 2122,12122,Forest Gate Surgery,,Southampton,Hampshire,SO40 3,,+44 2380663839,,,,,50.9165363,-1.5132713
-2123,12123,Forest Hall Health Centre,,Newcastle upon Tyne,,NE7 7,,,,,,,55.0211729,-1.5675351
+2123,12123,Forest Hall Health Centre,,Newcastle upon Tyne,Tyne And Wear,NE7 7,,,,,,,55.0211729,-1.5675351
 2124,12124,Forest Hill Group Practice,,London,,SE22 0,,,,,,,51.453685,-0.0618284
 2125,12125,Forest Surgery,,Bordon,Hampshire,GU35 0,,,,,,,51.1069031,-0.8616944
 2126,12126,Forest Surgery,Bury Road nan,Brandon,Suffolk,IP27 0,,,,,,,52.4465073,0.6247025
@@ -2152,13 +2152,13 @@
 2150,12150,Gale Farm Surgery,,York,North Yorkshire,YO24 4,,,,,,,53.9534456,-1.1324948
 2151,12151,Galgate Surgery,Highland Brow nan,Lancaster,Lancashire,LA2 0,,,,,,,53.9933588,-2.7918273
 2152,12152,Garden Hill Primary Care Centre,,Castle Douglas,,DG7 1,,,,,,,54.9498805,-3.9235089
-2153,12153,Garden Park Surgery,Denbigh Avenue nan,Wallsend,,NE28 8,,,,,,,55.0024873,-1.4981547
+2153,12153,Garden Park Surgery,Denbigh Avenue nan,Wallsend,Tyne And Wear,NE28 8,,,,,,,55.0024873,-1.4981547
 2154,12154,Garforth Medical Centre,,Leeds,West Yorkshire,LS25 2,,,,,,,53.7924045,-1.3881897
 2155,12155,Garland House Surgery,,Barnsley,South Yorkshire,S73 9,,,,,,,53.5338087,-1.3730299
 2156,12156,Garstang Medical Practice,Kepple Lane nan,Preston,Lancashire,PR3 1,,,,,,,53.8968661,-2.7833185
 2157,12157,Garway Medical Practice,,London,,W2 6,,,,,,,51.5154275,-0.1858034
 2158,12158,Gate Medical Centre,,Birmingham,West Midlands,B8 1,,,,,,,52.4942473,-1.8560381
-2159,12159,Gateshead Health Centre,Prince Consort Road nan,Gateshead,,NE8 1,,+44 191 497 1641,,,,,54.956602,-1.6046168
+2159,12159,Gateshead Health Centre,Prince Consort Road nan,Gateshead,Tyne And Wear,NE8 1,,+44 191 497 1641,,,,,54.956602,-1.6046168
 2160,12160,Gaywood House Surgery,,Bristol,,BS1 6,,,,,,,51.4398941,-2.6060917
 2161,12161,Gergask Surgery,,Newtonmore,,PH20 1,,,,,,,57.0202485,-4.2859258
 2162,12162,Giffords Surgery,,Melksham,Wiltshire,SN12 7,,,,,,,51.3681854,-2.1309645
@@ -2184,7 +2184,7 @@
 2182,12182,Golspie Health Centre,,Golspie,,KW10 6,,,,,,,57.9745943,-3.9757614
 2183,12183,Goole Health Centre,,Goole,,DN14 5,,,,,,,53.708314,-0.8824975
 2184,12184,Gosford Hill Medical Centre,Oxford Road 167,Kidlington,Oxfordshire,OX5 2,,,,,,,51.8154394,-1.280668
-2185,12185,Gosforth Memorial Medical Centre,,Newcastle upon Tyne,,NE3 1,,,,,,,55.0068837,-1.6190268
+2185,12185,Gosforth Memorial Medical Centre,,Newcastle upon Tyne,Tyne And Wear,NE3 1,,,,,,,55.0068837,-1.6190268
 2186,12186,Gourock Health Centre,,Gourock,Renfrewshire,PA19 1,,,,,,,55.9613246,-4.8164931
 2187,12187,Gower Street Practice,Gower Street 20,London,,WC1A 2,,,,,,,51.5203145,-0.1301228
 2188,12188,Graeme Medical Centre,Western Avenue 1,Falkirk,,FK1 5,,+44 1324 624 437,,,,,56.0061185,-3.7856415
@@ -2192,7 +2192,7 @@
 2190,12190,Grande Medical Centre,,Harrogate,North Yorkshire,HG3 4,,,,,,,54.0537135,-1.7013817
 2191,12191,Grange Medical Centre,,Leeds,West Yorkshire,LS14 1,,,,,,,53.8207354,-1.4592234
 2192,12192,Grange Surgery,York Road 41,Southport,Merseyside,PR8 1,,+44 1704 565837,,,,,53.6362371,-3.0138122
-2193,12193,Grangewood Surgery,,Houghton le Spring,,DH4 4,,,,,,,54.8665999,-1.4986156
+2193,12193,Grangewood Surgery,,Houghton le Spring,Tyne And Wear,DH4 4,,,,,,,54.8665999,-1.4986156
 2194,12194,Granton Medical Centre,,Birmingham,West Midlands,B30 1,,,,,,,52.4156815,-1.9387
 2195,12195,Gravel Hill Surgery,Gravel Hill nan,Wolverhampton,West Midlands,WV5 9,,+44 1902 893 375,,,,,52.5336234,-2.1854291
 2196,12196,Great Ayton Health Centre,Rosehill nan,Middlesbrough,,TS9 6,,,,,,,54.4899126,-1.132616
@@ -2223,11 +2223,11 @@
 2221,12221,Grove Health Centre,,Dundee,Angus,DD5 2,,,,,,,56.4683821,-2.8818823
 2222,12222,Grove House Surgery,West Shepton nan,Shepton Mallet,Somerset,BA4 5,,,,,,,51.1874,-2.5577429
 2223,12223,Grove House Surgery,,Bognor Regis,West Sussex,PO21 1,,,,,,,50.7818576,-0.7182814
-2224,12224,Grove House Surgery,,,,,,,,,,,50.5948341,-1.2021683
+2224,12224,Grove House Surgery,,,Isle Of Wight,,,,,,,,50.5948341,-1.2021683
 2225,12225,Grove Medical Centre,Windlass Place nan,London,,SE8 3,,,,,,,51.49027,-0.0355512
 2226,12226,Grove Medical Centre,,Wolverhampton,West Midlands,WV1 1,,,,,,,52.5762399,-2.1152187
 2227,12227,Grove Medical Centre,Grove Road 103-105,London,,E17 3,,,,,,,51.5790733,-0.0114338
-2228,12228,Grove Medical Group,,Newcastle upon Tyne,,NE1 8,,,,,,,55.0021912,-1.6188361
+2228,12228,Grove Medical Group,,Newcastle upon Tyne,Tyne And Wear,NE1 8,,,,,,,55.0021912,-1.6188361
 2229,12229,Grove Road Surgery,Grove Road nan,Solihull,West Midlands,B91 3,,,,,,,52.4197515,-1.7753915
 2230,12230,Grove Surgery,Grove Lane nan,Thetford,Norfolk,IP24 3,,,,,,,52.4148478,0.751419
 2231,12231,Grove Village Medical Centre,,Feltham,,TW13 4,,,,,,,51.4491221,-0.4313777
@@ -2250,7 +2250,7 @@
 2248,12248,Hampton Medical Centre,,Hampton,,TW12 2,,,,,,,51.4185247,-0.3727951
 2249,12249,Hanley Health Centre,Upper Huntbach Street nan,Stoke-on-Trent,Staffordshire,ST1 5,,,,,,,53.0273296,-2.1707949
 2250,12250,Hannage Brook Medical Centre,,Matlock,Derbyshire,DE4 4,,,,,,,53.0778099,-1.5713378
-2251,12251,Happy House Surgery,,Sunderland,,SR1 3,,,,,,,54.8849293,-1.4229826
+2251,12251,Happy House Surgery,,Sunderland,Tyne And Wear,SR1 3,,,,,,,54.8849293,-1.4229826
 2252,12252,Harborne Medical Practice,,Birmingham,West Midlands,B17 9,,,,,,,52.459148,-1.946471
 2253,12253,Harcourt Medical Centre,,Salisbury,Wiltshire,SP2 7,,,,,,,51.0676094,-1.8013253
 2254,12254,Harden Health Centre,,Walsall,West Midlands,WS1 2,,,,,,,52.6086627,-1.9878619
@@ -2353,7 +2353,7 @@
 2351,12351,Holistic Health,,Bristol,,BS10 6,,,,,,,51.5124692,-2.598142
 2352,12352,Holly Hall Clinic,,Dudley,West Midlands,DY2 8,,,,,,,52.5010552,-2.1096309
 2353,12353,Holly Lane Clinic,Holly Lane nan,Smethwick,West Midlands,B66 3,,,,,,,52.5004547,-1.9822716
-2354,12354,Holly Medical Group,Osborne Road 17,Newcastle upon Tyne,,NE2 2,,,,,,,54.9887714,-1.6055579
+2354,12354,Holly Medical Group,Osborne Road 17,Newcastle upon Tyne,Tyne And Wear,NE2 2,,,,,,,54.9887714,-1.6055579
 2355,12355,Hollybrook Medical Centre,,Derby,Derbyshire,DE1 1,,,,,,,52.8918896,-1.531981
 2356,12356,Hollycroft Medical Centre,,Hinckley,Leicestershire,LE10 1,,,,,,,52.5442494,-1.3888903
 2357,12357,Holme Hall Medical Centre,,Chesterfield,Derbyshire,S41 7,,,,,,,53.2452766,-1.4691968
@@ -2431,7 +2431,7 @@
 2429,12429,Kensington Medical Centre,Donegall Road 15A,Belfast,County Antrim,BT2 7,,,,,,,54.589754,-5.9357153
 2430,12430,Kent Elms Health Centre,Rayleigh Road 1,Leigh-on-Sea,Essex,SS9 5,,,,,,,51.5632126,0.6653613
 2431,12431,Kenton Bridge Medical Centre,,Harrow,,HA3 8,,,,,,,51.5820362,-0.3165192
-2432,12432,Kenton Centre,,Newcastle upon Tyne,,NE1 8,,,,,,,55.005667,-1.6539106
+2432,12432,Kenton Centre,,Newcastle upon Tyne,Tyne And Wear,NE1 8,,,,,,,55.005667,-1.6539106
 2433,12433,Kerrsland Surgery,,Belfast,County Antrim,BT2 7,,,,,,,54.5954213,-5.8734176
 2434,12434,Kessington Medical Centre,Milngavie Road 85,Glasgow,,G61 3,,+44 141 212 0700,,,,,55.9166166,-4.3222745
 2435,12435,Kew Medical Practice,High Park Road 14,Richmond,Surrey,TW9 1,,020 8487 8292,,,,,51.4758657,-0.2828995
@@ -2444,7 +2444,7 @@
 2442,12442,Killay Medical Centre,,Swansea,,SA1 2,,,,,,,51.6179108,-4.022773
 2443,12443,Killearn Health Centre,,Glasgow,,G63 9,,,,,,,56.0456712,-4.3725224
 2444,12444,Killick Street Health Centre,Killick Street 75,London,,N1 9,,+44 20 7833 9939,,,,,51.533693,-0.1190083
-2445,12445,Killingworth Health Centre,,Newcastle upon Tyne,,NE12 7,,,,,,,55.0370433,-1.5638109
+2445,12445,Killingworth Health Centre,,Newcastle upon Tyne,Tyne And Wear,NE12 7,,,,,,,55.0370433,-1.5638109
 2446,12446,Killynether Practice,Frederick Street 2a,Newtownards,County Down,BT23 4,,+44 2891 823121,,,,,54.5943662,-5.7024502
 2447,12447,Kimberlow Hill Surgery,Kimberlow Rise nan,York,North Yorkshire,YO23 1,,+44 1904 754900,,,,,53.9508145,-1.0290866
 2448,12448,Kincora Doctors Surgery,,Hayes,,UB3 4,,,,,,,51.5116726,-0.412518
@@ -2627,7 +2627,7 @@
 2625,12625,Markfield Medical Centre,Chitterman Way 24,Markfield,Leicestershire,LE67 9,,,,,,,52.6839726,-1.2734203
 2626,12626,Markinch Medical Practice,High Street 19,Glenrothes,Fife,KY7 6,,+44 1592 610640,,,,,56.2020576,-3.132686
 2627,12627,Marlborough Medical Practice,George Lane nan,Marlborough,Wiltshire,SN8 1,,,,,,,51.4178402,-1.7304653
-2628,12628,Marsden Road Health And Wellbeing Centre,Marsden Road nan,South Shields,,NE33 1,,+44 191 283 2861,,,,,54.9803215,-1.3995664
+2628,12628,Marsden Road Health And Wellbeing Centre,Marsden Road nan,South Shields,Tyne And Wear,NE33 1,,+44 191 283 2861,,,,,54.9803215,-1.3995664
 2629,12629,Martock Surgery,Church Street nan,Martock,Somerset,TA12 6,,,,,,,50.968881,-2.7670889
 2630,12630,Marybrook Medical Centre,,Berkeley,Gloucestershire,GL13 9,,,,,,,51.6922394,-2.4583443
 2631,12631,Masterton Health Centre,Somerville Street nan,Burntisland,Fife,KY3 9,,,,,,,56.0589842,-3.2311536
@@ -2641,7 +2641,7 @@
 2639,12639,Maylandsea Medical Centre,Imperial Avenue nan,Chelmsford,Essex,CM3 6,,+44 1621 742233,,,,,51.6873294,0.7537601
 2640,12640,Maywood Surgery,Hawthorn Road 225,Bognor Regis,West Sussex,PO21 1,,,,,,,50.787361,-0.692176
 2641,12641,McKenzie Group Practice,Kendal Road 17,Hartlepool,,TS24 8,,,,,,,54.6735842,-1.210764
-2642,12642,Meadow Well Health Centre,Waterville Road nan,North Shields,,NE29 6,,,,,,,55.0024705,-1.4690868
+2642,12642,Meadow Well Health Centre,Waterville Road nan,North Shields,Tyne And Wear,NE29 6,,,,,,,55.0024705,-1.4690868
 2643,12643,Meadowfield Surgery,,Durham,,DH7 8,,,,,,,54.7482763,-1.6286401
 2644,12644,Meadows Health Centre,Bridgeway Centre 1,Nottingham,Nottinghamshire,NG1 7,,,,,,,52.9434025,-1.1470882
 2645,12645,Meadowside Family Health Clinic,Winchcombe Road nan,Solihull,West Midlands,B91 3,,,,,,,52.4440237,-1.7860436
@@ -2791,7 +2791,7 @@
 2789,12789,Newtown Surgery,,Great Yarmouth,Norfolk,NR29 4,,,,,,,52.6201421,1.7269243
 2790,12790,Nightingale Medical Centre,,Peterborough,Cambridgeshire,PE3 6,,,,,,,52.598898,-0.2313228
 2791,12791,Ninfield Surgery,High Street nan,Battle,East Sussex,TN33 9,,,,,,,50.8878915,0.4206508
-2792,12792,Niton Surgery,,,,,,,,,,,50.5877293,-1.2864622
+2792,12792,Niton Surgery,,,Isle Of Wight,,,,,,,,50.5877293,-1.2864622
 2793,12793,Noak Bridge Medical Centre,,Basildon,Essex,SS15 5,,,,,,,51.5881781,0.4474558
 2794,12794,Norfolk Park Health Centre,Park Grange Road 227,Sheffield,South Yorkshire,S2 3,,,,,,,53.3636547,-1.4486553
 2795,12795,Norham Surgery,Pedwell Way nan,Berwick-upon-Tweed,Northumberland,TD15 2,,,,,,,55.7192494,-2.162617
@@ -2912,7 +2912,7 @@
 2910,12910,Park Lane Surgery,Park Lane 2,Derby,Derbyshire,DE22 2,,,,,,,52.9556152,-1.4799624
 2911,12911,Park Medical Centre,Park Road 164,Peterborough,Cambridgeshire,PE3 6,,,,,,,52.5809794,-0.2383514
 2912,12912,Park Medical Centre,Coventry Road 691,Birmingham,West Midlands,B10 0,,,,,,,52.4665783,-1.8490798
-2913,12913,Park Medical Group,Kingston Park Avenue nan,Newcastle upon Tyne,,NE3 2,,,,,,,55.0128427,-1.66833
+2913,12913,Park Medical Group,Kingston Park Avenue nan,Newcastle upon Tyne,Tyne And Wear,NE3 2,,,,,,,55.0128427,-1.66833
 2914,12914,Park Practice,Broadwater Way 9,Eastbourne,East Sussex,BN21 4,,,,,,,50.7949891,0.2775114
 2915,12915,Park Private Clinic,Regent Street 16,Nottingham,Nottinghamshire,NG1 7,,,,,,,52.9529904,-1.1565753
 2916,12916,Park Road Surgery,Park Road nan,Dunfermline,Fife,KY11 2,,+44 1383 418931,,,,,56.0402212,-3.4178166
@@ -2988,8 +2988,8 @@
 2986,12986,Polmedics,High Street 72,Bristol,,BS16 5,,,,,,,51.4811092,-2.5097626
 2987,12987,Pontardawe Primary Care Centre,Tawe Terrace nan,Swansea,,SA8 4,,+44 1792 863103,,,,,51.7196731,-3.8470853
 2988,12988,Pontefract Health Centre,,Pontefract,West Yorkshire,WF8 1,,,,,,,53.6932187,-1.3083382
-2989,12989,Ponteland Primary Care Centre,,Newcastle upon Tyne,,NE20 9,,,,,,,55.0513409,-1.7493656
-2990,12990,Ponteland Road Health Centre,,Newcastle upon Tyne,,NE5 3,,,,,,,54.9924337,-1.6577696
+2989,12989,Ponteland Primary Care Centre,,Newcastle upon Tyne,Tyne And Wear,NE20 9,,,,,,,55.0513409,-1.7493656
+2990,12990,Ponteland Road Health Centre,,Newcastle upon Tyne,Tyne And Wear,NE5 3,,,,,,,54.9924337,-1.6577696
 2991,12991,Pontesbury Primary Care Centre,,Shrewsbury,Shropshire,SY5 0,,,,,,,52.6501895,-2.8868963
 2992,12992,Pool Health Centre,,Redruth,Cornwall,TR15 3,,,,,,,50.2263625,-5.2682676
 2993,12993,Pool Road Medical Practice,,Studley,Warwickshire,B80 7,,,,,,,52.271419,-1.8962488
@@ -3008,7 +3008,7 @@
 3006,13006,Portlethen Medical Centre,,Aberdeen,Aberdeenshire,AB12 4,,,,,,,57.0613776,-2.127046
 3007,13007,Portree Medical Centre,,,,,,,,,,,57.4109043,-6.1930335
 3008,13008,Portswood Solent Surgery,Belmont Road 7,Southampton,Hampshire,SO15 2,,,,,,,50.9224055,-1.3900063
-3009,13009,Portugal Place Health Centre,Portugal Place nan,Wallsend,,NE28 8,,+44 191 2625252,,,,,54.9897867,-1.5384447
+3009,13009,Portugal Place Health Centre,Portugal Place nan,Wallsend,Tyne And Wear,NE28 8,,+44 191 2625252,,,,,54.9897867,-1.5384447
 3010,13010,Posterngate Surgery,Portholme Road nan,Selby,North Yorkshire,YO8 4,,,,,,,53.7811942,-1.0708529
 3011,13011,Potteries medical centre,,Stoke-on-Trent,Staffordshire,ST1 5,,,,,,,53.0197369,-2.1389857
 3012,13012,Pound Hill Surgery,Crawley Lane 1,Crawley,West Sussex,RH10 7,,,,,,,51.1186922,-0.1562983
@@ -3021,7 +3021,7 @@
 3019,13019,Priory Surgery,,Bristol,,BS4 2,,,,,,,51.4342892,-2.5662089
 3020,13020,Priory View Medical Centre,,Leeds,West Yorkshire,LS12 1,,,,,,,53.7911428,-1.575624
 3021,13021,Probus Surgical Centre,Tregony Road nan,Truro,Cornwall,TR2 4,,+44 1726 885104,,,,,50.2901502,-4.9488453
-3022,13022,Prospect Medical Group,Westgate Road 501,Newcastle upon Tyne,,NE1 8,,+44 191 226 0226,,,,,54.9741657,-1.6457394
+3022,13022,Prospect Medical Group,Westgate Road 501,Newcastle upon Tyne,Tyne And Wear,NE1 8,,+44 191 226 0226,,,,,54.9741657,-1.6457394
 3023,13023,Prospect Medical Practise,,Norwich,Norfolk,NR1 3,,,,,,,52.6442602,1.2854342
 3024,13024,Prospect View,,Great Malvern,Worcestershire,WR14 4,,,,,,,52.1137164,-2.3090779
 3025,13025,Pulborough Medical Group,,Pulborough,West Sussex,RH20 1,,,,,,,50.960931,-0.5086983
@@ -3057,7 +3057,7 @@
 3055,13055,Rawdon Surgery,New Road Side 11,Leeds,West Yorkshire,LS19 6,,+44 113 2954234,,,,,53.8545154,-1.6869811
 3056,13056,Raymond Road Surgery,Raymond Road 32-34,Southampton,Hampshire,SO15 2,,,,,,,50.9191682,-1.4192449
 3057,13057,Rectory Meadow Surgery,,Amersham,Buckinghamshire,HP6 6,,,,,,,51.669047,-0.6178007
-3058,13058,Redburn Park Medical Centre,Station Road 15,North Shields,,NE29 6,,+44 191 296 1456,,,,,55.0007545,-1.4749504
+3058,13058,Redburn Park Medical Centre,Station Road 15,North Shields,Tyne And Wear,NE29 6,,+44 191 296 1456,,,,,55.0007545,-1.4749504
 3059,13059,Redgate Medical Centre,Westonzoyland Road nan,Bridgwater,Somerset,TA6 7,,,,,,,51.1263561,-2.9877734
 3060,13060,Redwood House Surgery,,Maidenhead,Berkshire,SL6 4,,,,,,,51.5105113,-0.7618893
 3061,13061,Reepham Surgery,,Norwich,Norfolk,NR10 4,,,,,,,52.7632127,1.1065415
@@ -3176,7 +3176,7 @@
 3174,13174,Seaforth Farm Surgery,Vicarage Lane nan,Hailsham,East Sussex,BN27 1,,,,,,,50.8642307,0.2616616
 3175,13175,Seascale Health Centre,Gosforth Road nan,Seascale,Cumbria,CA20 1,,+44 1946 7 28101,,,,,54.3967808,-3.4800606
 3176,13176,Seaton Hirst Primary Care Centre,,Ashington,Northumberland,NE63 9,,,,,,,55.1712984,-1.5610664
-3177,13177,Seaton Sluice Surgery,,Whitley Bay,,NE26 4,,,,,,,55.083576,-1.4736563
+3177,13177,Seaton Sluice Surgery,,Whitley Bay,Tyne And Wear,NE26 4,,,,,,,55.083576,-1.4736563
 3178,13178,Seaton Surgery,Station Lane nan,Hartlepool,,TS25 1,,,,,,,54.6614531,-1.1890967
 3179,13179,Seaton and Colyton Medical Practice,,Seaton,Devon,EX12 2,,,,,,,50.7131958,-3.0739095
 3180,13180,Selborne Road Medical Centre,,Sheffield,South Yorkshire,S1 2,,,,,,,53.3787927,-1.5179908
@@ -3187,7 +3187,7 @@
 3185,13185,Severn Way Surgery,,Bristol,,BS31 1,,,,,,,51.4099453,-2.4909474
 3186,13186,Seymour Medical Centre,,London,,E10 5,,,,,,,51.5685676,-0.0296438
 3187,13187,Shafton Lane Surgery,Shafton Lane 20a,Leeds,West Yorkshire,LS11 5,,,,,,,53.7856651,-1.5619152
-3188,13188,Shanklin Medical Centre,Carter Road nan,,,,,,,,,,50.6322785,-1.1791464
+3188,13188,Shanklin Medical Centre,Carter Road nan,,Isle Of Wight,,,,,,,,50.6322785,-1.1791464
 3189,13189,Shanti Medical Centre,St Helens Road 160,Bolton,Lancashire,BL1 1,,+44 1204 665354,,,,,53.5633481,-2.4515884
 3190,13190,Sharnbrook Surgery,,Bedford,Bedfordshire,MK44 1,,,,,,,52.2245245,-0.5344109
 3191,13191,Sheddens Medical Practice,,Glasgow,,G76 7,,,,,,,55.7855075,-4.2747754
@@ -3237,7 +3237,7 @@
 3235,13235,South Bar Doctor Surgery,South Bar Street nan,Banbury,Oxfordshire,OX16 0,,,,,,,52.0572982,-1.3414733
 3236,13236,South Cave Surgery,Ferry Road 67,Brough,,HU15 2,,+44 1430 422 206,,,,,53.7656485,-0.6257268
 3237,13237,South Grange Medical Practice (Eston),Trunk Road nan,Middlesbrough,,TS1 3,,,,,,,54.5701863,-1.1659816
-3238,13238,South Hylton Surgery,,Sunderland,,SR4 0,,,,,,,54.9044085,-1.4498396
+3238,13238,South Hylton Surgery,,Sunderland,Tyne And Wear,SR4 0,,,,,,,54.9044085,-1.4498396
 3239,13239,South Oxford Health Centre,,Oxford,Oxfordshire,OX1 3,,+44 1865 244428,,,,,51.7390216,-1.2569779
 3240,13240,South Queensferry Medical Practice,The Loan 41,South Queensferry,West Lothian,EH30 9,,,,,,,55.9897942,-3.3994867
 3241,13241,South West Independent Medical Services,Blackhorse Lane nan,Exeter,Devon,EX5 2,,+44 1564 778865,,,,,50.732395,-3.4423172
@@ -3260,7 +3260,7 @@
 3258,13258,Sparcells surgery,,Swindon,Wiltshire,SN5 5,,,,,,,51.5776229,-1.8347455
 3259,13259,Sparkbrook Community & Health Centre,Grantham Road 34,Birmingham,West Midlands,B11 1,,,,,,,52.4634271,-1.8706203
 3260,13260,Spring Park Medical Practice,Broom Road 23,Croydon,Surrey,CR0 1,,,,,,,51.3692389,-0.0297598
-3261,13261,Spring Terrace Health Centre,SpringfieldNE29 0HQ nan,North Shields,,NE30 1,,+44 191 296 1588,,,,,55.0106722,-1.4516253
+3261,13261,Spring Terrace Health Centre,SpringfieldNE29 0HQ nan,North Shields,Tyne And Wear,NE30 1,,+44 191 296 1588,,,,,55.0106722,-1.4516253
 3262,13262,Springbank Surgery Tockwith Branch,Marston Road 21,York,North Yorkshire,YO26 7,,+44 1423 330030,,,,,53.9653051,-1.2854799
 3263,13263,Springcliffe Surgery,St Catherine's 42,Lincoln,Lincolnshire,LN5 8,,,,,,,53.2107161,-0.5480226
 3264,13264,Springfield Medical Centre,,Arbroath,Angus,DD11 3,,,,,,,56.5615225,-2.5782707
@@ -3401,7 +3401,7 @@
 3399,13399,Swanscombe Health Centre,,Swanscombe,Kent,DA10 0,,,,,,,51.4421602,0.3119113
 3400,13400,Swanswell Medical Centre,,Birmingham,West Midlands,B27 6,,,,,,,52.4325824,-1.8168238
 3401,13401,Swanton Morley Surgery,Dereham Road nan,Dereham,Norfolk,NR20 4,,+44 1362 638100,,,,,52.7021351,0.9815437
-3402,13402,Swarland Avenue Surgery,,Newcastle upon Tyne,,NE1 8,,,,,,,55.0066513,-1.5783627
+3402,13402,Swarland Avenue Surgery,,Newcastle upon Tyne,Tyne And Wear,NE1 8,,,,,,,55.0066513,-1.5783627
 3403,13403,Swavesey Surgery,Boxworth End 58,Cambridge,Cambridgeshire,CB24 4,,,,,,,52.289024,-0.0036024
 3404,13404,Swillington Health Practice,,Leeds,West Yorkshire,LS26 8,,,,,,,53.768091,-1.425255
 3405,13405,Swingbridge Surgery,,Grantham,Lincolnshire,NG31 6,,,,,,,52.9022128,-0.665862
@@ -3450,7 +3450,7 @@
 3448,13448,The Colwick Vale Surgery,Vale Road nan,Nottingham,Nottinghamshire,NG4 2,,,,,,,52.9557156,-1.0915951
 3449,13449,The Corner Surgery,Coldharbour Lane 99,London,,SE5 7,,+44 20 7274 4507,,,,,51.4696669,-0.0960326
 3450,13450,The Cottons Medical Centre,Meadow Lane nan,Wellingborough,Northamptonshire,NN9 6,,,,,,,52.345752,-0.5483605
-3451,13451,The Croft,Springwell Road nan,Gateshead,,NE9 7,,+44 191 487 6129,,,,,54.9253506,-1.5720395
+3451,13451,The Croft,Springwell Road nan,Gateshead,Tyne And Wear,NE9 7,,+44 191 487 6129,,,,,54.9253506,-1.5720395
 3452,13452,The Croft Medical Centre,Glen Road 2,Leicester,Leicestershire,LE2 4,,,,,,,52.5943127,-1.0706042
 3453,13453,The Croft Surgery,,Carlisle,Cumbria,CA7 5,,,,,,,54.8972062,-3.2029226
 3454,13454,The Crown Surgery,High Street 23,Stafford,Staffordshire,ST21 6,,+44 1785 850226,,,,,52.8595972,-2.2530791
@@ -3586,7 +3586,7 @@
 3584,13584,The Surgery,High Street 204,Cambridge,Cambridgeshire,CB1 9,,,,,,,52.1892462,0.1764192
 3585,13585,The Surgery (Dr Hany Azmy),Brinnington Road 32,Stockport,Cheshire,SK4 1,,,,,,,53.4180281,-2.1435881
 3586,13586,The Surgery Bassett Road,Bassett Road 29,Leighton Buzzard,Bedfordshire,LU7 1,,,,,,,51.9203979,-0.6640904
-3587,13587,The Surgery Elsdon Avenue,,Whitley Bay,,NE25 0,,,,,,,55.0705939,-1.5249146
+3587,13587,The Surgery Elsdon Avenue,,Whitley Bay,Tyne And Wear,NE25 0,,,,,,,55.0705939,-1.5249146
 3588,13588,The Surgery Mr S K Ray,Wawne Road nan,Hull,,HU7 4,,,,,,,53.7831877,-0.3108413
 3589,13589,The Surgery on Rise Park,Revelstoke Way nan,Nottingham,Nottinghamshire,NG1 7,,,,,,,53.0109249,-1.1751951
 3590,13590,The Swineshead Medical Group,,Boston,Lincolnshire,PE20 3,,,,,,,52.9403279,-0.1590548
@@ -3596,7 +3596,7 @@
 3594,13594,The Vale Centre for Health and Care,,Alexandria,Dunbartonshire,G83 0,,,,,No,,55.9919248,-4.5861323
 3595,13595,The Valley Medical Practice,,Fivemiletown,County Tyrone,BT75 0,,,,,,,54.3752738,-7.314604
 3596,13596,The Valley Surgery,Bramcote Lane 81,Nottingham,Nottinghamshire,NG9 1,,,,,,,52.9212839,-1.2375225
-3597,13597,The Village Green Surgery,The Green nan,Wallsend,,NE28 8,,,,,,,54.9965056,-1.5294555
+3597,13597,The Village Green Surgery,The Green nan,Wallsend,Tyne And Wear,NE28 8,,,,,,,54.9965056,-1.5294555
 3598,13598,The Village Surgery,Cheswick Way nan,Solihull,West Midlands,B90 3,,,,,,,52.3782413,-1.8157285
 3599,13599,The Village Surgery,,Stockport,Cheshire,SK7 1,,,,,,,53.3593121,-2.1652431
 3600,13600,The Village Surgery,,Weston-super-Mare,,BS23 1,,,,,,,51.3606127,-2.9307097
@@ -3712,7 +3712,7 @@
 3710,13710,Victoria House Surgery,Buckingham Rd 119,Bicester,Oxfordshire,OX26 6,,,,,,,51.9080218,-1.1506382
 3711,13711,Victoria Park Health Centre,Victoria Park Road 203,Leicester,Leicestershire,LE1 7,,,,,,,52.6192664,-1.1216041
 3712,13712,Victoria Park Medical Centre,Victoria Park Drive nan,Bridgwater,Somerset,TA6 7,,,,,,,51.1306537,-3.0122654
-3713,13713,Victoria Road Health Centre,Victoria Road nan,Washington,,NE38 7,,+44 191 415 5656,,,,,54.9132099,-1.5243998
+3713,13713,Victoria Road Health Centre,Victoria Road nan,Washington,Tyne And Wear,NE38 7,,+44 191 415 5656,,,,,54.9132099,-1.5243998
 3714,13714,Victoria Road Surgery,Victoria Road 82,Lowestoft,Suffolk,NR33 0,,+44 1502 572369,,,,,52.471232,1.7141795
 3715,13715,Victoria Surgery,Victoria Street nan,Bury St Edmunds,Suffolk,IP33 1,,,,,,,52.2458824,0.7041801
 3716,13716,Victoria Way Surgery,Victoria Way 2,York,North Yorkshire,YO32 9,,+44 1904 411139,,,,,53.9786822,-1.0626859
@@ -3747,7 +3747,7 @@
 3745,13745,Watling Street Medical Centre,Watling Street nan,Northwich,Cheshire,CW9 5,,+44 1606 42452,,,,,53.2604413,-2.5133573
 3746,13746,Watton Medical Practice,Gregor Shanks Way 24,Thetford,Norfolk,IP25 6,,,,,,,52.5709601,0.8261098
 3747,13747,Waverley Medical Centre,Dalrymple Street nan,Stranraer,,DG9 8,,,,,,,54.8998097,-5.0215033
-3748,13748,Wawn Street Surgury,Wawn Street nan,South Shields,,NE33 1,,+44 191 454 2211,,,,,54.9873485,-1.4269065
+3748,13748,Wawn Street Surgury,Wawn Street nan,South Shields,Tyne And Wear,NE33 1,,+44 191 454 2211,,,,,54.9873485,-1.4269065
 3749,13749,Weatheroak Medical Practice,Warwick Road 35,Birmingham,West Midlands,B11 4,,,,,,,52.456961,-1.8671163
 3750,13750,Weaverham surgery,,Northwich,Cheshire,CW8 3,,,,,,,53.2628379,-2.5780436
 3751,13751,Wedmore Surgery,St Medard Road nan,Wedmore,Somerset,BS28 4,,,,,,,51.227286,-2.8148329
@@ -3776,7 +3776,7 @@
 3774,13774,West End Surgery,Chilwell Road 19,Nottingham,Nottinghamshire,NG9 1,,,,,,,52.9243621,-1.2177492
 3775,13775,West End Surgery,,Southampton,Hampshire,SO30 3,,,,,,,50.9280465,-1.3278491
 3776,13776,West End Surgery,,Northolt,,UB5 5,,,,,,,51.5348794,-0.3979197
-3777,13777,West Farm Surgery,,Newcastle upon Tyne,,NE7 7,,,,,,,55.0124124,-1.5833522
+3777,13777,West Farm Surgery,,Newcastle upon Tyne,Tyne And Wear,NE7 7,,,,,,,55.0124124,-1.5833522
 3778,13778,West Hallam Medical Centre,The Dales nan,Ilkeston,Derbyshire,DE7 6,,,,,,,52.9674138,-1.3589996
 3779,13779,West Heath Surgery,West Heath Road nan,Birmingham,West Midlands,B31 2,,,,,No,,52.40119,-1.9620992
 3780,13780,West Kilbride Medical Practice,Main Street 107b,West Kilbride,,KA23 9,,,,,No,,55.6950026,-4.8573479
@@ -3812,7 +3812,7 @@
 3810,13810,Wheatley Hill GP Surgery,,Durham,,DH6 3,,,,,,,54.7459584,-1.4181061
 3811,13811,Whinfield Medical Practice,Whinbush Way nan,Darlington,,DL1 1,,+44 1325 481321,,,,,54.5464787,-1.5247096
 3812,13812,Whinpark Medical Centre,,Edinburgh,Midlothian,EH11 3,,,,,,,55.9277581,-3.270928
-3813,13813,Whitburn Surgery,,Sunderland,,SR6 7,,,,,,,54.952832,-1.3648479
+3813,13813,Whitburn Surgery,,Sunderland,Tyne And Wear,SR6 7,,,,,,,54.952832,-1.3648479
 3814,13814,White Horse Surgery and Walk in Centre,,Gravesend,Kent,DA11 7,,,,,,,51.4359743,0.3416894
 3815,13815,White Rose Surgery,Exchange Street nan,Pontefract,West Yorkshire,WF9 3,,,,,,,53.5960021,-1.2944663
 3816,13816,Whiteacres Medical centre,,Great Malvern,Worcestershire,WR14 4,,,,,,,52.1251216,-2.3004641
@@ -3823,7 +3823,7 @@
 3821,13821,Whitemoor Medical Centre,Whitemoor Lane nan,Belper,Derbyshire,DE56 1,,,,,,,53.031426,-1.4549289
 3822,13822,Whiteparish Surgery,,Salisbury,Wiltshire,SP5 2,,+44 1794 884269,,,,,51.0104023,-1.6507577
 3823,13823,Whitevale Medical Group,,Glasgow,,G40 2,,,,,,,55.8571952,-4.2166403
-3824,13824,Whitley Bay Health Centre,Whitley Road nan,Whitley Bay,,NE26 1,,+44 191 253 1113,,,,,55.0415744,-1.4399118
+3824,13824,Whitley Bay Health Centre,Whitley Road nan,Whitley Bay,Tyne And Wear,NE26 1,,+44 191 253 1113,,,,,55.0415744,-1.4399118
 3825,13825,Whitley Health & Social Services Centre,Northumberland Avenue 268,Reading,Berkshire,RG1 4,,,,,,,51.4314479,-0.9627069
 3826,13826,Whittington Medical Centre,,Chesterfield,Derbyshire,S41 9,,,,,,,53.270386,-1.4249322
 3827,13827,Wickersley Health Centre,,Rotherham,South Yorkshire,S66 1,,,,,,,53.4222103,-1.2803586
@@ -3866,7 +3866,7 @@
 3864,13864,Woodhill Surgery,Station Road nan,Mayfield,East Sussex,TN20 6,,+44 1435 873000,,,,,51.0187788,0.2523024
 3865,13865,Woodlands Doctors Surgery,Newtown Road 301,Bedworth,Warwickshire,CV12 8,,,,,,,52.4795864,-1.4900196
 3866,13866,Woodlands Medical Centre,,Cardiff,,CF5 4,,,,,,,51.4708806,-3.2610443
-3867,13867,Woodlands Park Health Centre,,Newcastle upon Tyne,,NE13 6,,,,,,,55.0454217,-1.6292147
+3867,13867,Woodlands Park Health Centre,,Newcastle upon Tyne,Tyne And Wear,NE13 6,,,,,,,55.0454217,-1.6292147
 3868,13868,Woodlands Surgery,,Banbury,Oxfordshire,OX16 0,,,,,,,52.0675439,-1.3207018
 3869,13869,Woodlands Surgery,Halfway Street 146,Sidcup,Kent,DA14 6,,,,,,,51.4397677,0.0887849
 3870,13870,Woodseats Medical Centre,,Sheffield,South Yorkshire,S8 8,,,,,,,53.3398412,-1.4790387

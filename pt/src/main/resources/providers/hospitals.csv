@@ -26,13 +26,13 @@
 24,10024,Centro Médico dos Moutidos,,Maia,Porto,4425-139,,,,,,,41.2115299,-8.5724526
 25,10025,Centro Saúde Ribeirão,,Vila Nova de Famalicão,Braga,4760-715,,,,,,,41.3580956,-8.5603793
 26,10026,Centro Saúde da Maia,,Maia,Porto,4470-151,,,,,,,41.2333858,-8.6261504
-27,10027,Centro Saúde de Santa Marta de Portuzelo,,Viana do Castelo,,4925-104,,,,,,,41.7088676,-8.772509
+27,10027,Centro Saúde de Santa Marta de Portuzelo,,Viana do Castelo,Viana Do Castelo,4925-104,,,,,,,41.7088676,-8.772509
 28,10028,Centro Saúde de Viseu III,,Viseu,Viseu,3510-105,,,,,,,40.6446396,-7.9137767
 29,10029,Centro de Atendimento Permanente Cinfães (Hospital),,Cinfães,Viseu,4690-040,,,,,Yes,,41.074446,-8.0910552
 30,10030,Centro de Medicina de Reabilitação de Alcoitão,,Cascais,Lisboa,2645-066,,,,,No,,38.7342798,-9.4030812
 31,10031,Centro de Reabilitação do Norte,Avenida Infante de Sagres 349,Vila Nova de Gaia,Porto,4405,,,,,No,,41.0902993,-8.6562546
 32,10032,Centro de Saude,,Lousada,Porto,4620-009,,,,,,,41.2804533,-8.2780487
-33,10033,Centro de Saude,,Ponte de Lima,,4990-445,,,,,,,41.6567843,-8.585216
+33,10033,Centro de Saude,,Ponte de Lima,Viana Do Castelo,4990-445,,,,,,,41.6567843,-8.585216
 34,10034,Centro de Saude Camacha,,,,,,,,,,,32.6794793,-16.844064
 35,10035,Centro de Saude de Arronches,,Arronches,Portalegre,7340-004,,,,,,,39.1233553,-7.2809712
 36,10036,Centro de Saude do Cartaxo,,Cartaxo,Santarém,2070-116,,,,,No,,39.1655198,-8.7844574
@@ -46,7 +46,7 @@
 44,10044,Centro de Saúde,,Seixal,Setúbal,2840-400,,,,,,,38.6184104,-9.0976313
 45,10045,Centro de Saúde,,Olhão,Faro,8700-221,,,,,No,,37.0360147,-7.8404725
 46,10046,Centro de Saúde,,Miranda do Douro,Bragança,5210-188,,,,,No,,41.4956414,-6.2772463
-47,10047,Centro de Saúde,,Viana do Castelo,,4905-311,,,,,No,,41.6484789,-8.7014073
+47,10047,Centro de Saúde,,Viana do Castelo,Viana Do Castelo,4905-311,,,,,No,,41.6484789,-8.7014073
 48,10048,Centro de Saúde,,Paços de Ferreira,Porto,4590-579,,,,,,,41.2770598,-8.3773116
 49,10049,Centro de Saúde,Rua do Doutor José de Sousa nan,Peso da Régua,Vila Real,5050-226,,,,,,,41.1665075,-7.7886325
 50,10050,Centro de Saúde,,Torres Vedras,Lisboa,2560-127,,,,,No,,39.0899996,-9.3193359
@@ -68,7 +68,7 @@
 66,10066,Centro de Saúde - Alferrarede,,Abrantes,Santarém,2200-299,,,,,,,39.4742868,-8.1913379
 67,10067,Centro de Saúde - Extensão de Jugueiros,,Felgueiras,Porto,4610-362,,,,,No,,41.3962709,-8.2012969
 68,10068,Centro de Saúde - Extensão de Lavos,,Figueira da Foz,Coimbra,3090-461,,233946381,,,,,40.0914966,-8.8298147
-69,10069,Centro de Saúde Darque,,Viana do Castelo,,4935-114,,,,,No,,41.6784894,-8.7997295
+69,10069,Centro de Saúde Darque,,Viana do Castelo,Viana Do Castelo,4935-114,,,,,No,,41.6784894,-8.7997295
 70,10070,Centro de Saúde Doutor Corte Real,Avenida da Liberdade 121,Aguiar da Beira,Guarda,3570-017,,,,,,,40.8094917,-7.5472763
 71,10071,Centro de Saúde Quarteira,,Loulé,Faro,8125-181,,,,,,,37.0711229,-8.0928145
 72,10072,Centro de Saúde São Pedro da Cova,R. da Associação Desportiva de São Pedro da Cova nan,Gondomar,Porto,4510-260,,,,,,,41.1602572,-8.5080127
@@ -157,7 +157,7 @@
 155,10155,Clinica Eco-Radiologica do Cartaxo,Rua do Progresso 3A,Cartaxo,Santarém,2070-116,,,,,No,,39.1654366,-8.7820057
 156,10156,Clinica Santo Antonio,,Paços de Ferreira,Porto,4590-579,,,,,,,41.309613,-8.3682347
 157,10157,Clinica de Modivas,,Vila do Conde,Porto,4485-585,,,,,No,,41.2947879,-8.6907743
-158,10158,Clipóvoa,Avenida Manuel José Lebrão nan,Vila Nova de Cerveira,,4920,,+351 251 706 101,,,No,,41.9412801,-8.7387999
+158,10158,Clipóvoa,Avenida Manuel José Lebrão nan,Vila Nova de Cerveira,Viana Do Castelo,4920,,+351 251 706 101,,,No,,41.9412801,-8.7387999
 159,10159,"Clitrofa – Centro Médico, Dentário e Cirúrgico",Avenida de Paradela 626,Trofa,Porto,4785-273,,,,,,,41.3331964,-8.549805
 160,10160,Clínica Europa,,Cascais,Lisboa,2775-595,,,,,No,,38.6823964,-9.3414447
 161,10161,Clínica Médico-Dentária Calouste Gulbenkian,,Cascais,Lisboa,2765-588,,,,,,,38.704583,-9.3946998
@@ -173,7 +173,7 @@
 171,10171,Cruz Vermelha Portuguesa,Avenida 31 de Janeiro 317,Braga,Braga,4700-442,,+351 253 208870,,,Yes,,41.5484885,-8.4152241
 172,10172,Cruz Vermelha Portuguesa,,Castro Verde,Beja,7780-163,,,,,,,37.6932297,-8.0835566
 173,10173,Cruz Vermelha Portuguesa - Delegação Marinhas,Avenida São Sebastião 80,Esposende,Braga,4740-522,,+351 253 964 720,,,Yes,,41.5569857,-8.7830557
-174,10174,Cruz Vermelha Portuguesa - Delegação de Neiva,,Viana do Castelo,,4935-535,,,,,,,41.6285962,-8.7736628
+174,10174,Cruz Vermelha Portuguesa - Delegação de Neiva,,Viana do Castelo,Viana Do Castelo,4935-535,,,,,,,41.6285962,-8.7736628
 175,10175,Cruz Vermelha Portuguesa - Delegação do Gerês,,Terras de Bouro,Braga,4845-065,,,,,Yes,,41.7215613,-8.1662765
 176,10176,Cuidados Continuados,,Vizela,Braga,4815-552,,,,,,,41.3761686,-8.315006
 177,10177,Cuidados continuados,,Vale de Cambra,Aveiro,3730-240,,,,,,,40.8480171,-8.3921183
@@ -185,7 +185,7 @@
 183,10183,Extensão UCSP Cabreiros/Sequeira - Pólo Cabreiros (CS Braga II - Maximinos),,Braga,Braga,4705,,,,,,,41.5317809,-8.4910028
 184,10184,Extensão de Saude,,Albergaria-a-Velha,Aveiro,3850-361,,,,,,,40.6240506,-8.5009839
 185,10185,Extensão de Saúde Benquerença (C. S. Penamacor),,Penamacor,Castelo Branco,6090,,,,,,,40.2248165,-7.2331485
-186,10186,Extensão de Saúde Lanheses,,Viana do Castelo,,4925-410,,,,,,,41.7381463,-8.6803714
+186,10186,Extensão de Saúde Lanheses,,Viana do Castelo,Viana Do Castelo,4925-410,,,,,,,41.7381463,-8.6803714
 187,10187,Extensão de Saúde Santa Catarina da Serra (CS Leiria - Doutor Gorjão Henriques),Rua do Jardim nan,Leiria,Leiria,2495-186,,+351 244741151,,,No,,39.6748294,-8.6857316
 188,10188,Extensão de Saúde da Branca,,Albergaria-a-Velha,Aveiro,3850-577,,,,,,,40.7469726,-8.4862348
 189,10189,Extensão de Saúde da Pampilhosa,,Mealhada,Aveiro,3050-439,,,,,,,40.3390914,-8.4306851
@@ -196,8 +196,8 @@
 194,10194,Extensão de Saúde de Canelas,,Estarreja,Aveiro,3865-011,,,,,,,40.7175887,-8.5530082
 195,10195,Extensão de Saúde de Caramulo,Largo do Caramulo nan,Tondela,Viseu,3475-031,,,,,,,40.5727468,-8.1730804
 196,10196,Extensão de Saúde de Carapelhos,,Mira,Coimbra,3070-617,,,,,,,40.4357392,-8.6898732
-197,10197,Extensão de Saúde de Castelo do Neiva,,Viana do Castelo,,4935-574,,,,,,,41.621743,-8.7979938
-198,10198,Extensão de Saúde de Chafé,,Viana do Castelo,,4935-586,,,,,,,41.650099,-8.7803141
+197,10197,Extensão de Saúde de Castelo do Neiva,,Viana do Castelo,Viana Do Castelo,4935-574,,,,,,,41.621743,-8.7979938
+198,10198,Extensão de Saúde de Chafé,,Viana do Castelo,Viana Do Castelo,4935-586,,,,,,,41.650099,-8.7803141
 199,10199,Extensão de Saúde de Corticeiro de Cima,,Cantanhede,Coimbra,3060-752,,,,,,,40.4279253,-8.6790516
 200,10200,Extensão de Saúde de Fermelã,,Estarreja,Aveiro,3865-127,,,,,,,40.701138,-8.5536972
 201,10201,Extensão de Saúde de Luso,,,Aveiro,,,,,,,,40.3863131,-8.3788274
@@ -259,7 +259,7 @@
 257,10257,Hospital Ortopédico Doutor José de Almeida,,Cascais,Lisboa,2750-411,,,,,,,38.6814458,-9.3444059
 258,10258,Hospital Padre Américo,Lugar do Tapadinho Guilhufe nan,Penafiel,Porto,4560-481,,+351 255 714000,,,Yes,,41.1953206,-8.3109755
 259,10259,Hospital Particular de Almada,Rua Manuel Febrero 85,Almada,Setúbal,2805-014,,,,,Yes,,38.6737158,-9.1541646
-260,10260,Hospital Particular de Viana do Castelo,,Viana do Castelo,,4900-533,,,,,,,41.7057489,-8.8180442
+260,10260,Hospital Particular de Viana do Castelo,,Viana do Castelo,Viana Do Castelo,4900-533,,,,,,,41.7057489,-8.8180442
 261,10261,Hospital Particular do Algarve - Alvor,,Portimão,Faro,8500,,,,,,,37.1301722,-8.5822085
 262,10262,Hospital Particular do Algarve - Gambelas,,Faro,Faro,8005-226,,,,,Yes,,37.045202,-7.968818
 263,10263,Hospital Pediátrico de Coimbra,Avenida Afonso Romão nan,Coimbra,Coimbra,3000-250,,+351 239 800 100;+351 239 488 700,,,Yes,,40.2248542,-8.4118366
@@ -298,7 +298,7 @@
 296,10296,Hospital da Luz Aveiro,Rua do Brasil 21,Aveiro,Aveiro,3810-085,,+351 234400700,,,Yes,,40.6374547,-8.6368298
 297,10297,Hospital da Luz Lisboa,Avenida Lusíada 100,Lisboa,Lisboa,1500-650,,,,,,,38.7559505,-9.1945108
 298,10298,Hospital da Luz Póvoa de Varzim,,Póvoa de Varzim,Porto,4490-011,,,,,,,41.3948157,-8.764613
-299,10299,Hospital da Misericórdia,,Ponte da Barca,,4980-622,,,,,,,41.8075083,-8.4156518
+299,10299,Hospital da Misericórdia,,Ponte da Barca,Viana Do Castelo,4980-622,,,,,,,41.8075083,-8.4156518
 300,10300,Hospital da Misericórdia,,Castelo de Paiva,Aveiro,4550-110,,,,,No,,41.0399299,-8.2681084
 301,10301,Hospital da Ordem Terceira,Rua Serpa Pinto 7,Lisboa,Lisboa,1050-115,,,,,,,38.7084211,-9.1419535
 302,10302,Hospital da Ordem da Lapa,Largo da Lapa 1,Porto,Porto,4050-590,,+351 225 502 828,,,Yes,,41.1573528,-8.6127755
@@ -325,7 +325,7 @@
 323,10323,Hospital de Sant'Ana,Rua de Benguela 231,Cascais,Lisboa,2775-234,,,,,,,38.6859536,-9.3493652
 324,10324,Hospital de Santa Casa da Misericórdia de Arruda dos Vinhos,,Arruda dos Vinhos,Lisboa,2630-288,,,,,,,38.9825681,-9.0784676
 325,10325,Hospital de Santa Cruz,Avenida Errázuriz 921,Oeiras,Lisboa,2790-465,,,,,,,38.725911,-9.2343845
-326,10326,Hospital de Santa Luzia,,Viana do Castelo,,4900,,,,,Yes,,41.6963247,-8.8317159
+326,10326,Hospital de Santa Luzia,,Viana do Castelo,Viana Do Castelo,4900,,,,,Yes,,41.6963247,-8.8317159
 327,10327,Hospital de Santa Maria,,Porto,Porto,4000-199,,,,,,,41.1603439,-8.609825
 328,10328,Hospital de Santa Maria Maior,,Barcelos,Braga,4750-275,,,,,Yes,,41.5330744,-8.6164029
 329,10329,Hospital de Santo André,,Leiria,Leiria,2410-196,,,,,Yes,,39.7431706,-8.7928025
@@ -375,7 +375,7 @@
 373,10373,SAMS,Rua Fialho de Almeida nan,Lisboa,Lisboa,1050-115,,,,,No,,38.7344588,-9.1577538
 374,10374,Santa Casa da Misericordia,,Silves,Faro,8300-152,,,,,,,37.1903769,-8.4396818
 375,10375,Santa Casa da Misericórdia,,Vila Verde,Braga,4730-577,,,,,,,41.6526004,-8.4351106
-376,10376,Santa Casa da Misericórdia de Arcos de Valdevez,,Arcos de Valdevez,,4970-593,,,,,,,41.8516089,-8.4256859
+376,10376,Santa Casa da Misericórdia de Arcos de Valdevez,,Arcos de Valdevez,Viana Do Castelo,4970-593,,,,,,,41.8516089,-8.4256859
 377,10377,Santa Casa da Misericórdia de Covilhã - Centro de Diagnóstico,,Covilhã,Castelo Branco,6200-151,,,,,,,40.2810103,-7.5068035
 378,10378,Santa Casa da Misericórdia de Santo Tirso,,Santo Tirso,Porto,4780-365,,,,,No,,41.3427448,-8.481547
 379,10379,Serviço de Urgência Básica (SUB),,Sintra,Lisboa,2725-179,,21434 5535,,,,,38.7903245,-9.3520283
@@ -398,7 +398,7 @@
 396,10396,Unidade de Saúde Familiar da Junqueira,,Vila do Conde,Porto,4480-269,,,,,No,,41.3798273,-8.6849876
 397,10397,Unidade de Saúde da Ilha do Faial,Rua da Vista Alegre nan,Horta,,9900-038,,,,,No,,38.5415778,-28.627633
 398,10398,Unidade de Saúde do Carandá,,Braga,Braga,4700-442,,,,,,,41.5467352,-8.4146584
-399,10399,Águas de Melgaço,,Melgaço,,4960-330,,,,,,,42.1059377,-8.282017
+399,10399,Águas de Melgaço,,Melgaço,Viana Do Castelo,4960-330,,,,,,,42.1059377,-8.282017
 400,10400,Centro de Imagiologia Médica de Fafe,,Fafe,Braga,4820-382,,,,,,,41.4496631,-8.1711318
 401,10401,Centro de Reabilitação Profissional de Gaia,,Vila Nova de Gaia,Porto,4410-411,,,,,,,41.06161,-8.6329593
 402,10402,Centro de Saude Figueiró (Santiago),,Amarante,Porto,4600-088,,,,,,,41.3030667,-8.1618748
@@ -418,4 +418,4 @@
 416,10416,Posto Médco Foz do Sousa,,Gondomar,Porto,4515-200,,,,,,,41.094437,-8.5017174
 417,10417,Tratamentos Termais,,Carrazeda de Ansiães,Bragança,5140-223,,,,,,,41.2915681,-7.3738909
 418,10418,Unidade de Saùde Familiar das Taipas/ Ara de Trajano,,Guimarães,Braga,4805-080,,,,,,,41.4839803,-8.3519991
-419,10419,Unidade de Saúde Familiar do Vale do Âncora,,Caminha,,4910,,,,,,,41.812059,-8.8565543
+419,10419,Unidade de Saúde Familiar do Vale do Âncora,,Caminha,Viana Do Castelo,4910,,,,,,,41.812059,-8.8565543
